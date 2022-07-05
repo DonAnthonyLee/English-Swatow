@@ -14,11 +14,6 @@ inform_invalid_patterns() {
 }
 
 convert_pattern() {
-	if [ "x$1" = "x+" -o "x$1" = "x++" ]; then
-		printf $1
-		return 0
-	fi
-
 	SYLLABLES="$1"
 
 	syllable_len=`echo "$1" | awk -F "" '{print NF}'`
@@ -112,6 +107,7 @@ echo "$1" | grep "\?" > /dev/null 2>&1
 DEFAULT_FILES_PATTERN="*.md"
 [ "x$2" = "x" ] || DEFAULT_FILES_PATTERN="$2"
 
+# TODO: -,*,? &etc.
 PATTERN_ARRAY=`echo "$1" | tr " " "\n" | tr "-" "\n"`
 PATTERNS_CONVERTED=""
 len=0
