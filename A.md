@@ -231,7 +231,7 @@
 * ancestors, soiⁿ-tsóu; tsóu-kong; tsóu-tsong; kong-má. ancestral hall, sṳ̂-tn̂g; tsong-sṳ̂. tablet, sîn-tsú; sîn-tsú-pâi; ke-sîn; ba̍k-tsú.
 * anchor, tèng. one, che̍k-mn̂g-tèng. to cast, pha-tèng. to weigh, khí-tèng; khieh-tèng; chhia-tèng; chhiû-tèng. anchorage, hiah-tsûn kài-ūi-tshṳ̀; pou-thâu (i.e. a port).
 * ancient, kóu. times, kóu-sî; kóu-tsá. men, kóu-nâng. doctrines, kóu-kà.
-* and, pẽng; íⁿ-ki̍p; kiam; kah; kũa; kāng; iũ. tell him to come and I will pay him, hàm-i-lâi, uá chiũ àiⁿ-hôiⁿ--i. you must speak the truth and then people will believe you, lṳ́ tie̍h tàⁿ-si̍t-ūe nâng chiàⁿ-ũ-si̍n--lṳ̍.
+* and, pẽng; íⁿ-ki̍p; kiam; kah; kũa; kāng; iũ. tell him to come and I will pay him, hàm-i-lâi, uá chiũ àiⁿ-hôiⁿ--i. you must speak the truth and then people will believe you, lṳ́ tie̍h tàⁿ-si̍t-ūe nâng chiàⁿ-ũ-sìn--lṳ́.
 * anecdote, kóu-sṳ̄; kóu-gṳ́. to relate anecdotes, káng-kóu; phue̍h-kóu; thâm-kóu; o̍h-kóu; phue̍h-tshù-bī; phue̍h-chhiè-thâm.
 * angel, thien-sài; sîn-sài.
 * anger, khì; náuⁿ. angry, seⁿ-khn̂; siũ-khì; huat-náuⁿ; náuⁿ-khì.
