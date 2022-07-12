@@ -319,7 +319,7 @@
 * sky, thiⁿ; tshang-thiⁿ; chheⁿ-thiⁿ; thien-khong; thiⁿ-tang; pùaⁿ-thiⁿ. clear, thiⁿ chêⁿ. sky-light, thiⁿ-theng.
 * slab, chie̍h-póiⁿ; chie̍h-pi.
 * slack, sang; lēng. slacken, pàng-sang; pàng-lēng. slackwater, pêⁿ-lâu; lâu tńg.
-* slake, lime, huat-hue; huaat-hue-pôu. thirst, kói-khuah; chí-âu.
+* slake, lime, huat-hue; huat-hue-pôu. thirst, kói-khuah; chí-âu.
 * slam, a door, khãm-tie̍h-mn̂g; mn̂g piãng--chē-kiè.
 * slander, húiⁿ-pãng; pù-lũ; iâu-pãng (widely); tsàm-tsǹg.
 * slang, koi-chhĩ-ūe; chhĩ-chéⁿ-ūe.
@@ -331,7 +331,7 @@
 * slave, nôuⁿ; nôuⁿ-po̍k; po̍k-jîn; nôuⁿ-tshâi; ke-po̍k. female, tsáu-kúi; nńg-pĩ; nôuⁿ-pĩ. slaves, male and female, po̍k-pĩ.
 * sledge, for mud, thôu-thiàu. to ride on, thek-thiàu. for ice, thua-kiē. -hammer, tōa-thih-thûi.
 * sleek, kng-kng; kuang-che̍k; môⁿ-tsháu kuang-che̍k; môⁿ-tsháu kuang-iām; kng-ku̍t; ku̍t-che̍k.
-* sleep, gu̍t; u̍t. with one, tsò-pû-gūt. sleepless, bõi-gu̍t; chhéⁿ-pî (from drinking tea). sleepy, phî-phî; ma̍k siap; ma̍k-chiu siap; àiⁿ-gu̍t. foot sleeping, kha pì-pì; kha ngûi-ngûi.
+* sleep, gu̍t; u̍t. with one, tsò-pû-gu̍t. sleepless, bõi-gu̍t; chhéⁿ-pî (from drinking tea). sleepy, phî-phî; ma̍k siap; ma̍k-chiu siap; àiⁿ-gu̍t. foot sleeping, kha pì-pì; kha ngûi-ngûi.
 * sleet, lo̍h-sng-soh; lo̍h-pha̍k.
 * sleeve, of coat, saⁿ-ńg; siù-kháu; ńg-kháu.
 * sleight, of hand, tsò-pa-hì.
