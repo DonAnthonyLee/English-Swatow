@@ -730,10 +730,10 @@
 * current, price, sî-kè; hâng-chhêng. in the water, lâu; hiông-lâu; tsúi mé; kip-tsúi; lâu kip.
 * curry, a horse, siu-bé; pìn-bé. curry-comb, thih-siu. to curry leather, se̍k-phûe.
 * curse, chiù-tsūa; chiù-mēⁿ.
-* cursorily, chhìn-tshái; tshó-lia̍k; khùe-pháng bô-hó-si; khùe-cheh bô-hó-tsòi.
+* cursorily, chhìn-tshái; tshó-lia̍k; khùe-pháng bô-hó-se; khùe-cheh bô-hó-tsòi.
 * curtail, tso̍ih; tok-tñg; séⁿ; káng-séⁿ.
 * curtain, liâm. mosquito, máng-tièⁿ.
-* curve, uan-khek. to curve, uan-kùe-lâi; tshúa-kùe-khṳ̍; uan-lâi khek-khṳ̍.
+* curve, uan-khek. to curve, uan-kùe-lâi; tshúa-kùe-khṳ̀; uan-lâi khek-khṳ̀.
 * cushion, íⁿ-tiẽn; zo̍k. pillow, chím-thâu.
 * cuspidor, thâm-a̍p; thâm-tãng.
 * custard apple, lîm-khîm.
@@ -742,10 +742,11 @@
 * custom house, hiàng-kuan. maritime, hái-kuan; kuan-kháu; sùe-kuan. to pass, kùe-hiàng.
 * customer, bói-kheh. to be a, kau-kuan; bói-bōi.
 * cut, kuah; tso̍ih; tok; phoh; tsám; phoi. off, as branch, tsám-tiāu; siah-tiāu. to pieces, tok tshùi-tshùi. in two, kuah-tñg; tok-tñg; tok-tsò-kue̍h; tso̍ih-tñg; phoh-tñg (on a slant); lòi-tsò-pôiⁿ (split). out clothes, ka-saⁿ. away, kuah--khṳ̀; kuah-tiāu; tsám-tiāu. the hair, chién-môⁿ; ka-môⁿ. a pencil, phoi-pit. down, as a tree, tsám-tiāu; khám-tiāu. thing across in a slanting direction, phoi gû-tâng-tshùi; phoh-sia. cut the throat, kṳ̀-âu. cut grain, kuah-tiũ. grass, kuah-tsháu. cut a friend, nâng-chhêng kuah-tñg; tso̍h-kau; kuah-chhie̍h; tso̍ih-tñg kau-chhêng. cut away a mast, tsám-ûi. cut a road, khui-lōu. through a hill, tsha̍k-suaⁿ-lōu. cut wages, khà-tṳ̂ kang-chîⁿ; tṳ̂-kiám nâng-kâi-chîⁿ. cut-purse, chién-niúⁿ, kuah nâng hō-pau. cut-throat, hiong-chhiú.
-* cutaneous, to; kiàm.
+* cutaneous, disease, phûe-hu kâi-pēⁿ. cuticle, phûe-hu.
+* cutlass, to; kiàm.
 * cutler, phah-to sai-pẽ. cutlery, lāi-khì.
 * cuttle-fish, ba̍k-táu-hṳ̂; ba̍k-táu.
 * cuttings, ka-tshûn kâi pòu-tshùi; ka-sīn kâi-pòu-tshùi. of sugar-cane, chià-tsai. of sweet potatoes, tsṳ̂-tsai.
-* cycly, of ̄0 years, la̍k-tsa̍p kah-tsṳ́.
+* cycly, of ̄60 years, la̍k-tsa̍p kah-tsṳ́.
 * cymbals, khãm; chhẽ; khõm-chhẽ.
 * cypress, chek-peh-chhiū.
