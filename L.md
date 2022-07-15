@@ -33,7 +33,7 @@
 * lascivious, tham-sek; phiâu; tham-îm.
 * lash, piⁿ. to, tsang-piⁿ phah; piⁿ-phah.
 * lassitude, khùn-tõaⁿ; kũan-tõaⁿ; phî-kũan; bô-cheng-sîn.
-* last, suah-búe; kiâu-búe; mua̍t. night, tsa-mêⁿ; tsa-mêⁿ-àm. month, chiēⁿ-kâi-gue̍h. year, kū-nîⁿ; khṳ̀-nîⁿ; úang-nîⁿ. month, chiēⁿ-kâi-gue̍h. at last, kiáu-búe; búe-búe. from first to last, tsṳ̃-sí kàu-tsong; tshông-thâu kàu-búe. first and last the same, sí-tsong zû-it. the last day, mua̍t-ji̍t. breathe one's last, khùi tñg.
+* last, suah-búe; kiáu-búe; mua̍t. night, tsa-mêⁿ; tsa-mêⁿ-àm. month, chiēⁿ-kâi-gue̍h. year, kū-nîⁿ; khṳ̀-nîⁿ; úang-nîⁿ. month, chiēⁿ-kâi-gue̍h. at last, kiáu-búe; búe-búe. from first to last, tsṳ̃-sí kàu-tsong; tshông-thâu kàu-búe. first and last the same, sí-tsong zû-it. the last day, mua̍t-ji̍t. breathe one's last, khùi tñg.
 * last, to, nãiⁿ; nãiⁿ-kú; tōiⁿ. lasting well, õi-nãiⁿ.
 * last, shoe, ôi-hùn.
 * lastings, ú-lêng; ú-môⁿ; ú-tn̄g; ú-se.
@@ -48,7 +48,7 @@
 * laugh, chhiè. aloud, hā-hā-chhiè; chhiè kàu hā-hā-kiè. with mouth wide open, chhiè kàu tshùi li̍h-li̍h. till one can laugh no more, tâng-õi-chhiè, chhiè kàu-bõi-chhiè. pot laughing at kettle, ba̍t-sat chhiè chie̍h-pūi (lit., bed-bug laughing at tree-bug). laughable, hó-chhiè; khó-chhiè.
 * launch, tsûn pàng-lo̍h-tsúi. steam-, húe-tsûn-kiáⁿ.
 * lavender, water, hue-lōu-tsúi.
-* lavish, lâng-hùi; hṳ̂-hùi; phah-phún-sái; chhia-chhíⁿ; chhia-hûa.
+* lavish, lãng-hùi; hṳ̂-hùi; phah-phún-sái; chhia-chhíⁿ; chhia-hûa.
 * law, huap; lu̍t-huap; lu̍t-lī; huap-tōu. keep, siú-huap. break, huãm-huap. lawful, ha̍h-huap. lawless, bô-huap; nge̍k-huap.
 * lawsuit, kuaⁿ-si. to have a, phah-kuaⁿ-si; sie-kò.
 * lawyer, sṳ-iâ (confidential adviser of mandarin); sõng-sṳ (one who writes legal documents).
