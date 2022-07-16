@@ -151,12 +151,12 @@
 * tile, hiã; tshù-hiã. semi-cylindrical, hiã-tâng; hiã-thâng. with hole for skylight, thiⁿ-thàng-hiã. a tile-work, hiã-iê. to put on a roof, khàm-hiã. glazed, chheⁿ-hiã. for eaves, with points turned down, hiã-tâng-thâu.
 * till, to, the ground, tsoh-tshân-hn̂g; chèng-tsoh; keⁿ-tsoh; keⁿ-tshân; ku̍t-tshân.
 * till (until), kàu; chì; thãi; ki̍p. don't you go away till he comes, i-būe-lâi lṳ́ chhiáⁿ-būe-khṳ̀; lṳ́ tie̍h-tán i-lâi chiàⁿ-hó-khṳ̀. the tide will flow till the third watch, lâu ji̍p kàu-saⁿ-keⁿ chiàⁿ-khó.
-* tiller, of boat, tõa-gê; tõa-pêⁿ.
+* tiller, of boat, tõa-gê; tõa-pèⁿ.
 * timber, sam-sāi; sam-liāu; tshâ-sāi; ba̍k-liāu. merchant, khui-sam-phòu; khui-sam-chhiáng; khui-sam-hâng; tshâ-sāi-phòu.
 * time, sî; sî-hāu. at that, tng-sî; hṳ́-sî; hṳ́--kâi sî-hāu; tng-khî-sî. what is the? ũ-sĩ-mih sî-sîn? kúi-tiám-cheng? at what? tî-sî? sĩ-mih sî-hāu? have no, m̄-ôiⁿ; bô-ôiⁿ. to fix a, tiāⁿ-khî; tiāⁿ-tie̍h ji̍t-chí; ieh-tiāⁿ ji̍t-khî. at any, put-lũn tî-sî; m̄-lũn sĩ-mih sî-hāu. when the time comes, thãi sî-hāu kàu. in time, bõi-mān; hù--tie̍h. not in time, hù-m̄-tie̍h. time flies, sî-ji̍t zû-so, kuang-im sṳ̃-chìⁿ. in the time of Confucius, tng Khóng-tsṳ́ kâi-sî-hāu; Khóng-tsṳ́ tiâng-sî. another, ẽ-ji̍t; ẽ-sî. a long, kú. a short, chiãm-sî. any time wil do, bô-lũn tiâng-sî tou-hó; put-khu tî-kâi sî-hāu tou-hó; sûi-piẽn tî-kâi sî-hāu tou-hó. three times, saⁿ-pái; saⁿ-tshṳ̀; saⁿ-hãng; saⁿ-hûe; saⁿ-tsúi. many times, ē-ē; sî-sî; lú-lú; lú-tshṳ̀. ten times better, iâⁿ-kùe tsa̍p-pũe. timely, ha̍h-sî; tùi-sî; tng-sî; tú-tiám. time-serving, sûi-sî-pièn.
 * timid, bô-táⁿ; ùi-thâu ùi-búe; tham-seⁿ phàⁿ-sí; kiaⁿ-seⁿ kiaⁿ-sí.
 * tin, pe̍h-thih; siah (pewter). -foil, siah-po̍h. tin-smith, pe̍h-thih sai-pẽ; phah-siah sai-pẽ.
-* tinder, húe-hiàⁿ; lo; húe-bûe; tsúa-bûa; tsúa-ín. box, húe-to-a̍p; húe-hiàⁿ-a̍p.
+* tinder, húe-hiàⁿ; lo; húe-bûe; tsúa-bûe; tsúa-ín. box, húe-to-a̍p; húe-hiàⁿ-a̍p.
 * tinge, jiám-sek; níⁿ; làm; î-sek.
 * tinkling, tin-tiang-kiè.
 * tinsel, flowers, kim-hue.
