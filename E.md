@@ -59,7 +59,7 @@
 * elucidate, kói-mêng; káng-kiù; sueh-mêng; kói-thiah.
 * elude, pī; tô-pī; siám-pī; tô-siám; tô-pī tsáu-siám; tô-tsáu; pī-bûa; tiàm-bûa; pĩ-khui.
 * elysium, sien-kéng.
-* emaciated, sáu; sán-sòu; sán-kut lo̍h-ne̍k; têng-phûe nêⁿ-têng-kut (skin & bone).
+* emaciated, sán; sán-sòu; sán-kut lo̍h-ne̍k; têng-phûe nêⁿ-têng-kut (skin & bone).
 * emanate, from, lâu-tshut; huat-tshut; liû-thûan; tshông-tõ hṳ́-kò khí.
 * embalm, ēng-hieⁿ-liāu lâi liãm-si; tieⁿ-liãm.
 * embankment, toi; hô-toi; toi-hūaⁿ.
