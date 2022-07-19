@@ -229,7 +229,7 @@
 * excavate, liú-khang; khui-khang; ku̍t-khang.
 * exceed, kùe. bounds, kùe-hūn; kùe-liãng; kùe-tōu. exceedingly, siãng; tsa̍p-hun; tsãi (after the qualified word). excessively, khah-kùe-tōa; khah-kùe-thâu; khah-kùe-sĩm; khah-thài-kùe.
 * excel, iâⁿ; iâⁿ--kùe; kiêⁿ--kùe; hó--kùe. excellent, siãng-hó; múiⁿ. Your Excellency, tãi-jîn; tōa-lãu-iâ; thài-iâ.
-* except, tṳ̂; tṳ̂-gūn. none except this man came, chheng tshṳ́-nâng lâi, ãu bô-nâng-lâi. all are come except so & so, lóng-tsóng kàu--liáu toaⁿ móng-nâng būe-kàu.
+* except, tṳ̂; tṳ̂-gūa. none except this man came, chheng tshṳ́-nâng lâi, ãu bô-nâng-lâi. all are come except so & so, lóng-tsóng kàu--liáu toaⁿ móng-nâng būe-kàu.
 * exchange, uāⁿ; tùi-uāⁿ; sie-uāⁿ; kau-uāⁿ; thiâu-uāⁿ. places, sie-uāⁿ-ūi. money, táu-chîⁿ.
 * excise, hiàng-sùe; hiàng-ngṳ̂n.
 * excite, people, tõng-nâng-sim; kám-tõng. excite and draw upon oneself, as trouble, jiá; ín-jiá. instigate, kòiⁿ-so; kà-so; kà-lā. an enemy to battle, jiá-chièn. cause excitement, seⁿ-sṳ̄. public excitement, nâng-sim iâu-tõng.
@@ -238,16 +238,16 @@
 * excoriate, lṳ̀-phùa-phûe; lṳ̀ kàu-phiù-phûe; phiù-phûe.
 * excrement, pùn; sái.
 * exculpate, kàu-sù; ín-chèng piáu-mêng.
-* excuse, sṳ̀. please excuse me, chhiáⁿ-sù--chē; sià-tsũe; sù-tsũe; chhiáⁿ-sî. faults, thóiⁿ-phùa; sià-tsũe; khuan-iông.
+* excuse, sù. please excuse me, chhiáⁿ-sù--chē; sià-tsũe; sù-tsũe; chhiáⁿ-sî. faults, thóiⁿ-phùa; sià-tsũe; khuan-iông.
 * execrable, khó-ù; khó-hṳ̃n.
-* execute, tsò; tsò-chiâⁿ; khîⁿ--tshut-lâi. put to death, thâi. execution, sí-hêng. execution ground, kah-tiêⁿ. executioner, khùai-tsṳ́-chhiú (or, siú); suah-siú; tng-âng-kî.
+* execute, tsò; tsò-chiâⁿ; khiâⁿ--tshut-lâi. put to death, thâi. execution, sí-hêng. execution ground, kah-tiêⁿ. executioner, khùai-tsṳ́-chhiú (or, siú); suah-siú; tng-âng-kî.
 * executor, siũ-hù-thoh kâi-nâng; thoh-kou kâi-nâng (guardian).
 * exemplary, kṳ́-tõng tuan-chiàⁿ; hó-iēⁿ; hó-pun-nâng tsò-iēⁿ.
-* exempt, bô-tō-lāi; tõ-gūa. from taxation, mién-na̍p-hiàng.
+* exempt, bô-tõ-lāi; tõ-gūa. from taxation, mién-na̍p-hiàng.
 * exercise, take, khṳ̀-thit-thô; kiâⁿ-tsáu ua̍h-tõng; kiâⁿ-sóng-khùai; khṳ̀-siau-iâu. literary, tsò-bûn; tsò-bûn-chieⁿ; bûn-gōi. soldiers, tshau-piaⁿ; tshau-liēn. learn military, o̍h-bú. exercise in, liēn; ha̍k-si̍p; o̍h.
 * exert, oneself, tshut-la̍t; khat-khóu; tie̍h-la̍t; tie̍h-khṳ̂n; ēng-sim. one's voice, khui-tōa-siaⁿ. one's influence, sái-sì.
 * exhale, huat-khì; tshut-khì. exhalation, khì. from water, tsúi-khì. damp, sip-khì.
-* exhaust, chĩn; khiông; liáu; hùi; ēng-chĩn; ēng-liáu; phùa-chĩn. strength, la̍t hùi-chĩn. money, chîⁿ-sái-uân. food, bí-niêⁿ chia̍h-liáu. exhausted (wearied), he̍k; phì-kũan; khùn; khùn-siên.
+* exhaust, chĩn; khiông; liáu; hùi; ēng-chĩn; ēng-liáu; phùa-chĩn. strength, la̍t hùi-chĩn. money, chîⁿ-sái-uân. food, bí-niêⁿ chia̍h-liáu. exhausted (wearied), he̍k; phî-kũan; khùn; khùn-siên.
 * exhibit, hién-mêng; huat-hīn. goods, pái-lie̍t; pái-siet; phou-pâi. in competition, sài.
 * exhilarated, khin-sang; thiàng-khùai.
 * exhort, khǹg-kòi. to peace, khǹg-hûa. tracts exhorting to virtue, khǹg-sì-bûn.
