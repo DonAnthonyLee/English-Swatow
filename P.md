@@ -171,7 +171,7 @@
 * philanthropy, jîn-tek; kiâⁿ-jîn-tek.
 * philology, káng-kiù bûn-jī.
 * philosophy, tãu. philosopher, khiông-lí kek-mue̍h-sṳ̃.
-* phlegm, thâm; thâm-nũaⁿ. cough up, khak-tĥm. spit out, phùi-thâm. remove, khṳ̀-thâm; siau-thâm; sùaⁿ-thâm; tṳ̂-thâm; tũi-thâm. phlegmatic, sèⁿ mān.
+* phlegm, thâm; thâm-nũaⁿ. cough up, khak-thâm. spit out, phùi-thâm. remove, khṳ̀-thâm; siau-thâm; sùaⁿ-thâm; tṳ̂-thâm; tũi-thâm. phlegmatic, sèⁿ mān.
 * phoenix, hõng-chiáu; hõng-huâng.
 * photograph, to take a, hoh-sièⁿ.
 * phrase, che̍k-kù-ūe; ūe-kù. common, pīn-chiâⁿ-gṳ́; kháu-thâu-gṳ́; pīn-thàu-gṳ́. book, tsṳ-kù.
@@ -185,7 +185,7 @@
 * pickpocket, chién-niúⁿ.
 * picture, a, che̍k-pak-ūe; hêng-tôu; ang-kiáⁿ; che̍k-pak suaⁿ-tsúi. one's picture, hí-sîn; siáu-ngiá; siáu-iáⁿ. to take one's picture, ūe-hí-sîn. frame, kiàⁿ-khuang.
 * piebald, poiⁿ-sek; poiⁿ-tshái; hue-long.
-* piece, kò; phièn; phi̍t (cloth); phien (composition). piece-goods, pòu-phit. piecemeal, tshùi-tshùi.
+* piece, kò; phièn; phit (cloth); phien (composition). piece-goods, pòu-phit. piecemeal, tshùi-tshùi.
 * pier-glass, chiè-sin-kiàⁿ; tshûan-sin pó-kiàⁿ.
 * pierce, tshǹg; tsǹg (with boring instrument).
 * piety, kèng-ùi sîn-mêng (idolatrous); sêng-kèng. filial, hàu; kiâⁿ-hàu; hàu-sũn pẽ-bó; hàu-kèng pẽ-bó.
@@ -205,7 +205,7 @@
 * pimp, u-kui tōa-pih.
 * pimple, ne̍k-thiâu.
 * pin, tsam-tsǹg. ivory hair pin, gê-tsam. bone, kut-tsam.
-* pincers, thih-khîⁿ; thik-kîⁿ; niap-kiáⁿ; nihⁿ-kiáⁿ; kiap-kiáⁿ; koih-kiáⁿ. crab's, hõi-tōa-kha.
+* pincers, thih-khîⁿ; thih-kîⁿ; niap-kiáⁿ; nihⁿ-kiáⁿ; kiap-kiáⁿ; koih-kiáⁿ. crab's, hõi-tōa-kha.
 * pinch, nihⁿ; nueh; liàm; tsũn (twist). of snuff, che̍k-nueh phīⁿ-hun.
 * pine, tree, sêng-peh-chhiū; sam. -apple, huan-lâi. pineapple cloth, po-lô-mûaⁿ; po-lô-se.
 * pinnacle, of tower, thah-chiam; thah-búe. of house, tshù-kak-chiam.
@@ -225,7 +225,7 @@
 * placard, thiap; kò-sī; pe̍h-thâu-thiap (anonymous and abusive); bô-thâu-thiap (id.). offering reward, siéⁿ-thiap.
 * place, tshù; tī-hng; ūi-thsṳ̀; só-tsãi; tī-ūi; kò. give, jiãng-ūi; tho-ūi; tho-jiãng. in the first, khî-it; tõiⁿ-it-kiãⁿ; tõiⁿ-it-hãng. go from place to place, khuan-lâi khuan-khṳ̀; múaⁿ-kò-kiâⁿ.
 * placenta, ui; tho-ui.
-* placid, aim phêng, khì hûa; tshông-iông.
+* placid, sim phêng, khì hûa; tshông-iông.
 * plagiarism, thau-siá pa̍t-nâng-bûn.
 * plague, un-mu̍t; sî-lẽng.
 * plain, level, phêng; pêⁿ; phêng-ngûan; pêⁿ-tī. clear, mêng; mêng-pe̍h. simple, láu-si̍t; phok-si̍t; chieh-phok; phok-sù. speaking, ti̍t-tàⁿ bô-pau-tshâng.
@@ -240,7 +240,7 @@
 * plantain, keng-chie. see BUNCH.
 * plaster, hue; hue-nîⁿ. to plaster a wall, kuah-hue; phiak-hue; liâm-hue. medical, ko-ie̍h.
 * plate, pûaⁿ; ûi-ti̍h; ti̍h; ti̍h-kiáⁿ. to plate, with gold, liū-kim; tsṳ́-kim; tah-kim; pau-kim.
-* platform, tĥi; thâi-koh; sài-pêⁿ; pêⁿ; phû-tûaⁿ.
+* platform, thâi; thâi-koh; sài-pêⁿ; pêⁿ; phû-tûaⁿ.
 * play, sńg; sie-sńg. the flute, tshue-te̍k. the organ, tôaⁿ-khîm; thân-khîm. the fiddle, kṳ̀-hîⁿ. chess, teh-kî. cards, phah-tsúa-pâi. ball, that-kiû; phah-kiû. play day, thit-thô-ji̍t. plaything, thit-thô-mue̍h.
 * play, a, hì. act a, tsò-hì. actor, hì-kieh; hì-kiáⁿ. an act of a, che̍k-tshut-hì. look at, thóiⁿ-hì. engage, chhiáⁿ-hì. stage for, hì-thâi (permanent); hì-pêⁿ (temporary).
 * plead, khiû; khṳ́n-khiû; koh-lô; sueh-chhêng.
