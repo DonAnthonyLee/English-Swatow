@@ -747,6 +747,6 @@
 * cutler, phah-to sai-pẽ. cutlery, lāi-khì.
 * cuttle-fish, ba̍k-táu-hṳ̂; ba̍k-táu.
 * cuttings, ka-tshûn kâi pòu-tshùi; ka-sīn kâi-pòu-tshùi. of sugar-cane, chià-tsai. of sweet potatoes, tsṳ̂-tsai.
-* cycly, of ̄60 years, la̍k-tsa̍p kah-tsṳ́.
+* cycly, of 60 years, la̍k-tsa̍p kah-tsṳ́.
 * cymbals, khãm; chhẽ; khõm-chhẽ.
 * cypress, chek-peh-chhiū.
