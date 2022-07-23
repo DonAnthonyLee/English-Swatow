@@ -1,4 +1,4 @@
-* dabble, in water, mak-tsúi; sn̍g-tsúi. learn superficially, ēng m̄-kàu-kang; chhién-ha̍k; tshó-lia̍k pat-lân-ló.
+* dabble, in water, mak-tsúi; sńg-tsúi. learn superficially, ēng m̄-kàu-kang; chhién-ha̍k; tshó-lia̍k pat-lân-ló.
 * dagger, tó-kiàm.
 * daily, ji̍t-ji̍t; múeⁿ-ji̍t; pâi-ji̍t; siêⁿ-ji̍t; che̍k-ji̍t kùe-che̍k-ji̍t. to make daily progress, ji̍t kìⁿ-ji̍t-chìn.
 * dainties, tien-siu peh-bī.
@@ -7,7 +7,7 @@
 * damask, tōa-hue-tn̄g.
 * dame, ke-bó; lãu-bó; a-náiⁿ; a-niêⁿ.
 * damp, ip-chi̍p; tâm; tâm-sip; lùn-lùn; tâm-lùn. dampness, sip-khì.
-* damsel, kui-nn̍g; tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ; chhim-kui nn̍g-tsṳ́.
+* damsel, kui-nńg; tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ; chhim-kui nńg-tsṳ́.
 * dance, thiàu-bú (and gesticulate).
 * dandle, õng (up and down); phõ-tõ-iê (sideways).
 * dandruff, thâu-khiú.
@@ -22,10 +22,10 @@
 * date, ji̍t-chí; nîⁿ-ji̍t. to date a letter, siá-ji̍t-chí.
 * date, fruit, tsó; pe̍h-tsó; âng-tsó; ou-tsó. dried, tsó-kuaⁿ.
 * daub, with mud, kôu-thôu. writing, tôu-buah; tôu-tiāu; buah-tiāu; tiám-tiāu.
-* daughter, tsṳ-niêⁿ-kiáⁿ; tsáu-kiáⁿ; nn̍g-tsṳ́. your daughter (polite), lẽng-ài; tshoiⁿ-kim. my daughter (polite), sié-nn̍g. in law, sim-pũ. daughter's husband, kiáⁿ-sài. daughter's chidren, gūa-sun. his daughter is betrothed, i kâi tsṳ-niêⁿ-kiáⁿ íⁿ-keng tsò-sêng--liáu. marry one's d. to anyone, tsṳ-niêⁿ-kiáⁿ kè--pun-nâng.
+* daughter, tsṳ-niêⁿ-kiáⁿ; tsáu-kiáⁿ; nńg-tsṳ́. your daughter (polite), lẽng-ài; tshoiⁿ-kim. my daughter (polite), sié-nńg. in law, sim-pũ. daughter's husband, kiáⁿ-sài. daughter's chidren, gūa-sun. his daughter is betrothed, i kâi tsṳ-niêⁿ-kiáⁿ íⁿ-keng tsò-sêng--liáu. marry one's d. to anyone, tsṳ-niêⁿ-kiáⁿ kè--pun-nâng.
 * daunt, phièn-nâng-kiaⁿ; heh; kiaⁿ-heh; heh-kiaⁿ.
 * dawn, thiⁿ kng; tang-pôiⁿ pe̍h; tang-pôiⁿ tsò-sek; thiⁿ lâ-lân; thiⁿ lâ-lân-kng.
-* day, ji̍t; thiⁿ. first day of month, chhiu-it. 1̃th day, tsa̍p-ngõu. another day, ẽ-ji̍t; ãu-ji̍t. every, ji̍t-ji̍t; múeⁿ-ji̍t; siêⁿ-ji̍t; pâi-ji̍t. day and night, ji̍t-mêⁿ. all day, tsong-ji̍t; thàng-ji̍t. day before yesterday, tso̍h--ji̍t. one day earlier still, tōa-tso̍h--ji̍t. day after tomorrow, ãu--ji̍t. today, kim-ji̍t; kiáⁿ-ji̍t; hīn-ji̍t; pn̍g-ji̍t. day by day, che̍k-ji̍t kùe-che̍k-ji̍t; liên-ji̍t. to make progress day by day, che̍k-ji̍t kìⁿ-ji̍t-chìn. to wait day after day, che̍k-ji̍t mōⁿ-che̍k-ji̍t. day-time, ji̍t--kan; ji̍t--kùa; pe̍h-ji̍t--kan; ji̍t--tsṳ́. several days, kúi-ji̍t; sù-ji̍t; kúi-uã-ji̍t. within these few days, chí-kṳ̃n-ji̍t; chí-kṳ̃n-ji̍t-lãi. day-labour, lũn-ji̍t-kang. day-book, ji̍t-to̍k-phõu. day-break, see DAWN. to select a lucky day, thóiⁿ-ji̍t; to̍h-ji̍t; suán-ji̍t; pua̍h-ji̍t. lucky day, kit-ji̍t; siãng-ji̍t. unlucky, hiong-ji̍t. good-day! hó-ngõ (at meeting)! chhiaⁿ (at parting)!
+* day, ji̍t; thiⁿ. first day of month, chhiu-it. 15th day, tsa̍p-ngõu. another day, ẽ-ji̍t; ãu-ji̍t. every, ji̍t-ji̍t; múeⁿ-ji̍t; siêⁿ-ji̍t; pâi-ji̍t. day and night, ji̍t-mêⁿ. all day, tsong-ji̍t; thàng-ji̍t. day before yesterday, tso̍h--ji̍t. one day earlier still, tōa-tso̍h--ji̍t. day after tomorrow, ãu--ji̍t. today, kim-ji̍t; kiáⁿ-ji̍t; hīn-ji̍t; pńg-ji̍t. day by day, che̍k-ji̍t kùe-che̍k-ji̍t; liên-ji̍t. to make progress day by day, che̍k-ji̍t kìⁿ-ji̍t-chìn. to wait day after day, che̍k-ji̍t mōⁿ-che̍k-ji̍t. day-time, ji̍t--kan; ji̍t--kùa; pe̍h-ji̍t--kan; ji̍t--tsṳ́. several days, kúi-ji̍t; sù-ji̍t; kúi-uã-ji̍t. within these few days, chí-kṳ̃n-ji̍t; chí-kṳ̃n-ji̍t-lãi. day-labour, lũn-ji̍t-kang. day-book, ji̍t-to̍k-phõu. day-break, see DAWN. to select a lucky day, thóiⁿ-ji̍t; to̍h-ji̍t; suán-ji̍t; pua̍h-ji̍t. lucky day, kit-ji̍t; siãng-ji̍t. unlucky, hiong-ji̍t. good-day! hó-ngõ (at meeting)! chhiáⁿ (at parting)!
 * dazzle, ji̍t-kuang iàng-ma̍k; kng chhiēⁿ-ma̍k. the lamp-light dazzling the eyes, teng-kng chhiēⁿ-ma̍k. dazzling, tāng-tāng-kng; ia̍p-ia̍p-sih.
 * deacon, chip-sṳ̄.
 * dead, sí. man, sí-nâng. body, sin-si; si-hâi; si-siú. he is dead, kùe-sì--liáu; sî-sì--liáu; sí--khṳ̀. dead tree, chhiū kou-ta. dead drunk, tsùi kàu--mîⁿ-mîⁿ; tsùi kàu hun-hun mîⁿ-mîⁿ. among the dead, im--kan; àm--thâu. deadly poison, ta̍k; ta̍k-sí-nâng. deadly hatred, put-kāng tài-thiⁿ kâi-chhiû.
