@@ -314,7 +314,7 @@
 * fuel, tshâ; mue̍h-hiâⁿ; tshâ-tsháu. gather, khieh-mue̍h-hiâⁿ. add, thiam-húe; thiam-tshâ; lān-tshâ; lān-tsháu.
 * fugitive, from justice, tô-tsũe; tsáu-hũam; i̍t-hũam. from persecution, pĩ-nâng to̍k-tsáu.
 * fulfil, one's expectation, zû-mōⁿ. duty, chĩn-pńg-hūn; ûan-pńg-hūn; chĩn-cheh. command, zû-mẽng. law, siú-huap; tsun-huap. promise, zû-ieh; siú-ieh. prediction, èng-ngiām; hāu-ngiām; teng-ngiām. prayer, tsò-chiâⁿ; èng-ngiām. vows, hôiⁿ-ngūan.
-* full, múaⁿ; tĩⁿ; pá. -grown, chiáng-sêng; chiáng-tōa; tōa—liáu. see FILL.
+* full, múaⁿ; tĩⁿ; pá. -grown, chiáng-sêng; chiáng-tōa; tōa--liáu. see FILL.
 * fully, tshûan; chĩn; thàu; thàng; sêng; chiâⁿ.
 * fumble, in one's pocket, chiâm-tō. about, as in the dark or blind person, mông-at; thèng-mông, thèng-at.
 * fumes, khì; bī.

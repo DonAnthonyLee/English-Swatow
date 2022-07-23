@@ -1,5 +1,5 @@
 * a, che̍k-kâi; che̍k-chiah; &c.
-* aback, pùe-ãu. taken aback at meeting one, ngõ—tie̍h uak—chē-kiè.
+* aback, pùe-ãu. taken aback at meeting one, ngõ--tie̍h uak--chē-kiè.
 * abacus, sǹg-pûaⁿ. To work the, kiah-sǹg-pûaⁿ; khà-sǹg-pûaⁿ.
 * abaft, the foremast, thâu-ûi-ãu.
 * abandon, pàng-tiāu; ka̍k-tiāu; sek-tiāu; lī-khui; màiⁿ.
