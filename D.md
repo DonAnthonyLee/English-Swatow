@@ -374,25 +374,25 @@
 * divorce, kè-bóu; hiu-chhi; tshut-chhi. bill of, hiu-tsṳ; lî-tsṳ.
 * divulge, tàⁿ-phùa; phùa-sṳ̄; sia̍p-lāu ki-kuan; ki-kuan sia̍p-lāu; tshut-phùa; phùa-tiãⁿ; sṳ̄-ki sia̍p-lòu.
 * dizziness, thâu-khak hîn; thâu hîn; hîn.
-* do, tsò; tsak; ûi; kiâⁿ; tsãu. do business, tsò-seng-lí. a favour, si-ṳn; tsò-nâng-chhêng. to do as we would be done by, thãi-nâng zû-kí. do away with, tṳ̂-khṳ̀; ka̍k-tiāu; kói. how do you do? lṳ́ khin-kiāⁿ? do not, màiⁿ; m̄-hó; mín. I have nothing to do with it, ṳ́-úa bô-kan; bó-tāi; bô-hūn. this will never do, m̄-tsò-tit. it will do, tsò-tit; õi--tsò-tit. what shall I do! aìⁿ-tsò-nî-mue̍h! I can do nothing but run away, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ, bô-pa̍t-lōu. do one's duty, chĩn-pńg-hūn. what is all this to do about? kā-kā-jiáng sĩ-mih ûan-kù?
-* docile, koi-kà-sī; sũn-sũn; thiaⁿ-nâng-tàⁿ.
+* do, tsò; tsak; ûi; kiâⁿ; tsãu. do business, tsò-seng-lí. a favour, si-ṳn; tsò-nâng-chhêng. to do as we would be done by, thãi-nâng zû-kí. do away with, tṳ̂-khṳ̀; ka̍k-tiāu; kói. how do you do? lṳ́ khin-kiāⁿ? do not, màiⁿ; m̄-hó; mín. I have nothing to do with it, ṳ́-úa bô-kan; bô-tāi; bô-hūn. this will never do, m̄-tsò-tit. it will do, tsò-tit; õi--tsò-tit. what shall I do! àiⁿ-tsò-nî-mue̍h! I can do nothing but run away, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ, bô-pa̍t-lōu. do one's duty, chĩn-pńg-hūn. what is all this to do about? kā-kā-jiáng sĩ-mih ûan-kù?
+* docile, kōi-kà-sī; sũn-sũn; thiaⁿ-nâng-tàⁿ.
 * dockyard, tsûn-chhiáng; siu-si̍p-tsûn kâi-ūi-tshṳ̀.
 * doctor, ui-seng; sin-seⁿ. to call, chhiáⁿ-ui-seng.
-* doctrine, kà; kà-tãu; tãu-lí; tõ-lí. false doctrines, ī-tuan.
+* doctrine, kà; kà-tãu; tãu-lí; tõ-lí. false doctrines, ĩ-tuan.
 * document, bûn-tsṳ.
 * doe, te̍k-bó.
-* dog, káu. male, káu-kóu. dog-cheap, phiⁿ kàu bô-nâng-àiⁿ; tsûaⁿ-tsãi. long-haired, phòng-môⁿ-káu. short-haired, si̍t-môⁿ-káu. dogged, phiah-pēⁿ; chip-ì; chip-phiah.
+* dog, káu. male, káu-kóu. dog-cheap, phiⁿ kàu bô-nâng-àiⁿ; tsūaⁿ-tsãi. long-haired, phòng-môⁿ-káu. short-haired, si̍t-môⁿ-káu. dogged, phiah-pēⁿ; chip-ì; chip-phiah.
 * dogma, kà-tiâu.
 * doleful, chhi-tshám. voice, ai-siaⁿ.
 * doll, ang-kiáⁿ.
-* dollar, ngṳ̂n. Spanish, hu̍t-thâu; hu̍t-ngṳ̂n. Mexican, chiáu ngṳ̂n; chhì-kiû-chiáu. one, che̍k-kâi-ngṳ̂n; che̍k-khou ngṳ̂n. $10,000, che̍k-būan-ngṳ̂n; che̍k-tsháu-ngṳ̂n. $̃0, che̍k-huang-ngṳ̂n.
-* dolt, ngâ nâng; chhi-ko; khòng-ngōng.
-* domestic, ke-lãi. servants, ke-jîn; kṳn-pan. animals, cheng-seⁿ. affairs, ke-bũ. circumstances, ke-sṳ̄; ke-chhéng.
+* dollar, ngṳ̂n. Spanish, hu̍t-thâu; hu̍t-ngṳ̂n. Mexican, chiáu-ngṳ̂n; chhì-kiû-chiáu. one, che̍k-kâi-ngṳ̂n; che̍k-khou-ngṳ̂n. $10,000, che̍k-būan-ngṳ̂n; che̍k-tsháu-ngṳ̂n. $60, che̍k-huang-ngṳ̂n.
+* dolt, ngà-nâng; chhi-ko; khòng-ngōng.
+* domestic, ke-lãi. servants, ke-jîn; kṳn-pan. animals, cheng-seⁿ. affairs, ke-bũ. circumstances, ke-sṳ̄; ke-chhêng.
 * domesticate, chhī-se̍k; chhī-sûn-se̍k.
 * dominoes, kut-pâi.
-* done, tso hó; hó--liáu. exhausted, liáu; ēng-liáu. done with a meal, chia̍h-pá--liáu.
-* doom, tiaⁿ-tsũe; sún-tùan; ngí-tiāⁿ tsũe-miâⁿ.
-* door, mn̂g. bolt, mn̂g-tshùaⁿ. bolt the door, tshùaⁿ-mn̂g, pi mn̂g. shut the door, kueⁿ-mn̂g. not quite close, mn̂g hoiⁿ. door-bar, mn̂g-chhēng. keep a door, chiéⁿ-mn̂g; siú-mn̂g; kuan-mn̂g; pé-mn̂g. door-posts, mn̂g-thiãu. door-frame, mn̂g-khuan. lintel, mn̂g-bâi. socket, mn̂g-khũ. handle, mn̂g-tsu. threshold, mn̂g-tõiⁿ.
+* done, tsò hó; hó--liáu. exhausted, liáu; ēng-liáu. done with a meal, chia̍h-pá--liáu.
+* doom, tiāⁿ-tsũe; sím-tùan; ngí-tiāⁿ tsũe-miâⁿ.
+* door, mn̂g. bolt, mn̂g-tshùaⁿ. bolt the door, tshùaⁿ-mn̂g, pī-mn̂g. shut the door, kueⁿ-mn̂g. not quite close, mn̂g hõiⁿ. door-bar, mn̂g-chhēng. keep a door, chiéⁿ-mn̂g; siú-mn̂g; kuan-mn̂g; pé-mn̂g. door-posts, mn̂g-thiãu. door-frame, mn̂g-khuan. lintel, mn̂g-bâi. socket, mn̂g-khũ. handle, mn̂g-tsu. threshold, mn̂g-tõiⁿ.
 * dose, che̍k-thiap-ie̍h; che̍k-ho̍k-ie̍h.
 * dot, che̍k-tiám.
 * dotard, láu-kàu-ngo̍h; láu-kàu-thūe.
