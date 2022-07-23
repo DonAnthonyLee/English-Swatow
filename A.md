@@ -1,17 +1,17 @@
 * a, che̍k-kâi; che̍k-chiah; &c.
 * aback, pùe-ãu. taken aback at meeting one, ngõ—tie̍h uak—chē-kiè.
-* abacus, sn̍g-pûaⁿ. To work the, kiah-sn̍g-pûaⁿ; khà-an̍g-pûaⁿ.
+* abacus, sǹg-pûaⁿ. To work the, kiah-sǹg-pûaⁿ; khà-sǹg-pûaⁿ.
 * abaft, the foremast, thâu-ûi-ãu.
 * abandon, pàng-tiāu; ka̍k-tiāu; sek-tiāu; lī-khui; màiⁿ.
 * abase, kàng-khip.
 * abash, sit-nâng. kâi-thí-mīn. abashed, tshâm-khũi; kièn-siàu; siáu-lí; siu-chhí.
-* abate, kiám; chié. the price, sn̍g-liám; tṳ̂-kiám; khà-kiám; khà-tṳ̂; kiám--chē; chié--chē.
+* abate, kiám; chié. the price, sǹg-kiám; tṳ̂-kiám; khà-kiám; khà-tṳ̂; kiám--chē; chié--chē.
 * abbess(Buddhist), sṳ-hũ; hûe-siēⁿ-phûa; nîⁿ-kou-phûa.
 * abbot(Buddhist), sṳ-hũ; hûe-siēⁿ-thâu; tang-ke.
 * abbreviation, sié-siá. a compendium, tãi-lia̍k.
 * abdicate, siā-cheh; sî-kuaⁿ. of a soxereign, siā-ūi; thò-ūi.
 * abdomen, tóu; tóu-pak.
-* abduct, kuái-tò; thau-kiau; thau-ka7ng-tsáu.
+* abduct, kuái-tò; thau-kiau; thau-kāng-tsáu.
 * abet, pang-tsõ; pang-ak.
 * abhor, lóu; ù; lóu-hṳ̃n.
 * abide, kṳ-tsũ; khiã-khí; tiū.
@@ -20,14 +20,14 @@
 * abjure, chiù-tsūa bô-chí-kâi-sṳ̄. one’s religion, húan-kà; pūe-kà.
 * able, lêng; ōi; miâⁿ-ke; ū-lêng-ûi. see ABILITY.
 * ablution, sói-chheng-khih; sói-chheng; sói-sin; sói-e̍k.
-* aboard, tõ-tsûn; tsûn-téng; lo̍g-teûn.
-* abolish, tṳ̂-tiāu.
+* aboard, tõ-tsûn; tsûn-téng; lo̍h-tsûn.
+* abolish, tṳ̂-tiāu; hùi-tiāu.
 * abominable, khó-ù; tshūa-nâng-lóu.
-* abominate, ù; lóu; kī.
-* aborigines, thóu-jîn; pn̍g-tī-nâng.
+* abominate, ù; lóu; kĩ.
+* aborigines, thóu-jîn; pńg-tī-nâng.
 * abortion, lo̍h-sié-súaⁿ; lo̍h-sin; phah-tó a-nôuⁿ. to produce by medicine, ēng-ie̍h lo̍h-tiāu a-nôuⁿ.
 * abound, hoh-tsōi; tōa-bó-mye̍h; tsōi- tsōi; sẽng; mõng-sẽng; hong-sẽng; tshù-tshù to-tsōi.
-* about, tsha-m̄-to; kâi-pan-bó; lím-lím; ũ chó-kâi-pān; tsáu-tsua̍h bô-ki; chìn-thò ũ-hãn.
+* about, tsha-m̄-to; kâi-pan-bó; lím-lím; ũ chí-kâi-pān; tsáu-tsua̍h bô-ki; chìn-thò ũ-hãn.
 * above, tõ-téng; tõ-chiēⁿ; tõ-mīn-chiēⁿ.
 * abrade, siah--tie̍h; phoi--tie̍h; phiù-phûe.
 * abridge, séⁿ-iak; tiah-iàu; tiah-chhiet-iàu; káng-séⁿ; tiah-tshut káng-iàu.
@@ -43,7 +43,7 @@
 * abstemious, tsat-ēng; kúaⁿ-io̍k; ũ-tsat-tōu.
 * abstraction, in a state of(Buddhist), tsò-siên; ji̍p-tẽng.
 * abstruse, chhim-àu; àu-biāu.
-* absurd, thèng-taṳ̀; bô-iaṳ́-chiah; hó-chhiè.
+* absurd, thèng-tàⁿ; bô-iáⁿ-chiah; hó-chhiè.
 * abundant, see ABOUND.
 * abuse, mēⁿ. filthy abuse, mēⁿ kàu chhi-gî; tshou-tshùi-mēⁿ.
 * abutment, of bridge, kiê-tún.
@@ -53,7 +53,7 @@
 * accede, zún-na̍p; hàuⁿ; khéng; tsún; na̍p-ì.
 * accent, siaⁿ-im; siaⁿ-kháu.
 * accept, siũ; siu; chiap-na̍p; na̍p-siũ.
-* access, lōu-mn̂g; lōu-mn̂g hó-chiũ. Increase, thin-ke; thiam-ke.
+* access, lōu-mn̂g; lōu-mn̂g hó-chiũ. Increase, thiⁿ-ke; thiam-ke.
 * accession, to the throne, seng-ūi.
 * accessory, pang-tsõ.
 * accident, ì-gūa kâi-sṳ̄; liāu-m̄-kàu kâi kéng-ngõ. accidental, ngóu-jiên; tsõu-jiên.
