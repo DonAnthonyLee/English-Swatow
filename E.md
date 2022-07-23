@@ -240,10 +240,10 @@
 * exculpate, kàu-sù; ín-chèng piáu-mêng.
 * excuse, sù. please excuse me, chhiáⁿ-sù--chē; sià-tsũe; sù-tsũe; chhiáⁿ-sî. faults, thóiⁿ-phùa; sià-tsũe; khuan-iông.
 * execrable, khó-ù; khó-hṳ̃n.
-* execute, tsò; tsò-chiâⁿ; khiâⁿ--tshut-lâi. put to death, thâi. execution, sí-hêng. execution ground, kah-tiêⁿ. executioner, khùai-tsṳ́-chhiú (or, siú); suah-siú; tng-âng-kî.
+* execute, tsò; tsò-chiâⁿ; kiâⁿ--tshut-lâi. put to death, thâi. execution, sí-hêng. execution ground, kah-tiêⁿ. executioner, khùai-tsṳ́-chhiú (or, siú); suah-siú; tng-âng-kî.
 * executor, siũ-hù-thoh kâi-nâng; thoh-kou kâi-nâng (guardian).
 * exemplary, kṳ́-tõng tuan-chiàⁿ; hó-iēⁿ; hó-pun-nâng tsò-iēⁿ.
-* exempt, bô-tõ-lāi; tõ-gūa. from taxation, mién-na̍p-hiàng.
+* exempt, bô-tõ-lãi; tõ-gūa. from taxation, mién-na̍p-hiàng.
 * exercise, take, khṳ̀-thit-thô; kiâⁿ-tsáu ua̍h-tõng; kiâⁿ-sóng-khùai; khṳ̀-siau-iâu. literary, tsò-bûn; tsò-bûn-chieⁿ; bûn-gōi. soldiers, tshau-piaⁿ; tshau-liēn. learn military, o̍h-bú. exercise in, liēn; ha̍k-si̍p; o̍h.
 * exert, oneself, tshut-la̍t; khat-khóu; tie̍h-la̍t; tie̍h-khṳ̂n; ēng-sim. one's voice, khui-tōa-siaⁿ. one's influence, sái-sì.
 * exhale, huat-khì; tshut-khì. exhalation, khì. from water, tsúi-khì. damp, sip-khì.
