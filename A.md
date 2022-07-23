@@ -65,7 +65,7 @@
 * accord, hûa; hûa-ha̍h; siang-ha̍h; hûa-míⁿ; siang-hûa; hûa-mo̍k.
 * accordance, sie-tùi; sie-tâng; siang-ha̍h.
 * according, chiè; chiè-iēⁿ. to one’s wishes, zû-ì. to order, zû-mẽng.
-* account, siàu-ba̍k. book, siàu-phõu. to enter, chiẽⁿ-siàu; lo̍h-siàu; kì-siàu. settle, hôiⁿ-siàu; siàu-ba̍k chheng-tshó. owe, khiàm-siàu. square, ap-siàu. collect, thó-siàu. manage, hūaⁿ-siàu. make up, sn̍g-siàu. on account of, in-ũi. on no account, būan-būan put-khó; tùan-tùan m̄-hó. cannot a. for, put-kói; siẽⁿ-m̄-phùa; siẽⁿ-m̄-tshut. give an account of any event, o̍h pun-nâng-thiaⁿ; kāng-nâng-tàⁿ.
+* account, siàu-ba̍k. book, siàu-phõu. to enter, chiẽⁿ-siàu; lo̍h-siàu; kì-siàu. settle, hôiⁿ-siàu; siàu-ba̍k chheng-tshó. owe, khiàm-siàu. square, ap-siàu. collect, thó-siàu. manage, hūaⁿ-siàu. make up, sǹg-siàu. on account of, in-ũi. on no account, būan-būan put-khó; tùan-tùan m̄-hó. cannot a. for, put-kói; siẽⁿ-m̄-phùa; siẽⁿ-m̄-tshut. give an account of any event, o̍h pun-nâng-thiaⁿ; kāng-nâng-tàⁿ.
 * accumulate, tun-chek; chek-thiok. wealth, tun-kim chek-ge̍k. merit, chek-tek; chek-kong.
 * accurate, bô-tsáu-tsua̍h; siâng-sòi; sòi-siâng; chin-chiàⁿ.
 * accusation, phah-kuaⁿ-si; kò-tsn̄g; ji̍p-tiâⁿ; sie-kò.
@@ -89,7 +89,7 @@
 * acute, sharp, chiam. ingenious, kuai-khá. in discernment, tshong-mêng.
 * adage, so̍k-gṳ́; ngân-gṳ́.
 * adapt, sie-kah; kah-kùa; kah-pān; tsún-thâu. able to adapt oneself to circumstances, ũ-khûan-pièn.
-* add, thiam; ke; thiⁿ-ke; lo̍h-ke; póu-ke; sn̍g-bûa; lia̍h-bûa; tshòu-ha̍h.
+* add, thiam; ke; thiⁿ-ke; lo̍h-ke; póu-ke; sǹg-bûa; lia̍h-bûa; tshòu-ha̍h.
 * addicted, hàuⁿ; tham; tsuan-sim.
 * address, a person, tng-mīn-tàⁿ. God, táu-kàu Siãng-tì. on a letter, sìn-phûe; huang-phûe.
 * adept, tóu-lãi mêng-pe̍h; thong-thiet; se̍k-chhiú.
@@ -101,41 +101,41 @@
 * adjudicate, sím-sṳ̄; phōiⁿ-ùaⁿ; phùan-tùan; tùan-ùaⁿ.
 * adjust, chiám-tso̍ih; tsôi-chiáⁿ; siu-chiáⁿ. put in order, an-pâi; tsôi-pĩ; siu-si̍p-hó.
 * administer, phōiⁿ-lí; lí-sṳ̄; liāu-lí; chiáng-kúan.
-* admirable, hó-tháiⁿ; tshut-khî.
+* admirable, hó-thóiⁿ; tshut-khî.
 * admiral, tsúi-sṳ thî-tok; tsúi-sṳ tìn-thâi (lower).
 * admire, thóiⁿ kàu-àm-ngì; thóiⁿ-tshù-bī.
 * admission, to give, pun-nâng-ji̍p; thèng-nâng-ji̍p. refuse, bô-nâng-ji̍p.
-* adolescence, iùⁿ-níⁿ; thông-nîⁿ; hãu-seⁿ; siàu-nîⁿ.
+* adolescence, iùⁿ-nîⁿ; thông-nîⁿ; hãu-seⁿ; siàu-nîⁿ.
 * adopt, children, iáng-kiáⁿ; sieh-kiáⁿ; siu-iáng tsò-kiáⁿ; siu-liû tsò-kiáⁿ.
 * adore, tshông-pài; kũi-pài.
 * adorn, siu-sek; tá-pàn; siu-si̍p phâi-chhiâng.
 * adrift, phiau-phû.
 * adroit, kha-chhiú õi; khî-khá.
 * adulation, hõng-sêng; thiám-mĩⁿ; pá-kiet.
-* adult, tōa--nâng; sèng-teng; chiáng-tōa; chiáng-sêng.
+* adult, tōa--nâng; sêng-teng; chiáng-tōa; chiáng-sêng.
 * adulterate, tsham pa̍t-mue̍h; m̄-kan-chẽng; m̄-chẽng.
 * adulterer, kan-hu; lãu-iẽn; ji̍p-nâng-lãi.
 * adulteress, kan-hũ; îm-hũ; tsṳ-niêⁿ tshap--tie̍h-nâng.
 * adultery, kan-îm; kan--nâng chhi-nńg; sṳ-kau; sai-thong; ji̍p-nâng-lãi; sai-chhêng; kan-chhêng.
-* advance, chìn-tsôiⁿ. daily, che̍k-ji̍t kìⁿ-ji̍t-chìn. moner, saiⁿ tshut-chîⁿ. advanced guand, sien-hong. in office, kau-seng; chìn-khip; seng-kûiⁿ.
+* advance, chìn-tsôiⁿ. daily, che̍k-ji̍t kìⁿ-ji̍t-chìn. money, saiⁿ tshut-chîⁿ. advanced guard, sien-hong. in office, kau-seng; chìn-khip; seng-kûiⁿ.
 * advantage, iah; lĩ-iah. to seek, thû-lĩ. of no advantage, bô-iah. advantageous, ũ-iah; hó-tit-lĩ; hó-thàn-chîⁿ.
 * adventure, thèng-tsãu-hùe. adventurous, káⁿ-tsò; káⁿ-ûi; tōa-táⁿ; thèng-tsãu-hùe tsò.
 * adverb, gṳ́-tsõ-sṳ̂.
 * adversary, tùi-thâu; uan-ke-thâu; chhiû; chhiû-te̍k; te̍k-chhiú; chhiû-jîn.
 * adversity, tsai-lān; tsai-hũa; hũam-lān; eh; nge̍k-kéng.
 * advertise, tshut-thiap-kiáⁿ; kàu-tsai. lost or stolen articles, tah-thiap-kiáⁿ.
-* advise, khn̍g; khn̍g-kòi; kà; khai-tãu.
+* advise, khǹg; khǹg-kòi; kà; khai-tãu.
 * advocate, tsò-tiâⁿ; sõng-sṳ; phõ-kò.
 * adze, póu-thâu.
-* afar, hñg; iâu-ién. to descry from, hñg-hñg mõⁿ-kìⁿ.
+* afar, hñg; iâu-ién. to descry from, hñg-hñg mōⁿ-kìⁿ.
 * affable, un-jiû; un-hûa; liâng-siẽn; hiáu-lí.
 * affair, sṳ̄; sṳ̄-chhêng; sṳ̄-bũ. an, che̍k-kiãⁿ-sṳ̄.
 * affect, kám-tõng. deeply, sieⁿ-sim. to pretend to be anything, ké--tsò; tsuang--tsò. by external things, gūa-mue̍h só-tõng.
 * affection, thóng-ài; ài-chhêng; nâng-chhêng; ài-sieh. affectionate, sie-sieh; siang-ài. mother, tshṳ̂-bó.
-* affinity, chin-so̍h; ngóu-ho̍k. of kindred, chhin-chhek. by marriage, chhin-chiâⁿ.
+* affinity, chhin-so̍k; ngóu-ho̍k. of kindred, chhin-chhek. by marriage, chhin-chiâⁿ.
 * affirm, chèng-kṳ̃; chèng-si̍t; tàⁿ-sĩ; chiè-kò-tàⁿ.
 * affix, tah-tùe; sie-chiap. a seal, khap-ìn.
-* afflict, kia-hāi; bûa-lān, kan-khóu; lân-ûi. affliction, kan-làn; kan-khóu; sng-sṳ̄; pe̍h--sṳ̄ (morning).
+* afflict, kia-hāi; bûa-lān, kan-khóu; lân-ûi. affliction, kan-lân; kan-khóu; sng-sṳ̄; pe̍h--sṳ̄ (morning).
 * affluence, pù; pù-tsok; hong-sẽng; kãu-nauh; hong-tsok; pù-kãu.
 * afford, expenses, tshut-só-hùi. can, tng-tit-khí; taⁿ-tit-khṳ̀; tshut-tit-lâi. profit, seⁿ-lĩ; tshut-sek.
 * affront, tshok-huãm--tie̍h; tit-tsõ--tie̍h. see INSULT.
