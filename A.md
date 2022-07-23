@@ -195,9 +195,9 @@
 * also, iā; kiam; íⁿ-ki̍p; iā-sĩ; kiam-kũa; siãng-chhiáⁿ.
 * altar, tôaⁿ; chi̍-tôaⁿ; hieⁿ-tôaⁿ; hieⁿ-uàⁿ.
 * alter, kói; kói-pièn; kói-uāⁿ; kói-e̍k; kói-chiàⁿ; chhiâⁿ-kói.
-* altercation, cheⁿ-lũn; sio-à; sie-jiáng; sie-cheⁿ; khau-peh.
+* altercation, cheⁿ-lũn; sie-à; sie-jiáng; sie-cheⁿ; khau-peh.
 * alternate, sie-lûn; sie-lûn-liû; lûn-liû; sie-thòi.
-* alternative, nõ-kiãⁿ suán-che̍k. no, bô-nãi-hô; bôkhóu nãi-hô; bô-ta-uâ; put-tit-íⁿ.
+* alternative, nõ-kiãⁿ suán-che̍k. no, bô-nãi-hô; bô-khóu nãi-hô; bô-ta-uâ; put-tit-íⁿ.
 * although, sui; sui-jiên; sui-chiet; sui-sĩ. although …… still, sui-jiên …… huân-liáu.
 * altogether, hâm-kâi; hãm-kâi; che̍k-khài; che̍k-tsôi; che̍k-chhiet; hãm-pa-lan; lóng-tsóng; tsn̂g-kâi; tshuân.
 * alum, pe̍h-huân.
@@ -211,8 +211,8 @@
 * ambiguous, kâm-kôu; sang-kuan liáng-ì; sang-thám; lóng-thóng; m̄-hun-mêng.
 * ambitious, tsṳ̃-tsun; tsṳ̃-tōa; ũ-tãi-chì; chì tōa; chì-khì kau; chì-liãm kûiⁿ.
 * amble, tsho̍k; tsho̍k-tsho̍k-thiàu.
-* ambush, ho̍k-poaⁿ; tshâng-piaⁿ; mâiⁿ-ho̍k.
-* amend, kói-kùe; kói-chiàⁿ; chhiâⁿ-kói; chhiâⁿ-hó; kôi-hô. one’s ways, kui-chiàⁿ; kói-ak kiâⁿ-siẽn.
+* ambush, ho̍k-piaⁿ; tshâng-piaⁿ; mâiⁿ-ho̍k.
+* amend, kói-kùe; kói-chiàⁿ; chhiâⁿ-kói; chhiâⁿ-hó; kói-hô. one’s ways, kui-chiàⁿ; kói-ak kiâⁿ-siẽn.
 * America, A-múiⁿ-lĩ-kia; Múiⁿ-kok; Hue-kî-kok.
 * amiable, khó-ài; hó-sieh; tshūa-nâng-sieh; un-hûa; un-jiû.
 * amicable, hûa; hûa-mo̍k; hûa-míⁿ. very, hûa-hûa míⁿ-míⁿ.
@@ -222,19 +222,19 @@
 * amnesty, tãi-sià; ṳn-chiè; hí-chiè; sià-chiè.
 * among, see AMID.
 * amount, kāng-kòi; tsóng-kat; kāng-tsóng; ha̍h-kāng. what? jie̍h-tsōi?
-* ample, khuah-tōa; khuan-khuah; khuan-khuàⁿ; khùaⁿ-ahhēng. means, pù-tsok.
+* ample, khuah-tōa; khuan-khuah; khuan-khuàⁿ; khùaⁿ-chhēng. means, pù-tsok.
 * amputate, kuah-tiāu; tsám-tiāu; kṳ̀-tiāu; tok-tiāu.
 * amulet, hieⁿ-húe-lâng; hieⁿ-húe-tō. to wear, kùa-hieⁿ-húe.
-* amusement, sie-sn̍g; thit-thô, iû-la̍k. amusing, tshù-bī. ramble about for amusement, iû-nguán; nguán-la̍h.
+* amusement, sie-sńg; thit-thô, iû-la̍k. amusing, tshù-bī. ramble about for amusement, iû-nguán; nguán-la̍h.
 * analyse, tshat-si̍t; kháu-kiù.
 * anarchy, bô-pẽ bô-kun; huán-luãn; luãn-tsa̍p.
 * ancestors, soiⁿ-tsóu; tsóu-kong; tsóu-tsong; kong-má. ancestral hall, sṳ̂-tn̂g; tsong-sṳ̂. tablet, sîn-tsú; sîn-tsú-pâi; ke-sîn; ba̍k-tsú.
-* anchor, tèng. one, che̍k-mn̂g-tèng. to cast, pha-tèng. to weigh, khí-tèng; khieh-tèng; chhia-tèng; chhiû-tèng. anchorage, hiah-tsûn kài-ūi-tshṳ̀; pou-thâu (i.e. a port).
+* anchor, tèng. one, che̍k-mn̂g-tèng. to cast, pha-tèng. to weigh, khí-tèng; khieh-tèng; chhia-tèng; chhiû-tèng. anchorage, hiah-tsûn kâi-ūi-tshṳ̀; pou-thâu (i.e. a port).
 * ancient, kóu. times, kóu-sî; kóu-tsá. men, kóu-nâng. doctrines, kóu-kà.
 * and, pẽng; íⁿ-ki̍p; kiam; kah; kũa; kāng; iũ. tell him to come and I will pay him, hàm-i-lâi, uá chiũ àiⁿ-hôiⁿ--i. you must speak the truth and then people will believe you, lṳ́ tie̍h tàⁿ-si̍t-ūe nâng chiàⁿ-ũ-sìn--lṳ́.
 * anecdote, kóu-sṳ̄; kóu-gṳ́. to relate anecdotes, káng-kóu; phue̍h-kóu; thâm-kóu; o̍h-kóu; phue̍h-tshù-bī; phue̍h-chhiè-thâm.
 * angel, thien-sài; sîn-sài.
-* anger, khì; náuⁿ. angry, seⁿ-khn̂; siũ-khì; huat-náuⁿ; náuⁿ-khì.
+* anger, khì; náuⁿ. angry, seⁿ-khì; siũ-khì; huat-náuⁿ; náuⁿ-khì.
 * angle, the hook, tièⁿ-kau. to angle, tièⁿ-hṳ̂. angle rod, tièⁿ-ko. a corner, kak. angle of a house, tshù-kak-thâu.
 * animal, khîm-siù; seⁿ-kháu. domestic, cheng-seⁿ. wild, iá-siù.
 * animate, kóu-bú; hóu-kah.
@@ -242,11 +242,11 @@
 * ankle, kha-ma̍k.
 * annals, sṳ́-chheh; le̍h-tō sṳ́-kàm; sṳ́-kì.
 * annex, chiap; tah; tùe.
-* annihilate, mi̍t-búang; chĩn-mi̍t; mi̍t-bô.
-* announce, pò; pò-tsai; pón-kàu; pín-tàu; pò-sie-sit; pò-sìn; thong-ta̍t; thong-thûan; thong-tsai; thong-pín.
-* annoy, kiáu-jiáu; jiáu-hũn; tshok-nōⁿ; phièn-nàng-khì.
+* annihilate, mi̍t-bûang; chĩn-mi̍t; mi̍t-bô.
+* announce, pò; pò-tsai; pín-kàu; pín-tàu; pò-sie-sit; pò-sìn; thong-ta̍t; thong-thûan; thong-tsai; thong-pín.
+* annoy, kiáu-jiáu; jiáu-hũn; tshok-nōⁿ; phièn-nâng-khì.
 * annual, nîⁿ-nîⁿ; múeⁿ-nîⁿ; pâi-nîⁿ; le̍h-nîⁿ.
-* annul, hùi; tṳ̂; khṳ̍-tiāu.
+* annul, hùi; tṳ̂; khṳ̀-tiāu.
 * anoint, buah-iû; hú-iû; buah-ko.
 * anomalous, khî-kuài; koh-iēⁿ; bô-lí; bô-lí-lōu; bô-chhêng-lí.
 * anon, chiet-khek; lîn-sî; liên-sî; sûi-sî; sûi-chiet; chí-tsûn.
