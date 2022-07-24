@@ -301,7 +301,7 @@
 * extract, po̍ih; khie̍h-tshut; thiu-tshut; túi--tshut. from a book, ín-tsṳ-kù; lo̍k-tsṳ; ín-lo̍k.
 * extraordinary, khî-sṳ̄; khî-ĩ; tshut-khî; hui-siêⁿ; koh-iēⁿ; chié-ũ; hán-tit thóiⁿ--kìⁿ; hán-ngõ. extraordinarily good, khî-hó; hó kàu-koh-iēⁿ.
 * extravagant, hua-hùi; lãm-ēng; thèng-ēng; chhia-chhí; chhia-hûa; phah-phún-sái; thài-kùe; hàuⁿ-sái; káⁿ-sái-chîⁿ.
-* extremely, ke̍k-kàu-ke̍k; ke̍k--tshù; kàu-chì-ke̍k; chì; tsa̍p-hun; tsãi; siãng. extremely ugly, iá-iēⁿ-tsãi. good, ke̍k-hó; chì-hó. use extreme measures, ēng-kàu-ke̍k kâi-huap. two extremities of anything, thâu-búe. utmost extremity of misery, &c, ke̍k-mn̂g.
+* extremely, ke̍k; kàu-ke̍k; ke̍k--tshù; kàu-chì-ke̍k; chì; tsa̍p-hun; tsãi; siãng. extremely ugly, iá-iēⁿ-tsãi. good, ke̍k-hó; chì-hó. use extreme measures, ēng-kàu-ke̍k kâi-huap. two extremities of anything, thâu-búe. utmost extremity of misery, &c, ke̍k-mn̂g.
 * extricate, kiù-tshut; kói-thut; kói-tshut.
 * exuberant, foliage, mõng-sẽng; heng-sẽng; phò-phò; ap-ap.
 * exude, perspiration, huat-kūaⁿ; lâu-kūaⁿ; piáu-kūaⁿ. walls, chhiêⁿ chhiẽⁿ-ĩm. plants, tshut-tsap; tshut-nîⁿ.
