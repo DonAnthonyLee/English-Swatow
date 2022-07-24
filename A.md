@@ -176,7 +176,7 @@
 * allegiance, tshông-mẽng; sũn-ho̍k. faithful, tong-sim.
 * alliance, to form an, pài-hũe; kat-hũe; pài-mêng. by marriage, kat-chhin.
 * allot, pun; pun-hūn; hun-phài; khue-phài.
-* allow, tsún; jĩm; hṳ́; hàuⁿ; khéng; thèng. just allow him, sûi i khṳ̍-tsò; thèng i khṳ̍-tsò. not allow one to do, bô-i-tsò; bô-thang pun-i-tsò.
+* allow, tsún; jĩm; hṳ́; hàuⁿ; khéng; thèng. just allow him, sûi i khṳ̀-tsò; thèng i khṳ̀-tsò. not allow one to do, bô-i-tsò; bô-thang pun-i-tsò.
 * allure, kuang-phièn; ín-iú; jī.
 * allusion, àm-chí; kuan-iàng; àm-chhieⁿ; sang-kuan liáng-ì.
 * ally, kat-ha̍h; kat-iú; kat-kau; kit-kau; kau-iú. allies, tsõ-chièn; pang-piaⁿ.
@@ -339,7 +339,7 @@
 * ashamed, siáu-lí; kièn-siàu; tshâm-khũi.
 * ashes, húe-hu.
 * ask, a question, mn̄g; chieh-mn̄g. for anything, khiû; khṳt; thó. leave of absence, as mandarin, kò-kè.
-* asleep, tõ-u̍t; tõ-gu̍t; gu̍t--khṳ̍-liáu.
+* asleep, tõ-u̍t; tõ-gu̍t; gu̍t--khṳ̀-liáu.
 * aspect, hêng-iông; iông-mãuⁿ; mīn-sek; mīn-mãuⁿ.
 * asperity, kín-sèⁿ; tshou-siap; oh-thì-thâu; tò-thì.
 * asperse, húiⁿ-pãng; pãng-húiⁿ; tsham-húiⁿ iâu-pãng; pãng mâng-miâⁿ-sek.

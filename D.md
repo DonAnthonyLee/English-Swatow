@@ -92,7 +92,7 @@
 * defraud, khi-phièn.
 * defy, thok-chièn; kek-chièn; iú-chièn; jiá-chièn; thie-chièn.
 * degenerate, times, hong-so̍k pí-soiⁿ m̄-tâng. children, put-siàu-tsṳ́; put-siàu kiáⁿ-tĩ.
-* degrade, officially, kàng-khip. three degrees, kàng-saⁿ-khip. without dismissal, khṳ̍-cheh lâu-jīm. entirely, thut-cheh; le̍h-cheh.
+* degrade, officially, kàng-khip. three degrees, kàng-saⁿ-khip. without dismissal, khṳ̀-cheh lâu-jīm. entirely, thut-cheh; le̍h-cheh.
 * degree, téng; téng-khip; pín-khip. to have a degree, ũ-kong-miâⁿ. to get the 1st literary degree, ji̍p-o̍h; ji̍p-siù-tsâi. the ̂nd, tèng-kṳ́-jîn. the ́rd, tèng-chìn-sṳ̃. the ̀th, tiám-hân-lîm. a purchased degree, kàm-seng. to buy such, kiẽn-kàm-seng. a graduate by competition, chiàⁿ-thû; chiàⁿ-lōu. a graduate by purchase, phien-thû; ĩ-lōu. degrees of relationship, káu-tso̍k; ngóu-ho̍k; chhin-so. by degrees, chiãm-chiãm; che̍k-tsâng che̍k-tsâng; che̍k-tsãm che̍k-tsãm.
 * deify, hong-ûi-sîn; kèng zû-sîn-mêng.
 * deities, known by the Chinese, Siãng-tì; thiⁿ-kong; sîn-mêng; kúi-sîn; lãu-iâ; phû-sat.
@@ -101,7 +101,7 @@
 * delay, în-tîⁿ; tam-koh; thû-mān; chhî-mān; chhî-iẽn; tau-lâu; koh-mān; tam-mān.
 * delectable, khó-ài; khó-hí; zû-ì; thiàng-ì.
 * delegate, chhe-sái; chhe-úi. a delegate, úi-uân; sài; sài-chiá.
-* deliberate, to, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sn̍g-lâi sn̍g-khṳ̍; siẽⁿ-kâi siẽⁿ-khṳ̍; pí-kâi pí-khṳ̍; chiak-ngí.
+* deliberate, to, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sǹg-lâi sǹg-khṳ̀; siẽⁿ-kâi siẽⁿ-khṳ̀; pí-kâi pí-khṳ̀; chiak-ngí.
 * deliberately, soiⁿ sṳ, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
 * delicate, jiû-nn̍g. in health, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. neat, kiau-kiah. fine, iùⁿ-sòi; cheng-mûiⁿ. fastidious, tiau-khiâu-chia̍h. in taste and flavour, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. delicacies, tien-bī; peh-bī; tien-siu peh-pī; suaⁿ-tien hái-bī.
 * delight, huaⁿ-hí; khùai-la̍k. delight in, hàuⁿ; zua̍t. delightful, khó-hí; hó-zua̍t-ma̍k; hó-khai-huâi; tshù-bī. delighted, sóng-khùai; suáng-khùai; khùai-thiàng; thiàng-ì.
@@ -209,7 +209,7 @@
 * dice, tâu-kiáⁿ; kut-tâu. dice box, tâu-kiáⁿ-a̍p. gamble with dice, pua̍h-tâu-kiáⁿ. loaded dice, kùan-în-tâu.
 * dictate, hun-hù; mẽng-lẽng. write to my dictation, uá-liām lṳ́-siá.
 * dictionary, jī-tién; jī-lūi. rhyming, si-ūn; kiám-ūn.
-* die, to, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̍; tsak-kóu. see DECEASE. by one's own hand, tsṳ̃-shĩn. of disease, pēⁿ-sí. of hunger, gō-sí. of cold, kûaⁿ-sí.
+* die, to, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̀; tsak-kóu. see DECEASE. by one's own hand, tsṳ̃-shĩn. of disease, pēⁿ-sí. of hunger, gō-sí. of cold, kûaⁿ-sí.
 * die, a, chîⁿ-bôu; jī-bôu.
 * diet, to, as sick person, khiēⁿ-tshùi; kài-kháu.
 * differ, ũ-hun-pie̍t; õi-koh-iēⁿ; m̄-sie-tâng; m̄-pêⁿ-iēⁿ; m̄-che̍k-iēⁿ; m̄-chhin-chhiẽⁿ. slightly, tsua̍h-m̄-ũa; tsua̍h-m̄-hñg; tsua̍h hun-hun; tãi-tâng siáu-ĩ; tsha-m̄-to. to quarrel, seⁿ-hiâm-khiah; kāng-nâng ũ-ūe. make up a difference, thiâu-ti̍t; thiâu-hûa.
@@ -222,11 +222,11 @@
 * dike, toi; toi-ngãi. to make a, tsho-toi.
 * dilapidated, tó; thap-khang hùi-tũi; huang-hāi; phùa-phùa.
 * dilate, pùa-iâng; tièⁿ-khui; chiãm-khùaⁿ.
-* dilatory, tũaⁿ; mān; în-tîⁿ; kau-tîⁿ-lâi kau-tîⁿ-khṳ̍; thû-mān.
+* dilatory, tũaⁿ; mān; în-tîⁿ; kau-tîⁿ-lâi kau-tîⁿ-khṳ̀; thû-mān.
 * diligent, ēng-kang; khṳ̂n-kang; khṳ̂n; tsuan-kang; la̍t-kang; tshut-la̍t.
 * dill, sié-hûe; hûe-hieⁿ. water, hûe-hieⁿ-tsúi.
 * dilute, thàu-po̍h; thàu-tsúi; tshong-tsúi; tshong-po̍h.
-* dim, àm; sit-kng m̄-hīn; bū-bū. dim-sighted, ma̍k-chiu hue; ma̍k hue; ma̍k bū. grow dim, as picture, hùe--khṳ̍. dimly seen, ṳ́n-ṳ́n iak-iak.
+* dim, àm; sit-kng m̄-hīn; bū-bū. dim-sighted, ma̍k-chiu hue; ma̍k hue; ma̍k bū. grow dim, as picture, hùe--khṳ̀. dimly seen, ṳ́n-ṳ́n iak-iak.
 * diminish, kiám; tṳ̂-kiám; khà-kiám; kiám-chié. the population, as epidemic, kiám-nâng-kháu.
 * dimity, siâ-bûn-pòu.
 * dimple, in chin, ẽ-hâi-tsuh. in cheeks, chiú-tsuh.
@@ -417,7 +417,7 @@
 * drain, tsúi-kau; sái-kau. drain a place, làu-tiāu-tsúi. off water as through strainer, tè-tsúi.
 * drake, ah-hêng.
 * draught, see DRAFT. of fish, che̍k-mãng-hṳ̂. of wind, thong-huang. in a draught, tng-huang-lōu.
-* draw, thua; po̍ih; túi. water, kũaⁿ-tsúi; pua̍h-tsúi. out, po̍ih-tshut; mán-tshut; thua-tshut. teeth, khieh-khí. a sliding window, thuah. a sword, po̍ih-kiàm; po̍ih-to. poison, po̍ih-ta̍k. a bow, khui-keng; mán-keng. oneself together in a heap, kiu-kiu niuⁿ-niuⁿ. draw up one's legs, kha kiu--khí-lâi. draw breath, tháu-khùi (also, to sigh). opium-smoke, kuh-hun; po̍k-hun. lots, khieh-khau; po̍ih-chhiam; thiu-chhiam-kiáⁿ. a carriage, thua-chhia. nails, po̍ih-teng; kiãu-teng. a net, po̍ih-mãng; chhiû-mãng. draw near, túi-bûa. near (approach), kiâⁿ-bûa; chiũ-kṳ̃n; kṳ̃n-bûa. attention, ín-tõng nâng-sim; tõng nâng-sim-ma̍k. up a line of battle, pâi-tīn. a list, khui-mêng kak-mue̍h; kiám-tiám. as loadstone, hiap-bûa. out of the water, liâu; kou. a splinter, liàm-tshut; túi-tshut; thie-tshut (with a needle). blood, lâu-hueh; pàng-tshut-hueh. money from bank, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n; tùi-ngṳ̂u. a curtain, liâm sa-khui; liâm kiáu-phû. draw away, ín-tshūa. entice, ín-iú; iú-ho̍k. draw on stockings, chhēng-bue̍h. draw back, tò-thò; thò; thò-pōu.
+* draw, thua; po̍ih; túi. water, kũaⁿ-tsúi; pua̍h-tsúi. out, po̍ih-tshut; mán-tshut; thua-tshut. teeth, khieh-khí. a sliding window, thuah. a sword, po̍ih-kiàm; po̍ih-to. poison, po̍ih-ta̍k. a bow, khui-keng; mán-keng. oneself together in a heap, kiu-kiu niuⁿ-niuⁿ. draw up one's legs, kha kiu--khí-lâi. draw breath, tháu-khùi (also, to sigh). opium-smoke, kuh-hun; po̍k-hun. lots, khieh-khau; po̍ih-chhiam; thiu-chhiam-kiáⁿ. a carriage, thua-chhia. nails, po̍ih-teng; kiãu-teng. a net, po̍ih-mãng; chhiû-mãng. draw near, túi-bûa. near (approach), kiâⁿ-bûa; chiũ-kṳ̃n; kṳ̃n-bûa. attention, ín-tõng nâng-sim; tõng nâng-sim-ma̍k. up a line of battle, pâi-tīn. a list, khui-mêng kak-mue̍h; kiám-tiám. as loadstone, hiap-bûa. out of the water, liâu; kou. a splinter, liàm-tshut; túi-tshut; thie-tshut (with a needle). blood, lâu-hueh; pàng-tshut-hueh. money from bank, khṳ̀-ngṳ̂n-hâng khie̍h-ngṳ̂n; tùi-ngṳ̂u. a curtain, liâm sa-khui; liâm kiáu-phû. draw away, ín-tshūa. entice, ín-iú; iú-ho̍k. draw on stockings, chhēng-bue̍h. draw back, tò-thò; thò; thò-pōu.
 * draw, pictures, ūe-ūe; ūe-ang-kiáⁿ; ūe-sièⁿ. a line, ūe-hûn; phah-keh. a landscape, ūe-suaⁿ-tsúi. a map, ūe-tôu. one's portrait, ūe-sièⁿ; ūe-hí-sîn; ūe-siáu-iáⁿ.
 * drawbridge, tiàu-kiê.
 * drawer, keh; tshn̂g-keh; kūiⁿ-keh. open a drawer, khui-keh. bureau with many drawers, peh-chí-keh.

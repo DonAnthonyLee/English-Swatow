@@ -85,7 +85,7 @@
 * opposite, siang-huán; tùi-mīn; sie-tùi.
 * oppress, khiâng-iap; ngẽ-iap; khi-iap; khi-hũ; uan-uáng. oppressive, khek-pak (extortion); khóu-to̍k; khóu-ngia̍k.
 * opprobrium, lêng-zo̍k; sit-zo̍k.
-* or, ho̍k; ho̍k-sĩ; at-ho̍k. is it or not? sĩ a-m̄-sĩ? either you or I must go, lṳ́-uá nõⁿ-nâng tie̍h-ũ che̍k-nâng-khṳ̀; lṳ́ m̃-khṳ̍ uà chiũ-tie̍h-khṳ̀.
+* or, ho̍k; ho̍k-sĩ; at-ho̍k. is it or not? sĩ a-m̄-sĩ? either you or I must go, lṳ́-uá nõⁿ-nâng tie̍h-ũ che̍k-nâng-khṳ̀; lṳ́ m̃-khṳ̀ uà chiũ-tie̍h-khṳ̀.
 * opulent, ũ-chîⁿ; huat-tshâi; pù; pù-ũ; pù-kãu; pù-tsok.
 * orange, kaⁿ; tãi-kit. common, soh-kaⁿ. loose-skinned, phàⁿ-tháng-kaⁿ; bi̍t-tháng-kaⁿ; phòng-tháng-kaⁿ. peel, kaⁿ-phûe. jam, chhêng-ko. very small orange, kit; kit-kiáⁿ; tiâm-kit; sng-kit.
 * orb, of moon, gu̍eh-lûn; gu̍eh-îⁿ.
