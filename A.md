@@ -264,7 +264,7 @@
 * anvil, thih-tiam.
 * anus, pùn-mn̂g-kháu.
 * anxiety, khùa-lṳ̃; huân-ló; khùa-sim; iu-ut; ut-būn.
-* any, one, put-lũn tî-tiâng; huâm-sĩ-mih-nâng. where, put-lũn hô-tshù; put-lũn tî-kò. is there any more? Huân-ũ a-bô? is there anybody in? ũ-nâng-tõ--bô? anyhow, sûi-piẽn; sûi-sûi piẽn-piẽn.
+* any, one, put-lũn tî-tiâng; huâm-sĩ-mih-nâng. where, put-lũn hô-tshù; put-lũn tî-kò. is there any more? huân-ũ a-bô? is there anybody in? ũ-nâng-tõ--bô? anyhow, sûi-piẽn; sûi-sûi piẽn-piẽn.
 * apart, keh-pie̍t; kak-pie̍t; lî-khui. how far? siang-lî jie̍h-hñg?
 * apartment, pâng; pâng-koiⁿ. female, chhim-kui; kui-pâng; chhim-kui tièⁿ-lãi.
 * apathy, bô-sim; néⁿ-ì; néⁿ-tãⁿ; tãⁿ-tãⁿ.
@@ -276,18 +276,18 @@
 * apothecary, ie̍h-tshâi-kheh; khui ie̍h-tshâi-phòu; ie̍h-phòu tshâi-tsú.
 * apparel, i-ho̍k; ho̍k-sek; sin-chhēng; saⁿ-khòu; kûn-saⁿ.
 * appear, huat-hīn; tshut-hīn; lòu-tshut; hién-lòu; tù-hīn; lòu-hīn; hién-hīn; hién-mêng. appearance, héng-iông; mīn-mãuⁿ; gūa-mãuⁿ; hêng-tsuãng; tsuãng-mãuⁿ.
-* appease, khn̍g-sek; khn̍g--nâng màiⁿ-khì; sái--nâng sek-khì; sài--nâng hûe-sim. appeased, sek-sáuⁿ; sèⁿ lo̍h; siẽⁿ-tn̍g; siẽⁿ-khui.
+* appease, khǹg-sek; khǹg--nâng màiⁿ-khì; sái--nâng sek-khì; sài--nâng hûe-sim. appeased, sek-náuⁿ; sèⁿ lo̍h; siẽⁿ-tńg; siẽⁿ-khui.
 * appellation, hãu; miâⁿ-jī.
-* append, kùa; tah; chiap-so̍k; chiap-búe. appendix, chiap-ngàn; póu-ngân.
+* append, kùa; tah; chiap-so̍k; chiap-búe. appendix, chiap-ngân; póu-ngân.
 * appertain, so̍k; ũ-kan-sia̍p.
 * appetite, siẽⁿ-chia̍h; tóu iau sṳ-chia̍h; siẽⁿ-àiⁿ-chia̍h. no, chia̍h-m̄-lo̍h; ūi-kháu sat; ūi-kháu m̄-khui. to tempt the, õi-khui ūi-kháu.
 * applaud, o-ló; chheng-tsàn, in a loud voice, tuah-tshái; háu-siaⁿ o-ló.
 * apple, phîn-kúe.
 * apply, the mind, ēng-sim; tsuan-sim. applicable, kah-ēng; ha̍h-ēng; kah-tit-lo̍h.
 * appoint, siet-li̍p; hun-phài; hong-kuaⁿ. a time, tiāⁿ-khî; ieh-khî. appointment, cheh-jĩm; cheh-hūn. to receive, siũ-thoh; sêng-thoh. at the appointed time, kàu-khî.
-* apprehend, a person, lia̍h. meaning, hiáu--tit; mêng-pe̍h; thiaⁿ-mêng; thiaⁿ pat-kò-khṳ̍. see FEAR.
+* apprehend, a person, lia̍h. meaning, hiáu--tit; mêng-pe̍h; thiaⁿ-mêng; thiaⁿ pat-kò-khṳ̀. see FEAR.
 * apprentice, thû-tĩ; sai-kiáⁿ; tĩ-tsṳ́.
-* approach, kiâⁿ-bûa; lâi-kṳ̃n; kṳ̃n-bûa; chiũ-kṳ̃n; kṳ̃n-tsôiⁿ; kṳ̃n-piⁿ; chín-bûa.
+* approach, kiâⁿ-bûa; lâi-kṳ̃n; kṳ̃n-bûa; chiũ-kṳ̃n; kṳ̃n-tsôiⁿ; kṳ̃n-piⁿ; chìn-bûa.
 * approbation, huaⁿ-hí; zua̍t-ì.
 * appropriate, ha̍h-sek; kah-ēng; siang-ha̍h; kah-kah.
 * approve, tsún; huaⁿ-hí; zua̍t-ì; kùe-ì; ha̍h-ì.
