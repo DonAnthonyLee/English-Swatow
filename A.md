@@ -212,7 +212,7 @@
 * ambitious, tsṳ̃-tsun; tsṳ̃-tōa; ũ-tãi-chì; chì tōa; chì-khì kau; chì-liãm kûiⁿ.
 * amble, tsho̍k; tsho̍k-tsho̍k-thiàu.
 * ambush, ho̍k-piaⁿ; tshâng-piaⁿ; mâiⁿ-ho̍k.
-* amend, kói-kùe; kói-chiàⁿ; chhiâⁿ-kói; chhiâⁿ-hó; kói-hô. one’s ways, kui-chiàⁿ; kói-ak kiâⁿ-siẽn.
+* amend, kói-kùe; kói-chiàⁿ; chhiâⁿ-kói; chhiâⁿ-hó; kói-hó. one’s ways, kui-chiàⁿ; kói-ak kiâⁿ-siẽn.
 * America, A-múiⁿ-lĩ-kia; Múiⁿ-kok; Hue-kî-kok.
 * amiable, khó-ài; hó-sieh; tshūa-nâng-sieh; un-hûa; un-jiû.
 * amicable, hûa; hûa-mo̍k; hûa-míⁿ. very, hûa-hûa míⁿ-míⁿ.
