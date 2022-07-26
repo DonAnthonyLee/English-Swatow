@@ -33,7 +33,7 @@
 * Neptune, hái-lêng-uâng.
 * nerve, náuⁿ-kṳn; náuⁿ-si; náuⁿ-kṳn-si.
 * nest, tshâu; tàu; siū (with young birds). make a, tsoh-siū. of thieves, tsha̍t-tàu; tsha̍t-hua̍t; tsha̍t-tshâu; tsha̍t-o. of articles of larger and smaller size, with smaller lying inside larger, chek-thun.
-* net, mãng; tsan; nôiⁿ. weave, kit-mãng; phah-mãng. cast, pha-mãng. set, hē-mãng; lo̍h-mãng. catch fish in, mãng-hṳ̂.
+* net, mãng; tsan; nôiⁿ. weave, kit-mãng; phah-mãng. cast, pha-mãng. set, hẽ-mãng; lo̍h-mãng. catch fish in, mãng-hṳ̂.
 * never, tsóng-bô; būan-bô. yet, tshông-tsôiⁿ būe-ũ; tsṳ̃-liáu m̄-pat. mind, bô-siang-kan; chhìn-tshái; m̄-kàu tî-kò-khṳ̀; bô-tì-chhiet; bò-chhiet-iàu; bô-kai-tsài. he will never come, ióng-kú bô-lâi. this will never do, chièⁿ-seⁿ m̄-tsò-tit. nevertheless, hûan-liáu.
 * new, sin. style, sin-khúan; sin-siãng. your, sin-nîⁿ. new year's eve, kùe-nîⁿ; ji̍h-káu saⁿ-tsa̍p mêⁿ. new year's day, chiaⁿ--gue̍h chhiu-it. newly made, sin-tsò. news, sin-bũn; sie-sit. newspaper, sin-bũn-tsúa.
 * next, after another, sie-sùa; tõiⁿ-jī. month, ẽ-kâi-gue̍h; ãu-kâi-gue̍h. day, mêng-ji̍t; mùaⁿ-khí; mùaⁿ-tsá. year, mêⁿ-nîⁿ; mêng-nîⁿ. time, ẽ-hûe; ãu-pái.
@@ -42,7 +42,7 @@
 * nickname, nâng tsũan kâi-miâⁿ; phì-sièⁿ kâi-miâⁿ.
 * niece, tie̍t-nńg; nńg-tie̍t; gūa-seng-nńg (sister's daughter).
 * niggardly, kiâm-siap; kiâm; liẽn-siap; kien-liẽn; chhiú-thâu tōiⁿ; siáu-khièn; niauh-siauh.
-* night, mêⁿ. last, tsà-mêⁿ. to-night, kim-mêⁿ; mêⁿ-hng. journey by, kiâⁿ-mêⁿ-lōu. time, mêⁿ--kùa; mêⁿ--tsṳ́. late at, mêⁿ-âm; keⁿ chhim; àm. dress, gu̍t-saⁿ. night-mare, māng-kìⁿ-kúi; chin-kìⁿ-kúi; bái-kúi teh. nightly, pâi-mêⁿ; pâi-mêⁿ-àm. first half of night, chiēⁿ-pùaⁿ-mêⁿ.
+* night, mêⁿ. last, tsà-mêⁿ. to-night, kim-mêⁿ; mêⁿ-hng. journey by, kiâⁿ-mêⁿ-lōu. time, mêⁿ--kùa; mêⁿ--tsṳ́. late at, mêⁿ-àm; keⁿ chhim; àm. dress, gu̍t-saⁿ. night-mare, māng-kìⁿ-kúi; chin-kìⁿ-kúi; bái-kúi teh. nightly, pâi-mêⁿ; pâi-mêⁿ-àm. first half of night, chiēⁿ-pùaⁿ-mêⁿ.
 * nimble, kha khin-khiáu; kha khin, chhiú khùe.
 * nine, káu; khùai. nineteen, tsa̍p-káu.
 * nip, nihⁿ; liàm (more severely). with nippers, khîⁿ; koih. nippers, thih-khîⁿ; thih-kîⁿ; niap-kiáⁿ; nihⁿ-kiáⁿ; kia̍p-kiáⁿ; koih-kiáⁿ.
@@ -54,7 +54,7 @@
 * noise, siaⁿ; hiáng; kiè. make a great, tshàu-nãuⁿ; hā-hā-kiè; kā-kā-kiè; kā-kā-jiáng.
 * noisome, õi-hāi-nâng; tshàu-hièn (smell).
 * nominal, merely, ũ-miâⁿ bô-si̍t; ũ-khî-miâⁿ bô-khî-si̍t. rank, khang-hâm (brevet rank).
-* none, bô; bô-che̍k-kâi; kâi-kâi-bô; tsǹg-kâi-bô.
+* none, bô; bô-che̍k-kâi; kâi-kâi-bô; tsn̂g-kâi-bô.
 * nonsense, thèng-tàⁿ; bô-sueh; bô-chhêng bô-lí; hû-sueh.
 * noon, ji̍t tàu; ngõu-sî; tng-ngóu; chiàⁿ-ngóu.
 * noose, to make a, thám-seⁿ-khou.
@@ -64,7 +64,7 @@
 * notch, khih. in arrow, hâm; ngám.
 * note, written, kò-jī. musical, ngóu-im la̍k-lu̍t. commentary, tsù-kói. down, kì; kì-lo̍k. -book, kì-phõu; tshûn-phõu; tsài-phõu. money, chîⁿ-phiè; ngṳ̂n-toaⁿ.
 * notice, to, tsai-thóiⁿ; tsai-kuan; kak-tshat. when one is not noticing; unawares, put-kak. a public, kàu-pe̍h (advertisement); kò-sī (proclamation). notify, ta̍t-tsai; thong-tsai; pò-tsai.
-* notion, ì-kièn; î-sṳ̀; siẽⁿ-thâu.
+* notion, ì-kièn; ì-sṳ̀; siẽⁿ-thâu.
 * notorious, chèng-nâng só-tsai--kâi; tshàu-miâⁿ.
 * nourish, iáng; iáng-io̍k; bú-iáng; chhī.
 * novel, a, siáu-sueh; gūa-tsṳ; kóu-tn̄g.
