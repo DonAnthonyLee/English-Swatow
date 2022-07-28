@@ -121,11 +121,11 @@
 * wise, hiên; ũ-tì-hũi; kau-mêng; ũ-kièn-sek; ũ-tì-sek; ũ-tshâi-tì; ũ-tshâi-ha̍k.
 * wish, àiⁿ; ngũan; ngũan-mōⁿ; siẽⁿ-mōⁿ; siẽⁿ-àiⁿ; him-iẽn; it--tie̍h. according to one's wish, zû-ì; zû-ngũan.
 * wit, ki-khá; sim-khiàu méⁿ; ua̍h-phuah; lêng-ki èng-pièn. frightened out of one's wits, kiâⁿ-kàu-kông; kiaⁿ-kàu-ngo̍h.
-* witch, thóiⁿ-siàⁿ-phûa; loo̍h-sîn-phûa; tshai-kou-î (spiritualist medium). -craft, siâ-su̍t; bû-su̍t; huap-su̍t; iau-su̍t.
+* witch, thóiⁿ-siàⁿ-phûa; lo̍h-sîn-phûa; tshai-kou-î (spiritualist medium). -craft, siâ-su̍t; bû-su̍t; huap-su̍t; iau-su̍t.
 * with. to carry with one, tòa-tõ-sin. talk with you, kāng-lṳ́ tàⁿ-ūe. walk with you, kāng-lṳ́ tsò-pû-kiâⁿ; kiau-lṳ́ tsò-pû-khṳ̀; kah-lṳ́-khṳ̀. agrees with this, kāng-chí-kâi siang-ha̍h. with a pen, ēng-pit; tsang-pit; chiang-pit; khiâ-pit. with the hand, tsang-chhiū. with respect to, lũn; lũn-ki̍p; chì-i; tàⁿ-kàu; lũn-kàu.
 * withdraw, to, thò; thò-sî; sî-siā; sià-sṳ̄; thò-cheh.
 * sither, to, as flowers, kou-ta; ta; ta-ki; siā.
-* within, tõ-lãi; lãi-mīn; tói-mīn; lãi--tang; lãi--teng; lãi-thâu. within a month, m̄-chiẽⁿ kâi-gu̍eh; put-tshut kâi-gu̍eh; tõ-che̍k-gu̍eh-lãi; tõ-chí-gu̍eh-tói. within doors, tõ-mn̂g-lãi; tō-ke-lãi; tõ-tshù-lãi. within a step of death, hiám-hiám-sí; tsu̍ah-se-su chiũ-sí.
+* within, tõ-lãi; lãi-mīn; tói-mīn; lãi--tang; lãi--teng; lãi-thâu. within a month, m̄-chiẽⁿ kâi-gu̍eh; put-tshut kâi-gu̍eh; tõ-che̍k-gu̍eh-lãi; tõ-chí-gu̍eh-tói. within doors, tõ-mn̂g-lãi; tõ-ke-lãi; tõ-tshù-lãi. within a step of death, hiám-hiám-sí; tsu̍ah-se-su chiũ-sí.
 * without, tõ-gūa; gūa-mīn; gūa-thâu. money, bô-chîⁿ; khueh-chîⁿ. fear, bô-só-ùi. better without it, put-zû-bô kèng-hó; su-kùe-bô; lêng-tsò-bô. cannot do without it, bô chiũ-m̄-tsò-tit; chhiet-iàu tie̍h-ũ.
 * withstand, tí-tng; tang-tsũ; tng-tsũ; tùi-te̍k; khàng-kṳ̃; khàng-nge̍k; sie-káu-ke̍h.
 * witness, a, kan-chèng; thih-kan-chèng. an eye-witness, chèng-kìⁿ; chhin-ma̍k thóiⁿ--kìⁿ. to bear, tsò-kan-chèng; tsò-chèng-kìⁿ. false, buáng-chèng. to suborn false witnesses, bói-chèng.
