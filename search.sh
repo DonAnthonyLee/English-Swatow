@@ -5,7 +5,7 @@ show_usage() {
 	echo "Examples:"
 	printf "\e[33m\t$0 tseng3-nang5\e[0m\n"
 	printf "\e[33m\t$0 \"tshiu2 sng\" A.md\e[0m\n"
-	printf "\e[33m\tfind ./ -name "*.md" -exec $0 \"tshiu2 sng\" {} \;\e[0m\n"
+	printf "\e[33m\tfind ./ -name \"*.md\" -exec $0 \"tshiu2 sng\" {} \;\e[0m\n"
 }
 
 inform_invalid_patterns() {
