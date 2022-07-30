@@ -3,8 +3,8 @@
 show_usage() {
 	echo "Usage: $0 syllables_pattern [files_pattern]"
 	echo "Examples:"
-	printf "\e[33m\t$0 siang-lai5-kann2\e[0m\n"
-	printf "\e[33m\t$0 \"kue3 tso3\" *.md\e[0m\n"
+	printf "\e[33m\t$0 tseng3-nang5\e[0m\n"
+	printf "\e[33m\t$0 \"tshiu2 sng\" *.md\e[0m\n"
 }
 
 inform_invalid_patterns() {
@@ -29,7 +29,7 @@ convert_pattern() {
 
 	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/ur/ṳ/g'`
 	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/w/ṳ/g'`
-	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/nn/ⁿ/g'`
+	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/nn$/ⁿ/'`
 
 	SYLLABLES=`echo "$SYLLABLES" | sed -r 's/^ch([a,o,ṳ,u])/ts\1/'`
 	SYLLABLES=`echo "$SYLLABLES" | sed -r 's/^chh([a,o,ṳ,u])/tsh\1/'`
@@ -48,17 +48,26 @@ convert_pattern() {
 		return 0;
 	fi
 
-	# FIXME: ûan / uân ...
-	# ADVICE: readjust all modifiable tone characters of "-ua-" or "-ue-" or "-ui-", see "utils/replace-tone-characters.sh"
-
 	syllable_len=`echo "$SYLLABLES" | awk -F "" '{print NF}'`
 	SYLLABLES_PREFIX=""
+	VOWEL=""
 	for v in a e o ṳ u i m n; do
 		echo "$SYLLABLES" | grep "$v" > /dev/null 2>&1
 		[ "$?" != 0 ] && continue
 		SYLLABLES_PREFIX="${SYLLABLES/${v}*/${v}}"
+		VOWEL="$v"
 		break
 	done
+
+	if [ -z "$VOWEL" ]; then
+		for v in A E O Ṳ U I M N; do
+			echo "$SYLLABLES" | grep "$v" > /dev/null 2>&1
+			[ "$?" != 0 ] && continue
+			SYLLABLES_PREFIX="${SYLLABLES/${v}*/${v}}"
+			VOWEL="$v"
+			break
+		done
+	fi
 
 	if [ "x$SYLLABLES_PREFIX" = "x" ]; then
 		printf "$SYLLABLES"
@@ -79,7 +88,23 @@ convert_pattern() {
 		8) TONE_STR=`printf "\xCC\x8D"`;;
 	esac
 
+	if [ $prefix_len -gt 1 ]; then
+		pos=$prefix_len;
+		((pos-=2))
+		CHAR_PRE=${SYLLABLES:${pos}:1}
+		if [ "x${CHAR_PRE}" = "xu" -o "x${CHAR_PRE}" = "xU" ]; then
+			if [ "x$VOWEL" = "xa" -o "x$VOWEL" = "xA" -o "x$VOWEL" = "xE" -o "x$VOWEL" = "xe" ]; then
+				SYLLABLES_PREFIX=${SYLLABLES:0:${pos}}
+				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}(${CHAR_PRE}${TONE_STR}${VOWEL}"
+				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}|${CHAR_PRE}${VOWEL}${TONE_STR})"
+				printf "${SYLLABLES_PREFIX}${SYLLABLE_SUFFIX}"
+				return 0
+			fi
+		fi
+	fi
+
 	printf "${SYLLABLES_PREFIX}${TONE_STR}${SYLLABLE_SUFFIX}"
+
 	return 0
 }
 
@@ -137,7 +162,7 @@ done
 echo "PATTERNS_CONVERTED    = \"${PATTERNS_CONVERTED}\""
 echo "DEFAULT_FILES_PATTERN = \"${DEFAULT_FILES_PATTERN}\""
 echo "----------------------------------------------------"
-find ./ -name "${DEFAULT_FILES_PATTERN}" -exec grep --color "${PATTERNS_CONVERTED}" {} \;
+find ./ -name "${DEFAULT_FILES_PATTERN}" -exec grep --color -E "${PATTERNS_CONVERTED}" {} \;
 
 exit 0
 
