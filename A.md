@@ -342,11 +342,11 @@
 * asleep, tõ-u̍t; tõ-gu̍t; gu̍t--khṳ̀-liáu.
 * aspect, hêng-iông; iông-mãuⁿ; mīn-sek; mīn-mãuⁿ.
 * asperity, kín-sèⁿ; tshou-siap; oh-thì-thâu; tò-thì.
-* asperse, húiⁿ-pãng; pãng-húiⁿ; tsham-húiⁿ iâu-pãng; pãng mâng-miâⁿ-sek.
+* asperse, húiⁿ-pãng; pãng-húiⁿ; tsham-húiⁿ iâu-pãng; pãng nâng-miâⁿ-sek.
 * ass, lṳ̂.
 * assail, kong; kong-khek; kong-phah.
-* assassin, àm-chẽⁿ thâi-nâng; kiàⁿ-tshn̍g; àm-hāi.
-* assault, khek-phah; kong-khek. a city, phah-siàⁿ.
+* assassin, àm-chẽⁿ thâi-nâng; kiàⁿ-tshǹg; àm-hāi.
+* assault, khek-phah; kong-khek. a city, phah-siâⁿ.
 * assay, chhì-thóiⁿ; chhì-tsò; thèng-tsãu-hùe. metal, chhì-kim.
 * assemble, chi̍p-hũe; tsũ-chi̍p; hũe-chi̍p; tsũ-hũe; chi̍p-bûa.
 * assent, tsún; zún-na̍p; khéng; hàuⁿ; na̍p-ì.
@@ -363,8 +363,8 @@
 * assuredly, tiāⁿ-tie̍h; mién-gî.
 * asthma, he-ku-thiu; he-tshúan; he-khì.
 * aster (China), kek-hue.
-* astonish, khṳt--nâng hãi-ĩ; sái-nâng khî-ĩ; kãi-ĩ nâng kâi zṳ́-ma̍k.
-* astounded, kiaⁿ-kàu hua̍h--chē-kiè; kiaⁿ-kàu hehⁿ--chē-kiè; kiaⁿ-kàu ngo̍h-ngo̍h; kiaⁿ-kàu kông-kông.
+* astonish, khṳt--nâng hãi-ĩ; sái-nâng khî-ĩ; hãi-ĩ nâng kâi zṳ́-ma̍k.
+* astounded, kiaⁿ-kàu hua̍k--chē-kiè; kiaⁿ-kàu hehⁿ--chē-kiè; kiaⁿ-kàu ngo̍h-ngo̍h; kiaⁿ-kàu kông-kông.
 * astray, tsáu-tshò-lōu; kiáⁿ-tāⁿ lōu-thû.
 * astride, khiâ-tsõ; khiâ-bé-tsõ; thí-kha-tsõ.
 * astringent, tau-tsũ, chí-sià-ie̍h; siu-liám.
@@ -378,12 +378,12 @@
 * atlas, tī-tôu; tī-lí-tôu.
 * atmosphere, thiⁿ-khì (weather).
 * atom, che̍k-tiám-kiáⁿ; se-su-kiáⁿ.
-* atone, so̍k-tsũe; so̍k-tn̍g tsũe-kùe.
+* atone, so̍k-tsũe; so̍k-tńg tsũe-kùe.
 * atrocious, hiong-ak; hiau-hiông.
 * attach, tah. a seal, khap-ìn.
-* attachment, siang-ài. great, sieh-tsãi lī-m̄-khui; lân-íⁿ kuah-siá; làn-íⁿ kuah-ài.
+* attachment, siang-ài. great, sieh-tsãi lī-m̄-khui; lân-íⁿ kuah-siá; lân-íⁿ kuah-ài.
 * attack, kong-khek. a city, kong-siâⁿ; phah-siâⁿ.
-* attain, tit; tit--tie̍h; kàu; ki̍p. attain literary rank, tit-kong-miâⁿ; ji̍p-o̍h. the various degrees, (1) ji̍p-siù-tsâi; (̂) tèng-kṳ́-jîn; (́) tèng-chìn-sṳ̃; (̀) tiám-hân-lím.
+* attain, tit; tit--tie̍h; kàu; ki̍p. attain literary rank, tit-kong-miâⁿ; ji̍p-o̍h. the various degrees, (1) ji̍p-siù-tsâi; (2) tèng-kṳ́-jîn; (3) tèng-chìn-sṳ̃; (4) tiám-hân-lím.
 * attempt, chhì-tsò; chhì-thóiⁿ; thèng-tsãu-hùe; thèng-hiau-hẽng.
 * attend, mind, ēng-sim; liû-sim. to business, pōiⁿ-sṳ̄; lí-sṳ̄. upon somebody, ho̍k-sṳ̃; sṳ̃-hāu; kṳn-sûi; tsáu-tãng; teng-tùe. on sick person, teng-tùe; khâng-khiâ.
 * attendants, kṳn-pan; kṳn-sûi.
@@ -392,7 +392,7 @@
 * auction, to sell by, pie-mue̍h-kiãⁿ; khà-lõi-lang.
 * aunt, paternal, a-kou. maternal, bó-î. aunt’s husband, a-tiẽⁿ; kou-tiẽⁿ.
 * audacious, káⁿ-táⁿ; tōa-táⁿ; káⁿ-tsak káⁿ-ûi.
-* audience, to have a large, tsōi-tsōi-nâng lâi-thiaⁿ. with a king, chhiâu-kìⁿ; chiẽⁿ-chhiâu; kìⁿ-kuâng-tì.
+* audience, to have a large, tsōi-tsōi-nâng lâi-thiaⁿ. with a king, chhiâu-kìⁿ; chiẽⁿ-chhiâu; kìⁿ-huâng-tì.
 * auspicious, kit; siâng; kit-tiãu; siâng-sũi.
 * austere, tsang-ngiâm; ngiâm-sok; kùe-ngiâm; ngiâm-khek.
 * authentic, chin; chin-si̍t; ũ-phêng-kṳ̃; ũ-khak-kṳ̃; si̍t-tsãi.
