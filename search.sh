@@ -1,10 +1,11 @@
 #!/bin/bash
 
 show_usage() {
-	echo "Usage: $0 syllables_pattern [files_pattern]"
+	echo "Usage: $0 syllables_pattern [args for grep]"
 	echo "Examples:"
 	printf "\e[33m\t$0 tseng3-nang5\e[0m\n"
-	printf "\e[33m\t$0 \"tshiu2 sng\" *.md\e[0m\n"
+	printf "\e[33m\t$0 \"tshiu2 sng\" A.md\e[0m\n"
+	printf "\e[33m\tfind ./ -name "*.md" -exec $0 \"tshiu2 sng\" {} \;\e[0m\n"
 }
 
 inform_invalid_patterns() {
@@ -42,6 +43,9 @@ convert_pattern() {
 	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/^tse/che/'`
 	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/^tshe/chhe/'`
 	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/^ze/je/'`
+
+	SYLLABLES=`echo "$SYLLABLES" | sed -r 's/([T,t])uaⁿ$/\1oaⁿ/'`
+	SYLLABLES=`echo "$SYLLABLES" | sed -r 's/([T,t])ua$/\1oa/'`
 
 	if [ "x$tone" = "x0" -o "x$tone" = "x1" -o "x$tone" = "x4" ]; then
 		printf "$SYLLABLES"
@@ -92,7 +96,11 @@ convert_pattern() {
 		pos=$prefix_len;
 		((pos-=2))
 		CHAR_PRE=${SYLLABLES:${pos}:1}
-		if [ "x${CHAR_PRE}" = "xu" -o "x${CHAR_PRE}" = "xU" ]; then
+		if [ "x${CHAR_PRE}" = "xo" -o "x${CHAR_PRE}" = "xO" ]; then # oa; oe; oi; &etc. 
+			SYLLABLES_PREFIX=${SYLLABLES:0:${pos}}
+			printf "${SYLLABLES_PREFIX}${CHAR_PRE}${TONE_STR}${VOWEL}${SYLLABLE_SUFFIX}"
+			return 0
+		elif [ "x${CHAR_PRE}" = "xu" -o "x${CHAR_PRE}" = "xU" ]; then # ua; ue
 			if [ "x$VOWEL" = "xa" -o "x$VOWEL" = "xA" -o "x$VOWEL" = "xE" -o "x$VOWEL" = "xe" ]; then
 				SYLLABLES_PREFIX=${SYLLABLES:0:${pos}}
 				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}(${CHAR_PRE}${TONE_STR}${VOWEL}"
@@ -129,8 +137,8 @@ echo "$1" | grep "\?" > /dev/null 2>&1
 [ "$?" != 0 ] || inform_invalid_patterns
 
 
-DEFAULT_FILES_PATTERN="*.md"
-[ "x$2" = "x" ] || DEFAULT_FILES_PATTERN="$2"
+GREP_ARGS="*.md"
+[ "x$2" = "x" ] || GREP_ARGS="$2"
 
 # TODO: -,*,? &etc.
 PATTERN_ARRAY=`echo "$1" | tr " " "\n" | tr "-" "\n"`
@@ -160,9 +168,9 @@ for p in $PATTERN_ARRAY; do
 done
 
 echo "PATTERNS_CONVERTED    = \"${PATTERNS_CONVERTED}\""
-echo "DEFAULT_FILES_PATTERN = \"${DEFAULT_FILES_PATTERN}\""
+echo "GREP_ARGS = \"${GREP_ARGS}\""
 echo "----------------------------------------------------"
-find ./ -name "${DEFAULT_FILES_PATTERN}" -exec grep --color -E "${PATTERNS_CONVERTED}" {} \;
+grep --color -E "${PATTERNS_CONVERTED}" ${GREP_ARGS}
 
 exit 0
 
