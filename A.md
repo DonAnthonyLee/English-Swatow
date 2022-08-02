@@ -404,20 +404,20 @@
 * avail, oneself of opportunity, sêng-ki-hũe; sêng-piẽn.
 * avaricious, covetous, tham-sim; tham-chîⁿ; àiⁿ-chîⁿ; hàuⁿ-chîⁿ; tham-khok. niggardly, kien-liẽn; tham-liẽn; khek-po̍h; kien-siap; liẽn-siap.
 * avenge, pò-chhiû; pò-uan; sin-uan.
-* avenue, chhiū-im kâi-lōu; chhiū-nàⁿ-tói kâi-lōu.
+* avenue, chhiū-im kâi-lōu; chhiū-nâⁿ-tói kâi-lōu.
 * average, thuaⁿ-pêⁿ; thua-tn̂g póu-tó.
 * averse, m̄-hàuⁿ; m̄-ha̍h-ì; tõaⁿ; m̄-ngũan; m̄-khéng.
-* avert, the face, ut-tn̍g-thâu; tn̍g-sin. calamity, pī-tsai; pī-hũa.
+* avert, the face, ut-tńg-thâu; tńg-sin. calamity, pī-tsai; pī-hũa.
 * aviary, chhī-chiáu-koiⁿ; chhī-chiáu-pâng.
 * avoid, pī; tô-pī; mién; tsáu-khṳ̀-tiàm; kiâⁿ-khui; pī-bûa.
-* await, thãi; tán; thẽng-kāu; thẽng; hāu; hāu-thãi.
+* await, thãi; tán; thẽng-hāu; thẽng; hāu; hāu-thãi.
 * awake, chhéⁿ; gu̍t-chhéⁿ; chhéⁿ--khí-lài. wide awake, lêng-cheng. awaken, hàm-chhéⁿ; kiè-chhéⁿ. the world, chhéⁿ-sì. awakening words, chhéⁿ-sì-gṳ́.
 * aware, thâu-soiⁿ-tsai; ṳ̃-pĩ; ṳ̃-tsai; soiⁿ-tsai ṳ̃-pĩ. before one is aware, put-kak.
 * away, lî-khui; lî-khṳ̀. gone, khṳ̀--liáu.
 * awe, ùi; ùi-kũ. dignity, ui-hong. awe-inspiring, ui-hong lím-lím; ui-hong hek-hek. awful, khó-ùi; khó-kèng-ùi; hó-kiaⁿ-ùi; tit-nâng-ùi; tshūa-nâng-ùi. put on an awe-inspiring appearance, tién-ui; théng-ui; chín-ui.
 * awhile, siap-sî; khùn-kiáⁿ.
 * awkward, tshou; tsuat; ngô-tsuat; lõu-tsuat; kông; m̄-hiáu lói-siàu; khong-khong-tiaⁿ; thèng-tshùang. with one’s limbs, kha-chhiú khie̍h bô-kò-khṳ̀.
-* awl, tsn̍g-kiáⁿ; keng-tsn̍g; tsam-tsn̍g.
+* awl, tsǹg-kiáⁿ; keng-tsǹg; tsam-tsǹg.
 * awn, chhek-mêⁿ.
 * awning, pòu-phâng; liâng-phâng; buan-thien-pòu; chia-ji̍t-pòu.
 * awry, tshúa; m̄-chiàⁿ; uai-tshúa; uai-siâ; khi-siâ.
