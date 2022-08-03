@@ -102,13 +102,13 @@
 * beef, gû-ne̍k.
 * beetle, thâng; kài-thâng. the kind that makes a noise like a reel, pháng-chhia-î.
 * befall, ngõ-tie̍h-sṳ̄. a sickness has befallen him, seⁿ-pēⁿ; tì-pēⁿ; tì-chèng.
-* befool, bú-lõng; sie-pin-tn̍g; lóng-tshái.
+* befool, bú-lõng; sie-pin-tǹg; lóng-tshái.
 * before, in time, tshông-tsôiⁿ; tsṳ̃-tsôiⁿ; ṳ̃-soiⁿ; soiⁿ-tsôiⁿ; soiⁿ; soiⁿ-ji̍t. in place, tsôiⁿ-mīn; mīn-tsôiⁿ; thâu-mīn-tsôiⁿ; thâu-tsôiⁿ. before and behind, soiⁿ-ãu; tsôiⁿ-ãu. just before (time), thâng-soiⁿ; thâng-kùa; tsá--tsûn. as before, jiông-kū; jêng-kū; i-ngûan. before the time, sî būe-kàu tsṳ-soiⁿ; sî-hāu būe-chêng-kàu; khah-soiⁿ; khah-tsá.
 * befoul, bua̍h--tie̍h nah-sap; mak--tie̍h nah-sap; hú--tie̍h nap-sap.
-* beg, khiû; khṳ́n-khiû; koh-lô. for alms, khṳt-chia̍h. beg pardon! m̄-tsai-thâu! sù-tsūe! tit-tsũe! sù--chē! sit-lót! tit-tsõ--tie̍h-lṳ́!
+* beg, khiû; khṳ́n-khiû; koh-lô. for alms, khṳt-chia̍h. beg pardon! m̄-tsai-thâu! sù-tsūe! tit-tsũe! sù--chē! sit-lói! tit-tsõ--tie̍h-lṳ́!
 * beget, seⁿ.
 * beggar, khṳt-chia̍h; kiâⁿ-bí; thó-chia̍h. beggarly, khṳt-chia̍h-iēⁿ.
-* begin, khí; khui-chhiú; khí-kang; khí-thâu-tsò; tsho-ē-tsò. a journey, khí-thêng; khí-sin; khí-kiaⁿ. beginner, chheⁿ-chhiú. beginning, tsho; tsho-thâu-ē; tsho-ē; khí-tsho; tsho-soiⁿ; khí-soiⁿ.
+* begin, khí; khui-chhiú; khí-kang; khí-thâu-tsò; tsho-ē-tsò. a journey, khí-thêng; khí-sin; khí-kiâⁿ. beginner, chheⁿ-chhiú. beginning, tsho; tsho-thâu-ē; tsho-ē; khí-tsho; tsho-soiⁿ; khí-soiⁿ.
 * begirt, hâ-tòa; pa̍k-tòa; sok-tòa.
 * begone, khùe-khùe-khṳ̀; mé-mé-khṳ̀; hó-tshut-khṳ̀--ūa; tshut-khṳ̀--a.
 * behalf, on behalf of one, thòi; ũi-tie̍h.
@@ -125,19 +125,19 @@
 * bellow, gû kiè.
 * bellows, lôu-kūiⁿ. to work, khan-lôu; khan-lôu-kūiⁿ.
 * belly, tóu; tõu. full, tóu pá. ache, tóu thiàⁿ.
-* belong, so̍k. belongs to you, sĩ lṳ́-kâi. he belongs to Swatou, i sĩ Sùaⁿ-thâu-nâng. this affair does not belong to me, chí-kiàⁿ-sṳ̄ ṳ́-uá bô-kan; kāng-uá bô-kan-sia̍p.
+* belong, so̍k. belongs to you, sĩ lṳ́-kâi. he belongs to Swatou, i sĩ Sùaⁿ-thâu-nâng. this affair does not belong to me, chí-kiãⁿ-sṳ̄ ṳ́-uá bô-kan; kāng-uá bô-kan-sia̍p.
 * beloved, tit-nâng-sieh; tshūa-nâng-sieh.
 * below, tõ-ẽ; tõ-tói; ẽ-mīn. on the ground, tõ-thôu-ẽ. below the ground, tõ-thôu-tói. below the sky, thiⁿ-ẽ (the world). below others, tõ-nâng-ẽ.
 * belt, tòa.
 * bemoan, thiàⁿ--tie̍h; khàu; thiàⁿ-khàu.
 * bench, íⁿ-tiâu; tn̂g-íⁿ. magistrate's, kong-ùaⁿ; ùaⁿ-tshn̂g.
-* bend, uan; uan-khek. the back, phak-ku; phak-ie. the body forward, thâu-khek phak-kẽ. the head backwards and look up, tièⁿ-khí-thâu; thâu-khak tièⁿ taⁿ-taⁿ; thâu tièⁿ-ngiáng; ngiáng-mīn. the arms behind the back, póiⁿ-káu-chhiú. a branch, tau--lo̍h-lâi; peⁿ--lo̍h-lâi.
+* bend, uan; uan-khek. the back, phak-ku; phak-ie. the body forward, thâu-khak phak-kẽ. the head backwards and look up, tièⁿ-khí-thâu; thâu-khak tièⁿ taⁿ-taⁿ; thâu tièⁿ-ngiáng; ngiáng-mīn. the arms behind the back, póiⁿ-káu-chhiú. a branch, tau--lo̍h-lâi; peⁿ--lo̍h-lâi.
 * beneath, ẽ; tõ-ẽ; ẽ-tói; ẽ-pôiⁿ; ẽ-mīn.
 * benediction, tsok-hok kâi-ūe.
-* benefactor, ṳn-jîn; ṳu-tsú.
+* benefactor, ṳn-jîn; ṳn-tsú.
 * beneficial, ũ-iah; ũ-lĩ-iah; ũ-kong-hāu.
 * benefit, to, sái ũ-iah; si-ṳn; lĩ; lĩ-iah.
-* benevolence, jìn-ài; jîn-tek; ṳn-hũi; jîn-tshṳ̂; jîn-ṳn; ṳn-chhêng. to shew, kiâⁿ-tek; si-hũi; si-ṳn.
+* benevolence, jîn-ài; jîn-tek; ṳn-hũi; jîn-tshṳ̂; jîn-ṳn; ṳn-chhêng. to shew, kiâⁿ-tek; si-hũi; si-ṳn.
 * benignity, tshṳ̂-ài; jîn-tshṳ̂; un-hûa.
 * bent, the body, sin phak-ku; ie tàm-ku. anything, khiau-hie̍h; uan-khek; khiau-khek.
 * benumbed, with cold, kûaⁿ kàu sin ngẽ. fingers, chhiú ngẽ.
@@ -148,9 +148,9 @@
 * besides, lêng-gūa; têng-ūaⁿ; tṳ̂-tshṳ́; hûan-liáu; siãng-chhiáⁿ; khùang-chhiáⁿ.
 * besiege, ûi-siâⁿ; ûi-khùn; khùn-siâⁿ.
 * besmear, kôu; buah; tôu; hú; zṳ́; phia̍k; hún; kài.
-* besom, sàu; sàu-siú; sàu-chiú; sàu-soi. soft one, mâng-hue-sàu; nn̍g-sàu-siú.
+* besom, sàu; sàu-siú; sàu-chiú; sàu-soi. soft one, mâng-hue-sàu; nńg-sàu-siú.
 * bespeak, tsham-siàng; tàⁿ-tiāⁿ-tie̍h; soiⁿ-tàⁿ.
-* best, siãng-hó; chì-hó; siãng-téng-hó; it-hó; ke̍k-hó. it would be best, pur-zû …… kèng-hó; put-zû.
+* best, siãng-hó; chì-hó; siãng-téng-hó; it-hó; ke̍k-hó. it would be best, put-zû …… kèng-hó; put-zû.
 * bestir, oneself, khat-khóu; tshut-la̍t; lâu-sim; khṳ̂n-la̍t; mién-la̍t.
 * bestow, sṳ̀; si; siéⁿ; sàng; pun; khṳt; ṳ́.
 * bestride, khiâ. a horse, khiâ-bé.
@@ -161,7 +161,7 @@
 * betroth, hṳ́-chhin; kat-hun; kit-hun; tiāⁿ-hun; sàng-phiàⁿ; phiàⁿ-tiāⁿ; tsò-chhin-chiâⁿ. betroth a girl to any one, tsò--pun-nâng; phiàⁿ--pun--nâng. betrothal presents, phiàⁿ-lói.
 * better, kèng-hó; zú-kèng-hó; hó--kùe; iâⁿ--kùe; kiêⁿ--kùe; sèng--kùe. he is better today, kim-ji̍t iáu-hó; iáu-tsha̍h. you had better, put-zû; m̄-pí; m̄-chhin-chhiẽⁿ.
 * between, tang; tìn-tang; tong-iang; tong-sim; tong-kan; lãi.
-* bewail, ai-khàu; thòng-khoh; thiàⁿ-khàu.
+* bewail, ai-khàu; thòng-khok; thiàⁿ-khàu.
 * beware, kṳ́n-sín; thî-huâng; kṳ́n-kù; kṳ́n-huâng.
 * bewidered, hũn-sim; kông-kông.
 * bewitch, iau-su̍t mîⁿ-nâng. bewitched, pĩ iau-su̍t só-mîⁿ; bua̍h--tie̍h; chhek--tie̍h.
