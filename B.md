@@ -1,7 +1,7 @@
 * babble, thèng-tàⁿ.
 * babe, nôuⁿ-kiáⁿ; sòi-kiáⁿ; eng-jî; eng-hâi; hâi-jî. babylish, a-nôuⁿ-kiáⁿ tsò-sṳ̄; a-nôuⁿ-kiáⁿ-khúan; nôuⁿ-kiáⁿ-tsōng.
 * bachelor, būe-tshūa-chhin; bô-bóu-ko.
-* back, ãu; pùe-ãu; ãu-mīn. turn back, hûe-túg. come back, hûe--lâi; tńg--lâi. the back, ka-chiah. behind one’s back, ka-chiah-ãu. drum on the back, as barber, tûi-ie; phah-pho̍k. pinch the back for rheumatism, lia̍h-pùe-kṳn. Backdoor, aũ-mn̂g. backroom, ãu-pâng. backside, ãu-pôiⁿ. of cloth, pòu-phak. of paper, tsúa-phak; tsúa-pùe. of a hill, suaⁿ-pùe; suaⁿ-ãu.
+* back, ãu; pùe-ãu; ãu-mīn. turn back, hûe-tńg. come back, hûe--lâi; tńg--lâi. the back, ka-chiah. behind one’s back, ka-chiah-ãu. drum on the back, as barber, tûi-ie; phah-pho̍k. pinch the back for rheumatism, lia̍h-pùe-kṳn. Backdoor, aũ-mn̂g. backroom, ãu-pâng. backside, ãu-pôiⁿ. of cloth, pòu-phak. of paper, tsúa-phak; tsúa-pùe. of a hill, suaⁿ-pùe; suaⁿ-ãu.
 * backbite, húiⁿ-pãng; pùe-ãu mēⁿ-nâng; pùe-ãu ngí-lũn.
 * backbone, ie-kut; ie-lêng-kut; ie-chiah-kut. lower part of, búe-lûn-kut. bunch-backed, ku-ie; ie hâu-hâu (more slight); ie hau-hau; hau-ie.
 * backslide, pũe-kà; pũe-sìn; tò-thò.
@@ -18,7 +18,7 @@
 * bake, pūe-piáⁿ; hang-piáⁿ. baking oven, piáⁿ-lôu; húe-lôu. baker, pūe-piáⁿ sai-pẽ; tsò-pau sai-pẽ.
 * balance, an account, chheng-siàu; tí-tṳ̂ chheng-tshó.
 * balances, thien-phêng.
-* bald, la̍h-chie̍h-thâu; thâu-khah hng-kng; thâu kng-nñg.
+* bald, la̍h-chie̍h-thâu; thâu-khak kng-kng; thâu kng-nñg.
 * bale, of goods, khún; tōa-khún.
 * bale, of goods, khún; tōa-khún. out water, ié-tiāu-tsúi.
 * ball, kiû. play foot-ball, that-kiû. eye ball, ma̍k-chiu-jîn.
@@ -32,20 +32,20 @@
 * banditti, che̍k-pan-tsha̍t; tsha̍t-khòu.
 * bane, ta̍k; ta̍k-mue̍h.
 * banian, tree, sêng-chhiū; chhêng-chhiū.
-* banishm khién-kun liû-thû (̀ degrees, first most severe). kun-liû-thû; tshong-kun; liû-thû; liû-tsũe; tshut-liû; thû-tsũe.
+* banish, khién-kun liû-thû (4 degrees, first most severe). kun-liû-thû; tshong-kun; liû-thû; liû-tsũe; tshut-liû; thû-tsũe.
 * bank; river embankment, toi. river bank, hô-kîⁿ. sand bank, sua-phiâⁿ; sau-pà. money, ngṳ̂n-hâng; ngṳ̂n-tiàm; chîⁿ-tiàm; kheng-si-phòu. notes, ngṳ̂n-toaⁿ.
-* bankrupt, tó-rièⁿ; phùa-ke.
+* bankrupt, tó-tièⁿ; phùa-ke.
 * banquet, toh-sia̍h; ím-àn. give, tsò-toh; siet-sia̍h; chhiáⁿ-àn; chhiáⁿ-chiú. hall, kheh-tn̂g; kau-lâu-kuán.
 * banter, hì-thâm; hí-chhiè-ūe; hó-chhiè kâi-ūe; hì-sńg.
-* baptism, sói-lói. by immersion, chìm-lói; ùn-lói. receive, niáⁿ-sói-lói. perform, kiàⁿ-sói-lói.
-* baptize, kiàⁿ-sói-lói. by immersion, kiâⁿ-chìm-lói.
+* baptism, sói-lói. by immersion, chìm-lói; ùn-lói. receive, niáⁿ-sói-lói. perform, kiâⁿ-sói-lói.
+* baptize, kiâⁿ-sói-lói. by immersion, kiâⁿ-chìm-lói.
 * bar, river, sua-thuaⁿ. of silver, ngṳ̂n-tiâu. door, tshùan; chhèng.
 * barb, of a hook, gṳ̃; kau-gṳ̃. barbed, seⁿ-ũ-gṳ̃.
 * barbarian, î-jîn; chheⁿ-huan; huan-nâng; mân-î; î-te̍k.
 * barbarous, hiau-hiông; aú-mân; sim-sèⁿ pãu; hiong-pãu.
 * barber, thì-thâu sai-pẽ.
 * bard, si-jîn; si-ong; si-kheh.
-* bare, kng; chhiah. body, lòu-thói; chhiah-sin; chhiah-ka-lit; chhiah-thói. to strip bare, as robbers, pak kàu sok-sok-theh; pak-kàu tñg-tiâu se-sùaⁿ. to strip bare, thn̍g-tiāu-saⁿ. barefoot, pak-chhiah-kha.
+* bare, kng; chhiah. body, lòu-thói; chhiah-sin; chhiah-ka-lit; chhiah-thói. to strip bare, as robbers, pak kàu sok-sok-theh; pak-kàu tñg-tiâu se-sùaⁿ. to strip bare, thǹg-tiāu-saⁿ. barefoot, pak-chhiah-kha.
 * barefaced, tek-sún-mīn; m̄-tsai siáu-lí; bô-liâm-chhí; mīn-phûe kãu.
 * barely, enough, khat-khat-kàu. doing any thing, kṳ́n-kṳ́n; siè-siè.
 * bargain, to fix, kè-chîⁿ tàⁿ-tiāⁿ-tie̍h; ieh-tiāⁿ; li̍p-ieh. bargain maker, tong-nâng.
