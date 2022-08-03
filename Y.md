@@ -1,4 +1,4 @@
-* ﻿yam, tōa-tsṳ̂.
+* yam, tōa-tsṳ̂.
 * yard, of a ship, tsûn-ûi-kǹg.
 * yard (measure), che̍k-bé.
 * yarn, se; mîⁿ-se.

@@ -157,7 +157,7 @@
 * wrath, see ANGER.
 * wreak, to, vengeance, soh-hṳ̃n; sia̍p-hún.
 * wreck, phùa-tsûn; pua̍h-phùa-tsûn; tiam-phùa-tsûn; pua̍h-tiāu-tsûn.
-* wren, chheⁿ-thî; thiau-liâu.
+* wren, chheⁿ-thî; chiau-liâu.
 * wrench, tsũn; tsũn-tshúa. off, tsũn-tiāu.
 * wrestle, sie-khím sie-mán; tòu-la̍t; tòu-la̍t pí-bú; lám-kau-pua̍h; pua̍h-kau.
 * wretched, khóu-miāⁿ; chhi-tshám; khiông-khóu; sin-chiēⁿ kan-khóu.
