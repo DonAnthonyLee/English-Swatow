@@ -331,7 +331,7 @@
 * brick, tsng. to make, sie-tsng. to lay, phou-tsng. kiln, sie-tsng-iê.
 * bride, sin-niêⁿ. bridal dress, chhie̍h-thâu. portion, kè-tsng; tsng-liâm.
 * bridegroom, sin-nn̂g; sin-niêⁿ-tia. ceremony of exchanging the bridal cups, ha̍h-kńg kau-pue; kau-pue uāⁿ-tsúaⁿ.
-* bridge, kiê. piers of, kiê-tún. arches of, kiê-chiu-mn̂g. floating, phû-kiê. of nose, phiⁿ-lêng-kut.
+* bridge, kiê. piers of, kiê-tún. arches of, kiê-chiu-mn̂g. floating, phû-kiê. of nose, phīⁿ-lêng-kut.
 * bridle, bé-soh. to draw, le̍k-bé. oneself, uaⁿ-hūn siú-kí.
 * brief, tó. synopsis, tiah-iàu; káng-lia̍k. see BREVITY.
 * brigade, iâⁿ; kun; che̍k-ki-kun.
@@ -341,14 +341,14 @@
 * brimstone, liû-n̂g.
 * brindled, hue-poiⁿ-sek.
 * brine, kiâm-tsúi; iâm-lóu.
-* bring, khie̍h--lâi; tòa--lâi; tsah--lâi. tea, tshong-tê--lâi. up, iâng; chhī; chhī-tōa. forth, seⁿ. back one's former feeling, ho̍k-tńg nâng kâi-tsho-sim.
+* bring, khie̍h--lâi; tòa--lâi; tsah--lâi. tea, tshong-tê--lâi. up, iáng; chhī; chhī-tōa. forth, seⁿ. back one's former feeling, ho̍k-tńg nâng kâi-tsho-sim.
 * brink, river, hô-kîⁿ; hô-piⁿ; khoi-kîⁿ.
 * brisk, ua̍h-tõng. trade, lāu-jie̍t; seng-lí jie̍t.
 * brisket, bûe-ne̍k.
 * bristle, tṳ-tsang-môⁿ.
 * britain, Tãi-Eng kok.
 * brittle, sou.
-* broad, khuah; khuah-khn̍g; khùaⁿ; khùaⁿ-chhēng. broadwise, hûeⁿ; hûeⁿ--sì; khuah-sì.
+* broad, khuah; khuah-khǹg; khùaⁿ; khùaⁿ-chhēng. broadwise, hûeⁿ; hûeⁿ--sì; khuah--sì.
 * brogue, hiang-thâm; thóu-ūe; gṳ́; thóu-gṳ́; thóu-thâm.
 * broil, a, tshàu-mãuⁿ; uan-ke lâ-chè. on the fire, sie-ne̍k.
 * broken, phùa; chi̍h. fragments, tshùi. hearted, sim sng. see BREAK.
