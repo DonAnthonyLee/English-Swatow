@@ -209,7 +209,7 @@
 * bleach, piè-pe̍h.
 * bleareyed, mîⁿ-ma̍k-kîⁿ.
 * bleat, iêⁿ mehⁿ-mehⁿ-kiè.
-* bleed, a patient, pàng-tshut-hueh; thie-hueh; tshn̍g-hueh. wound, tshut-hueh; lâu-hueh.
+* bleed, a patient, pàng-tshut-hueh; thie-hueh; tshǹg-hueh. wound, tshut-hueh; lâu-hueh.
 * blemish, ũ-hiâ--tshù. on one's reputation, miâⁿ-sek tiam-u.
 * blend, sie-tsham. metal, tsò-pû-iêⁿ.
 * bless, tsok; tsok-hok. as God, sṳ̀-hok; kàng-hok; hṳ́-hok.
