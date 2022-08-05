@@ -241,16 +241,16 @@
 * blunder, tshò; m̄-tie̍h.
 * blunt, edge, tun; bõi-lāi. point, lu; bõi-chiam. of a man, tun-kùe tṳ̄-thâu. outspoken, thóu-ti̍t.
 * blurred, printing, ìn-póiⁿ sie-hũn; ìn-póiⁿ kôu-kôu.
-* blush, siẽⁿ-tie̍h siáu-lí; siáu-llí kàu mīn âng-âng.
+* blush, siẽⁿ-tie̍h siáu-lí; siáu-lí kàu mīn âng-âng.
 * boar, tṳ-ko.
-* board, pang; póiⁿ. on board ship, tõ tsûn-téng. the six Boards, la̍k-põu. (1) Civil office, lī-põu. (̂) Punishment, hêng-põu. (́) Revenue, hõu-põu. (̀) Rites, lí-põu. (̃) War, piaⁿ-põu. (̄) Works, kang-põu. to board at an inn, hiah-tiàm; suah-hiah. wages and board, thàn-kang-chîⁿ chia̍h tshâi-tsú.
+* board, pang; póiⁿ. on board ship, tõ tsûn-téng. the six Boards, la̍k-põu. (1) Civil office, lī-põu. (2) Punishment, hêng-põu. (3) Revenue, hõu-põu. (4) Rites, lí-põu. (5) War, piaⁿ-põu. (6) Works, kang-põu. to board at an inn, hiah-tiàm; suah-hiah. wages and board, thàn-kang-chîⁿ chia̍h tshâi-tsú.
 * boast, tsṳ̃-khua; khua-kháu; la-kè; tàⁿ-tōa-ūe; sueh-huáng.
-* boat, tsûn; tsûn-kiáⁿ; théng-kiáⁿ; sam-pán. passage, tōu-tsûn. ferry, kùe-khoi-tōu; hûeⁿ-tōu. boatman, kuâⁿ-tsûn--kâi-nâng. head ditto, tãi-kong.
+* boat, tsûn; tsûn-kiáⁿ; théng-kiáⁿ; sam-pán. passage, tōu-tsûn. ferry, kùe-khoi-tōu; hûeⁿ-tōu. boatman, kiâⁿ-tsûn--kâi-nâng. head ditto, tãi-kong.
 * body, sin; sin-thói; sin-hūn; ne̍k-sin.
 * bodyguard, imperial, gṳ̄-lîm-kun; sĩ-ũe.
 * bog, che̍k-phiâⁿ-tsúi liù-liù-ku̍t.
 * Bohea, hill, Bú-î-suaⁿ.
-* boil, rice, tsṳ́-pm̄g; pû-pn̄g. tea, pû-tê. fish, sa̍h-hṳ̂. a fowl, tũn-koi. egg, sa̍h-nñg. half-boil, sa̍h-thn̄g-sim. thoroughly, sa̍h-se̍k; sa̍h-thàng-sim; pû-mîⁿ-mîⁿ; pû-lok-lok. the rice is not yet boiled, pn̄g būe-se̍k. rice boiled but not very soft, pn̄g khiū. boil water, pû-tsúi. boiling water, kún-tsúi. boiler, ue; pn̄g-ue; tê-ue; tâng-ue.
+* boil, rice, tsṳ́-pn̄g; pû-pn̄g. tea, pû-tê. fish, sa̍h-hṳ̂. a fowl, tũn-koi. egg, sa̍h-nñg. half-boil, sa̍h-thn̄g-sim. thoroughly, sa̍h-se̍k; sa̍h-thàng-sim; pû-mîⁿ-mîⁿ; pû-lok-lok. the rice is not yet boiled, pn̄g būe-se̍k. rice boiled but not very soft, pn̄g khiū. boil water, pû-tsúi. boiling water, kún-tsúi. boiler, ue; pn̄g-ue; tê-ue; tâng-ue.
 * boil, a, che̍k-lia̍p-thûe; zua̍h-pauh; pùi kat. on buttocks, tsõ-póiⁿ-tshng.
 * boisterous, wind, huang mé; huang tōa; khûang-huang tãi-tsak.
 * bold, káⁿ; táⁿ; káⁿ-káⁿ; káⁿ-ûi; ũ-táⁿ-la̍t; ũ-táⁿ-lia̍k; mùiⁿ-sí.
