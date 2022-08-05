@@ -1,11 +1,12 @@
 #!/bin/bash
+# Written by Anthony Lee <don.anthony.lee@gmail.com>
 
 show_usage() {
 	echo "Usage: $0 syllables_pattern [args for grep]"
 	echo "Examples:"
 	printf "\e[33m\t$0 tseng3-nang5\e[0m\n"
 	printf "\e[33m\t$0 \"tshiu2 sng\" A.md\e[0m\n"
-	printf "\e[33m\tfind ./ -name \"*.md\" -exec $0 \"tshiu2 sng\" {} \;\e[0m\n"
+	printf "\e[33m\tfind ./ -name \"*.md\" -exec $0 \"lw2 kai5\" {} \;\e[0m\n"
 }
 
 inform_invalid_patterns() {
@@ -80,6 +81,9 @@ convert_pattern() {
 
 	prefix_len=`echo "$SYLLABLES_PREFIX" | awk -F "" '{print NF}'`
 	((syllable_len-=${prefix_len}))
+	if [ "x$VOWEL" = "xṳ" -o "x$VOWEL" = "xṲ" ]; then
+		((prefix_len--))
+	fi
 	SYLLABLE_SUFFIX=${SYLLABLES:${prefix_len}:${syllable_len}}
 
 	TONE_STR=""
@@ -141,7 +145,7 @@ GREP_ARGS="*.md"
 [ "x$2" = "x" ] || GREP_ARGS="$2"
 
 # TODO: -,*,? &etc.
-PATTERN_ARRAY=`echo "$1" | tr " " "\n" | tr "-" "\n"`
+PATTERN_ARRAY=`echo "$1" | tr " " "\n" | tr "-" "\n" | sed -e 's/^\s*$/-/g'`
 PATTERNS_CONVERTED=""
 len=0
 k=0
@@ -157,17 +161,20 @@ for p in $PATTERN_ARRAY; do
 		# for DEBUG
 		#echo "sep = \"$sep\""
 	fi
-	pcd=`convert_pattern "$p"`
-
-	[ "x$pcd" = "x" ] || PATTERNS_CONVERTED="${PATTERNS_CONVERTED}$pcd"
-	((len+=${str_len}+1))
+	if [ "x$p" != "x-" ]; then
+		pcd=`convert_pattern "$p"`
+		[ "x$pcd" = "x" ] || PATTERNS_CONVERTED="${PATTERNS_CONVERTED}$pcd"
+		((len+=${str_len}+1))
+	else
+		((len++))
+	fi
 	((k++))
 
 	# for DEBUG
 	#echo "k = $k, str_len = ${str_len}, len = $len, p = \"$p\""
 done
 
-echo "PATTERNS_CONVERTED    = \"${PATTERNS_CONVERTED}\""
+echo "PATTERNS_CONVERTED = \"${PATTERNS_CONVERTED}\""
 echo "GREP_ARGS = \"${GREP_ARGS}\""
 echo "----------------------------------------------------"
 grep --color -E "${PATTERNS_CONVERTED}" ${GREP_ARGS}
