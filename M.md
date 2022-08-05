@@ -306,7 +306,7 @@
 * mustard, seed, kài-chí; kài-lua̍h-chí; pe̍h-kài-chí. powder, kài-lua̍h-hún.
 * musty, chhiẽⁿ-ĩm; seⁿ-sip-khì; seⁿ-ip-chi̍p; tshàu-kou-hièn.
 * mute (dumb), é; bõi-tàⁿ-ūe. silent, tiām-tiām; bô-khui-tshùi.
-* mutable, õi-kói-pièn; õi-kói-piⁿ.
+* mutable, õi-kói-pièn; õi-kói-pìⁿ.
 * mutiny, pũe-pũan; pũe-nge̍k.
 * mutter, tàⁿ-ūe hâm-hâm hû-hû; chih-tsuh-kiè.
 * mutton, iêⁿ-ne̍k.
@@ -314,5 +314,5 @@
 * muzzle, lâng-tshùi; kùa-tshùi-lâng; lap-gû-tshùi.
 * my, uá--kâi. name, pĩ-sèⁿ; sié-miâⁿ. house, pĩ-sià; tsháu-sià. son, úa siáu-jî-kiáⁿ. daughter, sié-nńg. wife, úa kâi-lãi-tsuat. self, ka-kī; pńg-sin. I saw it with my own eyes, úa chhin-ma̍k thóiⁿ-kìⁿ.
 * myrrh, mu̍t-ie̍h.
-* mysterious, abstruse, àu-biāu; mûiⁿ-biāu; chhim-biāu. strange and inexplicable, hãi-ĩ lân-chhek. secret, pi-ba̍t.
+* mysterious, abstruse, àu-biāu; mûiⁿ-biāu; chhim-biāu. strange and inexplicable, hãi-ĩ lân-chhek. secret, pì-ba̍t.
 * mystical, ṳ́n-gṳ́ (having a hidden meaning).

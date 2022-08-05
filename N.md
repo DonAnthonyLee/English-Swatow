@@ -1,5 +1,5 @@
 * nail, teng, iron, thih-teng. to nail, tèng-teng. finger, chhiú-tsóiⁿ-kah; tsńg-kah. toe, kha-chí-kah.
-* naked, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. strip, thn̍g-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; tñg-tiâu se-sùaⁿ (without a thread of clothing); thong-sin bô-pùaⁿ-tiâu se-sùaⁿ.
+* naked, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. strip, thǹg-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; tñg-tiâu se-sùaⁿ (without a thread of clothing); thong-sin bô-pùaⁿ-tiâu se-sùaⁿ.
 * name, family, sèⁿ. own, miâⁿ; zú-miâⁿ; hãu; tso̍k-hãu; tsṳ-miâⁿ; pie̍t-hãu. what is your name? kùi-sèⁿ? tōa-miâⁿ? my, pĩⁿ-sèⁿ; sié-miâⁿ. a good, hó-miâⁿ-sek; hó-miâⁿ-siaⁿ. namely, chiũ-sĩ; chiet-sĩ; tsu-zû.
 * Namoa, Lâm-ò.
 * nankeen, chhiah-pòu.
