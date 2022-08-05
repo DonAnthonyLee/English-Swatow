@@ -226,7 +226,7 @@
 * shine, chiè; chiè-kng; huat-kng; huat-kuang. shining brightly, tâng-tâng-kng.
 * ship, tsûn. one, che̍k-chiah-tsûn. foreign, kap-pán-tsûn. -wreck, tsûn phùa-tiāu; pua̍h-phùa-tsûn; pua̍h-tiāu-tsûn. -wright, tsõ-tsûn sai-pẽ. -captain, tsûn-tsú (foreign).
 * shirt, sin-tói-saⁿ; lãi-saⁿ; kṳ̃n-sin-i; kūaⁿ-saⁿ; tsṳ̀-kūaⁿ-saⁿ.
-* shiver, from cold, khĩu; tòng; chhìn kàu kha̍p-kha̍p-sih.
+* shiver, from cold, khiū; tòng; chhìn kàu kha̍p-kha̍p-sih.
 * shiver, to pieces, phùa tshap-tshap-tshùi.
 * shocked, tie̍h-kiaⁿ.
 * shoe, ôi. pair of, che̍k-sang-ôi. one, che̍k-chiah-ôi; che̍k-kha-ôi. women's small, keng-ôi. leather, phûe-ôi. shoelast, ôi-hùn. shoe-horn, ôi-chhiau. shoes for wet weather, tsúi-ôi; kia̍h; tshâ-kia̍h.
