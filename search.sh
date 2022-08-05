@@ -1,5 +1,7 @@
 #!/bin/bash
+#
 # Written by Anthony Lee <don.anthony.lee@gmail.com>
+#
 
 show_usage() {
 	echo "Usage: $0 syllables_pattern [args for grep]"
