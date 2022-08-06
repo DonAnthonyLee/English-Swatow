@@ -388,9 +388,9 @@
 * commiserate, khó-liên; liên-mién; khó-sieh.
 * commission, to, thoh-jĩm; kià-thoh; hù-thoh; úi; úi-thoh; chhe-sái. a com., mẽng-lẽng. see CREDENTIALS.
 * commissioner, khim-chhe (Imperial); úi-uân (deputy of superior mandarin). of customs, sùe-bũ-si.
-* commit, to one's care, thih; kià-thoh; hù-thoh. a crime, hũam-taúe. to prison, kìm-kam; siu-kam; khu-kìm.
+* commit, to one's care, thoh; kià-thoh; hù-thoh. a crime, hũam-tsũe. to prison, kìm-kam; siu-kam; khu-kìm.
 * commodious, piẽn; piẽn-ēng; ha̍h-ēng; khùaⁿ-chhēng; khuan-khuah.
-* common, ordinary, phêng-siêⁿ; so̍k. in common, sie-kāng. public, kong-chèng. people, peh-sèⁿ; sù-mîn. commoner, phêng-siêⁿ-nâng. interchangeable, thong-ēng. commonly, phêng-sî; pâi-hûe; pâi-tn̍g; tãi-sì; siêⁿ-sî; siêⁿ-siêⁿ; tãi-khài; tãi-hûam.
+* common, ordinary, phêng-siêⁿ; so̍k. in common, sie-kāng. public, kong-chèng. people, peh-sèⁿ; sù-mîn. commoner, phêng-siêⁿ-nâng. interchangeable, thong-ēng. commonly, phêng-sî; pâi-hûe; pâi-tńg; tãi-sì; siêⁿ-sî; siêⁿ-siêⁿ; tãi-khài; tãi-hûam.
 * communicate, thong-ta̍t; thong-sie-sit; thûan-sìn; thong-tsai, pò-tsai; kàu-tsai; ta̍t-tsai; sàng-siaⁿ.
 * communion, with anyone, kāng--nâng sim kau.
 * commute, ūaⁿ; táu-ūaⁿ; kau-ūaⁿ. punishment, tsũe sià-khin.
@@ -404,7 +404,7 @@
 * compatriot, tâng-che̍k-kok; tâng-tso̍k; tâng-ip; tâng-hieⁿ.
 * compeer, tâng-liâu; tâng-lūi; tâng-téng.
 * compel, mién-kiáng; khiâng-pek; ngẽ-lia̍h. see COMPULSION.
-* compendious, kâng-lia̍k; káng-séⁿ. compendium, iak-ngân; tiah-iàu; káng-iàu; tshái-iàu.
+* compendious, káng-lia̍k; káng-séⁿ. compendium, iak-ngân; tiah-iàu; káng-iàu; tshái-iàu.
 * compensate, póu; pûe; póu-hâiⁿ; pò-tap; póu-siéⁿ.
 * complete, sêng; sêng-chiũ; tsò-hó; tsò-uân; sêng-kong; tsò-chiâⁿ; uân-pi̍t. all complete, kũ-kàu; tsôi-pĩ; tshuân-pĩ; kũ-pĩ. completely, tshuân; tsa̍p-tshuân.
 * complexion, mīn-sek.
@@ -423,10 +423,10 @@
 * compromise, uán-tsuán; tshuang-tsua̍k.
 * compulsion, by, tshut-tõ mién-kiáng, bô-khó nãiⁿ-hô; bô-pōu.
 * compunction, siẽⁿ-hùe; siẽⁿ-sí-hùe; thiàⁿ-hùe; thiàⁿ-kói tsôiⁿ-hui.
-* compute, sn̍g; siàu; ha̍h-sn̍g; phah-sn̍g; kòi-sn̍g.
+* compute, sǹg; siàu; ha̍h-sǹg; phah-sǹg; kòi-sǹg.
 * comrade, húe-kì; tâng-phũaⁿ; phêng-iú; tâng-liâu.
 * concave, thap; thap-tóu; thap-uh. spectacles, ma̍k-kiàⁿ chhia-thap-tóu.
-* conceal, khn̍g; khn̍g-bûa; khn̍g-miⁿ; tshâng-khn̍g; tshâng-ne̍k. oneself, tiàm; tiàm-bûa; siám-bûa; tshâng-pī; tshâng-pī tsáu-siám; tsáu-khui; pī-bûa.
+* conceal, khǹg; khǹg-bûa; khǹg-miⁿ; tshâng-khǹg; tshâng-ne̍k. oneself, tiàm; tiàm-bûa; siám-bûa; tshâng-pī; tshâng-pī tsáu-siám; tsáu-khui; pī-bûa.
 * concede, zún-na̍p; tsún; khéng; hàuⁿ; siang-jiãng; ngũan-chia̍h-khui jiãng--khṳt-i.
 * conceited, tsṳ̃-sĩ; tsṳ̃-tōa; m̄-tsṳ̃-liãng; tsṳ̃-khua.
 * conceive, siẽⁿ; siẽⁿ-khí-lâi; khí-ì. conceivable, siẽⁿ-tit-kàu. in the womb, siũ-tho; hûai-ẽng; ũ-la̍k-kah; ũ-hí-sṳ̄.
