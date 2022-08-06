@@ -189,7 +189,7 @@
 * charger, chièn-bé.
 * chariot, bé-chhia. to drive, sái-chhia; gṳ̃-chhia. charioteer, chhia-hu.
 * charges, expenses, só-hùi.
-* charity, jîn-àiⁿ; jîn-tshṳ̂; jîn-tek; tshṳ̂-pui; tshṳ̂-sim; hó-sim; siu-sim. almsgiving, si-chì; chín-chì; kiàⁿ-tek; kiâⁿ-jîn-tek; chì-phîn; pù-si.
+* charity, jîn-àiⁿ; jîn-tshṳ̂; jîn-tek; tshṳ̂-pui; tshṳ̂-sim; hó-sim; siu-sim. almsgiving, si-chì; chín-chì; kiâⁿ-tek; kiâⁿ-jîn-tek; chì-phîn; pù-si.
 * Charles'-wain, or Ursa Major, pak-táu; pak-táu-chheⁿ.
 * charm, hû; phek-siâ-hû; phêng-an-hû; pó-sin-hû. to write a, ūe-hû. to put up, tah-hû; kôu-hû. to wear, kùa-hû; kũaⁿ-hû. charms and incantations, hû-chiù. a charm of invisibility, siám-sin-hû.
 * chart, tī-tôu; hái-tôu.
@@ -202,11 +202,11 @@
 * chatter, chiau̍h-chiau̍h-kiè; ki-ki-kiè. with cold, chhìn kàu pōu-sou ou-tāu; chhìn kàu khí tõ-tiē.
 * cheap, phiⁿ; pân-gî; kiám-kè. dog-cheap, pân-gî kui-tsūaⁿ; tsūaⁿ-kè. cheap enough, do not beat it down more, pân-gî m̄-hó tsài-tshú.
 * cheat, phièn; khi-phièn; láu-phièn; kuang-láu; kuang-phièn; tshuah.
-* check, tsó-chí; at-chí; at-taīm; tsó-keh; iak-sok; tsũ; at-tsũ. oneself, at-chí ka-kī. pain, chí-thiàⁿ. diarrhoea, chí-sià; tsũ-sià.
+* check, tsó-chí; at-chí; at-tiām; tsó-keh; iak-sok; tsũ; at-tsũ. oneself, at-chí ka-kī. pain, chí-thiàⁿ. diarrhoea, chí-sià; tsũ-sià.
 * cheek, kih-kau.
 * cheer, uaⁿ-ùe; khǹg-kòi; kāng--nâng khui-sim. cheerful, hí-iông; sóng-khùai.
 * cheese, gû-nĩⁿ-piáⁿ.
-* cherish, bú-iáng. in the mind, khn̍g tõ-sim-lãi.
+* cherish, bú-iáng. in the mind, khǹg tõ-sim-lãi.
 * chess, chhiẽⁿ-kî. play, teh-kî; kiâⁿ-kî (move); keng-kî (to consider before moving). men, kî-chí. board, kî-pûaⁿ.
 * chest, box, sieⁿ. one, che̍k-kha-sieⁿ. of drawers, kūiⁿ. with many drawers, as druggist's, peh-chí-sieⁿ. the chest, sim-kuaⁿ-thâu.
 * chestnut, kãu-la̍k.
@@ -366,7 +366,7 @@
 * colour, sek. the five colours, ngóu-sek:-ou, âng, chhiah, pe̍h, chheⁿ. deep colour, chhim-sek. light, chhién-sek. mixed, kòiⁿ-sek; tsa̍p-sek. change, pièn-sek. lose, pièn-sek; thò-sek; tsáu-sek. colour or dye, jiám-sek; níⁿ-sek; làm. dressed in glaring colours, ho̍k-sek hue-hue liú-liú; khah-chhieⁿ.
 * colt, bé-kiáⁿ.
 * column, pillar, thiãu. of print, tsūe; hâng; tiâu.
-* comb, siu; tshâ-siu; kak-siu. small-toothed, sat-pìn. comb the hair, siu-thâu; siu-thâu-môⁿ; siu-piⁿ; pìn-mop̂. weaver's comb, pòu-siu. cockscomb, koi-kùe. honey-comb, bi̍t-pâng.
+* comb, siu; tshâ-siu; kak-siu. small-toothed, sat-pìn. comb the hair, siu-thâu; siu-thâu-môⁿ; siu-piⁿ; pìn-mô. weaver's comb, pòu-siu. cockscomb, koi-kùe. honey-comb, bi̍t-pâng.
 * combat, tá-chièn; kau-chièn; sie-thâi; sie-phah.
 * combine, sie-kap; kap tsò-che̍k-ē; sie-chia̍h. strength, tâng-sim hia̍p-la̍t. in an association, pài-hũe; kat-táng (bad). in trade, tsò-húe-kì. in prayer, khòi-ha̍h khî-táu.
 * combustible, õi-ín-húe; õi-to̍h-húe.
@@ -374,7 +374,7 @@
 * comedy, hì-súa; pêⁿ-búe-hì.
 * comely, múiⁿ-mãuⁿ; chhiàu-kè; seⁿ-phâi-chhiâng.
 * comet, sàu-soi-chheⁿ; hũi-chheⁿ.
-* comfort, to, uaⁿ-ùe; khn̍g-ùe; khn̍g-kòi; bú-ùe.
+* comfort, to, uaⁿ-ùe; khǹg-ùe; khǹg-kòi; bú-ùe.
 * comfortable, khùaⁿ-ua̍h; tsṳ̃-tsãi; khin-sang; sóng-khuài.
 * comic, hó-chhiè.
 * comma, tāu-tiám.
