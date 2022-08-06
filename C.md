@@ -51,13 +51,13 @@
 * canon, tién; huap-lu̍t.
 * canonize, thek-hong; hong-tsò siàⁿ-nâng.
 * canopy, tsṳ́-thâi.
-* contharides, pn-ngiau; tāu-bâ.
+* contharides, pan-ngiau; tāu-bâ.
 * canthus, of eye, ma̍k-thâu ma̍k-búe; ma̍k-tshṳ̂.
-* Canton, province, Kńg-tang-séⁿ; Ua̍t-tang. Canton and Kwang-si, liáng-kúang; liáng-ua̍t, city. Kńg-tang séⁿ-siâⁿ; Iêⁿ-siâⁿ; ngõu-iêⁿ-siâⁿ; ua̍t-siàⁿ; thô-siâⁿ. go to Canton, lo̍h-séⁿ; chìn-séⁿ.
+* Canton, province, Kńg-tang-séⁿ; Ua̍t-tang. Canton and Kwang-si, liáng-kúang; liáng-ua̍t, city. Kńg-tang séⁿ-siâⁿ; Iêⁿ-siâⁿ; ngõu-iêⁿ-siâⁿ; ua̍t-siâⁿ; thô-siâⁿ. go to Canton, lo̍h-séⁿ; chìn-séⁿ.
 * canvas, phâng-pòu.
 * cap, bō. one, che̍k-téng-bō. summer, sú-bō. winter, kûaⁿ-bō. put on, tì-bō. take off, pak-tiāu-bō. red tasselled cap, âng-eng-bō. the common round cap, káⁿ-náⁿ-kue̍h-bō.
 * capable, ũ-lêng-ûi; ũ-pún-niáⁿ; ũ-tshâi-chhêng; õi; ũ-lêng-kàng.
-* capacious, khuah-tōa; khuah-khn̍g; khùaⁿ-chhēng.
+* capacious, khuah-tōa; khuah-khǹg; khùaⁿ-chhēng.
 * capacity, ability, tshâi-chhêng; pún-niáⁿ. pún-sṳ̄; lêng-kàng.
 * cape, suaⁿ-thâu.
 * caper, tsho̍k-tsho̍k-thiàu.
@@ -68,7 +68,7 @@
 * capstan, ká-pûaⁿ. for heaving anchor, ká-tèng-soh kâi-pûaⁿ.
 * capsule, of leguminous plants, khak.
 * captain, of foreign ship, tsûn-tsú (owner). of native vessel, tãi-kong.
-* captious, hàuⁿ-seⁿ-sṳ̄; sié-sṳ̄ iā-àiⁿ liú-khang; hàuⁿ-à; lãu-à; lāu-à-thâu.
+* captious, hàuⁿ-seⁿ-sṳ̄; sié-sṳ̄ iā-àiⁿ liú-khang; hàuⁿ-à; lãu-à; lãu-à-thâu.
 * captivated, with, tsùe-hàuⁿ; tsuan-hiàng; luàn-siẽⁿ.
 * capture, lia̍h; lû-lia̍h. captive, pĩ-lia̍h; pĩ-lû.
 * car, chhia.
@@ -96,10 +96,10 @@
 * carrot, âng-lô-po̍k; âng-tshài-thâu.
 * carry, taⁿ. with one, tòa; tsah. between two, kng. held up on the hand above shoulder, thêⁿ. on shoulder, khiâ. in hand, khie̍h; kuãⁿ (hanging down, as lantern). on the arm, lap-tõ-chhiú; lah. in the arms, phõ; lám. on the back, iã. on the back with cloth, pì. on the head, tì tõ-thâu; tì tõ-thâu-khak-téng. carrying pole, phoi-taⁿ; pêⁿ-taⁿ; khak-taⁿ; chiam-taⁿ. sedan chair, kng-kiē.
 * cart, chhia. cart-wheels, chhia-lín; chhia-lûn.
-* cartilage, nn̍g-kut; chíⁿ-kut.
+* cartilage, nńg-kut; chíⁿ-kut.
 * carve, tiau; tiau-khek; tiau-kuah; kuah-hue; kuah-ang-kiáⁿ. carver, kuah-hue sai-pẽ.
 * case, a̍p. type, jī-pûaⁿ. fan, sìⁿ-tō. instrument, ke-húe-a̍p. bow, keng-chìⁿ-sieⁿ. condition, kuang-kéng; kéng-ngõ; chhêng-hêng. case in law, uàⁿ-kiãⁿ. in case, zû-jia̍k; khióng-ùi.
-* cash, money, chîⁿ; chîⁿ-ngṳ̂n; ngṳ̂n-niéⁿ. ready money, hīn-ngṳ̂n; hīn-chîⁿ. to buy cash, hīn-ngṳ̂n kau-kuan; hīn-bôi. coppercash, tâng-chîⁿ. without a singke cash, bô-kâi-chîⁿ; kâi-chîⁿ tou-bô. bad or light cash, hāi-chîⁿ; m̄-hó-chîⁿ; tshṳ̀-chîⁿ; tshou-chîⁿ; àu-chîⁿ; chîⁿ-kiáⁿ; lâng-chîⁿ; pháiⁿ-chîⁿ; sòi-chîⁿ. good cash, tōa-chîⁿ; hó-chîⁿ; chẽng-chîⁿ.
+* cash, money, chîⁿ; chîⁿ-ngṳ̂n; ngṳ̂n-niéⁿ. ready money, hīn-ngṳ̂n; hīn-chîⁿ. to buy cash, hīn-ngṳ̂n kau-kuan; hīn-bói. coppercash, tâng-chîⁿ. without a singke cash, bô-kâi-chîⁿ; kâi-chîⁿ tou-bô. bad or light cash, hāi-chîⁿ; m̄-hó-chîⁿ; tshṳ̀-chîⁿ; tshou-chîⁿ; àu-chîⁿ; chîⁿ-kiáⁿ; lâng-chîⁿ; pháiⁿ-chîⁿ; sòi-chîⁿ. good cash, tōa-chîⁿ; hó-chîⁿ; chẽng-chîⁿ.
 * cashier, chiáng-kūiⁿ; chiáng-tièⁿ; chiáng-tièⁿ-pâng.
 * cashier, to, tiah-téng; thut-cheh; kàng-cheh; keh-cheh; sî-tiāu.
 * cask, chiú-tháng; tōa-tháng.
