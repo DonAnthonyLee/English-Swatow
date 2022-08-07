@@ -93,7 +93,7 @@
 * defy, thok-chièn; kek-chièn; iú-chièn; jiá-chièn; thie-chièn.
 * degenerate, times, hong-so̍k pí-soiⁿ m̄-tâng. children, put-siàu-tsṳ́; put-siàu kiáⁿ-tĩ.
 * degrade, officially, kàng-khip. three degrees, kàng-saⁿ-khip. without dismissal, khṳ̀-cheh lâu-jīm. entirely, thut-cheh; le̍h-cheh.
-* degree, téng; téng-khip; pín-khip. to have a degree, ũ-kong-miâⁿ. to get the 1st literary degree, ji̍p-o̍h; ji̍p-siù-tsâi. the ̂nd, tèng-kṳ́-jîn. the ́rd, tèng-chìn-sṳ̃. the ̀th, tiám-hân-lîm. a purchased degree, kàm-seng. to buy such, kiẽn-kàm-seng. a graduate by competition, chiàⁿ-thû; chiàⁿ-lōu. a graduate by purchase, phien-thû; ĩ-lōu. degrees of relationship, káu-tso̍k; ngóu-ho̍k; chhin-so. by degrees, chiãm-chiãm; che̍k-tsâng che̍k-tsâng; che̍k-tsãm che̍k-tsãm.
+* degree, téng; téng-khip; pín-khip. to have a degree, ũ-kong-miâⁿ. to get the 1st literary degree, ji̍p-o̍h; ji̍p-siù-tsâi. the 2nd, tèng-kṳ́-jîn. the 3rd, tèng-chìn-sṳ̃. the 4th, tiám-hân-lîm. a purchased degree, kàm-seng. to buy such, kiẽn-kàm-seng. a graduate by competition, chiàⁿ-thû; chiàⁿ-lōu. a graduate by purchase, phien-thû; ĩ-lōu. degrees of relationship, káu-tso̍k; ngóu-ho̍k; chhin-so. by degrees, chiãm-chiãm; che̍k-tsâng che̍k-tsâng; che̍k-tsãm che̍k-tsãm.
 * deify, hong-ûi-sîn; kèng zû-sîn-mêng.
 * deities, known by the Chinese, Siãng-tì; thiⁿ-kong; sîn-mêng; kúi-sîn; lãu-iâ; phû-sat.
 * deign, sûi-kù; hiã-kù.
@@ -101,18 +101,18 @@
 * delay, în-tîⁿ; tam-koh; thû-mān; chhî-mān; chhî-iẽn; tau-lâu; koh-mān; tam-mān.
 * delectable, khó-ài; khó-hí; zû-ì; thiàng-ì.
 * delegate, chhe-sái; chhe-úi. a delegate, úi-uân; sài; sài-chiá.
-* deliberate, to, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sǹg-lâi sǹg-khṳ̀; siẽⁿ-kâi siẽⁿ-khṳ̀; pí-kâi pí-khṳ̀; chiak-ngí.
+* deliberate, to, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sǹg-lâi sǹg-khṳ̀; siẽⁿ-lâi siẽⁿ-khṳ̀; pí-lâi pí-khṳ̀; chiak-ngí.
 * deliberately, soiⁿ sṳ, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
-* delicate, jiû-nn̍g. in health, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. neat, kiau-kiah. fine, iùⁿ-sòi; cheng-mûiⁿ. fastidious, tiau-khiâu-chia̍h. in taste and flavour, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. delicacies, tien-bī; peh-bī; tien-siu peh-pī; suaⁿ-tien hái-bī.
+* delicate, jiû-nńg. in health, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. neat, kiau-kiah. fine, iùⁿ-sòi; cheng-mûiⁿ. fastidious, tiau-khiâu-chia̍h. in taste and flavour, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. delicacies, tien-bī; peh-bī; tien-siu peh-pī; suaⁿ-tien hái-bī.
 * delight, huaⁿ-hí; khùai-la̍k. delight in, hàuⁿ; zua̍t. delightful, khó-hí; hó-zua̍t-ma̍k; hó-khai-huâi; tshù-bī. delighted, sóng-khùai; suáng-khùai; khùai-thiàng; thiàng-ì.
 * delineate, ūe-hêng-tôu; ūe-tôu; phah-kó.
 * delinquent, hũam-jîn; tsũe-jîn.
 * delirious, kông; kông-kông; hun-kông; m̄-tsai-nâng; put-tsai nâng-sṳ̄; hũn-tàⁿ; thèng-tàⁿ-ūe; sim hũn; kông-tien kông-tien.
-* deliver, kiù; chín-kiù; kiù-iẽn; kiù-tshut; khan-kiù; kiù-tsõ. over, kau; kau-hôiⁿ; kau-hù; kòi-sàng. up, kiáu; kiáu-hôiⁿ; hõng-hôiⁿ; kau-hûe; khie̍h tn̍g-lâi-hôiⁿ; khie̍h-hôiⁿ. an order, thûan-mẽng. deliver up oneself, ka-kī tshut--lâi jīn-tsũe; ka-kī sàng-ka-kī. be delivered of a child, seⁿ-kiáⁿ; a-nôuⁿ tshut-sì.
+* deliver, kiù; chín-kiù; kiù-iẽn; kiù-tshut; khan-kiù; kiù-tsõ. over, kau; kau-hôiⁿ; kau-hù; kòi-sàng. up, kiáu; kiáu-hôiⁿ; hõng-hôiⁿ; kau-hûe; khie̍h tńg-lâi-hôiⁿ; khie̍h-hôiⁿ. an order, thûan-mẽng. deliver up oneself, ka-kī tshut--lâi jīn-tsũe; ka-kī sàng-ka-kī. be delivered of a child, seⁿ-kiáⁿ; a-nôuⁿ tshut-sì.
 * delude, mîⁿ-ho̍k; iú-ho̍k; mûaⁿ-phièn. delusion, àm-mũeⁿ.
 * deluge, âng-tsúi; tōa-tsúi.
 * delve, ku̍t-thôu; liú-thôu.
-* demand, tshūe-nâng-thó; tshūe-nâng-khie̍h. back, thó-tn̍g. money, thó-chîⁿ; thó-siàu. restitution, thó-pûe.
+* demand, tshūe-nâng-thó; tshūe-nâng-khie̍h. back, thó-tńg. money, thó-chîⁿ; thó-siàu. restitution, thó-pûe.
 * demeanour, thí-thài; nâng-khuán; khuán-sek; hêng-ûi; kṳ́-tõng; kiâⁿ-ûi; khì-siãng; hêng-siãng.
 * demolish, hùi-hāi; hùi-hũai; pāi-hāi; húiⁿ-tiāu; thiah-tiāu; phùa-liáu-liáu. a village, as a punishment, tshau-húiⁿ.
 * demon, kúi; iau-chiaⁿ; kúi-kùai; siâ-mue̍h; iau-siâ.
@@ -120,23 +120,23 @@
 * demonstrate, piáu-mêng; chèng-mêng; tshui-lũn mêng-pe̍h; chèng-si̍t; chèng-kàu-si̍t; chèng-tie̍h-si̍t.
 * demur, chhî-iẽn. have scruples, gî; hû-gî; chhî-gî; gî-tshai; tshai-gî.
 * den, suaⁿ-khang; suaⁿ-tāng; suaⁿ-hua̍t.
-* denizen, pn̍g-tī-nâng; pn̍g-chiã.
+* denizen, pńg-tī-nâng; pńg-chiã.
 * Denmark, N̂g-kî-kok.
 * denominate, kiè-miâⁿ; kiè--tsò; chheng-hu; chheng--tsò; hãu--tsò. denomination, miâⁿ-hō; hō.
 * denote, chí; chí-mêng.
 * dense, ba̍t; tsa̍t; tōiⁿ; chiu-ba̍t. population, nâng ba̍t-tsa̍t; ba̍t-ba̍t. texture, pòu iùⁿ-ba̍t; cheng-ba̍t; sòi-ba̍t; ba̍t-tsa̍t-tōiⁿ. foliage, chhiū-hie̍h ba̍t-tsa̍t; im-im; mõng-ba̍t; im-ba̍t.
 * dent, thap; phah-thap; cheng-bih; pua̍h-bih; pua̍h-nap-uh; cheng-nap-uh.
-* denude, thn̍g-tiāu saⁿ-khòu; hien-tiāu.
+* denude, thǹg-tiāu saⁿ-khòu; hien-tiāu.
 * deny, à; à-bô; m̃-jīn. refuse, m̃-tsún.
 * depart, khṳ̀; lī; lī-khui; lī-pie̍t. this life, kùe-sì; sī-sì; kùe-khṳ̀; tsò-kóu-nâng--liáu; tsak-kóu; sien-iû; lãu--khṳ̀-liáu; sin-kù.
-* department, of territory, chiu; hú; kūiⁿ. one's duty, sin-hūn; cheh-hūn; pn̍g-hūn; hūn-lãi.
+* department, of territory, chiu; hú; kūiⁿ. one's duty, sin-hūn; cheh-hūn; pńg-hūn; hūn-lãi.
 * depend, on, kõu; íⁿ-kõu; íⁿ-nãiⁿ; úa; khùa-chiãng; khùa-pn̄g; tit-pn̄g; úa-kõu. it depends on you, tõ-lṳ́ tsú-ì.
 * deplore, pui-ai; khàu; hûan-ló. deplorable, khó-sieh; khó-thiàⁿ; khó-siang.
 * deposition, kháu-keng.
 * depopulate, thâi-nâng chĩn-chĩn. depopulated, phau-hng.
 * deportment, hêng-ûi; pín-hẽng; thí-thài.
 * depose, keh-cheh; thut-cheh; keh-khṳ̀ cheh-jĩm. from throne, hùi-kun.
-* deposit, pàng; thoh. with any one, tah--nâng khn̍g; thoh--nâng. in Bank at interest, pàng-siàu seⁿ-sek.
+* deposit, pàng; thoh. with any one, tah--nâng khǹg; thoh--nâng. in Bank at interest, pàng-siàu seⁿ-sek.
 * depraved, siâ; siâ-phiah; put-siàu.
 * deprecate, khiû-sià; khiû-mién; koh-lô i màiⁿ-khì.
 * depreciate, thóiⁿ m̄-chiẽⁿ-ma̍k; hiâm; bô-mih-tshú.
@@ -145,7 +145,7 @@
 * deprive, of, to̍h--khṳ̀; to̍h-tńg. of office, keh-cheh; khṳ́-kuaⁿ; tiah-ìn; tiah-téng. of degree, khṳ́-tiāu kong-miâⁿ.
 * depth, chhim; chhim-thâm. what depth? jie̍h-chhim?
 * depute, úi; chhe-khién; sái. deputy, úi-uân; thòi-phōiⁿ.
-* derange, hũn-luãn; hũn-tsa̍p; jiáu-tsa̍p; kiáu-jiáu; zṳ́-luãn; zṳ́-hũn. deranged, zṳ̂; zṳ̂-luãn. all in disorder, zṳ̂ kàu tshap-tshap-tshùi. in mind, kông; siáu; sim īn-tiāⁿ; sim hũn; sim lũan; sim hũn-luãn.
+* derange, hũn-luãn; hũn-tsa̍p; jiáu-tsa̍p; kiáu-jiáu; zṳ́-luãn; zṳ́-hũn. deranged, zṳ̂; zṳ̂-luãn. all in disorder, zṳ̂ kàu tshap-tshap-tshùi. in mind, kông; siáu; sim m̄-tiāⁿ; sim hũn; sim lũan; sim hũn-luãn.
 * dereliction, khì-tso̍h; khì-tiāu. of duty, bô-chĩn pńg-hūn.
 * deride, ki-chhiáu; né-chhiè.
 * derivation, só-iû-lâi; só-tshông-tshut.
