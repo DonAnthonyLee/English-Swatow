@@ -38,9 +38,9 @@
 * debark, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-tsúi.
 * debase, oneself, tshap-ji̍p hiã-liû; kàng-lo̍h hiã-liû; u-tsūaⁿ hiã-liû.
 * debate, ngí-lũn; piẽn-lũn; piẽn-poh. in one's own mind, pheⁿ-phah; chim-chiak; tsham-siâng.
-* debauch, tiam-u; îm nâng chhi-nn̍g; îm nâng bóu-kiáⁿ.
+* debauch, tiam-u; îm nâng chhi-nńg; îm nâng bóu-kiáⁿ.
 * debauchee, chiú-sek tsṳ-thû. debauchery, chia̍h-pua̍h-phiâu.
-* debility, hṳ-jia̍k; nn̍g-jia̍k; khùn-jia̍k; hṳ-khùn; sin-hūn phàⁿ; hueh-khì put-tsok; hueh-khì sue-jia̍k.
+* debility, hṳ-jia̍k; nńg-jia̍k; khùn-jia̍k; hṳ-khùn; sin-hūn phàⁿ; hueh-khì put-tsok; hueh-khì sue-jia̍k.
 * debt, chè; chîⁿ-chè. to be in debt, khiàm-chîⁿ; khiàm-chè; khiàm-siàu. to pay debts, hôiⁿ-chè; hôiⁿ--nâng. debtor and creditor, chè-kiáⁿ chè-tsú. collect debts, thó-siàu. absconding debtor, tô-chè; pī-chè; tsáu-chè. bad debts, phàⁿ-siàu.
 * decade, sûn. first 10 days of month, tsho-sûn; chhiu--sûn; second ditto, tong-sûn; tsa̍p--sûn. third ditto, hiã-sûn; ji̍h--sûn.
 * decalogue, tsa̍p-tiâu-kài.
@@ -231,11 +231,11 @@
 * dimity, siâ-bûn-pòu.
 * dimple, in chin, ẽ-hâi-tsuh. in cheeks, chiú-tsuh.
 * din, of gongs and drums, kong-kuang-kiè; kong-kong-kiè.
-* dine, chia̍h-tōa-tn̍g; chia̍h mêⁿ-àm-pn̄g. at noon, chia̍h-ji̍t-tàu.
+* dine, chia̍h-tōa-tǹg; chia̍h mêⁿ-àm-pn̄g. at noon, chia̍h-ji̍t-tàu.
 * dip, into water, ùn-tsúi; ùn-tâm. hot iron in water, chhih-tsúi. dip up water, ēng-pû-hia lâi-ié-tsúi (with ladle); ēng pua̍h-tháng lâi kũaⁿ-tsúi (from well); ēng tiàu-o lâi-tiàu-tsúi (with bucket & well-sweep); ēng hòu-táu lâi-hòu-tsúi (with ladle having long handle). a dipper, tsúi-kóng.
 * diploma, bûn-phêng; bûn-pêng.
 * direct, ti̍t; ti̍t-ti̍t. direct route, ti̍t-lōu. directly, khùn-kiáⁿ; sûi-sî; sûi-chiet. I will come directly after you, úa sûi-ãu chiũ-lâi. to direct, chí-ín. order, hun-hù; mẽng. control, kúan-lí; kúan. a letter, siá-huang-phûe. directions, mẽng-lẽng; kui-tiâu.
-* dirt, nah-sap; lâm-sap. dirty, nah-sap; nah-sap-sièⁿ; o-tso; u-ùe; m̄-chheng-khih; m̄-chheng-kiet; o-lâm o-lī. to dirty, mak--tie̍h nah-sap; hú--tie̍h nah-sap.
+* dirt, nah-sap; lâm-sap. dirty, nah-sap; nah-sap-sièⁿ; o-tso; u-ùe; m̄-chheng-khih; m̄-chheng-kiet; o-lâm o-lĩ. to dirty, mak--tie̍h nah-sap; hú--tie̍h nah-sap.
 * disabled, hùi-chi̍t; phùa-sièⁿ; hùi-jîn.
 * disadvantage, si̍h-pńg; m̄-piẽn; m̄-sũn; bô-iah; siũ-khui.
 * disagree, m̄-hûa; m̄-ha̍h; m̄-siang-ha̍h; m̄-tùi. the climate disagrees with me, m̄-ho̍k tsúi-thóu; chia̍h-m̄-tie̍h tsúi-thóu. disafreeable, bô-mih tshù-bī; tshūa-nâng-lóu; kou-ta̍k (unsociable); kãu-ue̍h (sensation).
