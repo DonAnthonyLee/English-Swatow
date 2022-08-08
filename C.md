@@ -433,7 +433,7 @@
 * concentrate, tsũ-chi̍p; kiu-bûa; sok-bûa.
 * concern, anxiety, khùa-lṳ̃; huân-ló; tõng-sim; khùa-sim. it does not concern me, ṳ́-uá bô-kan; kāng-uá bô-kan-sia̍p; m̄-sĩ uá--kâi-sṳ̄; kāng-uá bô-kau-kùa. affair, sṳ̄; sṳ̄-bũ. worldly concerns, sì-bũ.
 * conch, lô-khak; pu-lô. to blow, pûn-pu-lô.
-* conciliate, hûa; hûa-sṳ̄; kiâⁿ-hûa; khn̍g-hûa; khn̍g-sek. conciliatory, khuaⁿ-chiâⁿ.
+* conciliate, hûa; hûa-sṳ̄; kiâⁿ-hûa; khǹg-hûa; khǹg-sek. conciliatory, khuaⁿ-chiâⁿ.
 * concise, che̍k-kù thàu-thiet; káng-séⁿ; phièn-ngân kai-kuat.
 * conclude, finish, tsùn-kang; sêng-kong; hiah-sṳ̄; uân.
 * conclusion, decision, tsú-ì. in conclusion, tsóng zṳ̂-ngân--tsṳ.
@@ -442,7 +442,7 @@
 * concubine, chhiap; chhiah-kha; jī-nâng. keep, hak-chhiah-kha; siu-chhiah-kha; tshūa-jī-nâng.
 * concupiscence, sṳ-io̍k; ne̍k-io̍k; îm-io̍k.
 * concur, siang-ha̍h; ha̍h-sim; tâng-sim; tâng-mông; ìn-sêng.
-* concussion, sie-tsuãng; tiaⁿ-tsuãng; tsuãng--tie̍h kuah--chē-kiè.
+* concussion, sie-tsuãng; tiaⁿ-tsuãng; tsuãng--tie̍h kuak--chē-kiè.
 * condemn, tiāⁿ-tsũe. to death, ngí-tiāⁿ sí-tsũe.
 * condense, language, káng-séⁿ; khṳ̀-tiāu ūe-sái. inspissate, pû-kṳ̍t. vapour condensed into dew, thiⁿ-khì hùe-tsò lōu-tsúi.
 * condescend, khut-kàng; khut-kè; kàng-lîm; hú-lîm.
@@ -477,7 +477,7 @@
 * conger eel, mûaⁿ-hṳ̂; hái-mûaⁿ.
 * congratulate, kiong-hí; sie-hō; khèng-hō; kiong-hō; kèng-hō. I congratulate you, kāng-lṳ́ kiong-hí.
 * congregate, chi̍p-hũe; tsũ-chi̍p; hũe-chi̍p; chi̍p-bûa.
-* conjecture, phah-sn̍g; tá-sn̍g; tá-sùan; pheⁿ-phah; pān; iak; íak-pān.
+* conjecture, phah-sǹg; tá-sǹg; tá-sùan; pheⁿ-phah; pān; iak; iak-pān.
 * conjoin, kap-bûa; tùa-bûa; siang-liên; tah-tùe. conjointly, sie-kāng.
 * conjugal, affection, hu-hũ tsṳ-chhêng.
 * conjurer, ēng mâuⁿ-suaⁿ-huap. juggler, tsò-pá-hì.
