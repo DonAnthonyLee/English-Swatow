@@ -485,17 +485,17 @@
 * connive, tsòng-iông; tsõ-tsòng; tsòng-at; m̄-at-sok; m̄-at-chí.
 * conquer, iâⁿ; phah-iâⁿ; thâi-iâⁿ; chièn-iâⁿ; chièn-sèng; sèng-te̍k.
 * conanguinity, chhin; chhin-so̍k; ngóu-ho̍k-lãi; káu-tso̍k.
-* conscience, liâng-sim; pn̍g-sim. awakened, liâng-sim huat-hīn. conscientious, ũ-pn̍g-sim; ũ-liâng-sim. reproofs of conscience, sim-lãi tsṳ̃-sõng; tsṳ̃-cheh; tsṳ̃-uàn.
+* conscience, liâng-sim; pńg-sim. awakened, liâng-sim huat-hīn. conscientious, ũ-pńg-sim; ũ-liâng-sim. reproofs of conscience, sim-lãi tsṳ̃-sõng; tsṳ̃-cheh; tsṳ̃-uàn.
 * conscious, aware of, tsṳ̃-kak; tsṳ̃-tsai. is he conscions? (as sick person) ũ-hiáu-nâng--mé? õi-tsai-nâng--mé?
-* consecrate, an idol, khai-huang. to the idols, hõng-hí̀n sîn-mêng.
+* consecrate, an idol, khai-kuang. to the idols, hõng-hièn sîn-mêng.
 * consecutive, siang-liên; liên-lo̍k; chiap-so̍k; sie-sùa; thûan--lo̍h-lâi.
 * consent, tsún; zún-na̍p; khéng; hàuⁿ; ìn-na̍p; ìn-sêng; na̍p-ì.
-* consequences, kuan-hĩ. bad, khan-gāi; liên-lūi; po-lūi; khan-thùa; khan-thua. of no consequence, bô-siang-kan; bô-siang; bô-hûang; bô-bī; mùiⁿ; bô-kàu tî-kò-khṳ̀; bô-chhiet-iàu. consequently, kù-tshṳ́; só-íⁿ; i̍n-tshṳ́; sn̍g-lâi.
+* consequences, kuan-hĩ. bad, khan-gāi; liên-lūi; po-lūi; khan-thùa; khan-thua. of no consequence, bô-siang-kan; bô-siang; bô-hûang; bô-bī; mùiⁿ; bô-kàu tî-kò-khṳ̀; bô-chhiet-iàu. consequently, kù-tshṳ́; só-íⁿ; in-tshṳ́; sǹg-lâi.
 * conserve, pó-tshûan.
-* consider, siẽⁿ; sṳ-siẽⁿ; chhim-siẽⁿ; chim-chiak; pheⁿ-phah; tà-sùan; phah-sn̍g. a man of consideration, ũ-thí-mīn kâi-nâng.
+* consider, siẽⁿ; sṳ-siẽⁿ; chhim-siẽⁿ; chim-chiak; pheⁿ-phah; tà-sùan; phah-sǹg. a man of consideration, ũ-thí-mīn kâi-nâng.
 * consign, to one's care, hù-thoh; kià-thoh; kià-hù. consignee, sêng-chih kâi-nâng.
-* consistent, in character, ngân-hẽng si̍ang-tùi; ngân-hẽng zû-it; ngân-hẽng hû-ha̍h.
-* console, uaⁿ-ùe; khn̍g-ùe; bú-ùe.
+* consistent, in character, ngân-hẽng siang-tùi; ngân-hẽng zû-it; ngân-hẽng hû-ha̍h.
+* console, uaⁿ-ùe; khǹg-ùe; bú-ùe.
 * consonance, siang-ha̍h; thiâu-hûa. in sound, hia̍p-ūn; ap-ūn.
 * consort, royal, uâng-hõu; kok-hõu.
 * conspicuous, hién-mêng; tshut-chèng; tshut-thoh. too, khah-hién-iâng.
@@ -503,20 +503,20 @@
 * constable, tī-pó; a-tsóng; chhê-koi; chhe-hia̍h.
 * constant, in mind, ũ-siêⁿ-sim; sim kien-kù.
 * constantly, siêⁿ-siêⁿ; siêⁿ-sî; chhiâng-chhiâng; tn̂g-tn̂g; ē-ē; sî-sî; kú-kú; múeⁿ-múeⁿ; lú-lú; chia̍p-chia̍p.
-* constellation, chheⁿ-siù. the ̂̍ constellations, jī-tsa̍p-poih siù.
+* constellation, chheⁿ-siù. the 28 cnstellations, jī-tsa̍p-poih siù.
 * consternation, kiaⁿ kàu hûn phiau (or, pue), phek sùaⁿ.
 * constipation, tóu-lãi zua̍h; tãi-piẽn pì-kín; tóu pì-kat; tóu kat-ngẽ; tóu kat-kín.
 * constitute, appoint, li̍p; siet-li̍p; tshàng-li̍p.
-* constitution, good, sin-hūn tsàng; tsàng-kiẽn; khiàng; kiāⁿ-tsàng; khin-kiāⁿ. weak, sin-hūn phàⁿ; sin-hūn lám; jia̍k; nn̍g-jia̍k.
+* constitution, good, sin-hūn tsàng; tsàng-kiẽn; khiàng; kiāⁿ-tsàng; khin-kiāⁿ. weak, sin-hūn phàⁿ; sin-hūn lám; jia̍k; nńg-jia̍k.
 * constrain, mién-kiáng; ngẽ-lia̍h. oneself, tsṳ̃-mién. to stay, khiâng-lâu.
-* constriction, tîⁿ-kín; sn̍g-kín; tshui-kín.
+* constriction, tîⁿ-kín; sǹg-kín; tshui-kín.
 * construct, tsò; tshàng; tsãu; tsõ. a boat, tsõ-tsûn. construction of a sentence, tsò-bûn kâi-pit-huap.
 * consul, niáⁿ-sṳ̄-hú; niáⁿ-sṳ̄-kuaⁿ.
 * consult, siang-liâng; kàu-niêⁿ; tsham-siâng; chim-chiak.
 * consume, by fire, sie-tiāu. by extravagance, hua-hùi; phùa-chĩn; hùi-chĩn; húiⁿ-chĩn; huang-húiⁿ-chĩn. consumption, thâm-húe; lãi-siang-pēⁿ; hùi-pēⁿ; phùi-hueh-pēⁿ. consumptive, sán-kut lo̍h-ne̍k.
 * contact, to come into, oi--tie̍h; tiaⁿ--tie̍h; khõiⁿ--tie̍h; tsuãng--tie̍h; thãng--tie̍h.
 * contagion, ùe-tie̍h-pēⁿ; sie-ùe; thûan-jiám.
-* contain, tshō; iông; siũ. what heaven and earth contain, thiⁿ hiûⁿ, tī tsài.
+* contain, tshō; iông; siũ. what heaven and earth contain, thiⁿ hiùⁿ, tī tsài.
 * contaminate, ùe--tie̍h lâm-sap; mak--tie̍h nah-sap; jiám--tie̍h; hú--tie̍h; hìⁿ-tie̍h; u-ùe--tie̍h.
 * contemplate, àm-chẽⁿ-siẽⁿ; khuaⁿ-nē-siẽⁿ. gaze at, thóiⁿ; ma̍k thóiⁿ; ma̍k kim-kim thóiⁿ.
 * contemporary, tâng-sî.
@@ -528,21 +528,21 @@
 * contiguity, siang-kṳ̃n; lîn-kṳ̃n; siang-liên; tsôiⁿ-ãu.
 * continence, siú-tsat; kúaⁿ-io̍k.
 * contingency, ngóu-jiên; siẽⁿ-m̄-kàu; liāu-m̄-kàu.
-* continue, chhiàng-tsò; chhiâng-kiâⁿ; siêⁿ-tõ; sî-sî-ũ; siêⁿ-tshûn; hûan-tõ; nãiⁿ-kú. continual, see CONSTANT. continuous, chih; chiap; liên-lo̍k; chiap-so̍k; siang-liên; bô-hiah; bô-tñg; bô-kòiⁿ; bô-làng.
-* contortion, tsũn-tshúa; tsũn-tn̍g; tsũn--kùe--lâi. of face, tshúa-mīn.
+* continue, chhiâng-tsò; chhiâng-kiâⁿ; siêⁿ-tõ; sî-sî-ũ; siêⁿ-tshûn; hûan-tõ; nãiⁿ-kú. continual, see CONSTANT. continuous, chih; chiap; liên-lo̍k; chiap-so̍k; siang-liên; bô-hiah; bô-tñg; bô-kòiⁿ; bô-làng.
+* contortion, tsũn-tshúa; tsũn-tńg; tsũn--kùe--lâi. of face, tshúa-mīn.
 * contour, hêng-sièⁿ; iēⁿ; hêng. of distant hills, hñg-kéng.
 * contraband, trade, tsáu-hiàng; tsáu-sai; lāu-sùe.
 * contract, to bargain, li̍p-ieh; tiāⁿ-ieh. a, ieh-jī; khòi; ha̍p-tâng; ieh-toaⁿ. take work by, mãuⁿ-kang. to draw in, kiu; kiu-bûa; sok-bûa; kha-chhiú kiu-sok. contracted writing, sié-siá.
 * contradict, piẽn-poh; poh-mn̄g. oneself, tsôiⁿ-ãu kâi-ūe m̄-siang-hû. contradictory, m̄-tùi; m̄-sie-tùi; m̄-siang-hû; m̄-siang-ha̍h; siang-huán.
-* contrary, siang-huán; tò-huán; nge̍k; m̄-ha̍h. on the, tin-tò; huán-tn̍g. to sound doctrine, pũe-tãu. wind, nge̍k-huang.
+* contrary, siang-huán; tò-huán; nge̍k; m̄-ha̍h. on the, tin-tò; huán-tńg. to sound doctrine, pũe-tãu. wind, nge̍k-huang.
 * contrast, sie-tùi; siang-pí; tùi-chhiēⁿ; huán-chhiēⁿ; huán-chiè.
 * contribute, tôi; tôi-chîⁿ; kien-tôi; phài-chîⁿ; kien-chîⁿ. to levy a contribution, phài-chîⁿ.
 * contrite, thiàⁿ-kói; thiàⁿ-kói tsôiⁿ-hui; kói-hùe; hùe-kói; tsṳ̃-hṳ̃n; thiàⁿ-hṳ̃n tsôiⁿ-hui.
 * contrive, siet-kòi; siet-huap; siẽⁿ-sim-sṳ̄; siẽⁿ-tshut kòi-chheh. contrivance, kòi-chheh; kòi-mông; ie̍h-kúi (mechanical).
-* control, kuán; thóng-huán; kuán-hat; khu-sok; iak-sok. self, siú-pn̍g-sim; tsṳ̃-kuán ka-kī.
+* control, kuán; thóng-huán; kuán-hat; khu-sok; iak-sok. self, siú-pńg-sim; tsṳ̃-kuán ka-kī.
 * controversy, piẽn-lũn; piẽn-poh; cheⁿ-lũn; sie-à.
 * contumacy, ngóu-nge̍k; m̄-sũn nâng-chhêng.
-* contumely, lêng-zo̍k; sit-zo̍k; ki-tshn̍g.
+* contumely, lêng-zo̍k; sit-zo̍k; ki-tshǹg.
 * contusion, phah-sieⁿ; tsuãng-sieⁿ; ou-chheⁿ kek-hueh.
 * convalescent, chiãm-zú; iáu-hó; iáu-tsua̍h; chiãm-chiãm-hó.
 * convenience, suit your, sûi-tsãi-lṳ́; tõ-lṳ́ tsú-ì; sûi--lṳ́; sûi-piẽn; jĩm-lṳ́. convenient, sũn-piẽn; ha̍h-ēng; ha̍h-ì; kah-pān.
