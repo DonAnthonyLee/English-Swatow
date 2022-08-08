@@ -72,7 +72,7 @@
 * haunch, thúi-thâu; kha-thúi.
 * have, ũ. have you? ũ a-bô? khá chêng-ũ--méⁿ? I have not, bô; m̄-chêng-ũ. have finished, tsò-hó--liáu; íⁿ-keng-tsò; tsò-liáu. have you ever eaten an orange? kaⁿ lṳ́ pat-chia̍h a-m̄-pat? I have not, m̄-pat; tsṳ̃-liáu m̄-pat. have you had dinner? lṳ́ chia̍h-pn̄g a-būe? I have dined, chia̍h-pá--liáu; chia̍h--liáu; phien--liáu. have you been to the market yet? lṳ́ chêng chiẽⁿ-chhĩ--būe? not yet, būe-chêng.
 * hawk, liáu-eng-pô.
-* hawker, sié-seng-lí; koiⁿ-thiau kâi seng-lí; koíⁿ-thiau lo̍h-hāng; iê-kóu.
+* hawker, sié-seng-lí; koiⁿ-thiau kâi seng-lí; koiⁿ-thiau lo̍h-hāng; iê-kóu.
 * hay, pha̍k-ta-tsháu. haystack, tsháu-khṳ̂n.
 * hazard, thèng-tsãu-hùe; phòng-tsãu-hùe; kiâⁿ-hiám hiau-hẽng; hiau-hẽng. hazardous, huang-hiám; ngûi-hiám; m̄-ún-tǹg; m̄-thó-tàng.
 * hazy, mông-bū; mông-in; im-bū; in-bū; bū-bū; hûn-bū; huat-bū; huat-mông.
