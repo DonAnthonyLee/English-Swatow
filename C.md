@@ -667,7 +667,7 @@
 * creep, pê, so. creep up, pê--khí-lâi. through a hole, bùn-khang; nn̍g-khang. under the bedclothes, nn̍g--ji̍p phũe-tói. stealthily along, níhⁿ-kha-kiâⁿ.
 * crescent, moon, gue̍h-bâi; sin-gue̍h; ngô-bâi-gue̍h.
 * crew, of ship, tsúi-siú.
-* crevice, khiah; phāng; phāng-khían; hûn-phāng; hûn-khiah.
+* crevice, khiah; phāng; phāng-khiah; hûn-phāng; hûn-khiah.
 * cricket, tek-sut. chirping of, tiang-tiang-kiè.
 * crime, tsũe. commmit, hũam-tsũe. a capital, sí-tsũe.
 * criminal, hũam-jîn; tsũe-jîn; tsũe-hũam; chhiû-hũam.

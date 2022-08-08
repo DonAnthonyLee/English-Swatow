@@ -484,6 +484,6 @@
 * dying, chiang-sí; àiⁿ-sí; kṳ̃n-sí; chiang-kṳ̃n àiⁿ-sí; lîm-sí.
 * dynasty, chhiâu. the present, chheng-chhiâu; pńg-chhiâu.
 * dysentery, lī; lī-chi̍t; pàng-âng; thâm-thūi; thì-khì; hueh-lī; pe̍h-lī.
-* dyspepsia, m̄-siau-hùe; put-síau-hùe; chia̍h chek; ím-chia̍h chek-tsũ.
+* dyspepsia, m̄-siau-hùe; put-siau-hùe; chia̍h chek; ím-chia̍h chek-tsũ.
 * dyspnoea, tshúan; khùi tōa; khùi kip; tshúan-kip; khì tshúan; he̍hⁿ-he̍hⁿ-tshúan. infantine, niⁿ-he; niⁿ-tshúan.
 * dysury, siáu-piẽn m̄-kiâⁿ; sié-piẽn m̄-thong.
