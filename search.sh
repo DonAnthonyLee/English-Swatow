@@ -168,6 +168,9 @@ for p in $PATTERN_ARRAY; do
 		[ "x$pcd" = "x" ] || PATTERNS_CONVERTED="${PATTERNS_CONVERTED}$pcd"
 		((len+=${str_len}+1))
 	else
+		if [ $k -eq 0 ]; then
+			PATTERNS_CONVERTED="\\"
+		fi
 		((len++))
 	fi
 	((k++))
