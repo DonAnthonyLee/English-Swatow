@@ -549,7 +549,7 @@
 * convent (Buddhist), am; nîⁿ-kou-am.
 * conversant, se̍k; si̍p-se̍k; kuàn-se̍k; kùiⁿ-sìⁿ; thàu-thiet; thiet-tói.
 * converse, tàⁿ-ūe; phue̍h-ūe; tsò-pû tàⁿ-ūe; thâm-lũn; ngân-thâm.
-* conversion, hùe-kói; hûe-thâu chhéⁿ-ngõ; kói-ak chhien-siẽn; kói-ak tshông-siẽn; khṳ̀-kū tshông-sin; khṳ̀-ak kui-siẽn; hûe-tn̍g-thâu tsò-siẽn; hûe-sim tn̍g-ì; siẽⁿ-tn̍g.
+* conversion, hùe-kói; hûe-thâu chhéⁿ-ngõ; kói-ak chhien-siẽn; kói-ak tshông-siẽn; khṳ̀-kū tshông-sin; khṳ̀-ak kui-siẽn; hûe-tńg-thâu tsò-siẽn; hûe-sim tńg-ì; siẽⁿ-tńg.
 * convex, tsui; tsui-tsui; tìn-tang phû--khí-lâi.
 * convey, by ship, tsûn tsài. letter, tòa-sìn.
 * convict, to, tiāⁿ-tsũe. a, huãm-jîn.
@@ -564,7 +564,7 @@
 * cool, liâng; ngân; to cool, lā-liâng; lā-chhìn; pàng-liâng.
 * coolie, taⁿ-tàⁿ kâi-nâng. to call coolies, kòu-taⁿ-kieh; kòu-kieh. head of gang, kieh-thâu.
 * coop, koi-lam.
-* cooper, khou-thâng sai-pẽ; chiáⁿ-lí-tháng.
+* cooper, khou-tháng sai-pẽ; chiáⁿ-lí-tháng.
 * co-operate, sie-hũ; siang-pang; siang-pang-tsò.
 * cope, with, siang-cheⁿ; sie-tàu.
 * copious, tsōi-tsōi; siãng-tsōi; ke-ke; ũ-tshûn.
@@ -609,7 +609,7 @@
 * coulter, lôi-thâu.
 * council, kong-ngí; kong-lũn; chèng-ngí; hũe-ngí. room, kong-só; kong-thiaⁿ.
 * counsel, a person, khǹg; khǹg-kòi; kà; khai-tãu.
-* count, sn̍g; siàu; sn̍g-siàu. countless, bô-huap-siàu; m̄-pat-kò-sn̍g; bû-sù.
+* count, sǹg; siàu; sǹg-siàu. countless, bô-huap-siàu; m̄-pat-kò-sǹg; bû-sù.
 * countenance, mīn; mīn-mãuⁿ; mīn-sek; iông-mãuⁿ; iông-sek. to change, mīn pièn-sek; mīn tsak-sek.
 * counter, phòu-kūiⁿ; phòu-tsôiⁿ-kūiⁿ; phòu-tshn̂g.
 * counteract, tsó-chí; tsó-tàng; hāi-sṳ̄ m̄-chiâⁿ; phùa-kòi; tùi-te̍k; te̍k.
@@ -625,7 +625,7 @@
 * courage, to have, ũ-táⁿ; ũ-táⁿ-la̍t; hó-táⁿ; káⁿ; ióng-káⁿ. to stir up one's, tsòng-táⁿ; tsõ-táⁿ.
 * courier, tshoiⁿ-lí-bé.
 * course, lōu; tãu; thû; lōu-thû; tãu-thû; tãu-lōu. of course, tsṳ̃-jiên; thien-jiên; thien-seⁿ; thiⁿ-seⁿ tsṳ̃-jiên.
-* court, royal, chhiâu-thêng. go to, chiẽⁿ-chhiâu; chhiâu-kun. hold, tsõ-chhiâu. dress, chhiâu-ho̍k. courtiers, gṳ̄-tsôiⁿ tãi-chhîn. ladies, keng-nn̍g. court of justice, gê-mn̂g. to hold, lãu-tia tsõ-tn̂g. yard, thim-chéⁿ; thien-chéⁿ; tiâⁿ.
+* court, royal, chhiâu-thêng. go to, chiẽⁿ-chhiâu; chhiâu-kun. hold, tsõ-chhiâu. dress, chhiâu-ho̍k. courtiers, gṳ̄-tsôiⁿ tãi-chhîn. ladies, keng-nńg. court of justice, gê-mn̂g. to hold, lãu-tia tsõ-tn̂g. yard, thim-chéⁿ; thien-chéⁿ; tiâⁿ.
 * courteous, ũ-lói-mãuⁿ; ũ-lí-mãuⁿ; hiáu-lí; lói-siàu kàu-kak; hiáu-lói-ngî.
 * courtesan, hue-niêⁿ; chhiang-kĩ; láu-kṳ́; khiàu-búe.
 * cousin, of same surname, chek-peh hiaⁿ-tĩ; thâng-hiaⁿ-tĩ; tsõng-hiaⁿ-tĩ (more remote). of different surname, pié-hiaⁿ-tĩ; î-pié hiaⁿ-tĩ (children of two sisters); kou-pié hiaⁿ-tĩ (children of brother and sister).
