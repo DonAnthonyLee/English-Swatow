@@ -645,7 +645,7 @@
 * crack, li̍h; phùa; phùa-li̍h; li̍h-phùa; pit; pit-li̍h. a crack, pit-hûn; li̍h-hûn; hûn-chiah; hûn-phāng. crackers, phòng-phiẽ. to fire off, phah-phòng-phiẽ.
 * crackle, pit-piak-kiè.
 * cradle, iê-nâⁿ.
-* craft, chiú-gōi; kĩ-gōi. craftsman, sai-pẽ.
+* craft, chhiú-gōi; kĩ-gōi. craftsman, sai-pẽ.
 * crafty, kan-tsà; kan-káu; kan-hiông; tsà-ngũi; kan-ngũi; ũ-tì-hũi; ũ-sim-sṳ̄.
 * cram, teh-tsa̍t; ji̍h-tsa̍t.
 * cramp, thiu-thiàⁿ. in the legs, thiu-kha-kṳn.
@@ -662,9 +662,9 @@
 * create, tshàng-tsãu.
 * creation, tshàng-tsãu thiⁿ-tī; khai-thiⁿ phek-tī. since creation, tsṳ̃-khai-phek íⁿ-lâi; tsṳ̃ khui-thiⁿ íⁿ-lâi. at the creation, hũn-tũn tsho-khai. the whole creation, thiⁿ-tī būan-mue̍h.
 * credentials, bûn-phêng; bûn-pêng; úi-pâi.
-* credit, sìn; sièn; siang-sìn. buy or sell on credit, chhia. creditor, chè-tsú. credible, khó-sìn; sìn-tit-kùe. credulous, khín-sìn; thèng-sìn. creditable, ũ-kong; ũ-thí-mīn; khó-kìⁿ-nâng; hó-o-ló.
+* credit, sìn; sièn; siang-sìn. buy or sell on credit, chhia. creditor, chè-tsú. credible, khó-sìn; sìn-tit-kùe. credulous, khin-sìn; thèng-sìn. creditable, ũ-kong; ũ-thí-mīn; khó-kìⁿ-nâng; hó-o-ló.
 * creek, káng; sié-khoi; sòi-khoi; thong-kà.
-* creep, pê, so. creep up, pê--khí-lâi. through a hole, bùn-khang; nn̍g-khang. under the bedclothes, nn̍g--ji̍p phũe-tói. stealthily along, níhⁿ-kha-kiâⁿ.
+* creep, pê, so. creep up, pê--khí-lâi. through a hole, bùn-khang; nǹg-khang. under the bedclothes, nǹg--ji̍p phũe-tói. stealthily along, nihⁿ-kha-kiâⁿ.
 * crescent, moon, gue̍h-bâi; sin-gue̍h; ngô-bâi-gue̍h.
 * crew, of ship, tsúi-siú.
 * crevice, khiah; phāng; phāng-khiah; hûn-phāng; hûn-khiah.
@@ -672,8 +672,7 @@
 * crime, tsũe. commmit, hũam-tsũe. a capital, sí-tsũe.
 * criminal, hũam-jîn; tsũe-jîn; tsũe-hũam; chhiû-hũam.
 * crimson, tōa-âng-sek.
-* cringe, tsṳ̃-khut; thiám-mīⁿ thài-kùe.
-* cripple, kuái-kha.
+* cringe, tsṳ̃-khut; thiám-mĩⁿ thài-kùe.
 * cripple, kuái-kha.
 * crisis, come to, kàu-ke̍k. critical, sṳ̄ hiám.
 * crisp, sou. toast till crisp, pek-kàu sou-sou. hair, môⁿ khek-khek; khek-môⁿ.
@@ -682,7 +681,7 @@
 * crockery, hûi; hûi-khì; tshṳ̂-khì (fine quality).
 * crocodile, nga̍k-hṳ̂.
 * crooked, uan; uan-khek; in-uan khit-khek; uan-uan khek-khek; uan-kùe-lâi. to bend, á-uan.
-* crop, of field, nîⁿ-tang; nîⁿ-chhêng; hìⁿ-tang; tang-chhêng. two crops a year, che̍k-nîⁿ siu-nõⁿ-tang. take in, kuah-tiũ; siu-tang; kuah-chhek. bird's crop, kui. to fill crop of fowl with sand &c, kuàn-kui.
+* crop, of field, nîⁿ-tang; nîⁿ-chhêng; hĩⁿ-tang; tang-chhêng. two crops a year, che̍k-nîⁿ siu-nõⁿ-tang. take in, kuah-tiũ; siu-tang; kuah-chhek. bird's crop, kui. to fill crop of fowl with sand &c, kuàn-kui.
 * cross, the, tsa̍p--jī kè. to make or write a, phah-tsham-chhe; phah-tshãm-sia.
 * cross, to, kùe. a river, kùe-khoi. cross-wisee, hûeⁿ. to be cross with one, hia̍p-hiâm. peevish, tshou-siap; kia̍p-khak; tò-thì; m̄-sóng-khùai. cross-bar, mn̂g-tshùaⁿ; hûeⁿ-tshùaⁿ. cross-bow, nãuⁿ. cross-examine, poh-mn̄g; mn̄g-lâi mn̄g-khṳ̀; kháu-piẽn. cross-eyed, siâ-chiáu-ma̍k; tsho̍h-ma̍k; ma̍k-chiu tsho̍h-tsho̍h. cross-legged, phûan-khí-kha; phûan-thúi-tsõ. both legs crossed, sang-kha phûan-khí. cross-way, hûeⁿ-lōu.
 * croton, oil, pa-tāu-iû.
@@ -710,7 +709,7 @@
 * cucumber, tiàu-kue. slicer, kue-phau; kue-thiu.
 * cud, to chew the, huan-tsháu.
 * cudgel, kùn; tshâ-thûi; tshâ-kùn.
-* cuff, slap, òng; piang. with closed fist, cheng; tshùaⁿ. of coat, n̍g-kháu; siù-kháu.
+* cuff, slap, òng; piang. with closed fist, cheng; tshùaⁿ. of coat, ńg-kháu; siù-kháu.
 * cuirass, thih-kah; chia-heng-kah.
 * culpable, ũ-tsũe; ũ-kùe-sit. culprit, hũam-jîn.
 * cultivate, fields, tsoh-tshân; chèng-tsoh; keⁿ-tsoh; keⁿ-tshân. the heart, siu-sim. virtue, siu-tek. one's conduct, siu-sin.
