@@ -170,8 +170,8 @@
 * serious, tãng; tōa. matter, tōa-sṳ̄. disease, pēⁿ tãng. in manner, ngiâm-chiàⁿ; kṳ́n-ngiâm.
 * serpent, tsûa. one, che̍k-tiâu-tsûa. to creep as a, so; kuãn.
 * serrate, seⁿ-kṳ̀-khí.
-* servant, kang-jîn; ēng-jîn; sái-hùan kâi-nâng; sái-tãng kâi kang-jîn; sĩ-tsái (applied to servants of foreigners); nôuⁿ-po̍k (slave); iông-kang kâi-nâng. in a family, ke-jîn. to be one's, kāng-nâng tsò-kang. servants of mandarin, kṳn-pan; kṳn-súi.
-* serve, o̍k-sṳ̃; ho̍k-sĩ; ho̍k-hia̍h; phōiⁿ-sṳ̄.
+* servant, kang-jîn; ēng-jîn; sái-hùan kâi-nâng; sái-tãng kâi kang-jîn; sĩ-tsái (applied to servants of foreigners); nôuⁿ-po̍k (slave); iông-kang kâi-nâng. in a family, ke-jîn. to be one's, kāng-nâng tsò-kang. servants of mandarin, kṳn-pan; kṳn-sûi.
+* serve, ho̍k-sṳ̃; ho̍k-sĩ; ho̍k-hia̍h; phōiⁿ-sṳ̄.
 * server, a, tháng-pûaⁿ; tshâ-pûaⁿ.
 * serviceable, hó-ēng; ēng-tit-lâi.
 * servile, pui-khut; kùe-khiam; tsù-kiong.
