@@ -60,14 +60,14 @@
 * barrier, kuan-kháu; kuan-huâng.
 * barter, hùe uāⁿ-hùe; kau-e̍k; mòng-e̍k.
 * base, hiã-tsūaⁿ; hiã-liû; phí-lõu; khó-lóu.
-* base, as of pillar, thiaũ-kha-chie̍h; thiãu-tún; ẽ-tún.
+* base, as of pillar, thiãu-kha-chie̍h; thiãu-tún; ẽ-tún.
 * bashful, ùi-siáu-lí; ùi-nâng; kiu-niuⁿ.
 * basin, pûaⁿ; phûn; mīn-phûn; mīn-tháng; uáⁿ-kong.
 * bask, pha̍k-ji̍t; chieh-ji̍t.
 * basket, nâⁿ; lâng; nâⁿ-pn̄g; tshun-lúi. large & deep, lûa; kheng. market, chhĩ-nâⁿ. hanging, tiàu-nâⁿ; tiàu-lam. with divisions, tîn-siāⁿ; tshun-siāⁿ; siāⁿ-keh. for carrying rubbish, pùn-ki; ka-ló. for weighing small wares, tiàu-ki. for carrying fish or crabs, khah-kiáⁿ; khah-nâⁿ. for fowls, koi-lam. for pigs, tṳ-lam. cradle, iẽ-nâⁿ; õng-nâⁿ.
-* bastard, thau-saⁿ kâi-kiáⁿ; tsa̍p-chéng-kiáⁿ.
+* bastard, thau-seⁿ kâi-kiáⁿ; tsa̍p-chéng-kiáⁿ.
 * baste, sewing, hâng-saⁿ; hâng-sùaⁿ; tshùn-hâng.
-* bastinado, phah-kha-tshng; phah-tōa-póiⁿ (with bamboo); phah-tîn-tiàu (with rattan).
+* bastinado, phah-kha-tshng; phah-tōa-póiⁿ (with bamboo); phah-tîn-tiâu (with rattan).
 * bat (animal), pi̍t-pô; hò.
 * bathe, sói-e̍k; sói-sin. bath-tub, e̍k-tháng; sói-e̍k-tháng; kha-tháng.
 * battery, phàu-thâi. batter a wall, phah-phùa-siâⁿ.
@@ -78,18 +78,20 @@
 * bayonet, chhèng-thâu-chhieⁿ.
 * beach, hái-phiâⁿ; hái-kîⁿ.
 * beacon, in-tun.
-* bead, tsu. one bead, che̍k-lia̍p-tsu. a string, che̍k-kiû (in a mass); che̍k-kũaⁿ (large string); che̍k-tshùan; che̍k-pa̍k. a string of beads as the mandarins wear them, sù-tsu; chhiàu-tsu. rosary, liãm-tsu.
+* bead, tsu. one bead, che̍k-lia̍p-tsu. a string, che̍k-kiû (in a mass); che̍k-kũaⁿ (large string); che̍k-tshùan; che̍k-pa̍k. a string of beads as the mandarins wear them, sù-tsu; chhiâu-tsu. rosary, liãm-tsu.
 * beak, chiáu-tshùi.
 * beam, of light, kuang-siā; iàng-siā; siā-chiè; ji̍t-tsam.
 * beam, building, êⁿ; tàng-êⁿ. the main beam, tōa-tàng-êⁿ; tong-êⁿ.
 * bean, tāu; tshài-tāu. curd, tāu-kuaⁿ. cake, khou; tāu-khou.
-* bear, carry, taⁿ. endure, jím-nãiⁿ; khat-nãiⁿ; lún. cannot, nãiⁿ-m̄-khṳ̀. with people, iông--nâng; khuan-iông; ũ-tōu-liãng. hunger, nãiⁿ-gō. cold, nãiⁿ.chhìn. heat, nãiⁿ-pha̍k. hard to, làn-nãiⁿ. children, seⁿ-kiáⁿ; kàng; kiau. in the womb, buâi-tho. fruit, seⁿ-kúeⁿ-chí; kat-kúeⁿ; kit-chí; kat-si̍t; kit-si̍t.
+* bear, hîm. bear's gall, hîm-táⁿ. bear's paw, hîm-chiéⁿ.
+* bear, carry, taⁿ. endure, jím-nãiⁿ; khat-nãiⁿ; lún. cannot, nãiⁿ-m̄-khṳ̀. with people, iông--nâng; khuan-iông; ũ-tōu-liãng. hunger, nãiⁿ-gō. cold, nãiⁿ-chhìn. heat, nãiⁿ-pha̍k. hard to, lân-nãiⁿ. children, seⁿ-kiáⁿ; kàng; kiau. in the womb, huâi-tho. fruit, seⁿ-kúeⁿ-chí; kat-kúeⁿ; kit-chí; kat-si̍t; kit-si̍t.
 * beard, chhiu. beard silvery white, chhiu soh-soh-pe̍h.
 * bearer, taⁿ-tàⁿ-nâng; kieh-hu; thiau-hu; koiⁿ-thiau. chair, kiē-pou; kiē-ẽ; kng-kiē; kiē-hu; thâi-kiē; kong-siā (in addressing them). three bearers, saⁿ-miâⁿ.
-* beast, khîm-siù-khúan; tṳ-iêⁿ-káu-sièⁿ; zû-tṳ-káu.
+* beast, khîm-siù; iá-siù. domestic, seⁿ-kháu; cheng-seⁿ.
+* beastly, khîm-siù-khúan; tṳ-iêⁿ-káu-sièⁿ; zû-tṳ-káu.
 * beat, phah. one another, sie-phah. with bad language, sie-mēⁿ sie-phah. beat the watch, khà-khok sûn-keⁿ. the time, khà-pán; khà-chiauh. a drum, phah-kóu. to beat the bamboo in fishing, khà-kou. one's own head, phah-thâu phah-hia̍h. the breast, phah-sim-kuaⁿ; tûi-heng. clothes, in washing, tûi-saⁿ-khòu. rice, phah-tiũ. beat out fire, phah-húe; kiù-húe. beat one with the hand in the face, piang (a slap); òng (a blow). beat against the wind, khau-huang. excel, iâⁿ; iâⁿ-kùe. to be beaten, su.
 * beau, hàuⁿ-phâi-chhiâng; hàuⁿ-ngiá; hàuⁿ-hue-liú; hàuⁿ-he̍hⁿ.
-* beautiful, ngiá; hó-thóiⁿ; múiⁿ; muíⁿ-mãuⁿ; chhiàu-kè; sún-tsái; seⁿ-phâi-chhiáng; piáu-chì.
+* beautiful, ngiá; hó-thóiⁿ; múiⁿ; muíⁿ-mãuⁿ; chhiàu-kè; sún-tsái; seⁿ-phâi-chhiâng; piáu-chì.
 * beautify, hún-sek; tá-pàn; siu-tsuang tá-pàn.
 * beauty, see BEAUTIFUL, a beauty, múiⁿ-jîn; thí-thài hó.
 * beaver, hái-lô (?). skin, hái-lô-phûe.
