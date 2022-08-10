@@ -311,7 +311,7 @@
 * arms, weapons, kun-khì; piaⁿ-khì; kan-kho; piaⁿ-kah; ke-húe.
 * armour, chièn-phâu; chièn-kah; thâu-khue chièn-kah; thih-kah. armoury, piaⁿ-khòu; bú-khòu; kun-tsuang-ke̍k.
 * armistice, sek-chièn; sek-chièn-pài.
-* army, tãi-kun; kun-sṳ̃; tãi-piaⁿ; piaⁿ-tsut; iàⁿ-ngóu. to lead an, tòa-piaⁿ.
+* army, tãi-kun; kun-sṳ̃; tãi-piaⁿ; piaⁿ-tsut; iâⁿ-ngóu. to lead an, tòa-piaⁿ.
 * aromatic, phang; bī-sòu phang. spices, hieⁿ-liāu.
 * around, chiu-ûi; chiu-ûi sì-phìⁿ; sì-ûi; che̍k-ûi; tsôiⁿ-ãu.
 * arouse, from sleep, kiè-chhéⁿ; hàm-chhéⁿ. the mind, kak-ngõ; chhéⁿ-ngõ; that-chhéⁿ.
