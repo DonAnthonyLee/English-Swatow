@@ -1,10 +1,13 @@
 # 《卓威廉词典》数字化修正及利用计划
 
+<br>
+
 ## 数字化修正
 
 + 数字化内容校核 [进行中]
 + 声调、韵尾等修正并注解（含凭据）
 
+<br>
 
 ## 利用计划
 
@@ -15,8 +18,15 @@
 + 增加词元扩展信息（《菲尔德词典》例句、现今例句等）
 + 以上各项形成专用编辑程序，并可自动形成数据供自然语言处理模型等应用。
 
+<br>
 
 # 原作信息
+
+<br>
+
+**该词典由卓威廉（William Duffus）在卫三畏（S. Wells Williams）、黎力基（Rev. R. Lechler）所记录手稿基础上编著而成，称之《卓威廉词典》为我等民间人士之俗称，以便区别于《菲尔德词典》（A Pronouncing and Defining Dictionary of the Swatow Dialect），专业学者或许并非如此称谓。**
+
+<br>
 
 ## English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
 
@@ -32,3 +42,4 @@ English Presbyterian mission Press, 1883
 <br />
 原作 （《<span property="dct:title">English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow</span>》） 由 <span resource="[_:creator]" rel="dct:creator"><span property="dct:title">William Duffus（卓威廉）</span></span> 编著, 并由 <span resource="[_:publisher]" rel="dct:publisher"><span property="dct:title">台湾国立清华大学陈教授</span></span> 进行初始数字化, 其现属公共版权。
 </p>
+
