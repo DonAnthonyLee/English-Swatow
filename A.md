@@ -153,25 +153,25 @@
 * aggregate, tsóng-siàu; ha̍h-kāng.
 * aghast, tie̍h-kiaⁿ; kiaⁿ kàu-bô-hûn; kiaⁿ-kàu hûn siau phek suàⁿ.
 * agitate, tõng; iâu-tõng; chín-tõng. greatly agitated, sim-kuaⁿ phû-phû-tshuán.
-* ago, tsôiⁿ. long, ìⁿ-keng-kú. not long, bô-mih-kú. how long? kàu-taⁿ jie̍h-kú?
-* agree, hûa; siang-hûa; hûa-ha̍h; hûa-mo̍k; hûa-khì; siang-ha̍h; tuàn-ieh. in opinion, tàng-ì; tâng-ki. an agreement, ha̍p-tâng; khòi; ha̍p-ieh.
+* ago, tsôiⁿ. long, íⁿ-keng-kú. not long, bô-mih-kú. how long? kàu-taⁿ jie̍h-kú?
+* agree, hûa; siang-hûa; hûa-ha̍h; hûa-mo̍k; hûa-khì; siang-ha̍h; tuàn-ieh. in opinion, tâng-ì; tâng-ki. an agreement, ha̍p-tâng; khòi; ha̍p-ieh.
 * agreeable, ha̍h-ì; zû-nguãn; sûi-nguãn; thiàng-huâi; thiàng-ì; tshù-bī; sũi-sim. as companion, ha̍h-su-kah. in conversation, ha̍h-phue̍h.
 * agriculture, lông-sṳ̄; tsoh-tshân; tshân-kang.
 * aground, khùa; khùa-chhién; khùa-sua.
-* ague, kûaⁿ-zua̍h-pēⁿ; kiâm-siam-kûaⁿ; kûaⁿ-jie̍t; huat-kûaⁿ; pak-kûaⁿ; ngia̍h-pēⁿ; ùiⁿ-chhìn. quotidian, ji̍t-ji̍t-kûaⁿ. tertian, nõⁿ-ji̍t-kûaⁿ; làng-ji̍t-kûaⁿ. quartan, saⁿ-ji̍t-kûaⁿ.
-* ahead, tõ-thàu-tsôiⁿ. to go, tùi thâu-mīn-tsôiⁿ ti̍t-kiâⁿ.
+* ague, kûaⁿ-zua̍h-pēⁿ; kiâm-siam-kûaⁿ; kûaⁿ-jie̍t; huat-kûaⁿ; pak-kûaⁿ; ngia̍k-pēⁿ; ùiⁿ-chhìn. quotidian, ji̍t-ji̍t-kûaⁿ. tertian, nõⁿ-ji̍t-kûaⁿ; làng-ji̍t-kûaⁿ. quartan, saⁿ-ji̍t-kûaⁿ.
+* ahead, tõ-thâu-tsôiⁿ. to go, tùi thâu-mīn-tsôiⁿ ti̍t-kiâⁿ.
 * aid, pang-tsõ; sie-hũ; siang-pang; hũ-tsõ. with money, pang-tsān.
 * aim, khiû; mông-ûi. to take, chhiēⁿ-ma̍k; chhiēⁿ-chiàⁿ. a good, ũ-tsún-thâu.
-* air, thin-khì; tī-khì; huang. to take the, lā-liâng. clothes, lā-saⁿ.
+* air, thiⁿ-khì; tī-khì; huang. to take the, lā-liâng. clothes, lā-saⁿ.
 * alacrity, hèng-ì; méⁿ-méⁿ.
-* alarm, kiaⁿ-tong. false, phièn-nâng-kiaⁿ.
+* alarm, kiaⁿ-tõng. false, phièn-nâng-kiaⁿ.
 * alas! āi-ā! (in grief); hā-iā! (in danger).
 * alert, kha-chhiú khùe; lêng-lāi; ua̍h-phuah; lêng-cheng.
 * alias, to adopt an, mâiⁿ-miàⁿ mi̍t-sèⁿ; kói-miâⁿ uāⁿ-sèⁿ.
 * alight, from a horse, lo̍h-bé. from a chair, lo̍h-kiē; tshut-kiē.
 * alike, sie-tâng; pêⁿ-iēⁿ; che̍k-iēⁿ; che̍k-it.
 * alive, ua̍h; seⁿ-ua̍h; ua̍h-tõng, õi tín-tãng; ũ-seⁿ-miāⁿ; ũ-hueh-khì.
-* all, lóng-tsóng; chiàⁿ-kâi; kâi-kâi; tsò-che̍k-ē; kan-chẽng; tsn̂g-kâi. men, nâng-nâng; hūan-nâng; tãi-ke; chèng-nàng; things, būan-mue̍h; kiãⁿ-kiãⁿ; hâm-kâi. all day, tsong-ji̍t. thàng-ji̍t. all one’s life, phêng-seⁿ; che̍k-sì-nâng; che̍k-seⁿ. the family, ha̍p-ke; che̍k-ke-nâng. all at once, tsò-che̍k-ē; che̍k-tsôi; ka-nn̂g. all over a place, múaⁿ-tshù; múaⁿ-kò. with all one’s heart, chĩn-sim; tsuan-sim. all kinds, peh-puaⁿ; kak-iēⁿ. to know all, tsai-thàng; hiáu-kàu-thàu.
+* all, lóng-tsóng; chiàⁿ-kâi; kâi-kâi; tsò-che̍k-ē; kan-chẽng; tsn̂g-kâi. men, nâng-nâng; būan-nâng; tãi-ke; chèng-nâng; things, būan-mue̍h; kiãⁿ-kiãⁿ; hâm-kâi. all day, tsong-ji̍t. thàng-ji̍t. all one’s life, phêng-seⁿ; che̍k-sì-nâng; che̍k-seⁿ. the family, ha̍p-ke; che̍k-ke-nâng. all at once, tsò-che̍k-ē; che̍k-tsôi; ka-nn̂g. all over a place, múaⁿ-tshù; múaⁿ-kò. with all one’s heart, chĩn-sim; tsuan-sim. all kinds, peh-puaⁿ; kak-iēⁿ. to know all, tsai-thàng; hiáu-kàu-thàu.
 * allay, thirst, kói-khuah; chí-âu; chí-khuah. pain, chí-thiàⁿ. sorrow, kói-iu. disturbance, uaⁿ-tiām tī-hng; uaⁿ-chẽⁿ tī-hng.
 * allegiance, tshông-mẽng; sũn-ho̍k. faithful, tong-sim.
 * alliance, to form an, pài-hũe; kat-hũe; pài-mêng. by marriage, kat-chhin.
@@ -193,7 +193,7 @@
 * alphabet, jī-bó.
 * already, íⁿ-keng; kì-sĩ; kì-jién.
 * also, iā; kiam; íⁿ-ki̍p; iā-sĩ; kiam-kũa; siãng-chhiáⁿ.
-* altar, tôaⁿ; chi̍-tôaⁿ; hieⁿ-tôaⁿ; hieⁿ-uàⁿ.
+* altar, tôaⁿ; chì-tôaⁿ; hieⁿ-tôaⁿ; hieⁿ-uàⁿ.
 * alter, kói; kói-pièn; kói-uāⁿ; kói-e̍k; kói-chiàⁿ; chhiâⁿ-kói.
 * altercation, cheⁿ-lũn; sie-à; sie-jiáng; sie-cheⁿ; khau-peh.
 * alternate, sie-lûn; sie-lûn-liû; lûn-liû; sie-thòi.
