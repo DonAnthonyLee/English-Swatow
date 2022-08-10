@@ -185,7 +185,7 @@
 * tone, siaⁿ-im. the eight tones, poih-im.
 * tongs, thih-kîⁿ; thih-khîⁿ; thih-tṳ̄.
 * tongue, chi̍h. tip of, chi̍h-thâu. to put out the, chi̍h tshun--tshut-lâi. to scrape the, kueh-chi̍h. tongue scraper, chi̍h-kueh. mother-tongue, pńg-tī-ūe; pńg-thôu-ūe; thôu-im.
-* tonic, a, póu-ie̍h; póu-pî-ie̍h; póu-khì-kueh.
+* tonic, a, póu-ie̍h; póu-pî-ie̍h; póu-khì-hueh.
 * tonight, kim-mêⁿ; mêⁿ-hng; kim mńg; kim-siau.
 * too, many, khah-tsōi. large, khah-tōa; khah-kùe-tōa. much, khah-ke; khah-kùe-thâu. young, hûan-iáu-chíⁿ; khah-chíⁿ. ripe, kùe-se̍k. do not be too sad, màiⁿ-khah kùe-lṳ̃; mín-ēng hièⁿ-kùe-lṳ̃.
 * tools, ke-húe; khì-kũ; khì-mue̍h.
@@ -223,7 +223,7 @@
 * train, to, kà; kà-io̍k. soldiers, tshau-piaⁿ; tshau-liēn-piaⁿ; tshau-piaⁿ liēn-tsut.
 * train, a, kṳn-pan; sûi-tsõng; kṳn-sûi.
 * trait, a good, che̍k-tn̄g hó-sim; che̍k-kiãⁿ-sṳ̄ hó-tshú.
-* traitor, bōi-kok; kōi-kun; kan-chhîn; bōi-làn kun-uâng; tsò-sùaⁿ.
+* traitor, bōi-kok; bōi-kun; kan-chhîn; bōi-làn kun-uâng; tsò-sùaⁿ.
 * trample, on. tshau-ta̍h; lūn-ta̍h. to death, ta̍h-sí; lūn-sí. on the law, ma̍k bô-uâng-chiang.
 * trance, to fall into a, sim-sîn iû tõ-mu̍eh-siãng hṳ́-gūa.
 * tranquillity, thài-phêng; uaⁿ-chẽⁿ; phêng-an; phêng-chẽⁿ. tranquillize, phêng; uaⁿ-ùe.
