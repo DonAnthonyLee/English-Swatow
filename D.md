@@ -48,8 +48,8 @@
 * decanter, po-lî-tsun, po-lî-kùan.
 * decapitate, thâi-thâu; tsám-thâu; tsám-siú; tshú-tsám.
 * decay, sue; sue-mûiⁿ. rot, àu; àu-tshàu. decayed tooth, tsù-khí.
-* decease, kùe-sì; kùe-sin. deceased parents, kháu-pí. my deceased father, lẽng-soiⁿ-kháu; lẽng-soiⁿ-tsun.
-* deceit, kan-tsà; khũi-kòi; kan-kòi; khũi-phièn; kuang-phièn; tshuah (in trade). deception, ké-sṳ̄; mûaⁿ-mâng-ma̍k; iám-sek.
+* decease, kùe-sì; kùe-sin. deceased parents, kháu-pí. my deceased father, úa-kâi soiⁿ-kháu; ke-soiⁿ-hũ. your deceased father, lẽng-soiⁿ-kháu; lẽng-soiⁿ-tsun.
+* deceit, kan-tsà; khũi-kòi; kan-kòi; khũi-phièn; kuang-phièn; tshuah (in trade). deception, ké-sṳ̄; mûaⁿ-nâng-ma̍k; iám-sek.
 * decency, ha̍h-lí; ha̍h-sek. decent, hiáu-lí.
 * decide, kuat-tùan; tiāⁿ-tie̍h; tsú-ì; li̍p-tiāⁿ tsú-ì. decided, kuat-ì; che̍k-kuat; kuat-tùan; ũ-tsú-ì; ũ-tsú-kièn; ũ-tiāⁿ-kièn; ũ-pá-thî. legal decision, kuat-tùan ùaⁿ-kiãⁿ.
 * decimate, tsa̍p-hūn thiu-che̍k.
@@ -70,7 +70,7 @@
 * deduct, khà-tṳ̂; khà-kiám; tṳ̂-kiám.
 * deed, action, sṳ̄; hêng-ûi; kiâⁿ-sṳ̄. written, khòi.
 * deem, siẽⁿ. to deem it insufficient, thóiⁿ-tsò m̄-kàu; íⁿ-ûi put-tsok.
-* deep, chhim; chhim-tîm. the deep, chhim-uan; chhim-thâm. deep thought, chhim-sṳ; chhim-siẽⁿ. deep colour, chhim-sek; sek-esúi chhim. dig deep, liú-chhim. deeply learned, ha̍k-mn̄g chhim; tsṳ-lí chhim. deep voise, siaⁿ lô-lô; tàⁿ-ūe o-o-kiè. deeply absorbed in anything, ji̍p-sîn. a deep and dangerous fellow, im-thim-hāi.
+* deep, chhim; chhim-tîm. the deep, chhim-uan; chhim-thâm. deep thought, chhim-sṳ; chhim-siẽⁿ. deep colour, chhim-sek; sek-tsúi chhim. dig deep, liú-chhim. deeply learned, ha̍k-mn̄g chhim; tsṳ-lí chhim. deep voise, siaⁿ lô-lô; tàⁿ-ūe o-o-kiè. deeply absorbed in anything, ji̍p-sîn. a deep and dangerous fellow, im-thim-hāi.
 * deer, te̍k. sinews, te̍k-kṳn. horns, te̍k-zông. musk-deer, siā-káu.
 * deface, mue̍h-tiāu; tôu-tiāu; buah-tiāu; kôu-tiāu.
 * defalcation, khui-khòng; sái-khòng.
