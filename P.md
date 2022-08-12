@@ -24,7 +24,7 @@
 * pan, tiáⁿ; thih-ue; seⁿ-ue.
 * panacea, peh-tsháu-tan; buān-ēng-tan; buān-ēng-îⁿ.
 * pane, of glass, che̍k-kò po-lî.
-* pang, of pain, che̍k-tsūn-thiàⁿ; che̍k-khùn; kiáⁿ thiàⁿ.
+* pang, of pain, che̍k-tsūn-thiàⁿ; che̍k-khùn-kiáⁿ thiàⁿ.
 * panic, kiaⁿ-kàu-kông; kiaⁿ kàu hun-kông; kiaⁿ kàu ngo̍h-ngo̍h.
 * pant, tshúan; tshúan-tōa-khùi.
 * pants, khòu. short, for bathing, khòu-ku̍eh.
@@ -55,7 +55,7 @@
 * parsnip, huan tshài-thâu (foreign turnips).
 * part, siang-pie̍t; lī-pie̍t; chiãm-pie̍t; lī-khui. divide, pun; pun-khui. off, keh; tsò-kak-pie̍t. a, hūn; kou; tn̄g; ē; ku̍eh; ûe. the greater part, che̍k-tōa-ûe; che̍k-tōa-pùaⁿ. six parts out of ten, la̍k-siâⁿ.
 * partake, ũ-hūn. of a meal, tsò-pû-chia̍h.
-* partial, phien-sim; phien-sṳ; tōa-sòi-sim; khin-tãng-sim; khuah-o̍ih-sim. to any one, phien-ài. not, bô-i bô-lṳ̂; bô-chhin bô-so; bô-tshṳ́ bô-pí; chhiú-pûaⁿ iā-sĩ-ne̍k, chhiú-tói iā-sĩ-ne̍k. partially, būe-uân; būe-tshûan; būe-chheng-tshó; kúi-siâⁿ.
+* partial, phien-sim; phien-sṳ; tōa-sòi-sim; khin-tãng-sim; khuah-o̍ih-sim. to any one, phien-ài. not, bô-i bô-lṳ́; bô-chhin bô-so; bô-tshṳ́ bô-pí; chhiú-pûaⁿ iā-sĩ-ne̍k, chhiú-tói iā-sĩ-ne̍k. partially, būe-uân; būe-tshûan; būe-chheng-tshó; kúi-siâⁿ.
 * particle (in grammar), hṳ-jī. a small, che̍k-sut-kiáⁿ.
 * particoloured, hue-long-sek; hue-tiám tsa̍p-sek; poiⁿ-sek; hue-poiⁿ.
 * particular, só-tshùi; só-siak; sòi-siâng. the particulars, chhêng-iû; che̍k-kiãⁿ che̍k-kiãⁿ. of an account, che̍k-tiâu che̍k-tiâu.
