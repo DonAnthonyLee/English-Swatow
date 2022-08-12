@@ -183,7 +183,7 @@
 * bill, toaⁿ; hùe-toaⁿ; ngṳ̂n-toaⁿ. make out, khui-toaⁿ. of bird, chiáu-tshùi.
 * billhook, liâm; liâm-to.
 * billet, tsṳ-sìn; kò-jī; sòi-huang-sìn. of wood, kò-tshâ.
-* billow, éng; tsúi-eng; hái-éng.
+* billow, éng; tsúi-éng; hái-éng.
 * bind, pa̍k; hâ; khún-pa̍k; khún; tîⁿ. book, kap-chheh. feet, tîⁿ-kha.
 * bird, chiáu. cage, chiáu-lâng. lime, chiáu-thi. nest, chiáu-siū; chiáu-tàu. edible bird's nest, ièn-o; ièn-tshài.
 * birth, seⁿ; tshut-sì. birth-place, ngûan-chiã; kū-chiã; pńg-chiã; pńg-tshù.
@@ -197,12 +197,12 @@
 * black, ou; hek. black and blue, ou-chheⁿ.
 * blackguard, láu-kiáⁿ; iá-kiáⁿ. pháiⁿ-kiáⁿ.
 * blackbird, peh-chi̍h-chiáu; peh-lêng.
-* blacking, shou, sueh-ôi kâi-ba̍k-tsúi.
+* blacking, shoe, sueh-ôi kâi-ba̍k-tsúi.
 * blacksmith, phah-thih sai-pẽ.
 * bladder, jiē-pha; tsúi-pha; phâng-kuang.
 * blade, to-ne̍k. of grass, tsháu-keⁿ; tsháu-sún; che̍k-ki-tsháu. "ilka blade o' grass keps its ain drap o' dew", ki-tsháu tiám-lōu.
 * blame, hiâm; cheh-hiâm; cheh-mēⁿ; cheh-pĩ. it is my, sĩ uá kâi-kùe-sit. worthy of, khó-cheh; hó-hiâm; m̄-tùi-sṳ̄; m̄-tie̍h; ũ-phāng; ũ-khiah.
-* blameless, bô-hó-hiàm; bô-phāng hó-cheh; bô-ũ hó-ngí; bô m̄-tie̍h--tshù.
+* blameless, bô-hó-hiâm; bô-phāng hó-cheh; bô-ũ hó-ngí; bô m̄-tie̍h--tshù.
 * bland, un-jiû; un-hûa. but with hatred in the heart, kháu bi̍t pak kiàm; chhiè-lí tshâng-to.
 * blanket, chiⁿ-tiâu.
 * blaspheme, siet-to̍k Siãng-tì; mēⁿ-thiⁿ chiù-tī; chiù-thiⁿ mēⁿ-tī.
