@@ -291,7 +291,7 @@
 * cleave, phùa-khui. wood, phùa-tshâ. cleave to, liâm-tùe; tah-tùe; tùe-kín; zû-ka zû-tshat; kuah-siá m̄-khui.
 * clemency, khuan-iông; tsuṳ̂-sim; ṳn-hũi; tshṳ̂-pui.
 * clerk, tsṳ-phōiⁿ. in civil court, a-pún. military, kó-kong; siàng-kong.
-* clever, lêng-lāi; tshong-mêng; gâu; miàⁿ-ke; õi; ũ-lêng-kàng; ũ-tshâi-chhêng; ũ-tshâi-lêng; mién-chia̍p; lêng-tõng; ũ-pún-sṳ̄; ũ-tì-sek; ũ-ki-tì; ua̍h-phuah.
+* clever, lêng-lāi; tshong-mêng; gâu; miâⁿ-ke; õi; ũ-lêng-kàng; ũ-tshâi-chhêng; ũ-tshâi-lêng; mién-chia̍p; lêng-tõng; ũ-pún-sṳ̄; ũ-tì-sek; ũ-ki-tì; ua̍h-phuah.
 * clew, of thread, che̍k-kiû-sùaⁿ. to wind into a, în tsò-che̍k-kiû. see CLUE.
 * click, with the tongue, tok--chē-kiè.
 * client, sṳ̄-tsú.
@@ -308,7 +308,7 @@
 * cloister, am; Hu̍t-am; hûe-siēⁿ-am.
 * close, letter, huang; huang-sìn. door, kueⁿ-mn̂g. without fastening, hõiⁿ-mn̂g. the eyes, ma̍k-chiu ha̍p-miⁿ; ma̍k-chiu tièⁿ-miⁿ. the market, siu-tiêⁿ. all shops in protest against injustice, pã-chhĩ. close or end, tsong; uân; hiah. close-fisted, khiãm-siap; kien-liẽn. weather, hip-zua̍h. texture, ba̍t-ba̍t; ba̍t-tsa̍t. application, tsuan-sim; ēng-kang; khṳ̂n. close to, siang-kṳ̃n. follow closely, tùe-kín; sûi-tie̍h-kha.
 * closet, ba̍t-pâng; pâng-koiⁿ; pâng-kiáⁿ; sòi-koiⁿ-pâng.
-* clot, hueh kit-kàu-tu; hueh hṳ̂n; hueh-kò. internal, kat-hueh; sí-hueh.
+* clot, hueh kit-kàu-tu; hueh kṳ̂n; hueh-kò. internal, kat-hueh; sí-hueh.
 * clothe, pòu. native cotton cloth, ka-pùa-pòu. grass-cloth, tiũ-pòu. oil-cloth, iû-pòu. weave, keⁿ-pòu. woollen, nîⁿ. black broad-cloth, ou-nîⁿ. buy, ka-pòu.
 * clothes, saⁿ-khòu; i-ho̍k; i-siâng; kûn-saⁿ; ho̍k-sek. put on, chhēng-saⁿ-khòu.
 * cloud, hûn. cloudy, chhiẽⁿ-hûn; hip-hûn; khàm-hûn. cloudy weather, thiⁿ-sî ou-àm. cloudless, thiⁿ chêⁿ; liâu-liãng.
@@ -350,7 +350,7 @@
 * coil, khuan-che̍k-khou.
 * coin, chîⁿ; ngṳ̂n. to coin, tsù-chîⁿ; tsù-ngṳ̂n. stamp for, chîⁿ-bôu. coiner of false money, sai-siet chîⁿ-lôu; thau-tsù-chîⁿ.
 * coincide, siang-ha̍h; siang-tùi.
-* cold, chhín; ngân; tàng; kûaⁿ; liâng (cool). catch cold, sieⁿ-huang; kûaⁿ--tie̍h. die from cold, kûaⁿ-sí. cold and heat, kûaⁿ-zua̍h; hàn-sú. coldly, chhêng-ì néⁿ; po̍h-chhêng. cold and hunger, ki-hân; siũ-kûaⁿ siũ-gō. cold in the head, chhek-tsúi.
+* cold, chhìn; ngân; tàng; kûaⁿ; liâng (cool). catch cold, sieⁿ-huang; kûaⁿ--tie̍h. die from cold, kûaⁿ-sí. cold and heat, kûaⁿ-zua̍h; hân-sú. coldly, chhêng-ì néⁿ; po̍h-chhêng. cold and hunger, ki-hân; siũ-kûaⁿ siũ-gō. cold in the head, chhek-tsúi.
 * colic, tie̍h-sua; tóu thiàⁿ; ká-tn̂g-sua; tóu thiàⁿ húan-húan ho̍k-ho̍k; tóu iû-chhiû-thiàⁿ. acute, tie̍h-kín-sua.
 * collapse, tó-tha̍p.
 * collar, ãm-niáⁿ; niáⁿ.
