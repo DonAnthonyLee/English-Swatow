@@ -214,7 +214,7 @@
 * chicanery, tsōi-sim-sṳ̄; sim-sṳ̄ tsōi; kan-tsà; ngũi-kòi.
 * chicken, koi-kiáⁿ. pox, tshut-tāu; tsúi-tsu. hearted, bô-táⁿ; bun-táⁿ.
 * chide, mēⁿ; tok-cheh; cheh-pĩ; kùe-cheh; cheh-hiâm.
-* chief, thàu-nâng; thâu-ma̍k. chiefly, thâu-che̍k-kâi; tãi-sì; tōa-pùaⁿ.
+* chief, thâu-nâng; thâu-ma̍k. chiefly, thâu-che̍k-kâi; tãi-sì; tōa-pùaⁿ.
 * chilblain, kûaⁿ-tàng; tòng-tshng; tàng-tshng.
 * child, a-nôuⁿ; nôuⁿ-kiáⁿ; kiáⁿ. childhood, tsò-sòi-kiáⁿ--sî; iùⁿ-nîⁿ. childless, bô-kiáⁿ; bô-kiáⁿ bô-jî. childish, nôuⁿ-kiáⁿ-khuán; nôuⁿ-kiáⁿ-iēⁿ. see INFANT.
 * chill, chhìn; kûaⁿ.
@@ -228,18 +228,18 @@
 * chirp, bird, chih-chiau̍h-kiè. crickets, tek-sut kiang-kiang-kiè; tiang-tiang-kiè.
 * chisel, tsha̍k-kiáⁿ. stonecutter's, tsãm; chie̍h-tsãm.
 * chloranthus, koi-kha-lân (chloranthus inconspicuus).
-* choice, select, chì-hó; siãng-hó; tsùe-hó; tśng-hó; it-hó; súan-hó--kâi.
+* choice, select, chì-hó; siãng-hó; tsùe-hó; téng-hó; it-hó; súan-hó--kâi.
 * choke, kéⁿ--tie̍h; kéⁿ-tie̍h-âu. to death, kéⁿ-sí.
 * cholera, thòu-sià; sî-lẽng thòu-sià; khak-luãn thòu-sià; khong-thûi-ùaⁿ.
 * choleric, kip-sèⁿ; sèⁿ kín; kōi-seⁿ-khì.
-* choose, suán; suán-to̍h; kóiⁿ-to̍h; to̍h; kóiⁿ; púe-to̍k.
+* choose, suán; suán-to̍h; kóiⁿ-to̍h; to̍h; kóiⁿ; púe-to̍h.
 * chop, tso̍ih; tok. mark, jī-hō. dollars, tèng-hō. chopping-block, tiam. knife, tshài-to; tshài-iang-to; pang-to. mutton-chop, pâi-kut-ne̍k.
 * chopsticks, tṳ̄. to hold, sái-tṳ̄; khiâ-tṳ̄. lift with, koih.
 * chord, of musical instrument, hîⁿ-sùaⁿ. of an arc, keng-hîⁿ.
 * Christ, Ki-tok. Christianity, Iâ-sou kà. Christians, Iâ-sou mn̂g-thû.
 * chronic, disease, kú-pēⁿ; kú-tn̂g-pēⁿ; tn̂g-nîⁿ sì-tshun pẽⁿ; sì-khùi-pēⁿ; lãu-mâuⁿ; kú-chi̍t; kū-pēⁿ.
 * chronicles, kok-sṳ́; kang-kàm; sṳ́-kì.
-* chronology, le̍h-nîⁿ-phõu; sṳ́-stṳ.
+* chronology, le̍h-nîⁿ-phõu; sṳ́-tsṳ.
 * chronometer, sî-pie; sî-cheng.
 * chrysalis, thâng-kóiⁿ. of silk-worm, tshôiⁿ-kóiⁿ.
 * chrysanthemum, kek-hue.
@@ -257,7 +257,7 @@
 * circle, khou; îⁿ-khou; khuan; îⁿ-khuan.
 * circular, a, tsham-jī.
 * circulate, chiu-liû; lûn-tńg. blood, kiâⁿ; ūn-kiâⁿ.
-* circumcise, kuah-iâng-phûe. circumcision, sa a rite, kuah-lói.
+* circumcise, kuah-iâng-phûe. circumcision, as a rite, kuah-lói.
 * circumference, îⁿ-îⁿ. three feet in c. chiu-ûi saⁿ-chhieh.
 * circumjacent, tsôiⁿ-ãu; lîn-kṳ̃n.
 * circumlocution, tàⁿ-lâi tàⁿ-khṳ̀; hông-hun thoh-gue̍h kâi-ūe.
@@ -285,11 +285,11 @@
 * clatter, kit-ko̍k-kiè; chhit-tshok-kiè; khit-khok-lo̍k-kiè.
 * claw, jiáu.
 * clay, nîⁿ; thôu-nîⁿ; liâm-nîⁿ. for pottery, hûi-thôu.
-* clean, chheng; kng; mêng; pe̍h; mêng-pe̍h; thêng-chheng. water, tsúi chheng-chheng. weather, thiⁿ chêⁿ; thiⁿ-sî chêⁿ; liâu-liãng (cloudless). clear up after rain, hõu chêⁿ. clear up doubts, kói-gî. an account, chheng-siàu; siàu-ba̍k chheng-tshó. sighted, ma̍k-chiu hng.
+* clean, chheng; kng; mêng; pe̍h; mêng-pe̍h; thêng-chheng. water, tsúi chheng-chheng. weather, thiⁿ chêⁿ; thiⁿ-sî chêⁿ; liâu-liãng (cloudless). clear up after rain, hõu chêⁿ. clear up doubts, kói-gî. an account, chheng-siàu; siàu-ba̍k chheng-tshó. sighted, ma̍k-chiu kng.
 * clearance, ship's, tsûn-pâi.
 * clearly, mêng-mêng; hīn; mêng-hīn; mêng-pe̍h.
 * cleave, phùa-khui. wood, phùa-tshâ. cleave to, liâm-tùe; tah-tùe; tùe-kín; zû-ka zû-tshat; kuah-siá m̄-khui.
-* clemency, khuan-iông; tsuṳ̂-sim; ṳn-hũi; tshṳ̂-pui.
+* clemency, khuan-iông; tshṳ̂-sim; ṳn-hũi; tshṳ̂-pui.
 * clerk, tsṳ-phōiⁿ. in civil court, a-pún. military, kó-kong; siàng-kong.
 * clever, lêng-lāi; tshong-mêng; gâu; miâⁿ-ke; õi; ũ-lêng-kàng; ũ-tshâi-chhêng; ũ-tshâi-lêng; mién-chia̍p; lêng-tõng; ũ-pún-sṳ̄; ũ-tì-sek; ũ-ki-tì; ua̍h-phuah.
 * clew, of thread, che̍k-kiû-sùaⁿ. to wind into a, în tsò-che̍k-kiû. see CLUE.
