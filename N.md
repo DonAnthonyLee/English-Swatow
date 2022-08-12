@@ -23,12 +23,12 @@
 * need, see NECESSARY. need not, mién; mín-ēng. the needy, phîn-mîn; phîn-khiông-nâng.
 * needle, tsam. eye of, tsam-phīⁿ. to thread a, tshng-tsam. case, tsam-tō. of the Chinese compass, chí-lâm-tsam.
 * needless, expenditure, hṳ-hùi; hua-hùi; khang-hùi.
-* neglect, tãi-buãn (treat disrespectfully); hut-lia̍k (slight); khin-buãn; khin-hut; miáuⁿ-hut; put-kù (not take care of); bô-kuan-kù; bô-chiàu-kù; bô-thóiⁿ-kù; bô-kù-sím; bô-lí (not attend to, as business). negligent, lak-thak; lak-lṳ́; lua-thûa (putting off).
+* neglect, tãi-buãn (treat disrespectfully); hut-lia̍k (slight); khin-buãn; khin-hut; miáuⁿ-hut; put-kù (not take care of); bô-kuan-kù; bô-chiàu-kù; bô-thóiⁿ-kù; bô-kù-sím; bô-lí (not attend to, as business). negligent, lak-thak; lak-lṳ̀; lua-thûa (putting off).
 * negotiations, for peace, kiâⁿ-hûa; káng-hûa.
 * negro, ou-mīn-nâng; ou-huan.
 * neigh, bé kiè.
 * neighbour, tshù-piⁿ; tshù-piⁿ lîn-iũ; tshù-lîn; lîn-kṳ. neighbourhood, lîn-kṳ̃n. neighbouring (village; kingdom), lîn-hieⁿ; lîn-kok.
-* neither, more nor less, bô-ke bô-kiám. neither he not I went, i iā bô-khṳ̀, uá iā bô-khṳ̀; pí-tshṳ́ lóng-tsóng bô-khṳ̀.
+* neither, more nor less, bô-ke bô-kiám. neither he nor I went, i iā bô-khṳ̀, uá iā bô-khṳ̀; pí-tshṳ́ lóng-tsóng bô-khṳ̀.
 * nephew, tie̍t; gūa-seng (sister's son). generally called tau-sun.
 * Neptune, hái-lêng-uâng.
 * nerve, náuⁿ-kṳn; náuⁿ-si; náuⁿ-kṳn-si.
