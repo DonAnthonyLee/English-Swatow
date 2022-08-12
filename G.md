@@ -13,7 +13,7 @@
 * gallop, pháu-bé.
 * gallows, ká-kê; tiàu-ãm-kê.
 * gambling, pua̍h; pua̍h-chîⁿ; pua̍h-kiáu; tóu-chîⁿ; tú-chîⁿ; su-iâⁿ; sńg-chhiè (euphemism). with cards, pua̍h-tsúa-pâi. lose by, pua̍h-su. win by, pua̍h-iâⁿ. one who makes a business of, lãu-pua̍h-kiáu. public table for, pua̍h-chîⁿ-tiêⁿ; pua̍h-chîⁿ-kuán; tóu-tiêⁿ; tóu-kuán, to keep such a place, khui-tiêⁿ; siet-tóu; khui-tóu-tiêⁿ.
-* game, play, of chess, teh che̍k-puâⁿ-kî. I won four games of chess from him, uá teh-iâⁿ--i sì-pûa-kî. -cock, chhie-koi; chhie-koi-ang.
+* game, play, of chess, teh che̍k-puâⁿ-kî. I won four games of chess from him, uá teh-iâⁿ--i sì-pûaⁿ-kî. -cock, chhie-koi; chhie-koi-ang.
 * gander, gô-hêng.
 * gang, pan; khûn, táng; tūi.
 * gangrene, sí-ne̍k; àu-ne̍k.
@@ -21,7 +21,7 @@
 * gap, khiah; khang-khiah; làn-phāng. to stop a, póu-khiah.
 * gape, the mouth, tshùi thí-khuah-khuah; tièⁿ-khuah-khuah. yawn, huah-hì; huah-hì kàu tshùi khuah-khuah. in wonder, thóiⁿ-kàu ma̍k khui-khui tshùi khui-khui; thóiⁿ-kàu ma̍k khuah tshùi khuah.
 * garble, a statement, súan-chiaⁿ to̍h-pûi tàⁿ.
-* garden, hn̂g; pou-hn̂g. flower, hue-hn̂g. vegetable, tshài-hn̂g. fruit, kúeⁿ-chí-hn̂g. gardener, tsho-hn̂g-nâng; chèng-hn̂g-nâng; hn̂g-teng.
+* garden, hn̂g; pou-hn̂g. flower, hue-hn̂g. vegetable, tshài-hn̂g. fruit, kúeⁿ-chí-hn̂g. gardener, tsoh-hn̂g-nâng; chèng-hn̂g-nâng; hn̂g-teng.
 * gargle, lō-tshùi; lō-âu; sok-kháu.
 * garlic, sǹg; chheⁿ-sǹg (fresh); sǹg-thâu (ripe roots).
 * garments, i-ho̍k; kûn-saⁿ; saⁿ-khòu; ho̍k-sek.

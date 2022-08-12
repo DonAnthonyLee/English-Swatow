@@ -324,7 +324,7 @@
 * fundamental, pńg; kṳn-pńg; pńg-ngûan; pńg-iàu; pńg-bũ; tói-tsṳ́.
 * funeral, sng-sṳ̄. attend a, sàng-tsǹg; sàng-kiũ; sàng-kuaⁿ-ba̍k chiẽⁿ-suaⁿ.
 * fungus, kou. on trees, chhiū-kou; chhiū-zṳ́; ba̍k-zṳ́. edible, hieⁿ-kou. covered with, seⁿ-kou.
-* funnel, for pouring water, khuah-tshùi-làu. for liquor, chiú-hái. of steamer, in-tâng; húe-hun; tâng.
+* funnel, for pouring water, khuah-tshùi-làu. for liquor, chiú-hái. of steamer, in-tâng; húe-hun-tâng.
 * fur, môⁿ. furs, phûe. coat, phûe-niûⁿ. long fur coat, phûe-tn̂g-niûⁿ.
 * furbish, bûa-kng. as sword or knife, bûa-pe̍h; bûa-kàu soh-soh-pe̍h.
 * furious, hiông-méⁿ; khì kàu kuáng-kuáng-kiè; khì kàu thuh-thuh-kiè; khuâng-pãu.
@@ -336,5 +336,5 @@
 * further, khuàng-chhiáⁿ; siãng-chhiáⁿ; lêng-gūa; lêng-ūaⁿ; huân-liáu; huân-iáu.
 * fuse, metal, khan-lôu; khan-iêⁿ. fused, iêⁿ. and cast, tsù.
 * fusee, húe-lêng; húe-hiāⁿ (tinder).
-* fuss. make a fuss about a small matter, sié-sṳ̄ tãng-pò; khin-sṳ̄ tãng-khì; lo-sl; lo-lo so-so. fussy, kín-kip; kip-kṳ̃; huang-mâng; huang-huang huh-huh.
+* fuss. make a fuss about a small matter, sié-sṳ̄ tãng-pò; khin-sṳ̄ tãng-khì; lo-so; lo-lo so-so. fussy, kín-kip; kip-kṳ̃; huang-mâng; huang-huang huh-huh.
 * future, chiang-lâi; ãu-lâi; ẽ-ji̍t; ãu-ji̍t; ji̍t-ãu. in future, tshông-kim íⁿ-ãu. the future state, lâi-seⁿ; lâi-sì. see into the future, būe-lâi soiⁿ-tsai.
