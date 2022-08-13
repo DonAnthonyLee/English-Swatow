@@ -4,12 +4,12 @@
 
 ## 数字化修正
 
-+ 数字化内容校核 [进行中]
-+ 声调、韵尾等修正并注解（含凭据）
++ 数字化内容校核 [**(进展)**](docs/VerifyingStatus.md)
++ 声调、韵尾等修正并注解 **(未开展)**
 
 <br>
 
-## 利用计划
+## 利用计划 (未开展)
 
 + 提取词元
 + 关联同义词、近义词
@@ -40,6 +40,6 @@ English Presbyterian mission Press, 1883
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
-原作 （《<span property="dct:title">English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow</span>》） 由 <span resource="[_:creator]" rel="dct:creator"><span property="dct:title">William Duffus（卓威廉）</span></span> 编著, 并由 <span resource="[_:publisher]" rel="dct:publisher"><span property="dct:title">台湾国立清华大学陈教授</span></span> 进行初始数字化, 其现属公共版权。
+原作 《<span property="dct:title">English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow</span>》 由 <span resource="[_:creator]" rel="dct:creator"><span property="dct:title">William Duffus（卓威廉）</span></span> 编著, 并由 <span resource="[_:publisher]" rel="dct:publisher"><span property="dct:title">台湾国立清华大学陈教授</span></span> 进行初始数字化, 其现属公共版权。
 </p>
 
