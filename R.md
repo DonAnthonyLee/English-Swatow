@@ -65,7 +65,7 @@
 * ream, che̍k-kiû-tsúa.
 * reap, kuah; kuah-tiũ. reaping hook, liâm-to; uan-liâm; liâm-kau.
 * rear, fowls, chhī-koi. up, khiã--khí-lâi. the, ãu-mīn.
-* reason, tãu; lí. a, uân-kù; uân-in; sṳ̄-kù. to, káng-kiù; tshiu-lũn; lũn-lí; tshui-lí. reasonable, ũ-, lí; ũ-tõ-lí; ũ-chhêng-lí.
+* reason, tãu; lí. a, uân-kù; uân-in; sṳ̄-kù. to, káng-kiù; tshui-lũn; lũn-lí; tshui-lí. reasonable, ũ-lí; ũ-tõ-lí; ũ-chhêng-lí.
 * rebel, a, huán-tsha̍t; kok-tsha̍t. to, huán; tsak-luãn. rebellious, puãn-luãn; pũe-nge̍k; m̃-sũn-ho̍k.
 * rebound, tiē-tńg--lâi; tò-tsuãng-tńg--lâi; tò-thiàu.
 * rebuild, lêng-ūaⁿ-khí; tsài-khí.
