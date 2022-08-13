@@ -43,10 +43,10 @@
 * fat, pûi; tshâi-khì (more polite of a person). of meat, pe̍h-ne̍k. lard, lâ.
 * fatal, kau-kùa sèⁿ-miāⁿ; tì-miāⁿ; tì-sí. disease, sí-chèng; ngẽ-chèng bô-ui.
 * fate, miāⁿ; miāⁿ-ūn; sî-ūn. murmur at, chiù-sin mēⁿ-miāⁿ.
-* father, pẽ; lãu-pẽ; pẽ-chhin; a-tia; a-pa. your father, nín tōa--náng; lẽng-tsun. your late father, lēng-soiⁿ-tsun; lẽng-soiⁿ-ong. my father, ke-hũ; ke-tsun. my late father, uá soiⁿ-hũ. wife's father, tiẽⁿ-nâng; nga̍k-pẽ; tiẽⁿ-nâng-kong. husband's father, ta-kuaⁿ. one's own, seⁿ-pẽ; seⁿ-sín tsṳ-pún. sort of adoptive father, ngĩ-pẽ; khòi-pẽ. step-father, iáng-pẽ; kì-pẽ; ãu-pẽ. fatherless, bô-pẽ kâi-kiáⁿ; kou-tsṳ́.
-* fathom, water, thàm-thóiⁿ tsúi jie̍h-chhim. one fathom, che̍k-chhíⁿ; che̍k-siâm. fathomless, m̄-hó chhek-ta̍t; chhim-bô-tói.
+* father, pẽ; lãu-pẽ; pẽ-chhin; a-tia; a-pa. your father, nín tōa--nâng; lẽng-tsun. your late father, lẽng-soiⁿ-tsun; lẽng-soiⁿ-ong. my father, ke-hũ; ke-tsun. my late father, uá soiⁿ-hũ. wife's father, tiẽⁿ-nâng; nga̍k-pẽ; tiẽⁿ-nâng-kong. husband's father, ta-kuaⁿ. one's own, seⁿ-pẽ; seⁿ-sin tsṳ-pún. sort of adoptive father, ngĩ-pẽ; khòi-pẽ. step-father, iáng-pẽ; kì-pẽ; ãu-pẽ. fatherless, bô-pẽ kâi-kiáⁿ; kou-tsṳ́.
+* fathom, water, thàm-thóiⁿ tsúi jie̍h-chhim. one fathom, che̍k-chhîⁿ; che̍k-siâm. fathomless, m̄-hó chhek-ta̍t; chhim-bô-tói.
 * fatigue, he̍k; phî-kũan; kha sng; siên; khùn-siên. fatigue oneself, lâu-la̍t; bûa-lâu.
-* fault, kùe; kùe-sit; tshò; m̄-tie̍h; tshò-gōu; put-si. fault-finding, hàuⁿ-hiâm nâng m̄-tie̍h; hàuⁿ ngí-lũn-nâng; hàuⁿ phoi-tso̍ih-nâng. faultless, bô-hó-hiâm; bô-hó-hiâm--tshù; bô-m̄-tie̍h; bô-kùe-sit; bô-hiâ-tshṳ̂.
+* fault, kùe; kùe-sit; tshò; m̄-tie̍h; tshò-gōu; put-sĩ. fault-finding, hàuⁿ-hiâm nâng m̄-tie̍h; hàuⁿ ngí-lũn-nâng; hàuⁿ phoi-tso̍ih-nâng. faultless, bô-hó-hiâm; bô-hó-hiâm--tshù; bô-m̄-tie̍h; bô-kùe-sit; bô-hiâ-tshṳ̂.
 * favour, ṳn; ṳn-tién; ṳn-ài; ṳn-hũi. confer a favour, si-ṳn; kiâⁿ-nâng-chhêng; tsò-chhêng. ask favour or pardon for another, khiû-chhêng; khí-nâng-chhêng. thankful for, kám-ṳn; liãm-ṳn. forgetful of, bûang-ṳn; bûang-ṳn hũ-ngĩ; hiau-hũ ṳn-chhêng. see PARTIAL.
 * favourable, auspicious, kit; che̍k-kìⁿ tãi-kit; siâng; kit-siâng; siâng-sũi. wind, sũn-huang. tide, ha̍h-lâu. circumstances, hó-ki-hũe; tú-tit-tie̍h; kak-sṳ̄ bô-tsó-keh; kak-sṳ̄ sũn-sũn; kak-sṳ̄ zû-ì.
 * favourite, tit-nâng-sieh; ha̍h-sim; ha̍h-ì; tit-sim; tit-ì. book, siãng-ha̍h-thóiⁿ.
@@ -64,7 +64,7 @@
 * feign, ké-tsò; tsuang-tsò; tèⁿ-tsò. illness, ké-tsò ũ-pēⁿ; tsà-pēⁿ; tèⁿ-pēⁿ; ké-pēⁿ. death, tèⁿ-sí. madness, tèⁿ-siáu; tèⁿ-kông; tèⁿ-tien; tsuang-siáu; ké-siáu.
 * felicity, hok-khì; hok-che̍k; khùai-la̍k.
 * fell (cruel), tshâng-hāi; tshâng-jím; pãu-ngia̍k. trees, tsám-chhiū.
-* fellow (companion), tâng-phũaⁿ. commen, so̍k-jîn. mean, siáu-jîn. -officer, tâng-în-kuaⁿ; tâng-liâu. -student, tâng-theng; theng-iú; tâng-o̍h; o̍h-iú; tsò-pû tha̍k-tsṳ. fellowship, tâng-sim; siang-kau; siang-kau-tshap; kau-ṳ́; kau-pûe.
+* fellow (companion), tâng-phũaⁿ. common, so̍k-jîn. mean, siáu-jîn. -officer, tâng-în-kuaⁿ; tâng-liâu. -student, tâng-theng; theng-iú; tâng-o̍h; o̍h-iú; tsò-pû tha̍k-tsṳ. fellowship, tâng-sim; siang-kau; siang-kau-tshap; kau-ṳ́; kau-pûe.
 * felo-de-se, tsṳ̃-chĩn.
 * felon, hũam-jîn; tsũe-jîn; kam-hũam.
 * felt, chiⁿ. hat, chiⁿ-bō; chiⁿ-zúan. carpet, tī-chiⁿ; chiⁿ-tiâu. to make, ié-chiⁿ; tsò-chiⁿ.
