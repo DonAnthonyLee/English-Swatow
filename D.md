@@ -163,8 +163,8 @@
 * desk, tshn̂g-kūiⁿ.
 * desolate, place, néⁿ-lo̍h; sok-mo̍k. person, kou-to̍k; kou-toaⁿ; kou-kúa.
 * despair, sit-mōⁿ; tso̍h-mōⁿ; bô-hi-mōⁿ; bô-mōⁿ; mín-mōⁿ.
-* despatch, a messenger, sái-i-khṳ̀. despatch a letter, kià-tsṳ; kià-sìn; huat-tsṳ. a despatch, bûn-tsṳ; kong-bûn. to send a despatch, kiâⁿ-bûn; kiâⁿ-bún-tsṳ. with all despatch, méⁿ-méⁿ; chhiet-chhiet.
-* desperado, mùiⁿ-siⁿ mùiⁿ-sí; m̄-kù seⁿ-sí; mùiⁿ-sí-ua̍h; mãuⁿ-miâⁿ; mãuⁿ-sí.
+* despatch, a messenger, sái-i-khṳ̀. despatch a letter, kià-tsṳ; kià-sìn; huat-tsṳ. a despatch, bûn-tsṳ; kong-bûn. to send a despatch, kiâⁿ-bûn; kiâⁿ-bûn-tsṳ. with all despatch, méⁿ-méⁿ; chhiet-chhiet.
+* desperado, mùiⁿ-seⁿ mùiⁿ-sí; m̄-kù seⁿ-sí; mùiⁿ-sí-ua̍h; mãuⁿ-miâⁿ; mãuⁿ-sí.
 * desperate, bô-kò hó-kiù. not afraid of infection, evil influence, &c, bô-kìm bô-kĩ.
 * despise, thóiⁿ-khin; khin-hut; miáu-sĩ; lia̍h-tsūaⁿ; lia̍h-khin. despicable, hiã-liû; hiã-tsūaⁿ; thóiⁿ-m̄-tõ-ma̍k.
 * despiteful, hiong-ak; ak-ta̍k; khi-hũ bũan-thãi.
@@ -209,7 +209,7 @@
 * dice, tâu-kiáⁿ; kut-tâu. dice box, tâu-kiáⁿ-a̍p. gamble with dice, pua̍h-tâu-kiáⁿ. loaded dice, kùan-în-tâu.
 * dictate, hun-hù; mẽng-lẽng. write to my dictation, uá-liām lṳ́-siá.
 * dictionary, jī-tién; jī-lūi. rhyming, si-ūn; kiám-ūn.
-* die, to, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̀; tsak-kóu. see DECEASE. by one's own hand, tsṳ̃-shĩn. of disease, pēⁿ-sí. of hunger, gō-sí. of cold, kûaⁿ-sí.
+* die, to, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̀; tsak-kóu. see DECEASE. by one's own hand, tsṳ̃-chĩn. of disease, pēⁿ-sí. of hunger, gō-sí. of cold, kûaⁿ-sí.
 * die, a, chîⁿ-bôu; jī-bôu.
 * diet, to, as sick person, khiēⁿ-tshùi; kài-kháu.
 * differ, ũ-hun-pie̍t; õi-koh-iēⁿ; m̄-sie-tâng; m̄-pêⁿ-iēⁿ; m̄-che̍k-iēⁿ; m̄-chhin-chhiẽⁿ. slightly, tsua̍h-m̄-ũa; tsua̍h-m̄-hñg; tsua̍h hun-hun; tãi-tâng siáu-ĩ; tsha-m̄-to. to quarrel, seⁿ-hiâm-khiah; kāng-nâng ũ-ūe. make up a difference, thiâu-ti̍t; thiâu-hûa.
