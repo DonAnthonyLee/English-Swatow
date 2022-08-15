@@ -125,7 +125,7 @@
 * catty, kṳn.
 * caught, in rain, ak-tie̍h-hõu.
 * caulk, liâm-tsûn; liâm thâng-iû-hue.
-* cause, uân-kù; uân-iû; ngûan-in; kù-sṳ̄; chhêng-iú; ngûan-thâu; kṳn-in lâi-le̍h. a good cause, hó-sṳ̄. for what cause? sĩ-mih uân-kù? in-ũi sĩ-mih-sṳ̄? for this cause, kù-tshṳ́; in-tshṳ́.
+* cause, uân-kù; uân-iû; ngûan-in; kù-sṳ̄; chhêng-iû; ngûan-thâu; kṳn-in lâi-le̍h. a good cause, hó-sṳ̄. for what cause? sĩ-mih uân-kù? in-ũi sĩ-mih-sṳ̄? for this cause, kù-tshṳ́; in-tshṳ́.
 * cause, to, sái; lẽng; tì; hàm; hāi; phièn.
 * causeway, chie̍h-lōu; hue-lōu.
 * caustic, khṳ̀-àu kâi-ie̍h; kak-sek-tek (imitation of the sound).
@@ -133,7 +133,7 @@
 * caution, sòi-sim; sié-sim; tsṳ́-sòi; sòi-jī; kṳ́n-sín. to caution, kéng-kài; kàu-kài.
 * cavalcade, che̍k-khûn-nâng khiâ-bé.
 * cavalry, bé-piaⁿ; khiâ-bé-piaⁿ.
-* cave, suaⁿ-tāng; suaⁿ-khang; suaⁿ-huat; chie̍h-tāng.
+* cave, suaⁿ-tāng; suaⁿ-khang; suaⁿ-hua̍t; chie̍h-tāng.
 * cavil, tàu-tshùi-tsúi; piẽn-poh; sie-à.
 * cavity, khang; khang-khiah; khùang; phāng.
 * cayenne, pepper, kim-ká-náⁿ; lua̍h-chie.
@@ -175,7 +175,7 @@
 * chance, by chance, ngóu-jiên; tú-ngõ; sek-ngõ; bô-ì. take one's chance, thèng-tsãu-hùe.
 * chancellor, of Foo or Hien academy, o̍h-kuaⁿ. four high chancellors at Pekin, thài-ha̍k-sṳ̃. Examiner for Sewtsai degree, tsong-sṳ. for Kujin, tãi-tsú-kháu.
 * chandelier, chek-tâi.
-* change, kói; kói-pièn; hùe; pièn-hùe; tsúan-e̍k; ūaⁿ. dress, ūaⁿ-saⁿ-khòu. money, táu-chîⁿ; táu-ngṳ̂n. owners, ūaⁿ-tsú; e̍k-tsú. conduct, kói-hùe. abode, súa-ūi; súa-kṳ; súa-tshù; î-kṳ súa-the̍h; puaⁿ-tshù; chhien-kṳ. colour, pièn-sek. changes, tshoiⁿ-pièn būan-hùe. changeable, õi-pièn; õi-kói. in mind, sim bô-tiāⁿ.tie̍h; bô-tsú-ì; sim õi-î-e̍k.
+* change, kói; kói-pièn; hùe; pièn-hùe; tsúan-e̍k; ūaⁿ. dress, ūaⁿ-saⁿ-khòu. money, táu-chîⁿ; táu-ngṳ̂n. owners, ūaⁿ-tsú; e̍k-tsú. conduct, kói-hùe. abode, súa-ūi; súa-kṳ; súa-tshù; î-kṳ súa-the̍h; puaⁿ-tshù; chhien-kṳ. colour, pièn-sek. changes, tshoiⁿ-pièn būan-hùe. changeable, õi-pièn; õi-kói. in mind, sim bô-tiāⁿ-tie̍h; bô-tsú-ì; sim õi-î-e̍k.
 * channel, kau; kheⁿ-kau; khoi-tang; lâu-kau; káng.
 * chant, chhiè-khek; chhiè-kua; liām-keng.
 * chaos, hũn-tũn; hún-tũn. chaotic, hũn-tsa̍p; hũn-lũan.
