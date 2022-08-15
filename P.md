@@ -87,7 +87,7 @@
 * pavilion, têng; liâng-têng; lâu; koh.
 * paw, bear's, hîm-chiéⁿ.
 * pawn, tǹg; àn. shop, tǹg-phòu. small, siau-ap; sié-tǹg (disreputable). ticket, hui. to, tǹg-mu̍eh. -broker, khui-tǹg-phòu. redeem from, chhiú.
-* pay, to, hôiⁿ; hâiⁿ. money, hôiⁿ-chîⁿ. taxes, la̍p-niêⁿ. rent, hôiⁿ-tsou. tribute, chìn-kòng. a visit, pài-hāu; mn̄g-hāu; sie-sûn. a workman's pay, kang-chîⁿ; kang-tsṳ. teacher's, sek-kim; sok-siu. soldier's, piaⁿ-niêⁿ.
+* pay, to, hôiⁿ; hâiⁿ. money, hôiⁿ-chîⁿ. taxes, la̍p-niêⁿ. rent, hôiⁿ-tsou. tribute, chìn-kòng. a visit, pài-hāu; mn̄g-hāu; sie-sûn. a workman's pay, kang-chîⁿ; kang-tsṳ. teacher's, sok-kim; sok-siu. soldier's, piaⁿ-niêⁿ.
 * pea, tāu. foreign, hô-lân-tāu. small green, le̍k-tāu.
 * peace, phêng-an; phêng-hûa. general peace, thài-phêng. at, hûa-mo̍k; hûa-khì; hûa-míⁿ.
 * peach, thô; pe̍h-pn̄g-thô (loose stone). flower, thô-hue. stone, thô-hu̍t.
