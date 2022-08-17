@@ -288,7 +288,7 @@
 * bounce, against, tsuãng--tie̍h.
 * boundary, kau-kài; kéng-kài; tī-kài; kài-hãn.
 * boundless, bô-hãn; sǹg m̄-pat tò-khṳ̀; bô-pān; bô-liáu.
-* bounty, ṳn-hũ. bountiful, si-hũi; sṳ̀-ṳn; tōa-pù-si.
+* bounty, ṳn-hũi. bountiful, si-hũi; sṳ̀-ṳn; tōa-pù-si.
 * bouquet, of flowers, che̍k-pé-hue; che̍k-tẽⁿ-hue.
 * bow, keng. to bend a, khui-keng; mán-keng; tau-keng. and arrows, keng-chìⁿ. bowstring, keng-hîⁿ. to string a bow, tieⁿ-keng; chiẽⁿ-keng; chiẽⁿ-hîⁿ. bow for cotton, tôaⁿ-mîⁿ-keng. bowman, keng-chìⁿ-chhiú.
 * bow, to, ip-tsã; tsak-ip. to the ground, khàu-thâu; khap-thâu; khàu-siú; kiâⁿ-tōa-lói.
@@ -296,7 +296,7 @@
 * bowl, uáⁿ; au. large, uáⁿ-kong. one bowl of rice, che̍k-uáⁿ-pn̄g. of a lamp, teng-tsúaⁿ.
 * bowlegged, tháng-khou-kha.
 * box, sieⁿ; a̍p; che̍k-kha-sieⁿ; sieⁿ-láng. packing-box, tsuang-sieⁿ. to box, phah-khûn-thâu. boxer, khûn-thâu sai-pẽ.
-* boy, a nôuⁿ; nôuⁿ-kiáⁿ. is this a boy or a girl? sĩ ta-pou a-sĩ tsṳ-niêⁿ? boy approaching manhood (1̀ or 1̃), nôuⁿ-kiáⁿ-thûn.
+* boy, a nôuⁿ; nôuⁿ-kiáⁿ. is this a boy or a girl? sĩ ta-pou a-sĩ tsṳ-niêⁿ? boy approaching manhood (14 or 15), nôuⁿ-kiáⁿ-thûn.
 * bracelet, chhiú-huân.
 * braces, khòu-tòa; khòu-liāu.
 * bracket, chhiêⁿ-tû; kè. support, tú.
@@ -317,9 +317,9 @@
 * breach, of wall, phah-phùa-siâⁿ. of friendship, nâng-chhêng tñg; nâng-chiâⁿ tñg; tso̍h-kau. of promise, sit-sìn; sit-ieh; chia̍h-ngân; m̄-sĩ tshùi-chi̍h. of chastity, sit-chiet. of contract, sit-ieh; pũe-ieh; ûi-ieh.
 * bread, mīⁿ-pau. toasted, pek-mīⁿ-pau.
 * breadth, khuah--tshù; khuah--sì.
-* break, khà-phùa. asunder, chi̍h-tñg; chi̍h-tsò-hue̍h. a branch, á-chi̍h. break off a marriage, thò-chhin. break to pieces, phùa-tshùi. one's word, sit-sìn; sit-ieh. break open, peh-khui. break the law, hũam-huap. a bone, chi̍h-kut. wind, pàng-phùi. into a house, tōng-mn̂g. out of prison, tsáu-kam; pũan-kam.
+* break, khà-phùa. asunder, chi̍h-tñg; chi̍h-tsò-kue̍h. a branch, á-chi̍h. break off a marriage, thò-chhin. break to pieces, phùa-tshùi. one's word, sit-sìn; sit-ieh. break open, peh-khui. break the law, hũam-huap. a bone, chi̍h-kut. wind, pàng-phùi. into a house, tōng-mn̂g. out of prison, tsáu-kam; pũan-kam.
 * breakfast, mn̂g-khí-pn̄g; tsá-pn̄g. to take, chia̍h-mn̂g-khí; chia̍h-tsá-tǹg.
-* bream, to, mãⁿ-húe. a boat, nãⁿ-tsûn; uãng-tsûn.
+* bream, to, nãⁿ-húe. a boat, nãⁿ-tsûn; uãng-tsûn.
 * breast, sim-kuaⁿ-thâu; heng-tsôiⁿ. breasts, nõⁿ-lia̍p-niⁿ, nĩⁿ-pâng; nĩⁿ-phè. abscess in female breast, niⁿ-hóuⁿ. breastbone, heng-tsôiⁿ-kut. breastplate, chia-heng-thih.
 * breath, nâng-khùi; phīⁿ-khang-huang; u-khip. to hold in one's breath, khip-khùi; kìm-khùi.
 * breathe, tháu-khùi; khùi tshúan. one's last, tñg-khùi.
