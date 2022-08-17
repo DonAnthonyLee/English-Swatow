@@ -418,7 +418,7 @@
 * butter, gû-nĩⁿ-iû; gû-nĩⁿ-lâ.
 * butterfly, búe-ia̍h; hû-tia̍p; hia̍p-tia̍p.
 * buttock, kha-tshng; kha-tshng-póiⁿ.
-* button, niúⁿ; saⁿ-niúⁿ. made of cloth, tsó-niuⁿe. gold, kim-khàu; kim-niúⁿ. hole, niúⁿ-phàng. on a cap, common, bō-tsu. mandarin, lia̍p-téng.
+* button, niúⁿ; saⁿ-niúⁿ. made of cloth, tsó-niuⁿ. gold, kim-khàu; kim-niúⁿ. hole, niúⁿ-phàng. on a cap, common, bō-tsu. mandarin, lia̍p-téng.
 * buttress, chhiêⁿ-tú; chhiêⁿ-tún. of bridge, kiê-tún.
 * buy, bói. oil, tò-iû. rice, tia̍h-bí; niêⁿ-bí. wine, kou-chiú. cloth, ka-pòu. fowls, lia̍h-koi. pork, kuah-tṳ-ne̍k; phah-tṳ-ne̍k. fish, téng-hṳ̂. and sell, bói-bōi.
 * buzz, ng-ng-kiè; hng-hng-kiè.

@@ -21,7 +21,7 @@
 * calf, gû-kiáⁿ. calf of leg, kha-tn̂g-tóu. to calve, gû seⁿ-kiáⁿ.
 * calibre, of gun, chhèng-kháu; chhéng-khang.
 * calico, pòu.
-* call, kiè; hàm; chie. out, khui-siaⁿ. call to mind, siẽⁿ-khí-lâi; siẽⁿ-tie̍h; liãm-tie̍h. call on anyone, pài-hāu; sie-sûn. what is he called? i kiè-tsò sĩ-mih-miàⁿ? to call animals, khou.
+* call, kiè; hàm; chie. out, khui-siaⁿ. call to mind, siẽⁿ-khí-lâi; siẽⁿ-tie̍h; liãm-tie̍h. call on anyone, pài-hāu; sie-sûn. what is he called? i kiè-tsò sĩ-mih-miâⁿ? to call animals, khou.
 * calling, occupation, sṳ̄-ngia̍p.
 * callous, lang; seⁿ-lang; chhiẽⁿ-lang. heart, sim ngẽ; sim zû-thih-chie̍h; o̍h kàu-kang-ngẽ.
 * calm, bô-huang; tiām-huang chẽⁿ-nn̄g. taking things calmly, tshông-iông; tshông-tshông iông-iông.
@@ -30,9 +30,9 @@
 * camellia, tê-hue.
 * camlet, ú-se; ú-tn̄g; ú-môⁿ.
 * camomile, flowers, kam-kek-hue; pe̍h-kek-hue; iá-kek-hue; suaⁿ-kek-hue.
-* camp, iàⁿ-pûaⁿ; piaⁿ-iâⁿ; iâⁿ-chē. to camp, phah-iâⁿ-pûaⁿ; tshàng-iâⁿ. hiã-chē.
+* camp, iâⁿ-pûaⁿ; piaⁿ-iâⁿ; iâⁿ-chē. to camp, phah-iâⁿ-pûaⁿ; tshàng-iâⁿ. hiã-chē.
 * camphor, chieⁿ-ló; piaⁿ-phièn (Baroos camphor), tree, chieⁿ-chhiū. wood, chieⁿ-tshâ.
-* can, lêng; õi-tit. you can, or may, do so and so, tsò-tit; khó-íⁿ. can you do this? lṳ́ pat-tò-tsò, mé? lṳ́ tsò pat-tò-khṳ̀, a-m̄-pat? cannot, bõi-tit; bõi; put-lêng; bô-lêng-ûi. cannot but..., put-tit put...; put-tit-íⁿ tie̍h....
+* can, lêng; õi; õi-tit. you can, or may, do so and so, tsò-tit; khó-íⁿ. can you do this? lṳ́ pat-tò-tsò, mé? lṳ́ tsò pat-tò-khṳ̀, a-m̄-pat? cannot, bõi-tit; bõi; put-lêng; bô-lêng-ûi. cannot but..., put-tit put...; put-tit-íⁿ tie̍h....
 * canal, káng. the great canal, tōa-káng.
 * canary, n̂g-chiáu.
 * cancel, khou-tiāu-jī; kau-tiāu-jī.
