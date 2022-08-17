@@ -411,7 +411,7 @@
 * proffer, tsun-hõng.
 * profile, pùaⁿ-pôiⁿ-mīn; ngõu-hun-mīn; pùaⁿ-mīn-sièⁿ.
 * proficient, chìn-tsôiⁿ; se̍k; liēn-se̍k.
-* profit, lĩ; lĩ-sek; iah; lĩ-iah. obtain, tit-lĩ; thàn; ũn-thàn.
+* profit, lĩ; lĩ-sek; iah; lĩ-iah. obtain, tit-lĩ; thàn; ũ-thàn.
 * profligate, huàng-tãng; hùang-tsòng; bô-tsat-tōu.
 * profound, chhim; chhim-àu; àu-biāu; mûiⁿ-àu; chhim-mûiⁿ.
 * profuse, in expenditure, see PRODIGAL. in promises, múaⁿ-tshùi ìn-sêng.
