@@ -261,7 +261,7 @@
 * discompose, phièn-nâng-kiaⁿ; sái-nâng-sim iâu-tõng.
 * disconcert, phùa-kòi. disconcerted, bô-tit-ì; sit-ì; hun-kông; sim hũn.
 * disconsolate, ut-at; ut-būn; iu-ut; ut-sîn; hûan-ló; iu-būn; bô-tit uaⁿ-ùe; sim sng; phīⁿ sng.
-* discontented, m̄-kùe-î; m̄-tsai-tsok; uàn-miāⁿ-khiap; uàn-miāⁿ-po̍h.
+* discontented, m̄-kùe-ì; m̄-tsai-tsok; uàn-miāⁿ-khiap; uàn-miāⁿ-po̍h.
 * discontinue, hiah.
 * discord, m̄-hûa; m̄-thiâu-hûa; bô-siang chia̍h-chi̍h; bô-chiap-chi̍h; m̄-hûa-mo̍k.
 * discount, póu-ngṳ̂n-tsúi; thiap-ngṳ̂n-tsúi; thiu-thâu-ngṳ̂n (brokerage); khà-lāi-chîⁿ. for ready money, hīn-chîⁿ kiám-kè.
@@ -287,7 +287,7 @@
 * dishes, pûaⁿ-úaⁿ.
 * dishevelled, thâu-môⁿ zṳ̂-zṳ̂; thâu-môⁿ zû-sàu-soi.
 * dishonest, m̄-chiàⁿ-keng; m̄-kong-tãu; m̄-chiàⁿ-ti̍t; m̄-kuaⁿ-chiàⁿ; m̄-tong-hõu; put-ngĩ; m̄-chiàⁿ; m̄-mêng-pe̍h; hàuⁿ-sie-tshuah; õi-tshuah-nâng.
-* dishonour, lêng-zo̍k; sit-zo̍k; tiám-u. dishonorable, bô-thí-mīn sṳ̄; m̄-shiàⁿ-keng.
+* dishonour, lêng-zo̍k; sit-zo̍k; tiám-u. dishonorable, bô-thí-mīn sṳ̄; m̄-chiàⁿ-keng.
 * disinclination, sim hiâm; sim m̄-hiàng; m̄-ngũan; m̄-hàuⁿ; ià-ià ien-sîn ien-sîn.
 * disingenuous, m̄-tong-ti̍t; sim m̄-ti̍t; bô-sêng-si̍t; m̄-sêng-sim; m̄-khéng ti̍t-tàⁿ.
 * disinherit, tso̍h-tiāu i kâi sṳ̄-ngia̍p; tso̍h-tiāu ke-ngia̍p; tso̍ih-tsũ ke-ngia̍p.
