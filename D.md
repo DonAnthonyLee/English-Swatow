@@ -430,7 +430,7 @@
 * dredge, chhip. to dredge for fish and shrimps, oi-hṳ̂-hê.
 * dregs, phoh; tsa; tsa-tsái. of distilled liquor, chiú-tsau. of tea, tê-tsa.
 * drenched, pun-tsúi chìm. with rain, khṳt-hõu ak; ak kàu-lok-lok; tsâng kàu-thúe-thúe.
-* dress, tá-pàn; ho̍k-sek; chhēng-saⁿ; i-ho̍k; sin-chhēng. fine dress, tá-pàn phâi-chhiâng. to shew off, tsuang-pàn iâu-pái. a wound, pa̍k-bûa; ūaⁿ-pòu-liâu. the feet of wonen, tîⁿ-kha; ūaⁿ-kha. the hair, siu-thâu; siu-thâu-môⁿ; lua̍h-thâu. food, tsṳ́-chia̍h; pa-lói-chia̍h; sṳ̃-lí-chia̍h. skins, se̍k-phûe. stone, phah-chie̍h; chie̍h khieh-kng. with flags, as ship or street, kat-tshái. dressing-gown, siu-thâu-saⁿ. -case, kiàⁿ-thâi; kiàⁿ-thâi-keh. -table, siu-tsng-thâi. -room, siu-thâu-pâng.
+* dress, tá-pàn; ho̍k-sek; chhēng-saⁿ; i-ho̍k; sin-chhēng. fine dress, tá-pàn phâi-chhiâng. to shew off, tsuang-pàn iâu-pái. a wound, pa̍k-bûa; ūaⁿ-pòu-liâu. the feet of women, tîⁿ-kha; ūaⁿ-kha. the hair, siu-thâu; siu-thâu-môⁿ; lua̍h-thâu. food, tsṳ́-chia̍h; pa-lói-chia̍h; sṳ̃-lí-chia̍h. skins, se̍k-phûe. stone, phah-chie̍h; chie̍h khieh-kng. with flags, as ship or street, kat-tshái. dressing-gown, siu-thâu-saⁿ. -case, kiàⁿ-thâi; kiàⁿ-thâi-keh. -table, siu-tsng-thâi. -room, siu-thâu-pâng.
 * dribblets, lân-su; lân-ló.
 * dried, ta; khùa-ta. fruits, kuaⁿ. dates, tsó-kuaⁿ. fish, hṳ̂-póu. duck, ah-póu.
 * drift, phiau-liû. boat, to leeward, kài. meaning, ì-sṳ̀; tãi-ì; tói-tsṳ́; tãi-lia̍k.
