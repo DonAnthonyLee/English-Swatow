@@ -9,7 +9,7 @@
 * safe, ún-tǹg; thêng-tǹg; thêng-ún; thó-tàng; ún-ún.
 * safe, a, or strong box, kap-būan. iron, thih-kap-būan. for meat, se-tû; chia̍h-tû.
 * sagacious, tshong-mêng; ũ-sim-sṳ̄; õi-siẽⁿ; lêng-lāi.
-* safe, a, siàⁿ-nâng; siàⁿ-hiên.
+* sage, a, siàⁿ-nâng; siàⁿ-hiên.
 * sago, sai-kok-îⁿ.
 * sail, a, phâng; huang-phâng. to set, khí-phâng; chiẽⁿ-phâng; po̍ih-phâng; iâng-phâng. to take in, phâng heh-sòi; heh-phâng. to sail, sái-tsûn; sái-huang; khui-tsûn. sailor, kiâⁿ-tsûn-nâng; tsúi-siú. sailing vessel (foreign), kap-pán-tsûn. twenty sail, jī-tsa̍p-chiah-tsûn.
 * sake. for the sake of, in-ũi; uân-in; ũi-tie̍h.
