@@ -31,7 +31,7 @@
 * garter, bue̍h-tòa; hû-sek.
 * gash, to, phoh kâi-sieⁿ-kháu; le̍h.
 * gasp, kip-khùi; tshuán; tshuán-khì; tshuán-kip.
-* gate, mn̂g; tōa-mn̂g. sity-, siâⁿ-mn̂g. street-, tsa̍h-mn̂g; koi-tsa̍h.
+* gate, mn̂g; tōa-mn̂g. city-, siâⁿ-mn̂g. street-, tsa̍h-mn̂g; koi-tsa̍h.
 * gather, siu; siu-si̍p; siu-bûa; siu-si̍p-bûa; siu-khí. as people, tsũ-chi̍p; chi̍p-hũe; hũe-chi̍p; tsũ-hũe; hũe-ha̍h; hũe-bûa; ha̍h-bûa. flowers, tiah-hue.
 * gaudy, kuang-tshái; phâi-chhiâng; chheng-tshái; iām-lĩ.
 * gauze, se.
@@ -39,14 +39,14 @@
 * gaze, ma̍k kim-kim thóiⁿ; thóiⁿ kàu ma̍k bõi-nihⁿ.
 * gazette, Peking, kiaⁿ-pò.
 * gear, of boat, &c, ke-húe.
-* gelatinous, ũ-ka-liâm; ũ-tan-tah.
+* gelatinous, ũ-ka-liâm; ũ-tau-tah.
 * gem, ge̍k; pó-ge̍k; pó-chie̍h; pó-pùe.
 * genealogy, tso̍k-phóu. ranks of, pùe-sũ.
 * general (comprehensive), thóng; thong; tsóng; kong. term, tsóng-miâⁿ; lóng-thóng-tàⁿ. don't use general terms but be precise, lṳ́ chhiet-si̍t lâi-tàⁿ, màiⁿ-lóng-thóng; chí-tiāⁿ, màiⁿ-hùam-sueh. use, thong-ēng. peace, thài-phêng. generally speaking, tãi-khài; thóng-thóng; tãi-sì; tãi-lia̍k.
 * general, in the army, tsóng-piaⁿ; tsóng-piaⁿ-kuaⁿ; tsóng-zông. generalissimo, ngûan-sùe; tsú-sùe.
 * generate, seⁿ.
 * generation, tō; sì-tō. from one, to another, le̍h-tō. future, ãu-tō.
-* generous, sim-heng khuah-khuah; khuang-khài; ũ-tóu-liãng; tóu-liãng hó; tóu-liãng khuan-khuan; khuan-iông tãi-liãng. see LIBERAL.
+* generous, sim-heng khuah-khuah; khuang-khài; ũ-tóu-liãng; tóu-liãng hó; tóu-liãng khuan-khuah; khuan-iông tãi-liãng. see LIBERAL.
 * genial, un-hûa (of men or weather); un-jiû (of men); un-lúan (of the weather); chhiẽⁿ-sie (warm).
 * genii, sien; sîn-sien. the eight, poih-sien. their habitation, sien-kéng.
 * genius, a, tshâi-tsṳ́; ũ-tshâi-chhêng kâi-nâng.
@@ -63,7 +63,7 @@
 * geometry, niêⁿ-tī-huap.
 * Germany, Tãi-Tek-kok; tsa̍p-káng-kok.
 * germ, gê. germinate, huat-gê; mêng-gê; pauh-gê.
-* gestures, to use, in speaking, kha mông, chhiú pí.
+* gestures, to use, in speaking, kha mõng, chhiú pí.
 * get, tit; tit--tie̍h. up, tsáu-khí. could not get it done, tsò-m̄-sêng; tsò-m̄-chiâⁿ. rich, huat-tshâi; tì-pù. ready, ṳ̃-pĩ; tsôi-pĩ; pĩ-phōiⁿ; pĩ-pīn. into office, tit-ūi; tit-jĩm. advancement, kau-seng; seng-kuaⁿ; seng-khip, one's wishes, tit-ì; zû-ì; tit-sim kùe-ì. out of the way, kiâⁿ-khui; tsáu-khui; kiâⁿ-bûa; khiã-khui. angry, seⁿ-khì; huat-náuⁿ. hold of, lia̍h--tie̍h. aground (ship), khùa-sua; hũam-suaⁿ. into trouble, lap-tie̍h-sin. a cold, sieⁿ-huang. where ever did you get this? lṳ́ tsò-ũ chí-kâi-mue̍h?
 * ghost, kúi; siàⁿ-nâng; siàⁿ-hùe-mue̍h. Holy, Siàⁿ-Sîn.
 * giant, tōa-hān; kûiⁿ-nâng; kau-chhiâng tã-hān; kûiⁿ-tōa.
@@ -94,9 +94,9 @@
 * glide, silently, on tiptoe, nihⁿ-kha nihⁿ-kha chiũ-kiâⁿ.
 * glimmer, nihⁿ-sih-kng nihⁿ-sih-kng; ki-teng nihⁿ-sih nihⁿ-sih.
 * glistering, õi-kng; kng-chiè; iaⁿ-chiè; kng iaⁿ-iaⁿ; kng iàⁿ-iàⁿ; tāng-tāng-kng; ia̍p-ia̍p-sih.
-* globe, kiû. terrestrial, tī-kiû. celestial, thien-kiû. globular, îⁿ;îⁿ-thói; îⁿ-chieh; îⁿ-hêng; lòng-lòng-îⁿ; îⁿ-lìn-lìn.
+* globe, kiû. terrestrial, tī-kiû. celestial, thien-kiû. globular, îⁿ; îⁿ-thói; îⁿ-chieh; îⁿ-hêng; lòng-lòng-îⁿ; îⁿ-lìn-lìn.
 * gloomy, weather, thiⁿ ou-àm; thiⁿ mông-lông.
-* glory, iông-kuang; iông-hûa. gloryfy, kui-iông-kuang.
+* glory, iông-kuang; iông-hûa. glorify, kui-iông-kuang.
 * gloss, over a fault, chia-buah; iám-sek. commentary, tsù-kói. glossy, kng-kng.
 * gloves, chhiú-thàu, put on, lap-chhiú-thàu; kùa-chhiú-thàu.
 * glow, jie̍t; jie̍t-jie̍t âng-âng. glowing coals, âng-húe-thòaⁿ; jie̍t-thòaⁿ. with rage, sim jie̍t, mīn âng.
