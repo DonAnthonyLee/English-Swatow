@@ -80,12 +80,12 @@
 * terrify, heh-nâng-kiaⁿ; kiaⁿ-heh-nâng; phièn-nâng-kiaⁿ. terrified, kiaⁿ-phùa-táⁿ; kiaⁿ kàu-sàng-táⁿ; kiaⁿ kàu-kông; kiaⁿ kàu ngo̍h-ngo̍h.
 * territory, tī-hng.
 * test, chhì; chhì-thóiⁿ; chhì-ēng. has been tested, ũ-hāu-ngiām--kùe; ũ-chhì-ngiām--kùe.
-* testament, zũi-tsṳ; zũi-tsok. Old and New, Kū-Sin-tieh.
+* testament, zũi-tsṳ; zũi-tsok. Old and New, Kū-Sin-ieh.
 * testicles, lãng-hu̍t; siẽn-hu̍t; gūa-siẽn.
 * testify, chèng; keng-chèng; tsò-chèng; tsò-chèng-kṳ̃; tsò-chèng-kìⁿ; tsò-kan-chèng.
 * testimony, chèng-kṳ̃; kan-chèng; chèng-ngân; chí-chèng.
 * than, more, put-chí; m̄-chheng; put-to̍k; m̄-khéng; tsōi--kùe; ke--kùe; huân-liáu-ke; huân-kèng-ke; siãng-chhiáⁿ-ũ. he is older than I, i tōa--uá; i tōa-kùe-uá. no more than, put-kùe. more than ten, tsa̍p-gūa; tsa̍p-tshut; tsa̍p-ṳ̂; tsa̍p-tshûn.
-* thank, siā; kám-siā. many thanks, tsōi-siā; to-siā; kám-mông. thank you, lâu--lṳ́; huân-lṳ́; huân-lâu--lṳ́; bûa-lūi--lṳ́; lūi--lṳ́; tōa-lãu-nâng; chhit-lãu poih-tōa; siũ-hũi; niáⁿ-hũi; niáⁿ-chhêng; kám-chhêng; hùi-sim; phièn--lṳ́ hùi-sîn; lâu-tõng--tie̍h lṳ́; lãu-tõng--tie̍h tãi-kè. I will thank you to come, lūi-lṳ́-lâi; chhiáⁿ-lṳ́-lâi. no need for thanks, tàⁿ-kàu-lūi--kâi-ūe; sĩ-pńg-téng; sĩ-pńg-hūn; khí-káⁿ; huaⁿ-hí; hó-ūe; kōi-kōi; kâi-ì-sṳ̀ tiāⁿ-tiāⁿ; mién-kám-siā. to return thanks, tap-siā. letter of thanks, siā-thiap. thankful, kám-ṳm put-buâng; kám-ṳn put-chhién; kám-liãm tõ-sim; mông-ṳn tài-tek; kám-ṳn tài-tek; pò-ṳn; tsai-ṳn. thankless, buâng-ṳn; buâng-ṳn hũ-ngĩ; hiau-chhêng tso̍h-ngĩ; bô-jîn-ngĩ; buâng-chhêng; kùe-kèⁿ thiu-kúai. thankworthy, kai-siā.
+* thank, siā; kám-siā. many thanks, tsōi-siā; to-siā; kám-mông. thank you, lâu--lṳ́; huân-lṳ́; huân-lâu--lṳ́; bûa-lūi--lṳ́; lūi--lṳ́; tōa-lãu-nâng; chhit-lãu poih-tōa; siũ-hũi; niáⁿ-hũi; niáⁿ-chhêng; kám-chhêng; hùi-sim; phièn--lṳ́ hùi-sîn; lâu-tõng--tie̍h lṳ́; lãu-tõng--tie̍h tãi-kè. I will thank you to come, lūi-lṳ́-lâi; chhiáⁿ-lṳ́-lâi. no need for thanks, tàⁿ-kàu-lūi--kâi-ūe; sĩ-pńg-téng; sĩ-pńg-hūn; khí-káⁿ; huaⁿ-hí; hó-ūe; kōi-kōi; kâi-ì-sṳ̀ tiāⁿ-tiāⁿ; mién-kám-siā. to return thanks, tap-siā. letter of thanks, siā-thiap. thankful, kám-ṳn put-buâng; kám-ṳn put-chhién; kám-liãm tõ-sim; mông-ṳn tài-tek; kám-ṳn tài-tek; pò-ṳn; tsai-ṳn. thankless, buâng-ṳn; buâng-ṳn hũ-ngĩ; hiau-chhêng tso̍h-ngĩ; bô-jîn-ngĩ; buâng-chhêng; kùe-kèⁿ thiu-kúai. thankworthy, kai-siā.
 * that, hṳ́; hṳ́--kâi. that which he said, i-só-tàⁿ. that is to say, ngân-khî. that night, hṳ́-che̍k-mêⁿ. that side, hièⁿ-pôiⁿ; hièⁿ-thâu. at that time, tng-sî.
 * thatch, tshù-téng khàm-(or, khòiⁿ-) tsháu; tiẽn-kài.
 * thaw, sng-soh siau-iêⁿ.
@@ -108,7 +108,7 @@
 * thing, mue̍h; mue̍h-kiãⁿ. no such thing, bô-chí-kâi chhêng-lí. how many things? jie̍h-tsōi kiãⁿ-mue̍h?
 * think, siẽⁿ; liãm; sṳ-siẽⁿ; sṳ-liãm; phah-sǹg; pheⁿ-phah. of one, kì-liãm. I rather think so, káⁿ-sĩ; iau-káⁿ-sĩ chièⁿ-seⁿ; káⁿ-ũ. highly of one, thóiⁿ-tõng; kùi-tõng. not worth thinking of, mín-khùa-sim. I thought (erroneously), uá kâu-kiè; khue-tiāⁿ; sah-tsò.
 * third, tõiⁿ-saⁿ.
-* thirsty, âu ta. to assuagethirst, chí-khuah; kói-khuah; chí-âu; zũn-âu.
+* thirsty, âu ta. to assuage thirst, chí-khuah; kói-khuah; chí-âu; zũn-âu.
 * this, chí; chí-kâi; tshṳ́; chiá-kâi. year, kin-nîⁿ; kim-nîⁿ; hīn-nîⁿ; pńg-nîⁿ; chí-nîⁿ. morning, kim-tsá; mn̂g-khí; mn̂g-khí-tsá. day, kim-ji̍t; kiáⁿ-ji̍t; hīn-ji̍t; pńg-ji̍t.
 * thong, phûe-tòa.
 * thorax, heng-tsôiⁿ; sim-kuaⁿ; sim-kuaⁿ-thâu; heng-kuaⁿ-thâu.
