@@ -105,7 +105,7 @@
 * hem, clear the throat, khãm-sàu.
 * hemp, mûaⁿ; iû-mûaⁿ. seed, mûaⁿ-chí; mûaⁿ-jîn. -seed oil, mûaⁿ-iû; phang-iû.
 * hen, koi-bó. young, koi-nùaⁿ; koi-nùaⁿ-kiáⁿ. -house, koi-liâu; koi-lâng. -roost, koi-tiâu; koi-chhi. henpecked, koi-bó-thî; koi-bó phah-si̍t-thî.
-* hence, gone, bô-tõ; khṳ̀--liáu. therefore, kù-tshṳ́; só-íⁿ; sǹg-lâi; in-tshṳ́. henceforth, tshông-kim íⁿ-ãu; tsṳ̃-kim íⁿ-ãu; tshóng-tshṳ́ íⁿ-ãu.
+* hence, gone, bô-tõ; khṳ̀--liáu. therefore, kù-tshṳ́; só-íⁿ; sǹg-lâi; in-tshṳ́. henceforth, tshông-kim íⁿ-ãu; tsṳ̃-kim íⁿ-ãu; tshông-tshṳ́ íⁿ-ãu.
 * herald, sài; pò-sìn; pò-sie-sit.
 * herbage, tsháu; tsháu-ba̍k; hue-tsháu.
 * herbal, hue-ba̍k-phóu; ie̍h-sèⁿ-chheh; pńg-tsháu. herbalist, ie̍h-tshâi sin-seⁿ.
