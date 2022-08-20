@@ -208,7 +208,7 @@
 * Europe, Au-lô-pa; tōa-sai-iêⁿ. the continent of, Au-lô-pa chiu.
 * evacuate, a place, thò--tshut-khṳ̀; thò-piaⁿ. the bowels, chia̍h-sià-ie̍h; tshut-kiong; teng-chhè; chiẽⁿ-chhè; tãi-piẽn; kiâⁿ-tãng; pàng-sái.
 * evade, mién; tô; pī; pī-bûa; siám; siám-pī. a question, command or invitation, tshui-úi; tho-sî.
-* evaporate, pha̍k-ta; tsáu-ta; tshut-khì; sùaⁿ-khì; hiàⁿ-khì; sia̍p-khì; hiap̀-huang.
+* evaporate, pha̍k-ta; tsáu-ta; tshut-khì; sùaⁿ-khì; hiàⁿ-khì; sia̍p-khì; hiàⁿ-huang.
 * even, pêⁿ; pêⁿ-tsôi; bô-tn̂g-tó. is 110 an even or an odd number? peh-it sĩ sang a-sĩ khia? even if, tsòng; tsòng-jiên; tsòng-sái; sui-jiên. even to, chì-kàu. even his enemies do not blame him, kũa i kâi chhiû-te̍k tou bô-hiâm--i. has he 100 dollars! why, he hasn't even 100 cash, màiⁿ-tàⁿ i bô che̍k-peh-ngṳ̂n, liên-kũa che̍k-peh-chîⁿ--tou-bô. he beats even his own parents, kũa ka-kī kâi-pẽ-bó iā-káⁿ-phah. even so far as to..., sĩm chì-kàu.... evenly arranged, pâi-tsôi; pâi-tsâu; tsôi-chiáⁿ.
 * evening, ji̍t lo̍h-suaⁿ; mêⁿ-hng; mêⁿ-hng-kiáⁿ; ji̍t àm; mêⁿ àm. to-morrow, mùaⁿ-mêⁿ-hng. yesterday, tsa-mêⁿ-hng.
 * event, sṳ̄; che̍k-kiãⁿ-sṳ̄. joyful, âng-sṳ̄; hí-sṳ̄; kit-sṳ̄. mournful, pe̍h-sṳ̄; sng-sṳ̄; hiong-sṳ̄.
