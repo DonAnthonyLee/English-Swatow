@@ -2,7 +2,7 @@
 * habitable, hó-khiã-khí; khiã-khí--tit. habitation, tshù.
 * hack, to, tok; siah.
 * hades, im--han; im-hú; àm--thâu.
-* haemorrhage, lâu--hueh; hueh lâu.
+* haemorrhage, lâu-hueh; hueh lâu.
 * haemorrhoids, thĩ; hueh-thĩ. external, gūa-thĩ. internal, lãi-thĩ.
 * haft, pèⁿ.
 * haggard, sán-sou; sán-kut lo̍h-ne̍k; sit-hêng sit-sek.
@@ -30,7 +30,7 @@
 * handsome, ngiá; hó-thóiⁿ; seⁿ-phâi-chhiâng; seⁿ-lâi kah-phah. woman, múiⁿ-jîn; chhiàu-kè; ũ-tsṳ-sek.
 * handy, piẽn-chia̍p; khin-piẽn; khin-kha khùe-chhiú; kah-pān (convenient).
 * hang, oneself, tiàu-ãm; tiàu-ãm sí. strangle, ká-sí; liū-sí.
-* hang, up, tiàu. upon, kùa. down, súi--lo̍h-lâi. clothes to dry or air, nêⁿ (with bamboo rod put through); phua̍h (thrown over rope or bamboo). ears of grain hanging down, chhek-sūi thūi-thâu.
+* hang, up, tiàu. upon, kùa. down, sûi--lo̍h-lâi. clothes to dry or air, nêⁿ (with bamboo rod put through); phua̍h (thrown over rope or bamboo). ears of grain hanging down, chhek-sūi thūi-thâu.
 * hank, of thread, che̍k-tshâng-sùaⁿ.
 * hanker, lùan-mōⁿ; sim-lùan put-siá; lùan-lùan put-siá; sim kù-kù tõ-mōⁿ.
 * haphazard, thèng-tsãu-hùe; tú-tie̍h-tshái.
