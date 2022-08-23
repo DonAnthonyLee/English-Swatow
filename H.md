@@ -154,11 +154,11 @@
 * hog, tṳ. -sty, tṳ-lô. hoggish, o-tso; ue-tsue; tṳ-iēⁿ káu-sièⁿ.
 * hoist, po̍ih-khí; liū. flag, liū-kî; tshah-kî. sail, po̍ih-phâng; seng-phâng; liū-phâng; khí-phâng.
 * hold, anything in the hand, chhiú-khie̍h. from going away, lia̍h. pencil, khiâ-pit. reins, khan-bé-soh. up, a person, khan; hû-khí. up clothes, tsah-phû; kiáu-phû; put-phû. in the mouth, as dog, kâⁿ. as man, kam. one's tongue, tiām-tiām; màiⁿ-tàⁿ-ūe. under the arm, ko̍ih tõ-koh-ẽ. contain, tshō. one catty, tshō-che̍k-kṳn. will not hold it, tshō-m̄-tit; tshō-m̄-khṳ̀; tshō-m̄-lâi. this room will hold 100 people, chí-che̍k-koiⁿ-pâng hó-tshâng (or, iông; if sitting, tsõ; if standing, khiã) che̍k-peh-nâng. of ship, tsûn-tshng.
-* hole, khang. to make a, khui-khang. knock out, phah-khang; liú-khang (dig); tshuan-khan. to chisel a, tsha̍k-khang. bore, uai-khang; ui-khang; tsǹg-khang (with gimlet, &c). full of holes, tshang-tshang.
+* hole, khang. to make a, khui-khang. knock out, phah-khang; liú-khang (dig); tshuan-khang. to chisel a, tsha̍k-khang. bore, uai-khang; ui-khang; tsǹg-khang (with gimlet, &c). full of holes, tshang-tshang.
 * hollow, khang; khang-khak (oppos. tsa̍t-thâu); khang-phàⁿ (opp. tsa̍t-tōiⁿ); to hollow out, liú-khang; ui-khang-khak. of the hand, chhiú-sim-tói.
 * Holland, Hô-lân-kok.
 * holy, siàⁿ. Spirit, Siàⁿ-Sîn. holiness of life, siẽn-hẽng; ngân-hẽng chheng-kiet.
-* holiday, thih-thô-ji̍t; ôiⁿ-ji̍t; iû-ôiⁿ-ji̍t, ôiⁿ-kang-ji̍t; chheng-ôiⁿ-ji̍t; uaⁿ-ôiⁿ-ji̍t.
+* holiday, thit-thô-ji̍t; ôiⁿ-ji̍t; iû-ôiⁿ-ji̍t, ôiⁿ-kang-ji̍t; chheng-ôiⁿ-ji̍t; uaⁿ-ôiⁿ-ji̍t.
 * homage, kiong-kèng. to the emperor, chhiâu-pài. by tributary princes, chhiâu-kòng (includes tribute).
 * home, ke; tshù. at, tõ-tshù; tõ-lãi; tõ-ke-lãi; tõ; tõ--kò. go, hûe-ke; khṳ̀-tshù; tńg-khṳ̀-tshù; kui-ke; tńg-tshù; khṳ̀-lãi (if merely going inside). home made, pńg-tī-tsò.
 * homicide, suah-nâng; thâi-nâng. a, hiong-chhiú.
@@ -193,12 +193,12 @@
 * hostler, bé-hu; bé-tsháu-nôuⁿ (very slighting).
 * hot, zua̍h; sie. weather, thiⁿ-sî zua̍h; pek-zua̍h; zua̍h-ta̍k. sun, ji̍t-thâu jie̍t; ji̍t-thâu méⁿ; ji̍t-thâu âng; ji̍t-thâu ham-ham-âng. water, sie-tsúi; kún-tsúi (boiling). -headed, ũ-sèⁿ; phòng-phiẽ sim-sèⁿ; sim-sèⁿ kín-kip. spell of hot weather in cold season, khieh-sie̍h.
 * hotel, kau-lâu-kúan; tiàm-phòu.
-* hour, Chinese, sî-sîn (=̂ hours). foreign, che̍k-tiám-cheng. half an hour, pùaⁿ-tiám-cheng. quarter, che̍k-khek-cheng. hourglass, tâng-hû tih-lāu. hourly, múeⁿ-tiám-cheng; sî-sî khek-khek.
+* hour, Chinese, sî-sîn (= 2 hours). foreign, che̍k-tiám-cheng. half an hour, pùaⁿ-tiám-cheng. quarter, che̍k-khek-cheng. hourglass, tâng-hû tih-lāu. hourly, múeⁿ-tiám-cheng; sî-sî khek-khek.
 * house, tshù. a, che̍k-koiⁿ-tshù; che̍k-tsō-tshù. school-, tsṳ-che. dwelling-, nâng-ke. your, kùi-hú (polite). my, tsháu-sià (polite). -breaker, mêng-húe phah-kiap; tōng (or siàng)-mn̂g-tsha̍t. -manager, tng-ke; hūaⁿ-ke. -maid, chhiah-kha. -rent, tshù-tsou; tshù-sùe; kúan-tsou. household, ke-so̍k. household goods, ke-tsṳ; ke-si mue̍h-kiãⁿ. household servants, ke-jîn.
 * hovel, tsháu-tshù; tsháu-liâu.
 * hover, īn; khip-sin (bird, ready to dart).
-* how? tsãi-seⁿ? tsò-nîⁿ? zû-hô? how dare! tsò-káⁿ! how many? jie̍h-tsōi? kúi-kâi? jia̍k-kan? ki-to? how far? jie̍h-hñg? how many times? jie̍h-tsōi-ē? kúi-hûe? kúi-pái? kúi-tńg? kúi-hãng? jie̍h-tsōi-tshṳ̀? hoe large? jie̍h-tōa? how old? jie̍h-tsōi-hùe? tshun-chhiu jie̍h-tsōi? jie̍h-tōa? jie̍h-lãu? kùi-keⁿ? how to do? tsò-nîⁿ-mue̍h? not know how to do it, tsò m̄-pat tò-khṳ̀. how shall I do? zû-hô sĩ-hó? tsò-nîⁿ chiàⁿ-hó? how is this? sṳ̄-sĩ-tsò-nîⁿ? how did it happen? tsò-õi? tsò-ũ? (also expressing incredulity), how can it be otherwise? tsò-m̄-sĩ? how can that be accounted filial piety! chièⁿ seⁿ iau-hó kiè-tsò hàu! how can this be right! khí-ũ tshṳ́-lí? how can we get it? tsãi-tit-tie̍h? how much more..., hô-khùang.... how fast! méⁿ-tsãi!
-* however, hûang-liáu; hûan-iáu.
+* how? tsãi-seⁿ? tsò-nîⁿ? zû-hô? how dare! tsò-káⁿ! how many? jie̍h-tsōi? kúi-kâi? jia̍k-kan? ki-to? how far? jie̍h-hñg? how many times? jie̍h-tsōi-ē? kúi-hûe? kúi-pái? kúi-tńg? kúi-hãng? jie̍h-tsōi-tshṳ̀? how large? jie̍h-tōa? how old? jie̍h-tsōi-hùe? tshun-chhiu jie̍h-tsōi? jie̍h-tōa? jie̍h-lãu? kùi-keⁿ? how to do? tsò-nîⁿ-mue̍h? not know how to do it, tsò m̄-pat tò-khṳ̀. how shall I do? zû-hô sĩ-hó? tsò-nîⁿ chiàⁿ-hó? how is this? sṳ̄ sĩ-tsò-nîⁿ? how did it happen? tsò-õi? tsò-ũ? (also expressing incredulity), how can it be otherwise? tsò-m̄-sĩ? how can that be accounted filial piety! chièⁿ seⁿ iau-hó kiè-tsò hàu! how can this be right! khí-ũ tshṳ́-lí? how can we get it? tsãi-tit-tie̍h? how much more..., hô-khùang.... how fast! méⁿ-tsãi!
+* however, hûan-liáu; hûan-iáu.
 * howl, háuⁿ-háuⁿ-kiè; háuⁿ-chē-kiè.
 * hubbub, thèng-jiáng.
 * huckster, koiⁿ-thiau kâi-seng-lí; lōu-tàⁿ seng-lí; tsò seng-lí-kiáⁿ.
