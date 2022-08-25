@@ -102,7 +102,7 @@ convert_pattern() {
 		pos=$prefix_len;
 		((pos-=2))
 		CHAR_PRE=${SYLLABLES:${pos}:1}
-		if [ "x${CHAR_PRE}" = "xo" -o "x${CHAR_PRE}" = "xO" ]; then # oa; oe; oi; &etc. 
+		if [ "x${CHAR_PRE}" = "xo" -o "x${CHAR_PRE}" = "xO" ]; then # oa; oe; oi; &etc.
 			SYLLABLES_PREFIX=${SYLLABLES:0:${pos}}
 			printf "${SYLLABLES_PREFIX}${CHAR_PRE}${TONE_STR}${VOWEL}${SYLLABLE_SUFFIX}"
 			return 0
@@ -112,6 +112,27 @@ convert_pattern() {
 				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}(${CHAR_PRE}${TONE_STR}${VOWEL}"
 				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}|${CHAR_PRE}${VOWEL}${TONE_STR})"
 				printf "${SYLLABLES_PREFIX}${SYLLABLE_SUFFIX}"
+				return 0
+			fi
+		fi
+	fi
+
+	if [ $syllable_len -gt 0 ]; then
+		if [ "x$VOWEL" = "xa" -o "x$VOWEL" = "xA" ]; then
+			CHAR_NEXT=${SYLLABLE_SUFFIX:0:1}
+			if [ "x${CHAR_NEXT}" = "xu" -o "x${CHAR_NEXT}" = "xU" ]; then # au
+				pos=$prefix_len;
+				((pos-=1))
+				SYLLABLES_PREFIX=${SYLLABLES:0:${pos}}
+				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}(${VOWEL}${TONE_STR}${CHAR_NEXT}"
+				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}|${VOWEL}${CHAR_NEXT}${TONE_STR})"
+				((syllable_len-=1))
+				((prefix_len+=1))
+				if [ $syllable_len -gt 0 ]; then
+					printf "${SYLLABLES_PREFIX}${SYLLABLES:${prefix_len}:${syllable_len}}"
+				else
+					printf "${SYLLABLES_PREFIX}"
+				fi
 				return 0
 			fi
 		fi
