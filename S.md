@@ -610,7 +610,7 @@
 * straggle, tùe-m̄-tie̍h-khûn; sì-sùaⁿ-kiâⁿ; sùaⁿ-kiâⁿ.
 * straight, ti̍t. straighten, phah-ti̍t; tshun-ti̍t; sái-ti̍t. straightforward speech, ti̍t-tàⁿ; bô-úi-khiok. straightway, ti̍t-ti̍t; sûi-sî.
 * strain, a rope, túi-ân; túi-kín; ká-ân.
-* strain, pr filter, tè; tè-chheng. straining cloth, tè-pòu; tê-kìn. strainer, for rice, pn̄g-lōi.
+* strain, or filter, tè; tè-chheng. straining cloth, tè-pòu; tê-kìn. strainer, for rice, pn̄g-lōi.
 * strait, a, hái-ài; ài-kháu.
 * strand, of rope, kóu.
 * strange, khî; khî-ĩ; tshut-khî; koh-iēⁿ; kóu-kuài; kuài-ĩ; khî-kuài. strange to say, sũ-put-tsai. a strange affair indeed, chin-khî-sṳ̄.
