@@ -97,7 +97,7 @@
 * fiddle, hîⁿ. with two strings, jī-hîⁿ. to play the, kṳ̀-hîⁿ. bow, hîⁿ-keng. string, hîⁿ-sùaⁿ. to tune, hûa-hîⁿ. fiddler, hîⁿ-kha.
 * fidelity, see FAITHFUL.
 * fidget, tòng-tòng-tsáu; bô-sî-tiām.
-* field, cultivated and irrigated, tshân: tshân-bóu. cultivated but not irrigated, hn̂g. wet or dry, tshân-hn̂g. to cultivate, tsoh-tshân; chèng-tsoh; keⁿ-tsok. plough, lôi-tshân. to irrigate, kùan-tshân; im-tshân. mouse, tshân-tshṳ́. boundary, tshân-hūaⁿ. battle-, chièn-tiêⁿ. -piece, tōa-phàu.
+* field, cultivated and irrigated, tshân: tshân-bóu. cultivated but not irrigated, hn̂g. wet or dry, tshân-hn̂g. to cultivate, tsoh-tshân; chèng-tsoh; keⁿ-tsoh. plough, lôi-tshân. to irrigate, kùan-tshân; im-tshân. mouse, tshân-tshṳ́. boundary, tshân-hūaⁿ. battle-, chièn-tiêⁿ. -piece, tōa-phàu.
 * fiend, kúi; môⁿ-kúi; siâ-kúi; ak-kúi; iau-kúi.
 * fierce, pãu-sèⁿ; pãu-pek; pãu-tshàu; méⁿ-lie̍t; pãu-lie̍t.
 * fife, ti-tâ; siau; ki-kû. to play, pûn-ti-tâ.
@@ -217,7 +217,7 @@
 * foreboding, ki-tiãu; hũa-ki.
 * forecastle, tsûn-thâu.
 * forecast, ṳ̃-ta̍t; ṳ̃-pān; lṳ̃; mông-lṳ̃; phah-ke̍k; phah-sǹg; tá-sǹg.
-* forefathers, soiⁿ-tsóu; tsóu-tshong; tsóu-kong; tsóu-pẽ; kong-má.
+* forefathers, soiⁿ-tsóu; tsóu-tsong; tsóu-kong; tsóu-pẽ; kong-má.
 * forego, put-tshú; m̃-tshú; chhìn-tshái-hiah; pàng-tiāu. humbly one's right, khiam-jiãng; chiãm-jiãng; siũ-khui.
 * forehead, hia̍h; hia̍h-thâu; hia̍h-sìn (higher); hia̍h-mn̂g-sîn.
 * foreign, huan; iêⁿ. country, huan-pôiⁿ; huan-pang; huan-kok; gūa-kok. go to, kùe-kok; kùe-huan; tshut-gūa. goods, iêⁿ-hùe; iêⁿ-mue̍h. cloth, iêⁿ-pòu; huang-pòu. person, huan-nâng; gūa-kok-nâng; î-jîn. language, gūa-kok-ūe.
@@ -229,7 +229,7 @@
 * forenoon, chiēⁿ-kùa; chiēⁿ-ngóu.
 * forerunner, tsôiⁿ-khu.
 * foresail, thâu-phâng.
-* foresee, soiⁿ-kièn; soiⁿ-kak; soiⁿ-tsai; ṳ̃-liāu; ṳ̃-pī.
+* foresee, soiⁿ-kièn; soiⁿ-kak; soiⁿ-tsai; ṳ̃-liāu; ṳ̃-pĩ.
 * forest, chhiū-lîm; chhiū-nâⁿ.
 * foretell, soiⁿ-tàⁿ; ṳ̃-ngân; ṳ̃-soiⁿ-tàⁿ.
 * forewarn, ṳ̃-soiⁿ kéng-kài.
