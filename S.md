@@ -192,7 +192,7 @@
 * shadow, iáⁿ. under the shadow of the trees, chhiū-im-ẽ.
 * shaft, pèⁿ. of spear, chhieⁿ-pèⁿ. of arrow, chìⁿ-kuaⁿ. of column, thiãu-sin.
 * shaggy, phòng-môⁿ; phòng-môⁿ-sai; môⁿ jiàng-jiàng; thâu-môⁿ phông-song.
-* shake, iê; iê-tõng; iê-lón; iâu-tõng; chín-tõng; tín-tãng; chhĩm; léng. hands, siang-tùn-chhiú. off, as dust, pũaⁿ-tiāu; hìⁿ-tiāu. shaky, as when socket too wide, lok-khok. tremble, khiū; tòng.
+* shake, iê; iê-tõng; iê-lóu; iâu-tõng; chín-tõng; tín-tãng; chhĩm; léng. hands, siang-tùn-chhiú. off, as dust, pũaⁿ-tiāu; hìⁿ-tiāu. shaky, as when socket too wide, lok-khok. tremble, khiū; tòng.
 * shall, chiang-àiⁿ; pit; àiⁿ.
 * shallow, chhién. in mind, kièn-sek-chhién.
 * sham, ké. see PRETEND.

@@ -25,5 +25,5 @@
 * knob, a, che̍k-lia̍p-tsu.
 * knock, at door, phah-mn̂g; khà-mn̂g. the head on ground, khàu-thâu; kha̍p-thâu. one down, phah i pua̍h-lo̍h thôu-ẽ. knocker, mn̂g-huân.
 * knot, in wood, tshâ-ma̍k. on rope, khat-thâu. to tie, thám-khat; kat kâi-khat. two kinds of knot, sí-khat; ua̍h-khat. unloose, kói-khat.
-* know, tsai; pat; hiáu; thong. I know him, uá pat i. do you know (recognize) me? lṳ́ pat-tò-jīn uá; mé? knowledge, kièn-sek; tì-hũi; ha̍k-mn̄g (learning).
+* know, tsai; pat; hiáu; thong. I know him, uá pat i. do you know (recognize) me? lṳ́ pat-tò-jīn uá, mé? knowledge, kièn-sek; tì-hũi; ha̍k-mn̄g (learning).
 * knuckle, tsóiⁿ-tsat; tsóiⁿ-ma̍k.
