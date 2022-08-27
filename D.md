@@ -385,12 +385,12 @@
 * dogma, kà-tiâu.
 * doleful, chhi-tshám. voice, ai-siaⁿ.
 * doll, ang-kiáⁿ.
-* dollar, ngṳ̂n. Spanish, hu̍t-thâu; hu̍t-ngṳ̂n. Mexican, chiáu-ngṳ̂n; chhì-kiû-chiáu. one, che̍k-kâi-ngṳ̂n; che̍k-khou-ngṳ̂n. $10,000, che̍k-būan-ngṳ̂n; che̍k-tsháu-ngṳ̂n. $60, che̍k-huang-ngṳ̂n.
+* dollar, ngṳ̂n. Spanish, hu̍t-thâu; hu̍t-ngṳ̂n. Mexican, chiáu-ngṳ̂n; chhì-kiû-chiáu. one, che̍k-kâi-ngṳ̂n; che̍k-khou-ngṳ̂n. $10,000, che̍k-būan-ngṳ̂n; che̍k-tsháu-ngṳ̂n. $50, che̍k-huang-ngṳ̂n.
 * dolt, ngà-nâng; chhi-ko; khòng-ngōng.
 * domestic, ke-lãi. servants, ke-jîn; kṳn-pan. animals, cheng-seⁿ. affairs, ke-bũ. circumstances, ke-sṳ̄; ke-chhêng.
 * domesticate, chhī-se̍k; chhī-sûn-se̍k.
 * dominoes, kut-pâi.
-* done, tsò hó; hó--liáu. exhausted, liáu; ēng-liáu. done with a meal, chia̍h-pá--liáu.
+* done, tsò-hó; hó--liáu. exhausted, liáu; ēng-liáu. done with a meal, chia̍h-pá--liáu.
 * doom, tiāⁿ-tsũe; sím-tùan; ngí-tiāⁿ tsũe-miâⁿ.
 * door, mn̂g. bolt, mn̂g-tshùaⁿ. bolt the door, tshùaⁿ-mn̂g, pī-mn̂g. shut the door, kueⁿ-mn̂g. not quite close, mn̂g hõiⁿ. door-bar, mn̂g-chhēng. keep a door, chiéⁿ-mn̂g; siú-mn̂g; kuan-mn̂g; pé-mn̂g. door-posts, mn̂g-thiãu. door-frame, mn̂g-khuan. lintel, mn̂g-bâi. socket, mn̂g-khũ. handle, mn̂g-tsu. threshold, mn̂g-tõiⁿ.
 * dose, che̍k-thiap-ie̍h; che̍k-ho̍k-ie̍h.
