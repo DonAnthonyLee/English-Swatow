@@ -131,7 +131,7 @@
 * incoherent, bô-thâu bô-búe; bô-tshṳ̀ bô-sũ; bô siang-liên-so̍k; m̄-kùan-tshùan.
 * incombustible, bõi-to̍h-húe; bõi-chia̍h-húe.
 * income, só-ji̍p; só-siu. official, hóng-lo̍k; iáng-liâm. from all quarters, tsa̍p-bũ-chîⁿ.
-* incommode, hûan-lâu; lâu-kè; lūi; lâu-tõng; hũn; hũn-jiáu; kiáu-jiáu; jiáu-tõng; kùe-jiãu.
+* incommode, hûan-lâu; lâu-kè; lūi; lâu-tõng; hũn; hũn-jiáu; kiáu-jiáu; jiáu-tõng; kùe-jiáu.
 * incomparable, bô-hó-pí; bô-hó pí-pẽng; lân-íⁿ siang-pí; bô-sang.
 * incompetent, see INCAPABLE.
 * incomplete, m̄-tshûan; m̄-kàu; tsua̍h; khueh; khiàm-khueh; khih-khiàm.
