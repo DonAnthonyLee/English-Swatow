@@ -289,7 +289,7 @@
 * fret, (intrans.) iu-ut; tsṳ̃-thàng; tshoih; pui-tshoih; uàn-tshoih; e̍hⁿ-e̍hⁿ-kiè (child). (trans.), kek-sèⁿ; kek-khì.
 * friction, chhiù; bûa.
 * Friday, lói-pài-ngõu; pài-ngõu.
-* friend, phêng-iú (only uesd of men, never of women, except in bad sense). an old, kū-iú; kū-jîn. very close, bhì-iú; ba̍t-iú; hó-iú. bosom-, sim-pak phêng-iú; ti-sim phêng-iú; ti-kí. acquaintance, but not intimate, kháu-thâu-iú. school or college friend, tâng-theng phêng-iú; theng-iú. companion, tâng-phũaⁿ. on friendly terms, siang-hó. friendly treatment, kãu-thãi. break off friendship, tso̍h-kau.
+* friend, phêng-iú (only uesd of men, never of women, except in bad sense). an old, kū-iú; kū-jîn. very close, chì-iú; ba̍t-iú; hó-iú. bosom-, sim-pak phêng-iú; ti-sim phêng-iú; ti-kí. acquaintance, but not intimate, kháu-thâu-iú. school or college friend, tâng-theng phêng-iú; theng-iú. companion, tâng-phũaⁿ. on friendly terms, siang-hó. friendly treatment, kãu-thãi. break off friendship, tso̍h-kau.
 * frighten, phièn-nâng-kiaⁿ; kiaⁿ-tie̍h-nâng. by threats, kiaⁿ-heh. frightened, kiaⁿ. to death, kiaⁿ-sí (also means very much frightened); kiaⁿ-kàu-sí. frightful, tshūa-nâng-kiaⁿ; kiaⁿ-sí-nâng.
 * frigid, chhìn. heart, sim néⁿ; néⁿ-ì. manner, néⁿ-tãⁿ.
 * fringe, chhiu.
@@ -299,7 +299,7 @@
 * frizzle, khek; khek-khek. cause to, zuán-khek.
 * frog, tsúi-koi; kap-pô; kap-kiú. tadpole, kap-kiú-kuai.
 * frolic, sńg; sie-sńg; hì-sńg kâi-sṳ̄.
-* from, tsṳ̃; tshông; iû. from...to, iû...kàu; iû...chì; tsṳ̃...chì; tsṳ̃...kàu. Swatow is over three leagues from Ching-hai, Sùaⁿ-thâu lî Thêng--hái saⁿ-phòu-gūa lōu. home, bô-tõ; m̄-tõ; tshut-khṳ̀-kháu. youth, tsṳ̃ iùⁿ-nîⁿ. salute the brethren from me, thòi-uá mn̄g-hāu chèng-ūi hiaⁿ-tĩ. from avarice, tshut-tõ tham-sim.
+* from, tsṳ̃; tshông; iû. from...to, iû...kàu; iû...chì; tsṳ̃...chì; tsṳ̃...kàu. Swatow is over three leagues from Ching-hai, Sùaⁿ-thâu lî Thêng-hái saⁿ-phòu-gūa lōu. home, bô-tõ; m̄-tõ; tshut-khṳ̀-kháu. youth, tsṳ̃ iùⁿ-nîⁿ. salute the brethren from me, thòi-uá mn̄g-hāu chèng-ūi hiaⁿ-tĩ. from avarice, tshut-tõ tham-sim.
 * front, tsôiⁿ-mīn; chiàⁿ-mīn; tsôiⁿ-pôiⁿ. door, thâu-mn̂g; tōa-mn̂g; tsóng-mn̂g. in front, tõ-mīn-tsôiⁿ; tõ-thâu-tsôiⁿ. walk in front, kiâⁿ tõ-thâu-tsôiⁿ; thâu-soiⁿ-kiâⁿ. stand opposite to, hiàng; niàⁿ.
 * frontier, tī-kài; kéng-kài; kài-hãn; pien-kiang; pien-kài; piⁿ-kài; pien-thêng. to watch the frontier, siú-pien.
 * frontlet, chiau-kun-ûi; hia̍h-tsôiⁿ-ûi; ou-kṳn-khou.
@@ -310,7 +310,7 @@
 * frugal, khiãm; tsat-khiãm; khiãm-tsat; tsat-ēng; khiãm-ēng; iak-iak; séⁿ-iak; séⁿ; khiãm-iak. frugality is better than a large income, khiãm-chia̍h kiêⁿ-kùe-thàn.
 * fruit, kúeⁿ; kúeⁿ-chí. fresh, chheⁿ-kúeⁿ. dried, kan-kúeⁿ. to bear, seⁿ-kúeⁿ; kat-kúeⁿ; kit-kúeⁿ; kat-si̍t; kit-si̍t. to pluck, tiah-kúeⁿ-chí. fruitful, õi-seⁿ; seⁿ-tsōi; seⁿ-lâi-kãu. fruitful season, nîⁿ-tang hó. fruitbearing, hó-kat-si̍t. fruitless, bõi-seⁿ; bô-iah (useless); bô-ēng (id.).
 * frustrate, sái m̄-sêng-sṳ̄; hāi m̄-sêng-sṳ̄; gōu-sṳ̄ m̄-sêng. a plot, phùa-kòi.
-* fry, with little or no fat, tshá (implies much stirring and turning over). with a little fat, and few turns, luah. with a little water and perhaps hat, chien. frying-pan, chien-pûaⁿ (shallow); tiáⁿ (deeper); tiáⁿ-kiáⁿ.
+* fry, with little or no fat, tshá (implies much stirring and turning over). with a little fat, and few turns, luah. with a little water and perhaps fat, chien. frying-pan, chien-pûaⁿ (shallow); tiáⁿ (deeper); tiáⁿ-kiáⁿ.
 * fuel, tshâ; mue̍h-hiâⁿ; tshâ-tsháu. gather, khieh-mue̍h-hiâⁿ. add, thiam-húe; thiam-tshâ; lān-tshâ; lān-tsháu.
 * fugitive, from justice, tô-tsũe; tsáu-hũam; i̍t-hũam. from persecution, pĩ-nâng to̍k-tsáu.
 * fulfil, one's expectation, zû-mōⁿ. duty, chĩn-pńg-hūn; ûan-pńg-hūn; chĩn-cheh. command, zû-mẽng. law, siú-huap; tsun-huap. promise, zû-ieh; siú-ieh. prediction, èng-ngiām; hāu-ngiām; teng-ngiām. prayer, tsò-chiâⁿ; èng-ngiām. vows, hôiⁿ-ngūan.

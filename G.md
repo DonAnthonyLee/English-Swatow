@@ -171,7 +171,7 @@
 * gridiron, thih-pê.
 * grief, iu-būn; iu-tshôu; tshôu-būn; hûan-ló; sieⁿ-sim; sim thiàⁿ; kan-khóu; khau-sim pe̍h-tn̂g.
 * grievance, to state, sù-uan-chhêng; sù-uan-uáng.
-* grimace, tièⁿ-tshúa; mīn; tsò-kúi-sièⁿ.
+* grimace, tièⁿ-tshúa-mīn; tsò-kúi-sièⁿ.
 * grin, miⁿ-ma̍k lòu-gê.
 * grind, bûa. a knife, bûa-to. flour, oi-mīⁿ. in a mortar, lûi-iùⁿ. with wheel in trough, ngói hu-hu. -stone, bûa-chie̍h.
 * grip, khîⁿ; khîm; lia̍h; tẽⁿ; tẽⁿ-kín.
