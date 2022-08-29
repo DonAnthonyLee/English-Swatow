@@ -91,9 +91,9 @@
 * leopard, pà.
 * leprosy, thái-ko; tōa-huang; mûaⁿ-huang.
 * less, kiám; kèng-chié; m̄-kàu. make, tṳ̂-kiám. become, siau-si̍h.
-* lesson, say, liām che̍k-hûe-tsṳ. take a lesson from anything, tsṳ̄-kéng.
+* lesson, say, liām che̍k-hûe-tsṳ. take a lesson from anything, tsṳ̃-kéng.
 * lest, mién; sái-kàu-mín; khióng-ùi; khióng-phàⁿ; kiaⁿ-ùi; ṳ̃-hûang; ṳ̃-mín.
-* let, hṳ́; ṳ́; hàuⁿ; tsún. a house, sùe-tshù pun nâng. into, ji̍p. down, pàng-lo̍h. go, pàng. me see, pun-uá-thóiⁿ. let us go, lâi-khṳ̀. let him do it, thèng-i khṳ̀-tsò; kui-i khṳ̀-tsò; thãi-i khṳ̀-tsò. off a gun, pàng-phàu; khui-chhèng. off crackers, phah-phòng-phiẽ. let not one remain, màiⁿ-tshûn che̍k-kâi. let the request be granted, tsún i-só-khiû. let alone, chhiú màiⁿ-thãng; kṳ̀-i-khṳ̀.
+* let, hṳ́; ṳ́; hàuⁿ; tsún. a house, sùe-tshù pun-nâng. into, ji̍p. down, pàng-lo̍h. go, pàng. me see, pun-uá-thóiⁿ. let us go, lâi-khṳ̀. let him do it, thèng-i khṳ̀-tsò; kui-i khṳ̀-tsò; thãi-i khṳ̀-tsò. off a gun, pàng-phàu; khui-chhèng. off crackers, phah-phòng-phiẽ. let not one remain, màiⁿ-tshûn che̍k-kâi. let the request be granted, tsún i-só-khiû. let alone, chhiú màiⁿ-thãng; kṳ̀-i-khṳ̀.
 * letter, sìn; tsṳ-sìn; phoi-sìn. one, che̍k-tieⁿ-jī; che̍k-kò-sìn; che̍k-huang-sìn. to send, kià-phoi; kià-sìn. letters, jī. of alphabet, jī-bó. a man of, ũ-ha̍k-mn̄g.
 * lettuce, chheⁿ-tshài.
 * leucorrhoea, pāi-pe̍h; pe̍h-tòa.
@@ -115,8 +115,8 @@
 * lichi, nôiⁿ-kúeⁿ. dried, nôiⁿ-kúeⁿ-kuaⁿ.
 * lick, chĩ. the old cow licks its calf, lãu-gû chĩ-tok.
 * lid, khàm. of pot, ue-kùa. of frying-pan, tiáⁿ-khàm.
-* lie, tàⁿ-ké-ūe; tàⁿ-ké; pe̍h-chia̍h pe̍h-tàⁿ; sueh-huáng; tàⁿ hṳ-ké kai-ūe. a lie, pe̍h-chiáⁿ-ūe; tōa-ūe; hṳ-ké; huang-thâng; bô-iáⁿ-ūe; bô-iaⁿ bô-chiah kâi-ūe.
-* lie, down, tó--loo̍h-khṳ̀ gu̍t. with, tsò-pû-gu̍t. in ambush, mâiⁿ-ho̍k; bih-tiām; bih-bûa.
+* lie, tàⁿ-ké-ūe; tàⁿ-ké; pe̍h-chia̍h pe̍h-tàⁿ; sueh-huáng; tàⁿ hṳ-ké kai-ūe. a lie, pe̍h-chiáⁿ-ūe; tōa-ūe; hṳ-ké; huang-thâng; bô-iáⁿ-ūe; bô-iáⁿ bô-chiah kâi-ūe.
+* lie, down, tó--lo̍h-khṳ̀ gu̍t. with, tsò-pû-gu̍t. in ambush, mâiⁿ-ho̍k; bih-tiām; bih-bûa.
 * lieutenant -governor, bú-īⁿ; bú-thâi.
 * life, miāⁿ; sèⁿ-miāⁿ. present, kim-sì; tõ-seⁿ; seⁿ-tsôiⁿ. future, lâi-seⁿ; sí-ãu. life and death, seⁿ-sí. life-time, che̍k-sì-nâng; che̍k-seⁿ-nâng; tsong-sin. all one's life-time, chĩn-che̍k-sì. regardless of life, m̄-kù-miāⁿ; m̄-kù sèⁿ-miāⁿ. lifeless, bõi-ua̍h; sí--liáu; pùaⁿ-seⁿ pùaⁿ-sí. to see life, kìⁿ--kùe sì-chhêng. take life, suah-miāⁿ. long, tn̂g-miāⁿ; tn̂g-siū.
 * lift, khie̍h-khí; khie̍h-phû; hû-phû; hû-khí; kng-phû; kiah. a screen, hien-liâm; kiah-liâm. one's clothes, piáu-phû; tsah-phû; túi-phû. the head, thâu-khak tièⁿ-taⁿ. with lever, kiãu-phû; kiãu-khí. off a lid, iãuⁿ-khàm; khàm iãuⁿ-phû. up a child, phõ--khí-lâi.

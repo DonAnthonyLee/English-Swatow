@@ -229,7 +229,7 @@
 * shiver, from cold, khiū; tòng; chhìn kàu kha̍p-kha̍p-sih.
 * shiver, to pieces, phùa tshap-tshap-tshùi.
 * shocked, tie̍h-kiaⁿ.
-* shoe, ôi. pair of, che̍k-sang-ôi. one, che̍k-chiah-ôi; che̍k-kha-ôi. women's small, keng-ôi. leather, phûe-ôi. shoelast, ôi-hùn. shoe-horn, ôi-chhiau. shoes for wet weather, tsúi-ôi; kia̍h; tshâ-kia̍h.
+* shoe, ôi. pair of, che̍k-sang-ôi. one, che̍k-chiah-ôi; che̍k-kha-ôi. women's small, keng-ôi. leather, phûe-ôi. shoe-last, ôi-hùn. shoe-horn, ôi-chhiau. shoes for wet weather, tsúi-ôi; kia̍h; tshâ-kia̍h.
 * shoot, with gun, phah-chhèng; pàng-chhèng; huat-chhèng; khui-chhèng; pàng-phàu. an arrow, siā-chìⁿ.
 * shoot, up, as plant, huat--khí-lâi; huat-gê; mêng-gê; pauh-gê; thiu-gê. bamboo shoot, tek-sún.
 * shooting, pains, thiu-thiàⁿ; tùn-thiàⁿ. stars, chheⁿ tūi; chheⁿ kùe-keng.

@@ -39,7 +39,7 @@
 * waver, to, siẽⁿ-thâu bô-tiāⁿ; būe-ũ kuat-ì; būe-chêng phah-tiāⁿ tsú-ì; phah-sǹg būe-tiāⁿ.
 * wax, la̍h. candle, la̍h-chek. to wax thread, sùaⁿ kia̍p-la̍h. in the ears, hĩⁿ-sái.
 * way, lōu; tãu; thû; lōu-thû; lōu-tãu; lōu-thâu; lōu-kèⁿ. on the, lōu-chiēⁿ; lōu-téng; lōu--kò. to lead the, tshūa-lōu; ín-lōu; kāng-lōu; kiau-lōu. to be in one's, hûang-gāi. to be in the way, tìn-tò; tìn-tiāu tī-hng. half-way, pùaⁿ-lōu; lōu-pùaⁿ-kue̍h. do it this way, chièⁿ-seⁿ-tsò. what way? ēng sĩ-mih huang-huap? which is the right? tùi tî-tiâu-lōu kiâⁿ chiàⁿ-tie̍h? get out of the, kiâⁿ-khui; kiâⁿ-bûa. to get out of one another's, sie-pī. lose one's, kiâⁿ-tāⁿ-lōu; kiâⁿ-tshò-lōu.
-* we, ûn (excludingthe person addressed); nán (including person addressed).
+* we, ún (excluding the person addressed); nán (including person addressed).
 * weak, nńg-jia̍k; bô-la̍t; phu̍h. tea, po̍h-tê; tãⁿ-tê. weakening, sún-cheng-sîn. in weak health, sin-hūn phàⁿ; sin-hūn lám.
 * wealth, chîⁿ-tshâi; chîⁿ-ngṳ̂n; tshâi-pe̍h. wealthy, pù; ũ-chîⁿ. to become, huat-tshâi.
 * wean, keh-nĩⁿ; tñg-nĩⁿ; pàng-nĩⁿ.

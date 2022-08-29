@@ -106,7 +106,7 @@
 * voice, siaⁿ; siaⁿ-im. clear, siaⁿ-im chheng-liãng (or, liáu-liãng; mêng-liãng). indistinct, siaⁿ-im lô-lô (or, hâm-hû; kâm-kôu). to lose one's, sit-siaⁿ; bô-siaⁿ; sit-im. to read in a clear loud voice, khui-siaⁿ-tha̍k. to recognize one's, jīn-siaⁿ; piẽn-siaⁿ. with one voice, che̍k-kháu che̍k-sṳ̂.
 * void, see EMPTY.
 * volcano, húe-suaⁿ; húe-iãm-suaⁿ.
-* volume, a, che̍k-pńg. several volumes making one work, che̍h-pang; tshûan-põu.
+* volume, a, che̍k-pńg. several volumes making one work, che̍k-pang; tshûan-põu.
 * voluntarily, kam-sim; kam-ngũan; kam-sim chhêng-ngũan; chhêng-nguãn; huaⁿ-hí; kam-sim sêng-ì.
 * volunteer, mîn-tsàng; ngĩ-piaⁿ.
 * voluptuary, tham-chiú-sek; hàuⁿ-chiú-sek.
