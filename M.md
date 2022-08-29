@@ -1,7 +1,7 @@
 * Macao, Má-káu; ò-mn̂g.
 * mace, one, che̍k-chîⁿ-ngṳ̂n. one mace has ten candareens, che̍k-chîⁿ ũ-tsa̍p-hun.
 * macerate, au; au-kauh; lo̍h-khṳ̀-au; ùn-àu; chìm-kàu-àu.
-* machination, àm-kòi; khúi-kòi; kòi-mông; ak-mông; khúi-mông-kan-kòi.
+* machination, àm-kòi; khúi-kòi; kòi-mông; ak-mông; khúi-mông kan-kòi.
 * machine, ki-khì; ie̍h-kúi; chhia.
 * mad, siáu; tien-khûang; huat-siáu; huat-tien; huat-khûang; sit-sim; sim m̄-tiāⁿ. feign to be, tèⁿ-tien tèⁿ-siáu. dog, siáu-káu.
 * madam, a-niêⁿ; a-náiⁿ; thài-thài; hu-jîn; niêⁿ-niêⁿ.

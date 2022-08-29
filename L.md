@@ -194,7 +194,7 @@
 * lop, off, branches, tsám-chhiū-ki.
 * loquacious, tsōi-ūe; tsōi-tshùi; tshùi tsōi; hàuⁿ-tàⁿ-ūe; ki-tshùi siauh-siauh-kiè zû kuah-tsúa-to.
 * lord, tsú.
-* lose, sit; sit-lo̍h; sàng-tiāu; m̄-kìⁿ; zũi-sit. a battle, thâi-su; pāi-tīn; chièn-pāi. the way, kiâⁿ-tāⁿ-lōu; kiâⁿ-tshò-lōu; tsáu-tshò lōu-thû; m̄-pat-lōu. one's pains, uáng-hùi cheng-sîn; uáng-hùi kang-hu; thû-hùi sim-la̍t; thû-lâu bô-kong. time, sit-sî; hṳ-iẽn nîⁿ-gue̍h; hṳ-iẽn ji̍t-sî. courage, sàng-táⁿ; táⁿ lo̍h; phùa-táⁿ. heart, lî-sim; sim lî. flavour, hiàⁿ-khì; sia̍p-khì; tsáu-khì; tsáu-bī. colour, lo̍h-sek; thò-sek. in gambling, pua̍h-su. capital, si̍h-pńg; khui-pńg; khui-si̍h; khui-khòng; m̄-kàu-pńg.
+* lose, sit; sit-lo̍h; pàng-tiāu; m̄-kìⁿ; zũi-sit. a battle, thâi-su; pāi-tīn; chièn-pāi. the way, kiâⁿ-tāⁿ-lōu; kiâⁿ-tshò-lōu; tsáu-tshò lōu-thû; m̄-pat-lōu. one's pains, uáng-hùi cheng-sîn; uáng-hùi kang-hu; thû-hùi sim-la̍t; thû-lâu bô-kong. time, sit-sî; hṳ-iẽn nîⁿ-gue̍h; hṳ-iẽn ji̍t-sî. courage, sàng-táⁿ; táⁿ lo̍h; phùa-táⁿ. heart, lî-sim; sim lî. flavour, hiàⁿ-khì; sia̍p-khì; tsáu-khì; tsáu-bī. colour, lo̍h-sek; thò-sek. in gambling, pua̍h-su. capital, si̍h-pńg; khui-pńg; khui-si̍h; khui-khòng; m̄-kàu-pńg.
 * lot, of ground, che̍k-kò-tī; che̍k-phiâⁿ-tī. of people, ke-ke-nâng. contented with one's lot, siú-hūn uaⁿ-mẽng; tsai-tsok. cast, or draw, lots, thiu-chhiam; khieh-khau; po̍ih-chhiam; lok-chhiam; pua̍h-pue.
 * lotion, ie̍h-tsúi. to apply a, sói-ie̍h-tsúi; chhiù-ie̍h-tsúi; buah-ie̍h-tsúi; tah-ie̍h-tsúi; sueh-liâng (cooling); ù-liâng (id.).
 * lottery, iêⁿ-pie; hue-hũe. to try, phah-iêⁿ-pie; teh-hue-hũe; phah-hue-hũe. ticket, iêⁿ-pie-tsúa; hue-hũe-phoi. to win in a, phah--tie̍h. Manilla, Lṳ̃-sòng-pie.
@@ -202,7 +202,7 @@
 * loud, tōa-siaⁿ. noise, tōa-ē-hiáng. thunder, lûi kia-leh; lûi phah-kia-leh.
 * louse, sat-bó. breed, seⁿ-sat-bó; seⁿ-sat. comb out, pìn-tiāu sat. catch, lia̍h-sat. crush with nails or teeth, tak-sat.
 * lounge, ôiⁿ-iû; ôiⁿ-sin; ôiⁿ-u̍t; chheng-sũi; ôiⁿ-mîn; tham-tõaⁿ.
-* love, to, ài; ài-sieh; thóng-ài; siang-ài; kèng-ài (and respect). subst., jîn-ài; chhêng-ài; ṳn-ài. love blindly and over-indulge, ne̍k-ài. beloved, tit-nâng-sieh; tit-tóng. lovely, khó-ài. love-letter, chhêng-tsṳ (bad meaning). love-sick, chie-si-pēⁿ; siang-sṳ-pēⁿ; siang-sṳ-pĩn; ou-âng-pēⁿ. love virtue, hàuⁿ-siẽn; la̍k-siẽn hàuⁿ-tek.
+* love, to, ài; ài-sieh; thóng-ài; siang-ài; kèng-ài (and respect). subst., jîn-ài; chhêng-ài; ṳn-ài. love blindly and over-indulge, ne̍k-ài. beloved, tit-nâng-sieh; tit-thóng. lovely, khó-ài. love-letter, chhêng-tsṳ (bad meaning). love-sick, chie-si-pēⁿ; siang-sṳ-pēⁿ; siang-sṳ-pĩn; ou-âng-pēⁿ. love virtue, hàuⁿ-siẽn; la̍k-siẽn hàuⁿ-tek.
 * low, kẽ. in stature, ói; kẽ-kẽ; ói-sòi. high and, kûiⁿ-kẽ; kau-ti. water, tsúi khó; tsúi ta; lâu khó-ta-ta. low people, hiã-pín; hiã-tsūaⁿ; hiã-liû (very mean). voice, sòi-siaⁿ. reading in a low voice, thiâm-ngîm chẽⁿ-tha̍k.
 * lower, to, lo̍h; pàng-lo̍h; tūi-lo̍h (as with rope). sail, hẽ-phâng; lo̍h-phâng; heh-phâng.
 * lowly, in mind, khiam-sùn. in rank, pui-tsūaⁿ. lowlands, phêng-nguân.
