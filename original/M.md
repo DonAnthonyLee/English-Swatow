@@ -25,7 +25,7 @@
 * Malacca, Mûaⁿ-la̍k-kah.
 * malady, see DISEASE.
 * malaria, suaⁿ-lâm chiàng-khì.
-* male, lâm; nâm; ta-pou; kóu (beasts); kak (birds); hiông (id.). and female, nâm-nńg; ta-pou tsṳ-niêⁿ. female & male, im-iâng; phín-móuⁿ (beasts); thsṳ̂-hiông (birds).
+* male, lâm; nâm; ta-pou; kóu (beasts); kak (birds); hiông (id.). and female, nâm-nńg; ta-pou tsṳ-niêⁿ. female & male, im-iâng; phín-móuⁿ (beasts); tshṳ̂-hiông (birds).
 * malediction, chiù-tsūa; chiù-mēⁿ.
 * malevolent, sim-kuaⁿ ak-ta̍k; sim-tn̂g ak-ta̍k; ta̍k-sim; ta̍k-tn̂g; ak-ta̍k; hiong-ak; hiau-ak.
 * malignant, lĩ-hāi. star, ak-chheⁿ-siù. and see MALEVOLENT.
@@ -69,12 +69,12 @@
 * marrow, kut-tshúe.
 * Mars, húe-chheⁿ.
 * marsh, kẽ-sip; tsúi-che̍k; làm-che̍k; làm-sip.
-* martial, appearance, bú-mãuⁿ; hó-han. exercises, bú-gōi.
+* martial, appearance, bú-mãuⁿ; hó-hàn. exercises, bú-gōi.
 * martyr, ũi-tãu tì-sí; ũi-tãu tì-miāⁿ; ũi-tãu siá-sin.
 * mask, mīn-khak; mīn-bôu; kúi-khak. to put on an ugly mask, kùa siáu-kúi-khak.
 * mason, hue-kang sai-pẽ; thôu-kang sai-pẽ; tsò-nîⁿ-tsúi; nîⁿ-tsúi.
 * mass, of people, nâng-mue̍h lāu-jie̍t.
-* massacre, tôu-lo̍k; suah-lo̍k; chĩn-tôu; tshám-suah; tshûng-kiâⁿ tu-lo̍k.
+* massacre, tôu-lo̍k; suah-lo̍k; chĩn-tôu; tshám-suah; tshûan-kiâⁿ tu-lo̍k.
 * mast, tsûn-ûi. mainmast, tōa-ûi. foremast, thâu-ûi. mizzen-mast, búe-ûi. cut away, tsám-tiāu-ûi. put up, khiâ-ûi. take down, siâ-ûi; lo̍h-ûi.
 * master, tsú; tsú-jîn; tshù-nâng; tong-ke; tshâi-tsú; thâu-ke (used in Ch'ao-chow-foo only in bad sense).
 * mat, chhie̍h. rush, tsháu-chhie̍h. bamboo, bi̍h-chhie̍h; tek-chhie̍h. rattan, tîn-chhie̍h. for sails, chhie̍h-pau. cover of a boat, phâng-kám. shed, phâng-chhiáng. spread a, tshṳ-tsháu-chhie̍h.
@@ -88,7 +88,7 @@
 * matter (pus), lâng; n̂g-sûaⁿ-tsúi.
 * mattock, tṳ̂-thâu.
 * mattress, zo̍k; tshn̂g-zo̍k; phou-zo̍k.
-* mature, se̍k; kàu-tsúi. by experience, kùan-se̍k; si̍p-se̍k; liẽn-se̍k; o̍h-se̍k. maturity (manhood), sêng-teng.
+* mature, se̍k; kàu-tsúi. by experience, kùan-se̍k; si̍p-se̍k; liēn-se̍k; o̍h-se̍k. maturity (manhood), sêng-teng.
 * maxim, keh-ngân; huap-ngân; siàⁿ-hùn; so̍k-gṳ́.
 * may, do it, khó; khó-íⁿ; tsò-tit. may I go? uá lâi-khṳ̀, hó--mé? may it be done? chièⁿ-seⁿ hó--mé?
 * meadows, tsháu-pou; tsháu-tiêⁿ.
@@ -97,7 +97,7 @@
 * meal, be̍h-hún; be̍h-tshōi.
 * mean, tsūaⁿ; hiã-tsūaⁿ; hiã-pín; kẽ-pín; hiã-liû. man, siáu-jîn-nâng.
 * mean, to, ũ-ì; ũ-sim. meaning, ì-sṳ̀. of written character, jī-ngĩ.
-* means, huang-huap; huap-tsat; huap-tõu. no, bô-huap; bô-pōu; bô-lêng-ûi; bõi-tit ji̍p-chhiú. capital, tsṳ-pńg; pńg-chîⁿ.
+* means, huang-huap; huap-tsat; huap-tōu. no, bô-huap; bô-pōu; bô-lêng-ûi; bõi-tit ji̍p-chhiú. capital, tsṳ-pńg; pńg-chîⁿ.
 * meantime, tng-sî; hṳ́-sî.
 * measles, mûeⁿ-chèng. to have, chia̍h-mûeⁿ; tshut-mûeⁿ.
 * measure, tōu; tōu-liãng; liãng-tōu; tshùn-chhieh; tshùn-tōu; chhieh-tōu. to, niêⁿ; chhek; chhek-ta̍t; phit; pí. depth of water, thàm-tsúi.
@@ -126,7 +126,7 @@
 * mend, póu; póu-tùe; siu-chiáⁿ; chiáⁿ-lí; siu-si̍p. clothes, póu-saⁿ. a house, pa-lói-tshù. a pen or pencil, phoi-pit. faults, kói-kùe.
 * mendicant, khṳt-chia̍h; kiâⁿ-bí; thó-chia̍h.
 * menial, po̍k-hia̍h; sái-huàn; huàn-hia̍h. low, pui-tsūaⁿ.
-* menses, gue̍h-keng; gue̍h-sṳ̄; kiâⁿ-keng; keng-pái; gue̍h-sìn. suppression of, pī-gue̍h; pī-keng. profuse, hueh-pang. irregular, gue̍h-keng m̄-thiâu. menopause, gue̍h-tsúi tso̍h.
+* menses, gue̍h-keng; gue̍h-sṳ̄; kiâⁿ-keng; keng-tsúi; gue̍h-tsúi; sói-sin; sói-gue̍h; gue̍h-pái; keng-pái; gue̍h-sìn. suppression of, pī-gue̍h; pī-keng. profuse, hueh-pang. irregular, gue̍h-keng m̄-thiâu. menopause, gue̍h-tsúi tso̍h.
 * mention, tàⁿ; thî-phû. need not, mín-tàⁿ.
 * mercantile, house, hâng; hâng-kháu. firm, kong-si.
 * mercer, khui tiû-tn̄g-phòu; bōi-si-tsháu kheh.
@@ -194,9 +194,9 @@
 * mischief, to do, hāi-nâng. mischievous, lĩ-hāi; kha-chhiú m̄-hó; kha-chhiú tsōi.
 * misconduct, kùe-sit; m̄-tùi-nâng; sàng-hẽng; sàng-pín.
 * miscount, sǹg-tāⁿ; sǹg-tshò.
-* misdemeamour, ũ-m̄-tie̍h--tshù. slight, siáu-kùe mûiⁿ-sit.
+* misdemeanour, ũ-m̄-tie̍h--tshù. slight, siáu-kùe mûiⁿ-sit.
 * miser, sieh-chîⁿ; kien-liẽn; liẽn-sieh chîⁿ-ngṳ̂n; thih-koi-ang che̍k-môⁿ put-po̍ih; chiéⁿ-chîⁿ-nôu; siú-chîⁿ-nôuⁿ.
-* moserable, chhi-tshám; khóu-lān; kan-khóu; chhi-liâng. misery, hũa; hũa-hũam; kan-khóu.
+* miserable, chhi-tshám; khóu-lān; kan-khóu; chhi-liâng. misery, hũa; hũa-hũam; kan-khóu.
 * misfortune, bô-tsãu-hùe; put-hẽng; bô-miāⁿ-ūn; khiap-miāⁿ; khóu-miāⁿ; po̍h-miāⁿ.
 * misgiving, khùa-sim; khùa-lṳ̃.
 * misgovern, tshâng-hāi liâng-mîn; lũan-chèng.
