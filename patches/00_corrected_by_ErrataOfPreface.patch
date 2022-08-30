@@ -1,0 +1,404 @@
+diff --color -Nur a/A.md b/A.md
+--- a/A.md	2022-08-11 00:41:59.568418400 +0800
++++ b/A.md	2022-08-31 02:01:25.721448000 +0800
+@@ -117,7 +117,7 @@
+ * adulterer, kan-hu; lãu-iẽn; ji̍p-nâng-lãi.
+ * adulteress, kan-hũ; îm-hũ; tsṳ-niêⁿ tshap--tie̍h-nâng.
+ * adultery, kan-îm; kan--nâng chhi-nńg; sṳ-kau; sai-thong; ji̍p-nâng-lãi; sai-chhêng; kan-chhêng.
+-* advance, chìn-tsôiⁿ. daily, che̍k-ji̍t kìⁿ-ji̍t-chìn. money, saiⁿ tshut-chîⁿ. advanced guard, sien-hong. in office, kau-seng; chìn-khip; seng-kûiⁿ.
++* advance, chìn-tsôiⁿ. daily, che̍k-ji̍t kìⁿ-ji̍t-chìn. money, soiⁿ tshut-chîⁿ. advanced guard, sien-hong. in office, kau-seng; chìn-khip; seng-kûiⁿ.
+ * advantage, iah; lĩ-iah. to seek, thû-lĩ. of no advantage, bô-iah. advantageous, ũ-iah; hó-tit-lĩ; hó-thàn-chîⁿ.
+ * adventure, thèng-tsãu-hùe. adventurous, káⁿ-tsò; káⁿ-ûi; tōa-táⁿ; thèng-tsãu-hùe tsò.
+ * adverb, gṳ́-tsõ-sṳ̂.
+diff --color -Nur a/B.md b/B.md
+--- a/B.md	2022-08-17 22:16:01.167161800 +0800
++++ b/B.md	2022-08-31 02:36:47.037517000 +0800
+@@ -98,7 +98,7 @@
+ * becalm, bô-huang; huang tiām; bô-huang bô-sie̍h.
+ * because, in-ũi; uân-in; in-tuan; in-iû; uân-khî.
+ * beckon, ia̍h-chhiú; chie-chhiú. to come, ia̍h-lâi. to go, ia̍h-khṳ̀.
+-* bed, tshn̂g; mîn-tshn̂g. tressel-bed, phou. bed-boards, phou-pang. bed-fellow, tâng-phou; tsò-pô-u̍t. make ready a bed, phah-phou. to go to bed, lo̍h-mîn-tshn̂g gu̍t. brought to bed, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. bed-room, u̍t-pâng; mîn-pâng; õ-pâng. bed-clothes, phũe; phũe-toaⁿ (thin). bed-post, mîn-tshn̂g-thiãu. potato-bed, huan-tsṳ-sieⁿ.
++* bed, tshn̂g; mîn-tshn̂g. tressel-bed, phou. bed-boards, phou-pang. bed-fellow, tâng-phou; tsò-pô-u̍t. make ready a bed, phah-phou. to go to bed, lo̍h-mîn-tshn̂g gu̍t. brought to bed, lîm-phûn; seⁿ-kiáⁿ; lîm-súaⁿ. bed-room, u̍t-pâng; mîn-pâng; õ-pâng. bed-clothes, phũe; phũe-toaⁿ (thin). bed-post, mîn-tshn̂g-thiãu. potato-bed, huan-tsṳ̂-sieⁿ.
+ * bedust, seⁿ-eng-têng; mak--tie̍h thôu-hún; seⁿ-tîn-ai.
+ * bee, phang; bi̍t-phang. honey, phang-bi̍t. beehive, phang-tû; phang-tàu. beeswax, phang-la̍h; bi̍t-phoh.
+ * beef, gû-ne̍k.
+@@ -239,7 +239,7 @@
+ * blow, a, phah che̍k-ē. up a vessel, pàng-húe-ie̍h kún-tiāu-tsûn. wind, huang tshue; thàu-huang (high wind). flute or pipe, tshue-siau; pûn-hûeⁿ-te̍k; pûn-ti-tâ. out (as lamp), pûn-kùe. the fire, pûn-húe to̍h; hut-húe. the nose, hnghⁿ-phīⁿ; sàng-phīⁿ. blow pipe, húe-kóng.
+ * blubber, jelly-fish or medusa, thē; hái-thē; tsúi-bó.
+ * bludgeon, ba̍k-káng; ba̍k-thûi; tshâ-thûi.
+-* blue, lâm; chheⁿ. vitriol (sulphate of iron; copperas), chheⁿ-hûan; táⁿ-hûan.
++* blue, lâm; chheⁿ. vitriol, see under vitriol, more correct.
+ * blunder, tshò; m̄-tie̍h.
+ * blunt, edge, tun; bõi-lāi. point, lu; bõi-chiam. of a man, tun-kùe tṳ̄-thâu. outspoken, thóu-ti̍t.
+ * blurred, printing, ìn-póiⁿ sie-hũn; ìn-póiⁿ kôu-kôu.
+@@ -352,7 +352,7 @@
+ * brittle, sou.
+ * broad, khuah; khuah-khǹg; khùaⁿ; khùaⁿ-chhēng. broadwise, hûeⁿ; hûeⁿ--sì; khuah--sì.
+ * brogue, hiang-thâm; thóu-ūe; gṳ́; thóu-gṳ́; thóu-thâm.
+-* broil, a, tshàu-mãuⁿ; uan-ke lâ-chè. on the fire, sie-ne̍k.
++* broil, a, tshàu-nãuⁿ; uan-ke lâ-chè. on the fire, sie-ne̍k.
+ * broken, phùa; chi̍h. fragments, tshùi. hearted, sim sng. see BREAK.
+ * broker, tong-nâng; kong-chhin. brokerage, thiu-thâu-ngṳ̂n.
+ * bronze, n̂g-tâng.
+diff --color -Nur a/C.md b/C.md
+--- a/C.md	2022-08-17 22:29:27.723354900 +0800
++++ b/C.md	2022-08-31 02:08:13.679581400 +0800
+@@ -11,7 +11,7 @@
+ * cajole, so-lua̍h; so--nâng lua̍h--nâng; moⁿ-so; phièn kàu-i-hàuⁿ.
+ * cake, piáⁿ; kúe; ko. sponge-cake, koi-nñg-ko. bean, khou.
+ * calabash, hôu-hôu; hôu-lôu-pû.
+-* calamity, m̄-tsãu-hùe; seⁿ-hũa; hũa-huãm; tsai-hũa; tsai-lān; huãm-lān; tshou-khóu.
++* calamity, m̄-tsãu-hùe; seⁿ-hũa; hũa-huãm; tsai-hũa; tsai-lān; huãm-lān; tshôu-khóu.
+ * calamus, chhiang-phû.
+ * calculate, phah-sǹg; pheⁿ-phah; sǹg; tá-sǹg; tshâi-ta̍t; tshâi-chiak.
+ * calculus, in bladder, suaⁿ-lîm; chie̍h-lîm.
+@@ -19,7 +19,7 @@
+ * calendar, la̍h-ji̍t; thong-tsṳ.
+ * calender, ta̍h-pòu; khoih-pòu. calender-stone, ta̍h-pòu-chie̍h; ta̍h-chie̍h. the pin, pòu-te̍k.
+ * calf, gû-kiáⁿ. calf of leg, kha-tn̂g-tóu. to calve, gû seⁿ-kiáⁿ.
+-* calibre, of gun, chhèng-kháu; chhéng-khang.
++* calibre, of gun, chhèng-kháu; chhèng-khang.
+ * calico, pòu.
+ * call, kiè; hàm; chie. out, khui-siaⁿ. call to mind, siẽⁿ-khí-lâi; siẽⁿ-tie̍h; liãm-tie̍h. call on anyone, pài-hāu; sie-sûn. what is he called? i kiè-tsò sĩ-mih-miâⁿ? to call animals, khou.
+ * calling, occupation, sṳ̄-ngia̍p.
+@@ -167,7 +167,7 @@
+ * chaff, tshou-khng.
+ * chagrin, khì; sim m̄-su-ho̍k; uàn; m̄-zû-ì.
+ * chain, liēn; soh. iron chain, thih-soh; thih-liēn.
+-* chair, íⁿ. arm chair, kau-íⁿ. camp-chair, bé-tsah-íⁿ. bring a chair, taⁿ che̍k-chiah-íⁿ--lâi. one (ordinary) chair, che̍k-chiah-íⁿ. bamboo chair, tek-íⁿ. sedan, kiē. carry a sedan chair, kng-kiē. sit in, tsõ-kiē. call, kiè-kiē; hàm-kiè. one sedan chair, che̍k-téng-kiē. chair-bearer, see BEARER.
++* chair, íⁿ. arm chair, kau-íⁿ. camp-chair, bé-tsah-íⁿ. bring a chair, taⁿ che̍k-chiah-íⁿ--lâi. one (ordinary) chair, che̍k-chiah-íⁿ. bamboo chair, tek-íⁿ. sedan, kiē. carry a sedan chair, kng-kiē. sit in, tsõ-kiē. call, kiè-kiē; hàm-kiē. one sedan chair, che̍k-téng-kiē. chair-bearer, see BEARER.
+ * chalk, tsúi-hún; húe-chie̍h-hún. chalk line, hún-sùaⁿ.
+ * challenge, thie-chièn; jiá-chièn; kek-chièn. give a challenge, hẽ-chièn-tsṳ.
+ * chamber, lãi-pâng; pâng-koiⁿ. chamber-lamp, khàm-teng.
+@@ -358,7 +358,7 @@
+ * colleague, in office, tâng-liâu; liâu-iú. in study, theng-iú; tâng-theng.
+ * collect, as congregation, tsũ-chi̍p; tsũ-hũe; hũe-chi̍p. wealth, tun-kim chek-ge̍k; chek-tshâi. taxes, siu-niêⁿ. the crop, siu-chhek; siu-tang. collecter of taxes, niêⁿ-chhe.
+ * college, tsṳ-īⁿ. the Imperial college, hân-lîm-īⁿ.
+-* collision, sie-tsuãng; tiāⁿ-tsuãng--tie̍h; sie-lṳ̂--tie̍h.
++* collision, sie-tsuãng; tiaⁿ-tsuãng--tie̍h; sie-lṳ̂--tie̍h.
+ * colloquy, tsò-pû phue̍h-ūe. colloquial, pe̍h-ūe; thóu-thâm; thóu-ūe; so̍k-ūe; kháu-thâu-gṳ́.
+ * collusion, kàu-niêⁿ phièn-nâng; tâng-mông.
+ * colonel, hia̍p-thâi; hù-chiàng.
+@@ -492,7 +492,7 @@
+ * consent, tsún; zún-na̍p; khéng; hàuⁿ; ìn-na̍p; ìn-sêng; na̍p-ì.
+ * consequences, kuan-hĩ. bad, khan-gāi; liên-lūi; po-lūi; khan-thùa; khan-thua. of no consequence, bô-siang-kan; bô-siang; bô-hûang; bô-bī; mùiⁿ; bô-kàu tî-kò-khṳ̀; bô-chhiet-iàu. consequently, kù-tshṳ́; só-íⁿ; in-tshṳ́; sǹg-lâi.
+ * conserve, pó-tshûan.
+-* consider, siẽⁿ; sṳ-siẽⁿ; chhim-siẽⁿ; chim-chiak; pheⁿ-phah; tà-sùan; phah-sǹg. a man of consideration, ũ-thí-mīn kâi-nâng.
++* consider, siẽⁿ; sṳ-siẽⁿ; chhim-siẽⁿ; chim-chiak; pheⁿ-phah; tá-sùan; phah-sǹg. a man of consideration, ũ-thí-mīn kâi-nâng.
+ * consign, to one's care, hù-thoh; kià-thoh; kià-hù. consignee, sêng-chih kâi-nâng.
+ * consistent, in character, ngân-hẽng siang-tùi; ngân-hẽng zû-it; ngân-hẽng hû-ha̍h.
+ * console, uaⁿ-ùe; khǹg-ùe; bú-ùe.
+@@ -584,7 +584,7 @@
+ * corn, ngóu-kak (grain in general). on the foot, hṳ̂-ma̍k-chiu; hṳ̂-lâng-tsùe; kha-lang.
+ * cornelian, âng-má-láu.
+ * corner, kak; kak-thâu. of the eye, ma̍k-kak; ma̍k-thâu ma̍k-búe.
+-* cornice, of wall, chhieⁿ-thâu-sùaⁿ; gē-sùaⁿ.
++* cornice, of wall, chhiêⁿ-thâu-sùaⁿ; gē-sùaⁿ.
+ * coronation, teng-ūi; sin-kun tsõ-ūi; teng-ke̍k; teng-ki.
+ * coroner, ngóu-tsoh; ngõu-tsoh; siàng-ngiām. to hold a c's inquest, khàm-ngiām; thóiⁿ-ngiām; ngiām-si.
+ * corporeal, ũ-hêng-siãng; ũ-sin-thói.
+@@ -714,7 +714,7 @@
+ * culpable, ũ-tsũe; ũ-kùe-sit. culprit, hũam-jîn.
+ * cultivate, fields, tsoh-tshân; chèng-tsoh; keⁿ-tsoh; keⁿ-tshân. the heart, siu-sim. virtue, siu-tek. one's conduct, siu-sin.
+ * cumber, the ground, tìn-tiāu tī-hng; tìn-tò.
+-* cumbersome, chhin-chhiẽⁿ taⁿ-tãng-tàⁿ; tãng-jĩm, hûang-gāi; thua-lūi.
++* cumbersome, chhin-chhiẽⁿ taⁿ-tãng-tàⁿ; tãng-jĩm, hûang-gāi; thua-thūi.
+ * cunning, to-sim kek-sṳ̄; sim-sṳ̄ tsōi; ũ-sim-sṳ̄; khî-khá.
+ * cup, cheng; pue. tea cup, tê-cheng; tê-pue; tê-au.
+ * cupboard, tû; pûaⁿ-úaⁿ-tû; tãng-kè; chia̍h-tû.
+diff --color -Nur a/D.md b/D.md
+--- a/D.md	2022-08-28 03:04:13.694713900 +0800
++++ b/D.md	2022-08-31 02:10:00.333541400 +0800
+@@ -103,7 +103,7 @@
+ * delegate, chhe-sái; chhe-úi. a delegate, úi-uân; sài; sài-chiá.
+ * deliberate, to, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sǹg-lâi sǹg-khṳ̀; siẽⁿ-lâi siẽⁿ-khṳ̀; pí-lâi pí-khṳ̀; chiak-ngí.
+ * deliberately, soiⁿ sṳ, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
+-* delicate, jiû-nńg. in health, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. neat, kiau-kiah. fine, iùⁿ-sòi; cheng-mûiⁿ. fastidious, tiau-khiâu-chia̍h. in taste and flavour, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. delicacies, tien-bī; peh-bī; tien-siu peh-pī; suaⁿ-tien hái-bī.
++* delicate, jiû-nńg. in health, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. neat, kiau-kiah. fine, iùⁿ-sòi; cheng-mûiⁿ. fastidious, tiau-khiâu-chia̍h. in taste and flavour, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. delicacies, tien-bī; peh-bī; tien-siu peh-bī; suaⁿ-tien hái-bī.
+ * delight, huaⁿ-hí; khùai-la̍k. delight in, hàuⁿ; zua̍t. delightful, khó-hí; hó-zua̍t-ma̍k; hó-khai-huâi; tshù-bī. delighted, sóng-khùai; suáng-khùai; khùai-thiàng; thiàng-ì.
+ * delineate, ūe-hêng-tôu; ūe-tôu; phah-kó.
+ * delinquent, hũam-jîn; tsũe-jîn.
+@@ -282,7 +282,7 @@
+ * disentangle, kói; kói-kat.
+ * disgorge, thòu; thòu--tshut.
+ * disgrace, tiu-lién; sit-lién; bô-mīn; kièn-siàu; u-zo̍k; chhíⁿ-zo̍k; lêng-zo̍k; siũ-zo̍k. bring on oneself, tsṳ̃-tshú-zo̍k. disgraceful, siáu-lí-sṳ̄; kièn-chhiè-sṳ̄.
+-* disguise, koh-iēⁿ tá-pān. male or female, tsuang-lâm ké-nńg. as a literary man, tsuang-tsò tha̍k-tsṳ-nâng.
++* disguise, koh-iēⁿ tá-pàn. male or female, tsuang-lâm ké-nńg. as a literary man, tsuang-tsò tha̍k-tsṳ-nâng.
+ * disgust, iàm-tsūaⁿ; iàm-hṳ̃n; iàm-khì; iàm-ù. shudder with, phah-tshùn-lūn; phah-tshùn-ūn; thóiⁿ-kìⁿ hehⁿ-che̍k-kiè. disgusting, chhi-gî.
+ * dishes, pûaⁿ-úaⁿ.
+ * dishevelled, thâu-môⁿ zṳ̂-zṳ̂; thâu-môⁿ zû-sàu-soi.
+@@ -322,7 +322,7 @@
+ * dispose, arrange, pâi; pái; pâi-lie̍t; pái-lie̍t; an-pâi. troops, pâi-tīn. to be disposed to do anything, àiⁿ; hàuⁿ; ngũan; ũ-sim-àiⁿ. dispose of, by sale, bōi. by gift, pun--nâng; ṳ́--nâng. decide a cause, phùan-tùan; sím-tùan.
+ * disposition, sèⁿ; sèⁿ-chhêng; sim-chhêng; sim-sèⁿ.
+ * disproportion, phùe-m̄-kùe; kah-m̄-kùe.
+-* dispute, cheⁿ-lũn; sie-cheⁿ; piẽn-poh; sie-à; kau-soi. loud angry disputation, tshâu-nãuⁿ.
++* dispute, cheⁿ-lũn; sie-cheⁿ; piẽn-poh; sie-à; kau-soi. loud angry disputation, tshàu-nãuⁿ.
+ * disquieted, m̄-uaⁿ-sim; sim bô-phêng-an; m̄-kùe-sim; m̄-pàng-sim; khùa-sim; hûan-sim.
+ * disregard, m̃-kù; m̃-kúan; m̃-lí; hut-lia̍k; m̃-tshái; m̃-thiaⁿ. orders, m̃-tsun-mẽng.
+ * disrelish, m̄-ha̍h-tshùi; m̄-ha̍h-chia̍h; m̄-ha̍h chhiâu-kháu; m̄-ha̍h ūi-kháu.
+diff --color -Nur a/E.md b/E.md
+--- a/E.md	2022-08-20 10:44:10.750836000 +0800
++++ b/E.md	2022-08-31 02:10:34.545545100 +0800
+@@ -140,7 +140,7 @@
+ * enslave, lia̍h-tsò-nôuⁿ; lia̍h-tsò nôuⁿ-po̍k.
+ * ensnare, iú-ji̍p khuan-thàu; phièn-ji̍p-ke̍k; phièn-ji̍p-khou-thàu; kuang-chiẽⁿ-tàng; tieⁿ-ie̍h-kúi.
+ * entangle, tîⁿ-kín; kau-tîⁿ; kiú-tîⁿ; tîⁿ-sin; lap-tie̍h-sṳ̄. as thread, tîⁿ--tie̍h; phûan--tie̍h. get entangled in a thorny hedge, kûe--tie̍h chhì-nâⁿ.
+-* enter, ji̍p; chìn; chìn-ji̍p. the house, ji̍p-tshù-lãi; ji̍p-lãi. account, chiẽⁿ-siàu. offic, tsò-jīm; chiẽⁿ-jīm. Buddhist monastery, tshut-ke. the world (be born), tshut-sì. a petition, ji̍p-pín; jip-tiâⁿ. a port, ji̍p-káng. one's name, kì-miâⁿ; lo̍h-miâⁿ; kì-lo̍k nâng-miâⁿ. an association, ji̍p-hũe; pài-hũe. a religion, ji̍p-kà.
++* enter, ji̍p; chìn; chìn-ji̍p. the house, ji̍p-tshù-lãi; ji̍p-lãi. account, chiẽⁿ-siàu. offic, tsò-jīm; chiẽⁿ-jīm. Buddhist monastery, tshut-ke. the world (be born), tshut-sì. a petition, ji̍p-pín; ji̍p-tiâⁿ. a port, ji̍p-káng. one's name, kì-miâⁿ; lo̍h-miâⁿ; kì-lo̍k nâng-miâⁿ. an association, ji̍p-hũe; pài-hũe. a religion, ji̍p-kà.
+ * enterprising, káⁿ-pàng-táⁿ; ũ-táⁿ-lia̍k.
+ * entertain, as a host, chhiáⁿ-toh; chhiáⁿ-chiú; chiap-na̍p nâng-kheh. sumptuously or generously, kãu-thãi. entertainment, toh-sia̍h; tsò-toh. entertaining, tshù-bī.
+ * enthrone, hû-uâng teng-ki; hû-uâng teng-ūi.
+diff --color -Nur a/F.md b/F.md
+--- a/F.md	2022-08-28 03:50:45.809428100 +0800
++++ b/F.md	2022-08-31 02:12:53.065371900 +0800
+@@ -160,7 +160,7 @@
+ * fledged, huat-môⁿ.
+ * flee, tsáu; tô-tsáu; phun-tsáu; pī-tsáu.
+ * fleet, méⁿ; sok-sok. of ships, che̍k-tūi-tsûn.
+-* flesh, ne̍k; bah. fleshy, ũ-ne̍k; pûi. colour, chhiah-se̍k. proud, ṳ̀-ne̍k. putrid, àu-ne̍k; hu-ne̍k. the flesh (in moral sense), sṳ-io̍k; ne̍k-io̍k.
++* flesh, ne̍k; bah. fleshy, ũ-ne̍k; pûi. colour, chhiah-sek. proud, ṳ̀-ne̍k. putrid, àu-ne̍k; hu-ne̍k. the flesh (in moral sense), sṳ-io̍k; ne̍k-io̍k.
+ * flexible, nńg; kōi-uan; hó-á-uan; hó-ut-uan; hó-tshâu-uan; hó-khut-uan.
+ * flight, of an army, pāi-tsáu. of steps, che̍k-tieⁿ-thui. of arrows, chìⁿ lũan-siā. flighty, sim bô-tiāⁿ-tsú; sim-sèⁿ phû-tshàu.
+ * flimsy, nńg-jia̍k; bô-la̍t; bô-khì; lám; lẽ-ké.
+@@ -195,7 +195,7 @@
+ * fog, in-bū; mông-bū; mông-in; hûn-bū. foggy weather, thiⁿ-sî huat-mông.
+ * foil, frustrate a plot, phùa-kòi; chiang-kòi chiū-kòi. tin-foil, siah-po̍h.
+ * fold, sheep, iêⁿ-nûaⁿ; iêⁿ-lô.
+-* fold, to, chih. how many times shall I fold it? áiⁿ-chih-tsò jie̍h-tsōi-chih? àiⁿ-chih-tsò jie̍h-tsōi-tsâng? àiⁿ-chih-tsò kúi-ē? plait three folds, pĩⁿ-saⁿ-kóu. as of paper, têng. to make folds or plaits on dress, nia̍p-kóiⁿ; khieh-kóiⁿ. fold the hands and salute one, kióng-chhiú tsak-ip. the arms, tshah-chhiú; tsha-chhiú (less complete, hands together on the breast). two-fold, kia-pũe; ha̍p-pũe. manifold, ke-ke-pũe.
++* fold, to, chih. how many times shall I fold it? àiⁿ-chih-tsò jie̍h-tsōi-chih? àiⁿ-chih-tsò jie̍h-tsōi-tsâng? àiⁿ-chih-tsò kúi-ē? plait three folds, pĩⁿ-saⁿ-kóu. as of paper, têng. to make folds or plaits on dress, nia̍p-kóiⁿ; khieh-kóiⁿ. fold the hands and salute one, kióng-chhiú tsak-ip. the arms, tshah-chhiú; tsha-chhiú (less complete, hands together on the breast). two-fold, kia-pũe; ha̍p-pũe. manifold, ke-ke-pũe.
+ * foliage, chhiū-hie̍h. dense, chhiū-hie̍h mõng-sẽng; ba̍t-tsa̍t; tsa̍t-tsa̍t; ap-ap; im-im.
+ * follow, tshông; tùe; kṳn-sûi. as successor, chiap; chih. one's example, o̍h-iēⁿ; tùe-iēⁿ; chiè-iēⁿ; hāu-o̍h. in one's steps, tùe i kâi-kha-pōu. one's advice, thiaⁿ nâng khǹg-kòi; thiaⁿ-nâng-tàⁿ. one's own inclination, jĩm-ì; jĩm ka-kī kâi-ì. customs, tshông-so̍k; tshông-sì-so̍k. follower or disciple, mn̂g-jîn; mn̂g-seng; mn̂g-thû.
+ * folly, ngà-sṳ̄.
+@@ -209,7 +209,7 @@
+ * forage, niêⁿ-tsháu. to, chiũ-tī tshú-niêⁿ. plunder, khiâng-to̍h.
+ * forbear, jím-nãiⁿ; lún; jím; jím-khì; lún-khì; khuan; khuan-iông; iông; pàng-khuan.
+ * forbid, kìm; kìm-chí; kìm-kài; put-tsún; hàm-i-màiⁿ; tsó-chí.
+-* force, la̍t; sì-la̍t; khì-la̍t. to, mién-kiáng; khiâng-pek; ngẽ-lia̍h. take by, khiâng-to̍h; khiâng-chhiéⁿ; khiâng-thun. a woman, khiâng-kan. one's way in through a crowd, chìⁿ--ji̍p-khṳ́; ngẽ-chìⁿ--ji̍p-khṳ́.
++* force, la̍t; sì-la̍t; khì-la̍t. to, mién-kiáng; khiâng-pek; ngẽ-lia̍h. take by, khiâng-to̍h; khiâng-chhiéⁿ; khiâng-thun. a woman, khiâng-kan. one's way in through a crowd, chìⁿ--ji̍p-khṳ̀; ngẽ-chìⁿ--ji̍p-khṳ̀.
+ * forceps, thih-khîⁿ; thih-kîⁿ. small, koih-kiáⁿ; kia̍p-kiáⁿ.
+ * ford, to, ẽ-kùe-khoi; ẽ-khoi.
+ * fore, soiⁿ; tsôiⁿ. feet, tsôiⁿ-kha.
+diff --color -Nur a/G.md b/G.md
+--- a/G.md	2022-08-28 11:59:52.557489400 +0800
++++ b/G.md	2022-08-31 02:14:58.992750300 +0800
+@@ -66,7 +66,7 @@
+ * gestures, to use, in speaking, kha mõng, chhiú pí.
+ * get, tit; tit--tie̍h. up, tsáu-khí. could not get it done, tsò-m̄-sêng; tsò-m̄-chiâⁿ. rich, huat-tshâi; tì-pù. ready, ṳ̃-pĩ; tsôi-pĩ; pĩ-phōiⁿ; pĩ-pīn. into office, tit-ūi; tit-jĩm. advancement, kau-seng; seng-kuaⁿ; seng-khip, one's wishes, tit-ì; zû-ì; tit-sim kùe-ì. out of the way, kiâⁿ-khui; tsáu-khui; kiâⁿ-bûa; khiã-khui. angry, seⁿ-khì; huat-náuⁿ. hold of, lia̍h--tie̍h. aground (ship), khùa-sua; hũam-suaⁿ. into trouble, lap-tie̍h-sin. a cold, sieⁿ-huang. where ever did you get this? lṳ́ tsò-ũ chí-kâi-mue̍h?
+ * ghost, kúi; siàⁿ-nâng; siàⁿ-hùe-mue̍h. Holy, Siàⁿ-Sîn.
+-* giant, tōa-hān; kûiⁿ-nâng; kau-chhiâng tã-hān; kûiⁿ-tōa.
++* giant, tōa-hàn; kûiⁿ-nâng; kau-chhiâng tã-hàn; kûiⁿ-tōa.
+ * giddy, hîn; thâu-khak-hîn; hîn kàu-kông; kông-kông; hîn kàu chiang-pua̍h. in character, hàuⁿ-thit-thô.
+ * gift, lói-mue̍h; sàng-lói; sie-sàng. gracious, ṳn-sṳ̀.
+ * giggle, khih-khih-chhiè.
+@@ -85,7 +85,7 @@
+ * gizzard, kṳ̃n.
+ * glad, huaⁿ-hí; hí-la̍k. very, huaⁿ-huaⁿ hí-hí. to make, sái--nâng huaⁿ-hí; khṳt--nâng huaⁿ-hí.
+ * glance, iáⁿ-ma̍k. to see at a, che̍k-iáⁿ chiũ-tsai; che̍k-thóiⁿ chiũ-tsai; che̍k-ma̍k liáu-jiên. metaph., che̍k-siẽⁿ chiũ-tsai.
+-* glare, of the sun, ji̍t-tsam chhiēⁿ-tie̍h-ma̍k; ji̍t-tsam tsam-tie̍h-ma̍k. from water, ji̍t-tsam tõ-tsúi-tói húan-chie--khí-lâi; iap-iap-sih. glare with the eyes, ma̍k-chiu lìn-lìn-khah; ma̍k-chiu khah-khah-lìn. too glaring, khah-tshut-sek.
++* glare, of the sun, ji̍t-tsam chhiēⁿ-tie̍h-ma̍k; ji̍t-tsam tsam-tie̍h-ma̍k. from water, ji̍t-tsam tõ-tsúi-tói húan-chiè--khí-lâi; iap-iap-sih. glare with the eyes, ma̍k-chiu lìn-lìn-khah; ma̍k-chiu khah-khah-lìn. too glaring, khah-tshut-sek.
+ * glass, po-lî; liû-lî (not quite the same). to male, ié-po-lî; pûn-po-lî. bottle, po-lî-tsun. for drinking, po-lî-pue; po-lî-cheng.
+ * glaucoma, ou-jîn pièn-chheⁿ; chheⁿ-kuang hak-ngán.
+ * glaze, thn̄g. to glaze, lâm-thn̄g.
+@@ -107,7 +107,7 @@
+ * gnash, kã-gê; kã khí-gê-kṳn.
+ * gnat, bun; bun-kiáⁿ.
+ * gnaw, kã; khòi.
+-* go, khṳ̀; kiâⁿ; tsáu; uáng. down, kàng; lo̍h; hiã. up, chiẽⁿ; seng; teng; khí. abroad, tshut-khṳ̀-gūa; tshut-gūa; kùe-kok; kùe-huan; kùe-iêⁿ. out, khṳ̀-kháu; tshut-khṳ̀-gūa; tshut-mn̂g; tshut-koi. out, as fire, húe kùe--khṳ̀. home, hûe-ke; tńg-khṳ̀-tshṳ̀; kui-ke. into the house, khṳ̀-lãi. to, khṳ̀-kàu. about, uáng-lâi; chiẽⁿ-lo̍h; kiâⁿ-lâi kiâⁿ-khṳ̀. about, for amusement, thit-thô; múaⁿ-kò-la̍h. about, as ship, kùe-phâng. and bring, khṳ̀-khie̍h--lâi. to stool, kiâⁿ-tãng; chiẽⁿ-chhè; kiâⁿ-tãi-piẽn; tshut-kiong. to bed, khṳ̀-gu̍t. to market, chiẽⁿ-chhĩ; tshut-chhĩ; khṳ̀-chhĩ; tàu-hṳ. on foot, pōu-kiâⁿ; pōu-lién (of a person who would ordinarily have a conveyance). by water, tah-tsûn--khṳ̀. by land, le̍k-lōu--khṳ̀; tùi-lōu--khṳ̀. on board, lo̍h-tsûn. on shore, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-khàm. upstairs, khṳ̀-lâu-téng; chiẽⁿ-lâu. to a feast, hù-sia̍h; khṳ̀-chia̍h-toh; èng-sia̍h. to examination, hù-kháu; èng-kháu; hù-chhì; èng-chhì. to heaven, chiẽⁿ-thiⁿ. quickly, kiâⁿ-méⁿ; tsáu-méⁿ; kúaⁿ-méⁿ. to visit, khṳ̀-sie-sûn; húang-chhin húang-iú; khṳ̀-pài-hāu. let him, iû-i-khṳ̀; thèng-i-khṳ̀; kui-i-khṳ̀; sûi-i-khṳ̀. where are you going? lṳ́ àiⁿ-khṳ̀ tî-kò? where has he gone? i khṳ̀-tî-kò? do not know where to go (or, where he has gone), m̄-tsai-tùi-tî-kò khṳ̀. with the tide, kúaⁿ-lâu; sũn-lâu. all through or over, kiâⁿ-kàu-thàu. together, tsò-pû-kiâⁿ; tsò-pû-khṳ̀; tâng-kiâⁿ. before, soiⁿ-kiâⁿ; thâu-tsôiⁿ-kiâⁿ; kiâⁿ tõ-thâu-tsôiⁿ. behind, kiâⁿ ka-chiah-ãu. go to court, chiẽⁿ-chhiâu. to law, phah-kuaⁿ-si. halves, sie-kāng; pêⁿ-pun. and come, lâi-lâi uáng-uáng. and return, lâi-hûe.
++* go, khṳ̀; kiâⁿ; tsáu; uáng. down, kàng; lo̍h; hiã. up, chiẽⁿ; seng; teng; khí. abroad, tshut-khṳ̀-gūa; tshut-gūa; kùe-kok; kùe-huan; kùe-iêⁿ. out, khṳ̀-kháu; tshut-khṳ̀-gūa; tshut-mn̂g; tshut-koi. out, as fire, húe kùe--khṳ̀. home, hûe-ke; tńg-khṳ̀-tshù; kui-ke. into the house, khṳ̀-lãi. to, khṳ̀-kàu. about, uáng-lâi; chiẽⁿ-lo̍h; kiâⁿ-lâi kiâⁿ-khṳ̀. about, for amusement, thit-thô; múaⁿ-kò-la̍h. about, as ship, kùe-phâng. and bring, khṳ̀-khie̍h--lâi. to stool, kiâⁿ-tãng; chiẽⁿ-chhè; kiâⁿ-tãi-piẽn; tshut-kiong. to bed, khṳ̀-gu̍t. to market, chiẽⁿ-chhĩ; tshut-chhĩ; khṳ̀-chhĩ; tàu-hṳ. on foot, pōu-kiâⁿ; pōu-lién (of a person who would ordinarily have a conveyance). by water, tah-tsûn--khṳ̀. by land, le̍k-lōu--khṳ̀; tùi-lōu--khṳ̀. on board, lo̍h-tsûn. on shore, chiẽⁿ-suaⁿ; khí-tsúi; chiẽⁿ-khàm. upstairs, khṳ̀-lâu-téng; chiẽⁿ-lâu. to a feast, hù-sia̍h; khṳ̀-chia̍h-toh; èng-sia̍h. to examination, hù-kháu; èng-kháu; hù-chhì; èng-chhì. to heaven, chiẽⁿ-thiⁿ. quickly, kiâⁿ-méⁿ; tsáu-méⁿ; kúaⁿ-méⁿ. to visit, khṳ̀-sie-sûn; húang-chhin húang-iú; khṳ̀-pài-hāu. let him, iû-i-khṳ̀; thèng-i-khṳ̀; kui-i-khṳ̀; sûi-i-khṳ̀. where are you going? lṳ́ àiⁿ-khṳ̀ tî-kò? where has he gone? i khṳ̀-tî-kò? do not know where to go (or, where he has gone), m̄-tsai-tùi-tî-kò khṳ̀. with the tide, kúaⁿ-lâu; sũn-lâu. all through or over, kiâⁿ-kàu-thàu. together, tsò-pû-kiâⁿ; tsò-pû-khṳ̀; tâng-kiâⁿ. before, soiⁿ-kiâⁿ; thâu-tsôiⁿ-kiâⁿ; kiâⁿ tõ-thâu-tsôiⁿ. behind, kiâⁿ ka-chiah-ãu. go to court, chiẽⁿ-chhiâu. to law, phah-kuaⁿ-si. halves, sie-kāng; pêⁿ-pun. and come, lâi-lâi uáng-uáng. and return, lâi-hûe.
+ * goat, suaⁿ-iêⁿ.
+ * GOD, Siãng-tì. to worship, pài Siãng-tì. godly, kèng-ùi Siãng-tì. gods, sîn-mêng.
+ * go-down, tsàn-pâng.
+diff --color -Nur a/H.md b/H.md
+--- a/H.md	2022-08-23 10:00:30.927600500 +0800
++++ b/H.md	2022-08-31 02:16:13.387106000 +0800
+@@ -94,7 +94,7 @@
+ * heel, kha-ãu-teⁿ. of shoes, ôi-teⁿ. on woman's shoe, kia̍h-thô. down at the heels, ta̍h-tó-teⁿ. take to one's heels, tsáu.
+ * heifer, gû-kiáⁿ; gû-eⁿ.
+ * height, what is the? ũ-jie̍h-kûiⁿ? jie̍h-kûiⁿ?
+-* heir, sṳ̂-tsṳ́; ãu-sṳ̂. apparent, thài-tsṳ́. heirless, tso̍h-sṳ̂; bô-ãu. heritage, zûi-ngia̍p. to fall heir to one's father's property, sêng-chiap pẽ-ngia̍p. fall heir to the throne, kì-chiap sṳ̂-ūi; téng-sêng uâng-ūi; teng-ki; chiet-ūi.
++* heir, sṳ̂-tsṳ́; ãu-sṳ̂. apparent, thài-tsṳ́. heirless, tso̍h-sṳ̂; bô-ãu. heritage, zũi-ngia̍p. to fall heir to one's father's property, sêng-chiap pẽ-ngia̍p. fall heir to the throne, kì-chiap sṳ̂-ūi; téng-sêng uâng-ūi; teng-ki; chiet-ūi.
+ * hell, tī-ge̍k. to go to, tîm-lûn tī-ge̍k; lo̍h-tī-ge̍k.
+ * helm, tõa; búe-tõa. take the, lia̍h-tõa; hūaⁿ-tõa. unship, in shallow water, pài-tõa. raise higher, chhèng-tõa. shaft of, tõa-thâu. blade, tõa-siám. put up the, tháu. put down the, khan. helmsman, tãi-kong. tiller, tõa-gê. tiller-ropes, tõa-lêng.
+ * helmet, thâu-khue; thih-mâuⁿ.
+@@ -228,7 +228,7 @@
+ * hurt, sieⁿ; sieⁿ-hāi. are you hurt? õi-sieⁿ-tie̍h, mé? õi-pua̍h--tie̍h tî-kò, mé? one's feelings, sieⁿ-chhêng; sieⁿ-chhêng sit-ngĩ. hurtful, lĩ-hāi.
+ * husband, ang; jî-sài; jî-hu; hu-sài; hu-kun; chiãng-hu; tōa--nâng.
+ * husbandman, tsoh-tshân-nâng; tshân-hu; lông-hu; tsoh-tshân-ko. husbandry, lông-sṳ̄; tsoh-tshân; keⁿ-tsoh; chèng-tsoh.
+-* hush, up, sai-khia-hûa; sai-ẽ-hua; sai-hûa; hún-sek; chia-bûa; chia-iám; chia-sek.
++* hush, up, sai-khia-hûa; sai-ẽ-hûa; sai-hûa; hún-sek; chia-bûa; chia-iám; chia-sek.
+ * husk, khak; tshou-khng (chaff). to husk rice, oi-lâng; oi-chhek.
+ * hustle, sie-oi sie-léng; sie-chìⁿ sie-léng.
+ * hut, tsháu-liâu; suaⁿ-liâu.
+diff --color -Nur a/I.md b/I.md
+--- a/I.md	2022-08-30 02:08:05.395366900 +0800
++++ b/I.md	2022-08-31 02:17:24.719593600 +0800
+@@ -247,7 +247,7 @@
+ * inside, lãi; lãi-mīn; lãi-tói; tói; tói-pôiⁿ; tói-mīn.
+ * insidious, àm-hāi; àm-chìⁿ; kan-tsà.
+ * insincere, bô-si̍t-sim; bô-sêng-si̍t.
+-* insignificant, bô-siang-kan; bô-kài-tsài; bô-chhiet-iàu; kàu tî-kò-khṳ̀.
++* insignificant, bô-siang-kan; bô-kài-tsài; bô-chhiet-iàu; bô-kàu tî-kò-khṳ̀.
+ * insinuate, puaⁿ-so sĩ-hui; tshâm-húiⁿ.
+ * insipid, bô-bī; bô-bī bô-sòu; pe̍h-chiáⁿ; chiáⁿ; po̍h; tãⁿ.
+ * insist, upon, pit-àiⁿ; tiāⁿ-tie̍h-àiⁿ; ngẽ-hóuⁿ-àiⁿ.
+@@ -278,7 +278,7 @@
+ * intellect, sim-sîn; sim-khiàu; hũi-khiàu; tì-mông; tì-sek; sim-lêng.
+ * intelligence, news, sie-sit. to give, thuân-(or, pò-) sie-sit; pò-sìn.
+ * intelligent, lêng-ua̍h; lêng-thong; ũ-lêng-khiàu; lêng-lāi; mêng-pe̍h; lêng-khá; tshong-mêng; ũ-ki-tì; thong-thàu; thong-thiet; hó-sim-khiàu; ũ-kièn-sek.
+-* intelligible, koi-hiáu; hién-mêng koi-tsai; thiaⁿ pat-tò-khṳ̀; mêng-pe̍h.
++* intelligible, kōi-hiáu; hién-mêng kōi-tsai; thiaⁿ pat-tò-khṳ̀; mêng-pe̍h.
+ * intemperance, bô-liâm-tsat; bô-tsat-tōu; bô-hãn-chì; bô-tsat-chì; bô-kài-hãn; chhia-chhíⁿ.
+ * intend, siẽⁿ-àiⁿ; ũ-ì; pheⁿ-phah.
+ * intendant, of circuit, tãu-thâi.
+diff --color -Nur a/J.md b/J.md
+--- a/J.md	2022-07-11 00:44:46.610114800 +0800
++++ b/J.md	2022-08-31 02:18:22.561281300 +0800
+@@ -25,11 +25,11 @@
+ * job, khang-khùe. take on contract, mãuⁿ-kang.
+ * join, siang-ha̍h; tsò-pû; kap-bûa. joined in succession, chiap; sie-chiap; chiap-liên. siang-liên; sie-sùa; sie-thùa. accompany, tsò-pû-kiâⁿ. a partnership, tsò-húe-kì. an association, pài-hũe. hands, siang-khan-chhiú. battle, ha̍h-chièn.
+ * joiner, ba̍k-kang sai-pẽ.
+-* joint, chiap-hûn; chiap-tsūe. of finger, chek-tsat. of bone, ku̍t-ngám. out of, tshut-khũ. of bamboo, tek-tsat.
++* joint, chiap-hûn; chiap-tsūe. of finger, chek-tsat. of bone, kut-ngám. out of, tshut-khũ. of bamboo, tek-tsat.
+ * joist, lâu-lēng.
+ * joke, sie-sńg-ūe; tàⁿ-sńg; hì-sńg kâi-ūe; hì-ngân; tshù-bī-ūe; tàⁿ-khá-ūe.
+ * jolt, chhia tiē; tiē-thôu; iau-i̍t.
+-* jostle, iòng-chìⁿ; ói-ói léng-léng.
++* jostle, iòng-chìⁿ; oi-oi léng-léng.
+ * jot, tiám. one jot or tittle, che̍k-hâu che̍k-lî.
+ * journal, kì-sṳ̄-phõu. newspaper, sin-bûn-tsúa; ji̍t-pò.
+ * journey, lōu-thêng; lōu-thiâⁿ. long, hñg kâi-lōu-thiâⁿ; ién-thiâⁿ; tn̂g-thiâⁿ. begin, khí-thiâⁿ; khí-kiâⁿ; khí-sin. to journey, kiâⁿ-lōu.
+diff --color -Nur a/L.md b/L.md
+--- a/L.md	2022-08-29 10:32:33.837620000 +0800
++++ b/L.md	2022-08-31 02:18:58.523429900 +0800
+@@ -125,7 +125,7 @@
+ * lightning, tiẽn-húe; lûi-húe. it lightens, lûi-kong nihⁿ-ma̍k; tiẽn-húe ia̍p-ia̍p-sih.
+ * like, chhin-chhiẽⁿ; húang-sṳ̃; siang-sṳ̃; kṳ̃n-sṳ; siãu; tâng; tshah-chhi̍h chhin-chhiẽⁿ. it is like (simile), chhin-chhiẽⁿ; khó-pí; phì-zû; tǹg--kùe; hāi--kùe. do like him, o̍h i-kâi-iēⁿ; uàⁿ i-kâi-iēⁿ; hãu i-kâi-iēⁿ. make, it like this, chiè chí-kâi-iēⁿ tsò.
+ * like, to, hàuⁿ; ngũan; kam-ngũan; chhêng-ngũan; tèng-ì; ha̍h-ì; zûi-ì; sieh.
+-* likely, tōa-mīn-sĩ; tōa-pùaⁿ-sĩ; poih-káu-siaⁿ; tsōi-hun; iak-liãng; iak-bó-liãng; káⁿ-sĩ; gî-sĩ.
++* likely, tōa-mīn-sĩ; tōa-pùaⁿ-sĩ; poih-káu-siâⁿ; tsōi-hun; iak-liãng; iak-bó-liãng; káⁿ-sĩ; gî-sĩ.
+ * likeness, sièⁿ; hí-sîn; siáu-ngiá; mīn-mãuⁿ. there is a strong likeness, siãu-tsãi.
+ * likewise, iā; iā-sĩ; kiam-kũa; siãng-chhiáⁿ; iũ.
+ * lily, peh-ha̍h-hue. water-, nôiⁿ-hue.
+diff --color -Nur a/M.md b/M.md
+--- a/M.md	2022-08-31 01:59:42.803562500 +0800
++++ b/M.md	2022-08-31 02:20:05.737022100 +0800
+@@ -9,7 +9,7 @@
+ * maggot, thâng.
+ * magic, huap-su̍t; huap-la̍t; siâ-su̍t; bû-su̍t. magician, su̍t-sṳ̃; huap-sṳ̃.
+ * magistrate, kuaⁿ-hú. upright, liâm-kuaⁿ; chheng-kuaⁿ. corrupt, tham-kuaⁿ. office of, gê-mn̂g. hall where he sits, kong-tn̂g. district magistrate, kūiⁿ; kūiⁿ-tsú.
+-* magnanimous, ũ-tōu-liãng; kháng-khài; khuan-iông (long-suffering); sim-hêng khuan-khuah (or, khuah-tōa); hái-liãng; liãng-tōu khuan-khuah.
++* magnanimous, ũ-tōu-liãng; kháng-khài; khuan-iông (long-suffering); sim-heng khuan-khuah (or, khuah-tōa); hái-liãng; liãng-tōu khuan-khuah.
+ * magnet, hiap-chie̍h.
+ * magnificent, tsun-iông; tsun-tõng. scenery, khî-kéng.
+ * magnifying glass, hién-mûiⁿ-kiàⁿ.
+@@ -21,7 +21,7 @@
+ * maize, i-bí-jîn; iùⁿ-múiⁿ-jîn.
+ * majesty, his, uâng-siãng; hûang-siãng. your majesty, pĩ-ẽ. of appearance, ui-hong; ui-ngiâm; ui-hong lím-lím; ui-lêng hek-hek. put on majestic appearance, tsak-ui.
+ * majority, tōa-pùaⁿ; che̍k-tōa-ûe.
+-* make, tsò; tsak; tsãu; tsõ. one afraid, phièn-i-kiaⁿ; heh-i-kiaⁿ; hé-i-kiaⁿ. out a bill, khui-toaⁿ. of wood, tsang-tshâ tsò; ēng-tshâ tsò. a bed, siu-si̍p phou-kài; siu-si̍p mîn-tshn̂g. up a deficiency, póu-khueh. a loss, pûe. known, thong-tsai; pò-tsai. clothes, thīⁿ-saⁿ; tsò-saⁿ. up one's mind, li̍p-tsú-ì; li̍p-tiāⁿ tsú-ì. a bargain, kat-ieh; tiāⁿ-ieh. the mind easy, pàng-sim; uaⁿ-sim. verses, tsò-si. music, tsak-gau̍h. a row, kã-kã bó-jiáng; ki-kã-la-kiè. haste, méⁿ--chē.
++* make, tsò; tsak; tsãu; tsõ. one afraid, phièn-i-kiaⁿ; heh-i-kiaⁿ; hé-i-kiaⁿ. out a bill, khui-toaⁿ. of wood, tsang-tshâ tsò; ēng-tshâ tsò. a bed, siu-si̍p phou-kài; siu-si̍p mîn-tshn̂g. up a deficiency, póu-khueh. up a loss, pûe. known, thong-tsai; pò-tsai. clothes, thīⁿ-saⁿ; tsò-saⁿ. up one's mind, li̍p-tsú-ì; li̍p-tiāⁿ tsú-ì. a bargain, kat-ieh; tiāⁿ-ieh. the mind easy, pàng-sim; uaⁿ-sim. verses, tsò-si. music, tsak-gau̍h. a row, kã-kã bó-jiáng; ki-kã-la-kiè. haste, méⁿ--chē.
+ * Malacca, Mûaⁿ-la̍k-kah.
+ * malady, see DISEASE.
+ * malaria, suaⁿ-lâm chiàng-khì.
+diff --color -Nur a/N.md b/N.md
+--- a/N.md	2022-08-13 01:43:51.554495900 +0800
++++ b/N.md	2022-08-31 02:22:34.080243000 +0800
+@@ -1,6 +1,6 @@
+ * nail, teng, iron, thih-teng. to nail, tèng-teng. finger, chhiú-tsóiⁿ-kah; tsńg-kah. toe, kha-chí-kah.
+ * naked, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. strip, thǹg-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; tñg-tiâu se-sùaⁿ (without a thread of clothing); thong-sin bô-pùaⁿ-tiâu se-sùaⁿ.
+-* name, family, sèⁿ. own, miâⁿ; zú-miâⁿ; hãu; tso̍k-hãu; tsṳ-miâⁿ; pie̍t-hãu. what is your name? kùi-sèⁿ? tōa-miâⁿ? my, pĩⁿ-sèⁿ; sié-miâⁿ. a good, hó-miâⁿ-sek; hó-miâⁿ-siaⁿ. namely, chiũ-sĩ; chiet-sĩ; tsu-zû.
++* name, family, sèⁿ. own, miâⁿ; zú-miâⁿ; hãu; tso̍k-hãu; tsṳ-miâⁿ; pie̍t-hãu. what is your name? kùi-sèⁿ? tōa-miâⁿ? my, pĩ-sèⁿ; sié-miâⁿ. a good, hó-miâⁿ-sek; hó-miâⁿ-siaⁿ. namely, chiũ-sĩ; chiet-sĩ; tsu-zû.
+ * Namoa, Lâm-ò.
+ * nankeen, chhiah-pòu.
+ * napkin, chhiú-pòu; chhiú-kṳn; kūaⁿ-kṳn.
+@@ -35,7 +35,7 @@
+ * nest, tshâu; tàu; siū (with young birds). make a, tsoh-siū. of thieves, tsha̍t-tàu; tsha̍t-hua̍t; tsha̍t-tshâu; tsha̍t-o. of articles of larger and smaller size, with smaller lying inside larger, chek-thun.
+ * net, mãng; tsan; nôiⁿ. weave, kit-mãng; phah-mãng. cast, pha-mãng. set, hẽ-mãng; lo̍h-mãng. catch fish in, mãng-hṳ̂.
+ * never, tsóng-bô; būan-bô. yet, tshông-tsôiⁿ būe-ũ; tsṳ̃-liáu m̄-pat. mind, bô-siang-kan; chhìn-tshái; m̄-kàu tî-kò-khṳ̀; bô-tì-chhiet; bò-chhiet-iàu; bô-kai-tsài. he will never come, ióng-kú bô-lâi. this will never do, chièⁿ-seⁿ m̄-tsò-tit. nevertheless, hûan-liáu.
+-* new, sin. style, sin-khúan; sin-siãng. your, sin-nîⁿ. new year's eve, kùe-nîⁿ; ji̍h-káu saⁿ-tsa̍p mêⁿ. new year's day, chiaⁿ--gue̍h chhiu-it. newly made, sin-tsò. news, sin-bũn; sie-sit. newspaper, sin-bũn-tsúa.
++* new, sin. style, sin-khúan; sin-siãng. year, sin-nîⁿ. new year's eve, kùe-nîⁿ; ji̍h-káu saⁿ-tsa̍p mêⁿ. new year's day, chiaⁿ--gue̍h chhiu-it. newly made, sin-tsò. news, sin-bũn; sie-sit. newspaper, sin-bũn-tsúa.
+ * next, after another, sie-sùa; tõiⁿ-jī. month, ẽ-kâi-gue̍h; ãu-kâi-gue̍h. day, mêng-ji̍t; mùaⁿ-khí; mùaⁿ-tsá. year, mêⁿ-nîⁿ; mêng-nîⁿ. time, ẽ-hûe; ãu-pái.
+ * nice, hó; ngiá; tshù-bī; chhèng-ì; ha̍h-ì; zû-ì.
+ * niche, chhiêⁿ-kham; piah-kham; chhiêⁿ-khang; chhiêⁿ-keh; chhiêⁿ-tû.
+@@ -46,7 +46,7 @@
+ * nimble, kha khin-khiáu; kha khin, chhiú khùe.
+ * nine, káu; khùai. nineteen, tsa̍p-káu.
+ * nip, nihⁿ; liàm (more severely). with nippers, khîⁿ; koih. nippers, thih-khîⁿ; thih-kîⁿ; niap-kiáⁿ; nihⁿ-kiáⁿ; kia̍p-kiáⁿ; koih-kiáⁿ.
+-* nipples, nîⁿ-thâu.
++* nipples, niⁿ-thâu.
+ * nitre, siau.
+ * no, m̄-sĩ; bô; màiⁿ. matter, bô-lũn; bô-chhiet-iàu; bô-huâng. help for it, bô-nãiⁿ-hô; bô-pōu. nobody, bô-nâng. nothing to eat, bô-thang-chia̍h.
+ * noble, tsun; kùi; tsun-kùi. family, tōa-ke. -man, ũ-chiak-ūi; tãi-láu. minded, kháng-khài.
+diff --color -Nur a/P.md b/P.md
+--- a/P.md	2022-08-31 02:33:09.005389400 +0800
++++ b/P.md	2022-08-31 02:34:03.516723700 +0800
+@@ -425,7 +425,7 @@
+ * promise, èng-hṳ́; ìn-sêng; ìn-na̍p; ieh-tiāⁿ; hṳ́; soiⁿ-hṳ́. to fulfil, chién-ieh; zû-ieh; chién-ngân. break, chia̍h-ngân; sit-ieh; súang-ieh.
+ * promotion, seng-kuaⁿ; kau-seng; kia-hong; kia-khip; seng-khip; kia-kuaⁿ chìn-lo̍k.
+ * prompt, mé; khùe; thi-thuat; ióng-kuat; chiap-kuat. to, thî-chhéⁿ; kek-chiàng; kà-so (to a quarrel).
+-* pronounce, tàⁿ. badly, jī-ngán hâm-hû; tàⁿ-ūe kâm-kôu; tàⁿ-ūe m̄-chiàⁿ. well, táⁿ-ūe pe̍h; jī-jī hun-mêng; jī-jī hīn. difficult to, oh-áu; á-m̄-tńg. sentence, tiāⁿ-tsũe; ngí-tsũe; tùan-tiāⁿ sĩ-mih-tsũe.
++* pronounce, tàⁿ. badly, jī-ngán hâm-hû; tàⁿ-ūe kâm-kôu; tàⁿ-ūe m̄-chiàⁿ. well, tàⁿ-ūe pe̍h; jī-jī hun-mêng; jī-jī hīn. difficult to, oh-áu; á-m̄-tńg. sentence, tiāⁿ-tsũe; ngí-tsũe; tùan-tiāⁿ sĩ-mih-tsũe.
+ * proof, pêng-kṳ̃; phêng-kṳ̃. printer's, kó.
+ * prop, tú. a wall, tú-chhiêⁿ. up, thèⁿ-kûiⁿ.
+ * proper, ha̍h-ngî; ha̍h-sek; eng-kai; pńg-téng; tie̍h; chiàⁿ; tùi.
+diff --color -Nur a/R.md b/R.md
+--- a/R.md	2022-08-13 03:05:51.180040600 +0800
++++ b/R.md	2022-08-31 02:38:47.879458900 +0800
+@@ -346,7 +346,7 @@
+ * rush, against, tshong-tsũang; tshuang-tsũang. an enemy, tshong-tīn. of water, tsúi lâu kā-kā-kiè; tsúi kip.
+ * rushes, kiâm-tsháu; teng-sim-tsháu.
+ * Russia, Ngô-lô-sṳ kok.
+-* rust, san. rusty, seⁿ-san. worn away with, kuah-tiāu.
++* rust, san. rusty, seⁿ-san. worn away with, kauh-tiāu.
+ * rustic, hieⁿ-ẽ-nâng; hieⁿ-ngô.
+ * rustling, of wind, huang sā-sā-kiè.
+ * rut, of wheel, chhia-lûn-lōu; chhia-lûn-kau.
+diff --color -Nur a/S.md b/S.md
+--- a/S.md	2022-08-29 02:44:38.665619600 +0800
++++ b/S.md	2022-08-31 02:40:49.018522100 +0800
+@@ -130,7 +130,7 @@
+ * seat, ūi; tsõ-ūi. my, uá kâi ūi-tshṳ̀. the chief, tōa-ūi. please take a, chhiáⁿ-tsõ.
+ * secluded, mi̍t-chiah; ṳ́n-kṳ; tiàm-miⁿ.
+ * second, jī; tõiⁿ-jī. quality, tõiⁿ-jī-hō; tshṳ̀-téng; tong-téng. crop, mńg-kùe; mńg-tang.
+-* secret, pì; pì-ba̍t; ṳ́n-pì; ṳ́n-ba̍t; pì-mi̍t; pì-tshâng; ṳ́n-tshâng; ki-mi̍t. let out a, phùa-tiãⁿ. as of trade, pì-kuat; pì-huap. prescription, pì-hng. handed down from ancestors, pì-thûan; pì-siũ. chamber, ba̍t-pâng. secretly, àm-chẽⁿ; sai-ẽ; sia-khia-ẽ; thau. run away secretly, thau-tsáu.
++* secret, pì; pì-ba̍t; ṳ́n-pì; ṳ́n-ba̍t; pì-mi̍t; pì-tshâng; ṳ́n-tshâng; ki-mi̍t. let out a, phùa-tiãⁿ. as of trade, pì-kuat; pì-huap. prescription, pì-hng. handed down from ancestors, pì-thûan; pì-siũ. chamber, ba̍t-pâng. secretly, àm-chẽⁿ; sai-ẽ; sai-khia-ẽ; thau. run away secretly, thau-tsáu.
+ * secretary, in yamen, sṳ-iâ.
+ * secrete, ṳ́n-tshâng; ṳ́n-ba̍t; ṳ́n-ne̍k; khǹg-bûa; tshâng-ne̍k; tshâng-khǹg.
+ * secretion, from eyes, ma̍k-sái. from nose, phīⁿ-sái.
+@@ -166,7 +166,7 @@
+ * sepulchre, phûn; phûn-mõⁿ. imperial, uâng-lêng.
+ * seraglio, lãi-keng. the inmates of, keng-ngô múiⁿ-nńg.
+ * serene, uaⁿ-chẽⁿ. sky, thiⁿ chêⁿ.
+-* series, tshṳ̀-sũ; tshṳ̀-tõiⁿ; téng-lie̍t; téng-khip; pín-lie̍t pín-tõiⁿ. of years, le̍h-nîⁿ.
++* series, tshṳ̀-sũ; tshṳ̀-tõiⁿ; téng-lie̍t; téng-khip; pín-lie̍t; pín-tõiⁿ. of years, le̍h-nîⁿ.
+ * serious, tãng; tōa. matter, tōa-sṳ̄. disease, pēⁿ tãng. in manner, ngiâm-chiàⁿ; kṳ́n-ngiâm.
+ * serpent, tsûa. one, che̍k-tiâu-tsûa. to creep as a, so; kuãn.
+ * serrate, seⁿ-kṳ̀-khí.
+diff --color -Nur a/T.md b/T.md
+--- a/T.md	2022-08-19 13:14:34.856008100 +0800
++++ b/T.md	2022-08-31 02:58:04.160822100 +0800
+@@ -3,13 +3,13 @@
+ * table, or index, ma̍k-lo̍k.
+ * tablet, ancestral, sîn-tsú-pâi; ke-sîn; ba̍k-tsú; sîn-tsú. setting forth any one's merit, pín-hia̍h; pâi-pín.
+ * tack, a, kia̍h-teng. to tack (sew), thīⁿ-tùe.
+-* tack, to, as a ship, khau-huang; hùe-phâng.
++* tack, to, as a ship, khau-huang; kùe-phâng.
+ * tactics, piaⁿ-huap; chièn-huap.
+ * tadpole, kap-kiú-kuai.
+ * tael, one, of silver, che̍k-niéⁿ-ngṳ̂n.
+ * tail, búe. peacock's tail feather, khóng-chhieh-lêng. the peacock spreads its tail, khóng-chhieh khui-phîn. to wear a peacock's tail feather, tài (or, tì) khóng-chhieh-lêng. see QUEUE.
+ * tailor, tshâi-hông; thīⁿ-saⁿ sai-pẽ.
+-* taint, tiam-u; jiám; jiám-u; ma̍k--tie̍h. tainted, as fish, ien; sie̍h-bī.
++* taint, tiam-u; jiám; jiám-u; mak--tie̍h. tainted, as fish, ien; sie̍h-bī.
+ * take, khie̍h; tshú; niⁿ; lah; put; tsang. your book, khie̍h lṳ́-pńg-chheh. a fort, phah-phùa phàu-thâi. a standard, chhiéⁿ-kî; to̍h-kî. away, khie̍h-khṳ̀; siu-khí; to̍h-tiāu. along with tea, &c, phùe-tê; phùe-tê-chia̍h. with one, thùa-khie̍h. the air, lā-liâng. an inventory, tiám-hùe-mue̍h; kiám-tiám. by lot, khiah-khau. care, tsṳ́-sòi; kṳ́n-sín; sié-sim; kṳ́n-sim; sòi-jī. care of, thóiⁿ-siú; chiàu-kù; liāu-lí. care of oneself, tsṳ̃-kí pó-tõng. down, khie̍h--lo̍h-lâi; pak--lo̍h-lâi. exercise, khṳ̀-thit-thô; kiâⁿ-thit-thô; kiâⁿ-siau-iâu; ôiⁿ-pōu; kîn-kiâⁿ; kiâⁿ-lâi kiâⁿ-khṳ̀. one by the hand, khan-chhiú. leave of, kàu-sî; sî-pie̍t; siang-pie̍t; chiãm-pie̍t; kàu-pie̍t. one in (cheat), tshuah; phièn; kuang-phièn. medicine, chia̍h-ie̍h. out of the water, liâu--tie̍h. off, shoes or clothes, thǹg-tiāu. off, a hat, pak-tiāu; hien-tiāu. one's hat to any one, hien-khí-bō tsò-lói-siàu. off a cover, iãuⁿ-khòiⁿ; iãuⁿ-khàm; iãuⁿ-khui. out a splinter, thie-tshuaⁿ; kiah-chhì. snuff, thie-phīⁿ-hun (out of bottle); chia̍h-phīⁿ-hun; hngh-phīⁿ-hun. up, with chopsticks, koih. with two fingers, nuehⁿ; niⁿ. under the arm, ko̍ih tõ koh-ẽ. the right hand path, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀. a disease, tie̍h-pēⁿ; ùe-tie̍h-pēⁿ; jiám-tie̍h-pēⁿ; thûan-jiám. upon oneself, ka-kī tam-sêng; taⁿ-tng; tsṳ̃-tsuan (without authority). fire, to̍h-húe. a wife, tshūa-chhin; tshūa-bóu; tì-ke. hold of, chhiú lia̍h; khie̍h-kín; khîⁿ; khîⁿ-kín; mán-kín; khan-kín. hold of one's queue, khím-piⁿ; tsáng-piⁿ; mán-piⁿ.
+ * tale, a, che̍k-tn̄g-kóu; kóu-chheh. to tell tales, o̍h-kóu. -bearer, puaⁿ-sĩ-hui; puaⁿ-pái; puaⁿ-so; kòiⁿ-so.
+ * talent, tshâi-chhêng; tshâi-lêng; pún-sṳ̄; pún-niáⁿ. a talented person, tshâi-tsṳ́; ũ-tshâi-chhêng.
+@@ -101,7 +101,7 @@
+ * they, i; in; hṳ́-chiàⁿ kâi-nâng.
+ * thick, kãu; ba̍t; kṳ̍t (consistency).
+ * thicket, chhì-phè; chhì-nâⁿ-phè; chhiū-nâⁿ.
+-* thief, tsha̍t; tsha̍t-bé. thievish, tshṳ́-tsha̍t; tsa̍t-kiáⁿ. see THEFT.
++* thief, tsha̍t; tsha̍t-bé. thievish, tshṳ́-tsha̍t; tsha̍t-kiáⁿ. see THEFT.
+ * thigh, tōa-thúi; thúi-thâu. bone, thúi-thâu-kut.
+ * thimble, pòu-tsóiⁿ; phûe-tsóiⁿ; tâng-tsóiⁿ.
+ * thin, po̍h; so; so-po̍h; chhieh; kà; hi; lang; sán. congee, chhieh-mûeⁿ; kà-mûeⁿ.
