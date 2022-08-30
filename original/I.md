@@ -208,7 +208,7 @@
 * inflict, punishment, kiâⁿ-hêng-hua̍t.
 * influence, khuân; khì-la̍t; khuân-kì; sì; sì-thâu; sì-mīn; khuân-sì; khuân-kùi. trust in others' influence, chiã-sì; chiã-sì-la̍t; sái-pa̍t-nâng kâi-sin-sì. to influence people, kám-tõng; kám-kek; kám-hùe.
 * inform, thong-tsai; pò-tsai; thuân-tsai; pín; tàⁿ; tàⁿ-tsai; kàu-tsai; hiáu-zũ. informer, sùaⁿ-soh.
-* infrequent, chié-ū; chié-tit; chié-só-ũ; hán--tit.
+* infrequent, chié-ũ; chié-tit; chié-só-ũ; hán--tit.
 * infringe, laws, huãm-huap.
 * infuse, tea, tshong-tê. of good tea several infusions can be made, hó-tê-bí nãiⁿ-tshong.
 * ingenious, khá; khi-kká; ki-khá; sin-khá; khá-ĩ; kuai-khá; kuai-khiáu.
@@ -301,7 +301,7 @@
 * intermit, kòiⁿ-tñg; kòiⁿ-keh. intermittent fever, see FEVER.
 * interpret, hûe-ūe; thûan-ūe; huan-e̍k. explain, kói-mêng. interpreter, thong-sṳ; thûan-keng (in court). dreams, piẽn-māng; kói-māng.
 * interrogate, mn̄g; phûan-mn̄g; kiù-mn̄g; poh-mn̄g.
-* interrupt, tam-koh; kòiⁿ-tñg; tsó. harmony, sieⁿ-hûa-khì. rube interruption, tsa̍h-nâng-ūe.
+* interrupt, tam-koh; kòiⁿ-tñg; tsó. harmony, sieⁿ-hûa-khì. rude interruption, tsa̍h-nâng-ūe.
 * interval, after the interval of a month, keh-kâi-gue̍h.
 * interview, hũe-mīn; kìⁿ-mīn; sie-kìⁿ. royal, chhiâu-kìⁿ.
 * intestines, tn̂g; tóu-tn̂g. great, tōa-tn̂g; tãi-chhiâng. small, siáu-chhiâng.
@@ -345,7 +345,7 @@
 * irrelevant, u-khuah; khuah-lok thâu-kṳn; huàm.
 * irresistible, tsó-m̄-tit; tí-tng m̄-tsũ.
 * irreverence, put-kèng; khin-bũan; siet-to̍k.
-* irresolute, thiû-thû; thiû-siẽⁿ; tsú-ì m̄-tiāⁿ; būe-ũ kuatⁿì; thiû-thû put-lêng che̍k-kuat; chìn-chìn thò-thò.
+* irresolute, thiû-thû; thiû-siẽⁿ; tsú-ì m̄-tiāⁿ; būe-ũ kuat-ì; thiû-thû put-lêng che̍k-kuat; chìn-chìn thò-thò.
 * irrevocable, tui-m̄-tńg; che̍k-ngân kì-tshut sì-bé lân-tui.
 * irrigate, pàng-tsúi lo̍h-tshân; hòu-tsúi; ak-tsúi.
 * is, sĩ. is it so? sĩ a-m̄-sĩ? is he come? i ũ-lâi a-būe? is the water deep? tsúi õi-chhim, mé?

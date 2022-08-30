@@ -117,7 +117,7 @@
 * pendant, sûi-lo̍h; sûi-hiã.
 * pendulum, sî-cheng-thūi; sî-cheng-teh.
 * penetrate, ji̍p; tshǹg-ji̍p; thàu-ji̍p; thàng; thàng--kùe.
-* penitent, tsai-tsũe; tsai-tshò; siẽⁿ-hùe; siẽⁿ-siú-hùe; siẽⁿ-àiⁿ hùe-kói; hûe-thâu; tsṳ̃-uàn; thiàⁿ-kói tsôiⁿ-hiu.
+* penitent, tsai-tsũe; tsai-tshò; siẽⁿ-hùe; siẽⁿ-siú-hùe; siẽⁿ-àiⁿ hùe-kói; hûe-thâu; tsṳ̃-uàn; thiàⁿ-kói tsôiⁿ-hui.
 * penurious, tham-liẽn; kien-liẽn; liẽn-siap; kien-siap; kùe-khiãm.
 * people, mîn; sù-mîn; peh-sèⁿ. people say, chèng-nâng-tàⁿ.
 * pepper, hôu-chie. box, hôu-chie-kóng.
@@ -156,7 +156,7 @@
 * pertain, to, so̍k; ũ-kan-sia̍p.
 * pertinacious, kù-chip; chip-ngẽ; chip-ì; kau-tîⁿ.
 * pervade, chiu-liû; pìn-kiâⁿ; thàu--tshut; thàu-thiet; sì-tshù-kàu; thong.
-* perverse, kuai-phiah; ke̍h-phi̍ah; hûaⁿ-nge̍k; ngóu-nge̍k.
+* perverse, kuai-phiah; ke̍h-phiah; hûeⁿ-nge̍k; ngóu-nge̍k.
 * pestilence, un-mu̍t.
 * pestle, tùi.
 * petal, hue-hah; hue-phièn.
