@@ -1,0 +1,24 @@
+diff --color -Nur a/I.md b/I.md
+--- a/I.md	2022-08-30 02:08:05.395366900 +0800
++++ b/I.md	2022-08-30 00:40:00.910191600 +0800
+@@ -211,7 +211,7 @@
+ * infrequent, chié-ũ; chié-tit; chié-só-ũ; hán--tit.
+ * infringe, laws, huãm-huap.
+ * infuse, tea, tshong-tê. of good tea several infusions can be made, hó-tê-bí nãiⁿ-tshong.
+-* ingenious, khá; khi-kká; ki-khá; sin-khá; khá-ĩ; kuai-khá; kuai-khiáu.
++* ingenious, khá; khi-khá; ki-khá; sin-khá; khá-ĩ; kuai-khá; kuai-khiáu.
+ * ingot, of sycee, nguân-pó; uâng-pó; ngṳ̂n-tiãⁿ (chiefly of paper imitations).
+ * ingratitude, buâng-ṳn hũ-ngĩ; siũ-ṳn put-pò; hiau-chhêng tso̍h-ngĩ; bô-jîn-ngĩ; put-jîn put-ngĩ; chiang-ṳn chhiû-pò. beastly, tṳ-káu buâng-chhêng.
+ * inhabit, kṳ-tsũ; khiã-khí. inhabitants, kṳ-mîn; pńg-tī-nâng.
+diff --color -Nur a/W.md b/W.md
+--- a/W.md	2022-08-29 03:07:31.356703200 +0800
++++ b/W.md	2022-08-30 00:41:02.425887200 +0800
+@@ -46,7 +46,7 @@
+ * weapon, piaⁿ-khì; ke-húe; kan-kho; pâi-chhieⁿ.
+ * wear, to, clothes, chhēng-saⁿ. a hat, tì-bō. a ring, kùa-chhiú-hûan (armlet); kùa-chhiú-tsat (finger-ring). wear holes in one's clothes, chhēng-phùa saⁿ-khòu. as (e.g.) grind-stone, siám-si̍h; siau-si̍h. worn out, chhēng-kàu-phùa; lau-se; thiau-se; phùa-mo̍hⁿ.
+ * weary, khùn; kha sng; kha sng, chhiú nńg.
+-* weather, thîⁿ-sî; thiⁿ; thiⁿ-khì. mild, thiⁿ-sî un-hûa; thiⁿ-sî thiâu-hûa. hot, thiⁿ-sî zua̍h. fair, thiⁿ-sî chêⁿ. -beaten, mīn pha̍k-ou; huang khau-ou. -cock, sũn-huang-kî; tiāⁿ-huang-tsam; huang-sìn-kî.
++* weather, thiⁿ-sî; thiⁿ; thiⁿ-khì. mild, thiⁿ-sî un-hûa; thiⁿ-sî thiâu-hûa. hot, thiⁿ-sî zua̍h. fair, thiⁿ-sî chêⁿ. -beaten, mīn pha̍k-ou; huang khau-ou. -cock, sũn-huang-kî; tiāⁿ-huang-tsam; huang-sìn-kî.
+ * weave, keⁿ-pòu; chit-pòu. weaver's beam, te̍k-sim.
+ * web, of cloth, che̍k-phit-pòu; che̍k-kui-pòu. spider's, ti-tu-si. the spider makes his web, ti-tu keⁿ-si; ti-tu kit-mãng; ti-tu thòu-si. web-footed, ũ-ah-tôi.
+ * wedding, a, hun-in. -chair, sin-niêⁿ-kiē; hue-kiē. see MARRY.
