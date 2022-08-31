@@ -132,7 +132,7 @@
 * upstairs, lâu-téng. to go, chiẽⁿ-lâu; teng-lâu; peh-chiẽⁿ lâu-téng; seng-chiẽⁿ lâu-téng; chiẽⁿ-lâu-téng; khí--khṳ̀ lâu-téng.
 * upwards, niàⁿ-khí; mōⁿ-chiẽⁿ. upwards of a hundred, peh-gūa; peh-ũ-tshut; peh-lân; che̍k-peh ũ-lân.
 * urbanity, lói-mãuⁿ; ũ-lói-siàu; hiáu--tit lói-ngî.
-* urethra, jiẽ-kńg. stricture of, jiē-kńg sat.
+* urethra, jiē-kńg. stricture of, jiē-kńg sat.
 * urge, to, tshui; tshui-pek; kek; piàⁿ-kín; tshui-piàⁿ; tshui-kín. urgent, kín; kín-iàu; iàu-kín; pek-chhiet.
 * urine, jiē. to pass, pàng-jiē; sié-kói; sié-piẽn; siáu-piẽn. retention of, sié-piẽn bõi-kiâⁿ; sié-piẽn m̄-thong (or, m̄-lĩ). incontinence of, siàm-jiē. pass involuntarily, as child, tshūa-jiē. urinal, jiē-hû; mêⁿ-hû; piẽn-hû.
 * urn, mortuary, kim-sieⁿ; kim-pãu; húe-kim-pãu.

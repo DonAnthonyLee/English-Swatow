@@ -430,12 +430,12 @@
 * prop, tú. a wall, tú-chhiêⁿ. up, thèⁿ-kûiⁿ.
 * proper, ha̍h-ngî; ha̍h-sek; eng-kai; pńg-téng; tie̍h; chiàⁿ; tùi.
 * property, ngia̍p; mue̍h-ngia̍p; ke-tsṳ; ke-sṳ̄; ke-tshâi; ke-ngia̍p; ke-súaⁿ; súaⁿ-ngia̍p. of a thing, sèⁿ.
-* prophet, soiⁿ-tsai-nâng. to prophesy (predict), ṳ̃-ngân; soiⁿ-tàⁿ tõ-tsôiⁿ; soiⁿ-tà būe-lâi kâi-sṳ̄.
+* prophet, soiⁿ-tsai-nâng. to prophesy (predict), ṳ̃-ngân; soiⁿ-tàⁿ tõ-tsôiⁿ; soiⁿ-tàⁿ būe-lâi kâi-sṳ̄.
 * propitiate, sek-náu; chí-náu; so̍k-tsũe; khiû-sià.
 * propitious, sũn; kit. omen, kit-tiãu.
 * proportion (in arithmetic), pí-lí. in proportion to their number, chiè i kâi nâng-siàu lâi-thuaⁿ. proportionally, chiè-thuaⁿ; kong-thuaⁿ; chiè-ûn; chiè-tōu.
 * propose, thîn-ngân; thîn-sueh; hièn-kòi; hièn-chheh. for consideration, kṳ́-ngí; kṳ́-khí; thî-khí.
-* propriety, lí-ngî; lói-ngî; lói-siàu. contraty to, m̄-ha̍h lí-ngî; m̄-ha̍h-sek.
+* propriety, lí-ngî; lói-ngî; lói-siàu. contrary to, m̄-ha̍h lí-ngî; m̄-ha̍h-sek.
 * prosecute, kò; kò-sõng; kò-tsn̄g. prosecutor, ngûan-kò; ngûan-tiâⁿ. as representing another, phõ-kò.
 * prospect, kuang-kéng; kéng-tì.
 * prosper, heng-uãng; heng-sẽng; uãng-siàng. prosperity, būan-sṳ̄ lĩ-ta̍t; kak-sṳ̄ zû-ì; ha̍h-siẽⁿ; sûi-ì; zû-ngũan.

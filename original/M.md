@@ -203,7 +203,7 @@
 * misinterpret, e̍k-tshò; e̍k-tāⁿ; kói-tāⁿ.
 * mislay, pàng m̄-kui-ūi. mislaid, buâng-kìⁿ; tshūe-m̄-kìⁿ.
 * mislead, tshūa-tāⁿ-lōu; iú-ho̍k; ín-iú.
-* mismanage, phōiⁿ-sṳ̄ m̄-hó; lí-sṳ̄ m̄-chheng-tshó; sṳ̄-lí m̄-pat-tò-khṳ̀.
+* mismanage, phōiⁿ-sṳ̄ m̄-hó; lí-sṳ̄ m̄-chheng-tshó; sṳ̄ lí m̄-pat-tò-khṳ̀.
 * misrepresent, íⁿ-sĩ ûi-hui; íⁿ-ti̍t ûi-khiok; piẽn-luãn sĩ-hui; bû-kò; bû-lūa; pù-lũ; iâu-pãng.
 * misrule, sit-chèng; bô-tãu.
 * miss, m̄-tie̍h; m̄-tòng; sit-chìⁿ; sit-gōu. opportunity, sit-ki. way, sit-lōu. lose, m̄-kìⁿ.
@@ -264,7 +264,7 @@
 * mortise, sún-khang; sún-ngám. to fit tenon snd mortice, chiap-sún.
 * mosquito, máng. numerous, máng kãu. bite, máng kã. swelling from bite, lâu. net or curtain, máng-tièⁿ; máng-tà.
 * moss, thî; chheⁿ-thî. to grow, seⁿ-thî; chhiẽⁿ-chheⁿ-thî.
-* most, chì; tsãi; tsùe; sĩm; tsa̍p-hun; chì (all signs of superlative degree). mostly, tãi-sì; tãi-khài; tsōi-siâⁿ; tōa-mĩn; tōa-pùaⁿ.
+* most, chì; tsãi; tsùe; sĩm; tsa̍p-hun; chì (all signs of superlative degree). mostly, tãi-sì; tãi-khài; tsōi-siâⁿ; tōa-mīn; tōa-pùaⁿ.
 * moth, tsù; tsù-thâng; teng-ngô; tsam-teng-ia̍h.
 * mother, a-bó; bó-chhin; lãu-bó; a-âi; a-neⁿ; a-niⁿ; a-niêⁿ. your, lẽng-thâng. your late mother, lẽng-soiⁿ-thâng; lẽng-soiⁿ-tshṳ̂. my, ke-bó; ke-tshṳ̂. my late mother, ke-soiⁿ-tshṳ̂; ke-soiⁿ-bó. sister of one's, bó-î. brother of, bó-kũ. wife's mother, tiẽⁿ-m-phûa; nga̍k-bó. husband's mother, ta-ke. step-mother, kì-bó; ãu-bó. real mother, seⁿ-bó; chhin-bó. adoptive, iáng-bó. motherless child, bô-âi-kiáⁿ. mother-of-pearl, ô-kiàⁿ-khak.
 * motion, see MOVE.
@@ -277,7 +277,7 @@
 * moult, thǹg-môⁿ; phah-thǹg; ūaⁿ-môⁿ.
 * mound, suaⁿ; suaⁿ-kiáⁿ; che̍k-tun; che̍k-tu-long; hūaⁿ.
 * mount, seng; seng-chiẽⁿ; chiẽⁿ; seng-kûiⁿ. a horse, chiẽⁿ-bé; peh-chiẽⁿ-bé; pe̍h-chiẽⁿ bé-sin. mounted on a horse, khiâ-bé. as pictures, piè-jī-ūe.
-* mountain, suaⁿ; kûiⁿ-suaⁿ; kau-suaⁿ; suaⁿ-nga̍k. top of, suaⁿ-niáⁿ; suaⁿ-téng. chain of, suaⁿ-lêng. mountainous, kan chẽng sĩ-suaⁿ.
+* mountain, suaⁿ; kûiⁿ-suaⁿ; kau-suaⁿ; suaⁿ-nga̍k. top of, suaⁿ-niáⁿ; suaⁿ-téng. chain of, suaⁿ-lêng. mountainous, kan-chẽng sĩ-suaⁿ.
 * mourn, khàu; ai-chhek; ai-khàu; khàu-tshoih. mournful, iu-tshôu; iu-būn; pui-ai.
 * mourning, apparel, hà-saⁿ; hà-ho̍k; sng-ho̍k; sng-hà. to wear, tòa-hà. put off, thut-hà; thut-ho̍k; tṳ̂-mûaⁿ. in, kṳ-sng; ũ-pe̍h-sṳ̄. perform the ceremony of weeping, lêng-tsôiⁿ khàu; tsò-hà; teng-iu.
 * mouse, niáuⁿ-tshṳ́; chip-tshṳ́. trap, niáuⁿ-tshṳ́-keng; niáuⁿ-tshṳ́-tak. white, pe̍h-niáuⁿ-tshṳ́; ngṳ̂n-tshṳ́.
@@ -286,10 +286,10 @@
 * move, tõng; tín-tãng; iê-tõng; iâu-tõng; iê-tãng; pù-pái. things, puaⁿ-mu̍eh. as chair or table, backwards or forwards, tshâu. lodging, puaⁿ-tshù; súa-the̍h; î-kṳ; chhien-kṳ; chhien-súa; puaⁿ-súa. a grave, chhien-suaⁿ; khí-tsàng. the heart, kám-tõng. movable, õi-tín-tãng; ua̍h. movables, ke-húe; ke-si mu̍eh-kiãⁿ.
 * much, ke; to, tsōi. not, ũ-hãn; bô-hièⁿ-tsōi; bô-mih-tsōi. very much, tōa-bó-mu̍eh; tsōi-tsãi. as much again, ke-che̍k-pũe; ke-che̍k-ûe.
 * mud, nîⁿ; nîⁿ-thôu; làm-thôu; nap-thôu; thôu-ko. muddy water, lô-tsúi.
-* mulberry, tree, sng-sûi-chhiu.
+* mulberry, tree, sng-sûi-chhiū.
 * mule, lô-bé.
 * muller, lûi-au; lûi-sek-īⁿ.
-* multiplication, sêng-siàu; sêng-huap. table, sêng-toaⁿ. multiply by ̀, ēng-̀ lâi-sêng.
+* multiplication, sêng-siàu; sêng-huap. table, sêng-toaⁿ. multiply by 4, ēng-4 lâi-sêng.
 * multitude, khûn-chèng; chiâⁿ-khûn; sêng-khûn. the, chèng-nâng; sù-mîn.
 * mumble, tàⁿ-ūe kâm-kôu.
 * munch, chia̍h tōa-tshùi tōa-au̍hⁿ; pōu.

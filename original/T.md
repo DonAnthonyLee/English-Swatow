@@ -323,7 +323,7 @@
 * tweak, liàm. one's nose, liàm-phīⁿ-thâu; tsũn-phīⁿ-thâu.
 * tweezers, nihⁿ-kiáⁿ; niap-kiáⁿ.
 * twelve, tsa̍p-jī. twelve thousand, buān-jī.
-* twenty, jī-tsa̍p. ̂0,000, nõⁿ-buān.
+* twenty, jī-tsa̍p. 20,000, nõⁿ-buān.
 * twice, nõⁿ-ē; nõⁿ-hûe; nõⁿ-tshṳ̀; nõⁿ-hãng; nõⁿ-pái; nõⁿ-tńg.
 * twig, chhiū-ki (larger); chhiū-iẽⁿ (smaller); chhiū-búe.
 * twilight, háⁿ-hun; mêⁿ-àm-kiáⁿ; háⁿ-àm.
