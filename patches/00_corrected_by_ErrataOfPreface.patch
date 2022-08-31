@@ -1,6 +1,6 @@
-diff --color -Nur a/A.md b/A.md
+diff -Nur a/A.md b/A.md
 --- a/A.md	2022-08-11 00:41:59.568418400 +0800
-+++ b/A.md	2022-08-31 02:01:25.721448000 +0800
++++ b/A.md	2022-08-31 17:37:50.094798200 +0800
 @@ -117,7 +117,7 @@
  * adulterer, kan-hu; lãu-iẽn; ji̍p-nâng-lãi.
  * adulteress, kan-hũ; îm-hũ; tsṳ-niêⁿ tshap--tie̍h-nâng.
@@ -10,9 +10,9 @@ diff --color -Nur a/A.md b/A.md
  * advantage, iah; lĩ-iah. to seek, thû-lĩ. of no advantage, bô-iah. advantageous, ũ-iah; hó-tit-lĩ; hó-thàn-chîⁿ.
  * adventure, thèng-tsãu-hùe. adventurous, káⁿ-tsò; káⁿ-ûi; tōa-táⁿ; thèng-tsãu-hùe tsò.
  * adverb, gṳ́-tsõ-sṳ̂.
-diff --color -Nur a/B.md b/B.md
+diff -Nur a/B.md b/B.md
 --- a/B.md	2022-08-17 22:16:01.167161800 +0800
-+++ b/B.md	2022-08-31 02:36:47.037517000 +0800
++++ b/B.md	2022-08-31 17:37:50.138448300 +0800
 @@ -98,7 +98,7 @@
  * becalm, bô-huang; huang tiām; bô-huang bô-sie̍h.
  * because, in-ũi; uân-in; in-tuan; in-iû; uân-khî.
@@ -40,9 +40,9 @@ diff --color -Nur a/B.md b/B.md
  * broken, phùa; chi̍h. fragments, tshùi. hearted, sim sng. see BREAK.
  * broker, tong-nâng; kong-chhin. brokerage, thiu-thâu-ngṳ̂n.
  * bronze, n̂g-tâng.
-diff --color -Nur a/C.md b/C.md
+diff -Nur a/C.md b/C.md
 --- a/C.md	2022-08-17 22:29:27.723354900 +0800
-+++ b/C.md	2022-08-31 02:08:13.679581400 +0800
++++ b/C.md	2022-08-31 17:37:50.214436000 +0800
 @@ -11,7 +11,7 @@
  * cajole, so-lua̍h; so--nâng lua̍h--nâng; moⁿ-so; phièn kàu-i-hàuⁿ.
  * cake, piáⁿ; kúe; ko. sponge-cake, koi-nñg-ko. bean, khou.
@@ -106,9 +106,9 @@ diff --color -Nur a/C.md b/C.md
  * cunning, to-sim kek-sṳ̄; sim-sṳ̄ tsōi; ũ-sim-sṳ̄; khî-khá.
  * cup, cheng; pue. tea cup, tê-cheng; tê-pue; tê-au.
  * cupboard, tû; pûaⁿ-úaⁿ-tû; tãng-kè; chia̍h-tû.
-diff --color -Nur a/D.md b/D.md
+diff -Nur a/D.md b/D.md
 --- a/D.md	2022-08-28 03:04:13.694713900 +0800
-+++ b/D.md	2022-08-31 02:10:00.333541400 +0800
++++ b/D.md	2022-08-31 17:37:50.266716500 +0800
 @@ -103,7 +103,7 @@
  * delegate, chhe-sái; chhe-úi. a delegate, úi-uân; sài; sài-chiá.
  * deliberate, to, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sǹg-lâi sǹg-khṳ̀; siẽⁿ-lâi siẽⁿ-khṳ̀; pí-lâi pí-khṳ̀; chiak-ngí.
@@ -136,9 +136,9 @@ diff --color -Nur a/D.md b/D.md
  * disquieted, m̄-uaⁿ-sim; sim bô-phêng-an; m̄-kùe-sim; m̄-pàng-sim; khùa-sim; hûan-sim.
  * disregard, m̃-kù; m̃-kúan; m̃-lí; hut-lia̍k; m̃-tshái; m̃-thiaⁿ. orders, m̃-tsun-mẽng.
  * disrelish, m̄-ha̍h-tshùi; m̄-ha̍h-chia̍h; m̄-ha̍h chhiâu-kháu; m̄-ha̍h ūi-kháu.
-diff --color -Nur a/E.md b/E.md
+diff -Nur a/E.md b/E.md
 --- a/E.md	2022-08-20 10:44:10.750836000 +0800
-+++ b/E.md	2022-08-31 02:10:34.545545100 +0800
++++ b/E.md	2022-08-31 17:37:50.307432800 +0800
 @@ -140,7 +140,7 @@
  * enslave, lia̍h-tsò-nôuⁿ; lia̍h-tsò nôuⁿ-po̍k.
  * ensnare, iú-ji̍p khuan-thàu; phièn-ji̍p-ke̍k; phièn-ji̍p-khou-thàu; kuang-chiẽⁿ-tàng; tieⁿ-ie̍h-kúi.
@@ -148,9 +148,9 @@ diff --color -Nur a/E.md b/E.md
  * enterprising, káⁿ-pàng-táⁿ; ũ-táⁿ-lia̍k.
  * entertain, as a host, chhiáⁿ-toh; chhiáⁿ-chiú; chiap-na̍p nâng-kheh. sumptuously or generously, kãu-thãi. entertainment, toh-sia̍h; tsò-toh. entertaining, tshù-bī.
  * enthrone, hû-uâng teng-ki; hû-uâng teng-ūi.
-diff --color -Nur a/F.md b/F.md
+diff -Nur a/F.md b/F.md
 --- a/F.md	2022-08-28 03:50:45.809428100 +0800
-+++ b/F.md	2022-08-31 02:12:53.065371900 +0800
++++ b/F.md	2022-08-31 17:37:50.354827100 +0800
 @@ -160,7 +160,7 @@
  * fledged, huat-môⁿ.
  * flee, tsáu; tô-tsáu; phun-tsáu; pī-tsáu.
@@ -178,9 +178,9 @@ diff --color -Nur a/F.md b/F.md
  * forceps, thih-khîⁿ; thih-kîⁿ. small, koih-kiáⁿ; kia̍p-kiáⁿ.
  * ford, to, ẽ-kùe-khoi; ẽ-khoi.
  * fore, soiⁿ; tsôiⁿ. feet, tsôiⁿ-kha.
-diff --color -Nur a/G.md b/G.md
+diff -Nur a/G.md b/G.md
 --- a/G.md	2022-08-28 11:59:52.557489400 +0800
-+++ b/G.md	2022-08-31 02:14:58.992750300 +0800
++++ b/G.md	2022-08-31 17:37:50.397981200 +0800
 @@ -66,7 +66,7 @@
  * gestures, to use, in speaking, kha mõng, chhiú pí.
  * get, tit; tit--tie̍h. up, tsáu-khí. could not get it done, tsò-m̄-sêng; tsò-m̄-chiâⁿ. rich, huat-tshâi; tì-pù. ready, ṳ̃-pĩ; tsôi-pĩ; pĩ-phōiⁿ; pĩ-pīn. into office, tit-ūi; tit-jĩm. advancement, kau-seng; seng-kuaⁿ; seng-khip, one's wishes, tit-ì; zû-ì; tit-sim kùe-ì. out of the way, kiâⁿ-khui; tsáu-khui; kiâⁿ-bûa; khiã-khui. angry, seⁿ-khì; huat-náuⁿ. hold of, lia̍h--tie̍h. aground (ship), khùa-sua; hũam-suaⁿ. into trouble, lap-tie̍h-sin. a cold, sieⁿ-huang. where ever did you get this? lṳ́ tsò-ũ chí-kâi-mue̍h?
@@ -208,9 +208,9 @@ diff --color -Nur a/G.md b/G.md
  * goat, suaⁿ-iêⁿ.
  * GOD, Siãng-tì. to worship, pài Siãng-tì. godly, kèng-ùi Siãng-tì. gods, sîn-mêng.
  * go-down, tsàn-pâng.
-diff --color -Nur a/H.md b/H.md
+diff -Nur a/H.md b/H.md
 --- a/H.md	2022-08-23 10:00:30.927600500 +0800
-+++ b/H.md	2022-08-31 02:16:13.387106000 +0800
++++ b/H.md	2022-08-31 17:37:50.455981100 +0800
 @@ -94,7 +94,7 @@
  * heel, kha-ãu-teⁿ. of shoes, ôi-teⁿ. on woman's shoe, kia̍h-thô. down at the heels, ta̍h-tó-teⁿ. take to one's heels, tsáu.
  * heifer, gû-kiáⁿ; gû-eⁿ.
@@ -229,9 +229,9 @@ diff --color -Nur a/H.md b/H.md
  * husk, khak; tshou-khng (chaff). to husk rice, oi-lâng; oi-chhek.
  * hustle, sie-oi sie-léng; sie-chìⁿ sie-léng.
  * hut, tsháu-liâu; suaⁿ-liâu.
-diff --color -Nur a/I.md b/I.md
+diff -Nur a/I.md b/I.md
 --- a/I.md	2022-08-30 02:08:05.395366900 +0800
-+++ b/I.md	2022-08-31 02:17:24.719593600 +0800
++++ b/I.md	2022-08-31 17:37:50.515688700 +0800
 @@ -247,7 +247,7 @@
  * inside, lãi; lãi-mīn; lãi-tói; tói; tói-pôiⁿ; tói-mīn.
  * insidious, àm-hāi; àm-chìⁿ; kan-tsà.
@@ -250,9 +250,9 @@ diff --color -Nur a/I.md b/I.md
  * intemperance, bô-liâm-tsat; bô-tsat-tōu; bô-hãn-chì; bô-tsat-chì; bô-kài-hãn; chhia-chhíⁿ.
  * intend, siẽⁿ-àiⁿ; ũ-ì; pheⁿ-phah.
  * intendant, of circuit, tãu-thâi.
-diff --color -Nur a/J.md b/J.md
+diff -Nur a/J.md b/J.md
 --- a/J.md	2022-07-11 00:44:46.610114800 +0800
-+++ b/J.md	2022-08-31 02:18:22.561281300 +0800
++++ b/J.md	2022-08-31 17:37:50.545537400 +0800
 @@ -25,11 +25,11 @@
  * job, khang-khùe. take on contract, mãuⁿ-kang.
  * join, siang-ha̍h; tsò-pû; kap-bûa. joined in succession, chiap; sie-chiap; chiap-liên. siang-liên; sie-sùa; sie-thùa. accompany, tsò-pû-kiâⁿ. a partnership, tsò-húe-kì. an association, pài-hũe. hands, siang-khan-chhiú. battle, ha̍h-chièn.
@@ -267,9 +267,9 @@ diff --color -Nur a/J.md b/J.md
  * jot, tiám. one jot or tittle, che̍k-hâu che̍k-lî.
  * journal, kì-sṳ̄-phõu. newspaper, sin-bûn-tsúa; ji̍t-pò.
  * journey, lōu-thêng; lōu-thiâⁿ. long, hñg kâi-lōu-thiâⁿ; ién-thiâⁿ; tn̂g-thiâⁿ. begin, khí-thiâⁿ; khí-kiâⁿ; khí-sin. to journey, kiâⁿ-lōu.
-diff --color -Nur a/L.md b/L.md
+diff -Nur a/L.md b/L.md
 --- a/L.md	2022-08-29 10:32:33.837620000 +0800
-+++ b/L.md	2022-08-31 02:18:58.523429900 +0800
++++ b/L.md	2022-08-31 17:37:50.584535400 +0800
 @@ -125,7 +125,7 @@
  * lightning, tiẽn-húe; lûi-húe. it lightens, lûi-kong nihⁿ-ma̍k; tiẽn-húe ia̍p-ia̍p-sih.
  * like, chhin-chhiẽⁿ; húang-sṳ̃; siang-sṳ̃; kṳ̃n-sṳ; siãu; tâng; tshah-chhi̍h chhin-chhiẽⁿ. it is like (simile), chhin-chhiẽⁿ; khó-pí; phì-zû; tǹg--kùe; hāi--kùe. do like him, o̍h i-kâi-iēⁿ; uàⁿ i-kâi-iēⁿ; hãu i-kâi-iēⁿ. make, it like this, chiè chí-kâi-iēⁿ tsò.
@@ -279,9 +279,9 @@ diff --color -Nur a/L.md b/L.md
  * likeness, sièⁿ; hí-sîn; siáu-ngiá; mīn-mãuⁿ. there is a strong likeness, siãu-tsãi.
  * likewise, iā; iā-sĩ; kiam-kũa; siãng-chhiáⁿ; iũ.
  * lily, peh-ha̍h-hue. water-, nôiⁿ-hue.
-diff --color -Nur a/M.md b/M.md
+diff -Nur a/M.md b/M.md
 --- a/M.md	2022-08-31 01:59:42.803562500 +0800
-+++ b/M.md	2022-08-31 02:20:05.737022100 +0800
++++ b/M.md	2022-08-31 17:37:50.646535800 +0800
 @@ -9,7 +9,7 @@
  * maggot, thâng.
  * magic, huap-su̍t; huap-la̍t; siâ-su̍t; bû-su̍t. magician, su̍t-sṳ̃; huap-sṳ̃.
@@ -300,9 +300,9 @@ diff --color -Nur a/M.md b/M.md
  * Malacca, Mûaⁿ-la̍k-kah.
  * malady, see DISEASE.
  * malaria, suaⁿ-lâm chiàng-khì.
-diff --color -Nur a/N.md b/N.md
+diff -Nur a/N.md b/N.md
 --- a/N.md	2022-08-13 01:43:51.554495900 +0800
-+++ b/N.md	2022-08-31 02:22:34.080243000 +0800
++++ b/N.md	2022-08-31 17:37:50.684542500 +0800
 @@ -1,6 +1,6 @@
  * nail, teng, iron, thih-teng. to nail, tèng-teng. finger, chhiú-tsóiⁿ-kah; tsńg-kah. toe, kha-chí-kah.
  * naked, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. strip, thǹg-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; tñg-tiâu se-sùaⁿ (without a thread of clothing); thong-sin bô-pùaⁿ-tiâu se-sùaⁿ.
@@ -329,9 +329,9 @@ diff --color -Nur a/N.md b/N.md
  * nitre, siau.
  * no, m̄-sĩ; bô; màiⁿ. matter, bô-lũn; bô-chhiet-iàu; bô-huâng. help for it, bô-nãiⁿ-hô; bô-pōu. nobody, bô-nâng. nothing to eat, bô-thang-chia̍h.
  * noble, tsun; kùi; tsun-kùi. family, tōa-ke. -man, ũ-chiak-ūi; tãi-láu. minded, kháng-khài.
-diff --color -Nur a/P.md b/P.md
+diff -Nur a/P.md b/P.md
 --- a/P.md	2022-08-31 02:33:09.005389400 +0800
-+++ b/P.md	2022-08-31 02:34:03.516723700 +0800
++++ b/P.md	2022-08-31 17:37:50.731535600 +0800
 @@ -425,7 +425,7 @@
  * promise, èng-hṳ́; ìn-sêng; ìn-na̍p; ieh-tiāⁿ; hṳ́; soiⁿ-hṳ́. to fulfil, chién-ieh; zû-ieh; chién-ngân. break, chia̍h-ngân; sit-ieh; súang-ieh.
  * promotion, seng-kuaⁿ; kau-seng; kia-hong; kia-khip; seng-khip; kia-kuaⁿ chìn-lo̍k.
@@ -341,9 +341,9 @@ diff --color -Nur a/P.md b/P.md
  * proof, pêng-kṳ̃; phêng-kṳ̃. printer's, kó.
  * prop, tú. a wall, tú-chhiêⁿ. up, thèⁿ-kûiⁿ.
  * proper, ha̍h-ngî; ha̍h-sek; eng-kai; pńg-téng; tie̍h; chiàⁿ; tùi.
-diff --color -Nur a/R.md b/R.md
+diff -Nur a/R.md b/R.md
 --- a/R.md	2022-08-13 03:05:51.180040600 +0800
-+++ b/R.md	2022-08-31 02:38:47.879458900 +0800
++++ b/R.md	2022-08-31 17:37:50.768534900 +0800
 @@ -346,7 +346,7 @@
  * rush, against, tshong-tsũang; tshuang-tsũang. an enemy, tshong-tīn. of water, tsúi lâu kā-kā-kiè; tsúi kip.
  * rushes, kiâm-tsháu; teng-sim-tsháu.
@@ -353,9 +353,9 @@ diff --color -Nur a/R.md b/R.md
  * rustic, hieⁿ-ẽ-nâng; hieⁿ-ngô.
  * rustling, of wind, huang sā-sā-kiè.
  * rut, of wheel, chhia-lûn-lōu; chhia-lûn-kau.
-diff --color -Nur a/S.md b/S.md
+diff -Nur a/S.md b/S.md
 --- a/S.md	2022-08-29 02:44:38.665619600 +0800
-+++ b/S.md	2022-08-31 02:40:49.018522100 +0800
++++ b/S.md	2022-08-31 17:37:50.831535500 +0800
 @@ -130,7 +130,7 @@
  * seat, ūi; tsõ-ūi. my, uá kâi ūi-tshṳ̀. the chief, tōa-ūi. please take a, chhiáⁿ-tsõ.
  * secluded, mi̍t-chiah; ṳ́n-kṳ; tiàm-miⁿ.
@@ -374,9 +374,9 @@ diff --color -Nur a/S.md b/S.md
  * serious, tãng; tōa. matter, tōa-sṳ̄. disease, pēⁿ tãng. in manner, ngiâm-chiàⁿ; kṳ́n-ngiâm.
  * serpent, tsûa. one, che̍k-tiâu-tsûa. to creep as a, so; kuãn.
  * serrate, seⁿ-kṳ̀-khí.
-diff --color -Nur a/T.md b/T.md
---- a/T.md	2022-08-19 13:14:34.856008100 +0800
-+++ b/T.md	2022-08-31 02:58:04.160822100 +0800
+diff -Nur a/T.md b/T.md
+--- a/T.md	2022-08-31 03:33:02.988330900 +0800
++++ b/T.md	2022-08-31 17:37:50.873536300 +0800
 @@ -3,13 +3,13 @@
  * table, or index, ma̍k-lo̍k.
  * tablet, ancestral, sîn-tsú-pâi; ke-sîn; ba̍k-tsú; sîn-tsú. setting forth any one's merit, pín-hia̍h; pâi-pín.
@@ -402,3 +402,36 @@ diff --color -Nur a/T.md b/T.md
  * thigh, tōa-thúi; thúi-thâu. bone, thúi-thâu-kut.
  * thimble, pòu-tsóiⁿ; phûe-tsóiⁿ; tâng-tsóiⁿ.
  * thin, po̍h; so; so-po̍h; chhieh; kà; hi; lang; sán. congee, chhieh-mûeⁿ; kà-mûeⁿ.
+diff -Nur a/U.md b/U.md
+--- a/U.md	2022-08-31 17:32:38.912872500 +0800
++++ b/U.md	2022-08-31 17:38:43.887685900 +0800
+@@ -107,7 +107,7 @@
+ * unseen, thóiⁿ-m̄-kièn; put-lêng thóiⁿ--kìⁿ.
+ * unskilled, chhiú m̄-se̍k; chheⁿ-chhiú.
+ * unsociable, m̄-hàuⁿ kau-tshap-nâng; kou-bāu; kou-ta̍k.
+-* unspeakable, tàⁿ-m̄-liáu; lân-tàⁿ; tàⁿ bõi-tit--tie̍h-uân; ngân só-put-chĩn; ngân iā-lân-chĩn.
++* unspeakable, tàⁿ-m̄-liáu; lân-tàⁿ; tàⁿ bõi-tit--tie̍h uân; ngân só-put-chĩn; ngân iā-lân-chĩn.
+ * unsubstantial, hṳ-phû; bô-si̍t-thói; khang-ké; hṳ-khang.
+ * unsuccessful, m̄-chiâⁿ; m̄-sêng-kong; sṳ̄ m̄-sêng-chiũ; bõi-tit uân-tshûan; bõi-tit îⁿ-múaⁿ. at an examination, kháu-m̄-tie̍h.
+ * unsuitable, m̄-ha̍h-ēng; m̄-ha̍h.
+diff -Nur a/W.md b/W.md
+--- a/W.md	2022-08-29 03:07:31.356703200 +0800
++++ b/W.md	2022-08-31 17:39:50.191269000 +0800
+@@ -122,7 +122,7 @@
+ * wish, àiⁿ; ngũan; ngũan-mōⁿ; siẽⁿ-mōⁿ; siẽⁿ-àiⁿ; him-iẽn; it--tie̍h. according to one's wish, zû-ì; zû-ngũan.
+ * wit, ki-khá; sim-khiàu méⁿ; ua̍h-phuah; lêng-ki èng-pièn. frightened out of one's wits, kiâⁿ-kàu-kông; kiaⁿ-kàu-ngo̍h.
+ * witch, thóiⁿ-siàⁿ-phûa; lo̍h-sîn-phûa; tshai-kou-î (spiritualist medium). -craft, siâ-su̍t; bû-su̍t; huap-su̍t; iau-su̍t.
+-* with. to carry with one, tòa-tõ-sin. talk with you, kāng-lṳ́ tàⁿ-ūe. walk with you, kāng-lṳ́ tsò-pû-kiâⁿ; kiau-lṳ́ tsò-pû-khṳ̀; kah-lṳ́-khṳ̀. agrees with this, kāng-chí-kâi siang-ha̍h. with a pen, ēng-pit; tsang-pit; chiang-pit; khiâ-pit. with the hand, tsang-chhiū. with respect to, lũn; lũn-ki̍p; chì-i; tàⁿ-kàu; lũn-kàu.
++* with. to carry with one, tòa-tõ-sin. talk with you, kāng-lṳ́ tàⁿ-ūe. walk with you, kāng-lṳ́ tsò-pû-kiâⁿ; kiau-lṳ́ tsò-pû-khṳ̀; kah-lṳ́-khṳ̀. agrees with this, kāng-chí-kâi siang-ha̍h. with a pen, ēng-pit; tsang-pit; chiang-pit; khiâ-pit. with the hand, tsang-chhiú. with respect to, lũn; lũn-ki̍p; chì-i; tàⁿ-kàu; lũn-kàu.
+ * withdraw, to, thò; thò-sî; sî-siā; sià-sṳ̄; thò-cheh.
+ * sither, to, as flowers, kou-ta; ta; ta-ki; siā.
+ * within, tõ-lãi; lãi-mīn; tói-mīn; lãi--tang; lãi--teng; lãi-thâu. within a month, m̄-chiẽⁿ kâi-gu̍eh; put-tshut kâi-gu̍eh; tõ-che̍k-gu̍eh-lãi; tõ-chí-gu̍eh-tói. within doors, tõ-mn̂g-lãi; tõ-ke-lãi; tõ-tshù-lãi. within a step of death, hiám-hiám-sí; tsu̍ah-se-su chiũ-sí.
+@@ -144,7 +144,7 @@
+ * world, sì; sì-kài; sì-kan; âng-tîn; tîn-sì (this dusty weary world); thiⁿ-ẽ. all the, phóu-thiⁿ-ẽ; phóu-thiⁿ-kha-ẽ; thong-thiⁿ-kha-ẽ; buān-kok. this, tshṳ́-sì; kim-sì; iâng--kan; iâng-sì. the next, lâi-seⁿ; lâi-sì; ãu-sì (all mean one's next appearance in this world); im--kan; àm--thâu. ignorant of the, m̄-hiáu sì-bũ. this changing world, iâm-liâng sì-kài. since the world began, khai-phek íⁿ-lâi; khai-tshàng íⁿ-lâi. worldly affairs, sì-bũ; sì-chhêng.
+ * worm, a, thâng. earth-worm, kãu-ún. in the intestines, kam-thâng. in books, tsù-thâng. worm-eaten, tsù-tiāu; khòi-tiāu.
+ * wormwood, în-tîn; în-tîn khóu-chhì.
+-* worse, kèng-m̄-hó; zú-m̄-hó; zû-kèng m̄-hó; kèng-sĩm; kèng-hāi; zú-sí. sickness, pēⁿ kèng-tãng. daily growing worse, che̍k-ji̍t kìⁿ-ji̍t-tãng.
++* worse, kèng-m̄-hó; zú-m̄-hó; zú-kèng m̄-hó; kèng-sĩm; kèng-hāi; zú-sí. sickness, pēⁿ kèng-tãng. daily growing worse, che̍k-ji̍t kìⁿ-ji̍t-tãng.
+ * worship, to, pài; kũi-pài; kèng-pài; kèng-hõng, go to worship, khṳ̀-lói-pài. to worship idols, pài-sîn; pài-lãu-iâ; pài-tshâ-sîn; sāi-lãu-iâ. ancestors, pài-a-kong; pài-tsóu; pài-ke-sîn.
+ * worst, ke̍k-ak; siãng-ak; chì-ak; siãng-téng m̄-hó.
+ * worsted, zông-sùaⁿ. stockings, kãu-ún-bue̍h; hôu-khî-bue̍h.
