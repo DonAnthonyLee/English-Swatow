@@ -18,10 +18,11 @@
 
 | 词典表达 | 地方表达 | 词义 | 相关词条 |
 |---|---|---|---|
-| khat | kat | 结 | knot 等 |
 | chie̍h-põu | chio̍h-kõu | 石头 | stone |
 | tāng-tāng-kng | pâng-pâng-kng | 天空放亮 | bright 等 |
 | sang-thám | sang-hám | 两层 | double 等 |
+
+注：声母送气与否者差别较多，上表不予列出。
 
 <br>
 
