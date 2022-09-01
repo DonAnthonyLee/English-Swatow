@@ -18,9 +18,9 @@
 * obscure, mông; hiu-miáuⁿ; m̄-hīn; m̄-mêng; m̄-tshut-sek. dwell in obscurity, ṳ́n-kṳ; mi̍t-chiah (much greater degree).
 * obsequies, sng-sṳ̄; pe̍h-sṳ̄. see FUNERAL.
 * obsequious, hông-ngêng; hõng-sêng; pui-thiám; thiám-mĩⁿ; khá-mĩⁿ.
-* observatory, huan-chheⁿ-thâi.
+* observatory, kuan-chheⁿ-thâi.
 * observe, thóiⁿ; kuan. law, siú-huap.
-* obsolete, kū--liáu bô-ēng; hùi. characters, kòu-jī; phiah-jī.
+* obsolete, kū--liáu bô-ēng; hùi. characters, kóu-jī; phiah-jī.
 * obstacle, hûang-gāi; tsó-keh. there is no, bô-hûang.
 * obstinate, kù-chip; chip-thì; kien-chip; chip-phiah; chip-áu; ke̍h-phiah; áu-phiah; kuài-phiah; chip-ì; khu-thì; thì-nĩⁿ.
 * obstruct, tsa̍h; nôaⁿ; nôaⁿ-tsó; tso̍ih; tsó-keh; kòiⁿ-keh. a road, tsa̍h-lōu; nôaⁿ-lōu; tso̍ih-lōu. wind, tsa̍h-huang. view, chia-tsa̍h; tsa̍h thóiⁿ-m̄-kìⁿ.
@@ -31,7 +31,7 @@
 * obvious, mêng-pe̍h.
 * occasion, no, mién; mín-ēng; khó-íⁿ put-pit. what? ũ sĩ-mih kù-sṳ̄? sĩ-mih uân-kù? this, chí-hûe; chí-pái; chí-tshṳ̀; tshṳ́-tshṳ̀. on every, pâi-sî; pâi-hûe; sî-put-sî; sam-put-sî; múeⁿ-sî. take, chiã-sì; sêng-ki; sêng-ki-hũe; chiã-kù; chieh-tuan; sêng-khiah; sêng-sì; sêng chí-kâi sṳ̄-kù; chiã-tuan. occasionally, ũ-tiâng-sî; ũ-sî; che̍k-ē pùaⁿ-ē.
 * occiput, aũ-táu; chím-kut.
-* occult, pì-bāt; pì-mi̍t.
+* occult, pì-ba̍t; pì-mi̍t.
 * occupation, pńg-ngia̍p; chhiú-ngia̍p; sṳ̄-ngia̍p; chhiú-gōi; gōi-ngia̍p. literary, bûn-gōi. military, bú-gōi.
 * ocean, tōa-iêⁿ; tōa-hái. cross, kùe-hái; kùe-ou-tsúi.
 * occurrence, che̍k-tsuang-sṳ̄; che̍k-kiãⁿ-sṳ̄.
@@ -42,7 +42,7 @@
 * odious, khó-ù; tshūa-nâng-lóu.
 * odour, bī; khì-bī; phang; hiang.
 * of: the water of the sea, hái-tsúi; hái kâi-tsúi; hái-tói kâi-tsúi. a man of wealth, ũ-chîⁿ-tshâi kâi-nâng. of course, tsṳ̃-jiên; thien-jiên.
-* off, cut, kuah-tñg. far, hñg-hñg. run, tsáu--khṳ́.
+* off, cut, kuah-tñg. far, hñg-hñg. run, tsáu--khṳ̀.
 * offend, tit-tsũe; tit-tsõ--tie̍h; huãm-tsũe; tshok-huãm. offended, m̄-hàuⁿ; m̄-huaⁿ-hí; kièn-kuài. offensive smell, tshàu-hièn; ùe-khì. far too easily offended, chheⁿ-mīn; chheⁿ-mīn-hóuⁿ.
 * offer, as price, tshut-kè. as reward, hṳ́; tshut-siéⁿ-keh; tshut-hue-âng. a present, sàng-lói. tribute, chìn-kòng; chìn-hièn. offer it to him, mn̄g i àiⁿ--mé. make an offering, hõng; hièn; hièn-hõng; keng-hõng; keng-hièn; kèng-hõng; kèng-hièn.
 * office, cheh-hūn; kuaⁿ-cheh; cheh-jĩm; cheh-sṳ̄. enter, chiẽⁿ-jīm. one term of, che̍k-jīm. continue for another term, liên-jīm; ngûan-jīm. degrade but retain in office, keh-cheh lâu-jīm. put out of, keh-jīm. go out of, lī-jīm. waiting for a vacant, hāu-jīm-khueh.
@@ -55,7 +55,7 @@
 * oh, indeed! õ, sĩ àn-chièⁿ-seⁿ! in grief or pain, ai-a!
 * oil, iû. bottle, iû-pân. press, iû-chhia. to oil, buah-iû; chhit-iû; iû. kerosene, húe-tsúi; húe-tsúi-iû.
 * ointment, ko-ie̍h. apply, tah-ko-ie̍h; buah-ko-ie̍h.
-* old, kū. in years, lãu. from of old, tsṳ̃-kóu. how old are you? jie̍h-tsōi-hùe? kùi-keⁿ? tshun-chhiu jie̍h-kau? which is older? tî-nâng-tōa? one year older, tōa che̍k-hùe. an old friend, kū-iú; lãu-iú; kū-kau. old gentleman, lãu-nâng-tek.
+* old, kū. in years, lãu. from of old, tsṳ̃-kóu. how old are you? jie̍h-tsōi-hùe? kùi-keⁿ? tshun-chhiu jie̍h-kau? which is older? tî-nâng-tōa? one year older, tōa che̍k-hùe. an old friend, kū-iú; lãu-iú; kū-kau. old gentleman, lãu-nâng-ke.
 * oleander, tsõ-ngûan-tek.
 * olives, káⁿ-náⁿ.
 * omelet, koi-nñg luah chiâⁿ-tieⁿ; koi-nñg-piáⁿ.
@@ -73,12 +73,12 @@
 * onward, to go, chìn-tsôiⁿ; tsôiⁿ-chìn; chìn-pōu.
 * ooze, sia̍p-lāu.
 * opaque, m̄-siũ-chiè; kng thàu-m̄-kùe; àm-chieh thàu-m̄-kùe.
-* open, khui. a letter, thiah-sìn; thiah-khui. out, tháu-khui. eyes, peh-khui-ma̍k; ma̍k-chiu peh-kim. a bood, iãuⁿ-khui; hien-khui; tién-khui. burst, as door, léng-khui; phùa-khui. a cover, iãuⁿ-kùa. the bowels, lĩ-tãi-piẽn; chia̍h-lĩ-ie̍h; chia̍h liâng-sià kâi-ie̍h. openwork, lang-lang. handed, chhiú-phāng lang; chhiú-phāng khùaⁿ. an opening, khang; khiah; phāng; phāng-khiah; mn̂g-lōu; tshùi. openly, hién-mêng; tng-mīn; tõ-pe̍h-ji̍t; kng-kng mêng-mêng.
+* open, khui. a letter, thiah-sìn; thiah-khui. out, tháu-khui. eyes, peh-khui-ma̍k; ma̍k-chiu peh-kim. a book, iãuⁿ-khui; hien-khui; tién-khui. burst, as door, léng-khui; phùa-khui. a cover, iãuⁿ-kùa. the bowels, lĩ-tãi-piẽn; chia̍h-lĩ-ie̍h; chia̍h liâng-sià kâi-ie̍h. openwork, lang-lang. handed, chhiú-phāng lang; chhiú-phāng khùaⁿ. an opening, khang; khiah; phāng; phāng-khiah; mn̂g-lōu; tshùi. openly, hién-mêng; tng-mīn; tõ-pe̍h-ji̍t; kng-kng mêng-mêng.
 * opera, tsò-hì chhiè-khek.
 * ophthalmia, ma̍k-chiu âng-thiàⁿ; ma̍k pãu-thiàⁿ.
 * opinionative, chip ka-kī kâi-ì; chip-phiah.
 * opinion, ì-kièn. your, kau-kièn. my, ngô-kièn; phí-kièn; pĩ-kièn. assent to one's, hũ-hõ.
-* opium, a-phièn. crude, a-phièn-thôu. prepared, a-phièn-ko. small pellet, a-phièn-phã. to smoke, chia̍h-a-phièn-hun. shop, a-phièn-phã. miserable confirmed opium smoker, a-phièn-kúi. craving for, a-phièn-ngièn; a-phièn-ín. give up smoking, keh-a-phièn.
+* opium, a-phièn. crude, a-phièn-thôu. prepared, a-phièn-ko. small pellet, a-phièn-phã. to smoke, chia̍h-a-phièn-hun. shop, a-phièn-kúan. miserable confirmed opium smoker, a-phièn-kúi. craving for, a-phièn-ngièn; a-phièn-ín. give up smoking, keh-a-phièn.
 * opponent, tùi-thâu; chhiû-te̍k.
 * opportunity, ki-hũe. to embrace an, sêng-ki-hũe; sêng-sì. opportunely, sũn-piẽn; huang-piẽn; sêng-piẽn.
 * oppose, ûi-nge̍k; khàng-kṳ̃; tí-tng; tí-te̍k; tùi-te̍k.

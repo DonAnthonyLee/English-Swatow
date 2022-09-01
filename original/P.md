@@ -252,7 +252,7 @@
 * plenty, tsok; kàu; tsōi; múaⁿ; ke-ke; hong-sẽng; hong-múaⁿ.
 * pliable, sèⁿ-chhêng jiû; kōi iâu-tõng; sim m̄-kien-kù; sûi-huang khí-tó; phû-tîm sûi-so̍k.
 * plighted, siang-ieh--kùe.
-* plot, kòi-mông; àm-kòi; àm-mông. to plot rebelloin, mông-húan. to be in a plot, tshùan-tâng; tshùan-ha̍h; tshùan-thong; phah-tshùan.
+* plot, kòi-mông; àm-kòi; àm-mông. to plot rebellion, mông-húan. to be in a plot, tshùan-tâng; tshùan-ha̍h; tshùan-thong; phah-tshùan.
 * plough, lôi. -share, lôi-thâu. handle, lôi-búe. to plough, lôi-tshân; sái-lôi; sái-gû.
 * pluck, flowers, tiah-hue; tshái-hue; liàm-hue; á-ki-hue. up, po̍ih; po̍ih-khí. out, po̍ih-tshut; thiu-tshut; mán-tiāu. one by the sleeve, túi; tùn.
 * plug, a hole, sat-khang; that-khang.
@@ -278,7 +278,7 @@
 * politics, kok-chèng; chèng-sṳ̄.
 * pollen, hue-hún.
 * pollute, mak--tie̍h nah-sap; u-jiám; jiám-u; jiám--tie̍h nah-sap; u-ùe--tie̍h.
-* polypus, in the nose, phĩⁿ-lêng; phĩⁿ-tsûa.
+* polypus, in the nose, phīⁿ-lêng; phīⁿ-tsûa.
 * pomatum, hiang-iû; buah-thâu-iû; tê-iû; lêng-hieⁿ-iû.
 * pomegranate, sie̍h-liû.
 * pomp, hûan-hua; iông-hûa; iông-kùi.
@@ -313,12 +313,12 @@
 * post, a, thiãu; khṳ̍t.
 * post, a letter, kià-sìn. post-office, bûn-tsṳ-kuán; tsṳ-sìn-kuán. -station, ia̍h-kuán; ia̍h-tsãm; kuán-ia̍h. -runner, bé-sìn; tshoiⁿ-lí-bé; tsáu-bûn-tsṳ; tî-bûn-tsṳ.
 * posterity, ãu; ãu-ĩ; kiáⁿ-sun; ãu-tō. descend to, thuân-pun ãu-ĩ; thuân-pun ãu-pùe.
-* posthumous, child, zūi-pak-kiáⁿ.
+* posthumous, child, zũi-pak-kiáⁿ.
 * postpone, lâu-mān; chhî-mān.
 * pot, for cooking, tũn-puah; chien-puah; chien-pûaⁿ; ue (deeper); sua-ue; seⁿ-ue (iron). flower, puah; hue-puah. water, kuàn; tsúi-kuàn; tsúi-kng. chamber, hû; mêⁿ-hû; jiē-hû. lid, khàm; kùa; khòiⁿ.
 * potash, kiⁿ.
 * potato, hô-lan-tsṳ̂. sweet, huan-tsṳ̂; huan-kuah; tī-kue.
-* pot-bellied, tōa-tóu-tháng; tōa-tóu-lak; tóu-kuai-kuai.
+* pot-bellied, tōa-tóu-tháng; tōa-tóu-lak; tóu kuai-kuai.
 * potter, tsò-hûi sai-pẽ. pottery, hûi-khì; tshou-hûi. a pottery, hûi-iê.
 * pouch, lâng; tō; ie-tõu.
 * poultice, to put on, tah-pn̄g-lia̍p. linseed, tah mûaⁿ-chí-hún.
@@ -330,14 +330,14 @@
 * pout, tshùi khiàu-khiàu; tshùi tu-tu.
 * powder, hún. cosmetic, tsúi-hún; sang-hún; ìn-chí-hún; tōa-pe̍h-hún. use this, buah-hún. medicinal, ie̍h-súaⁿ; ie̍h-bua̍h. gun-powder, húe-ie̍h; chhèng-ie̍h. horn, gû-kak-tâng. to powder by grinding, ngóiⁿ-bua̍h; lûi-iùⁿ.
 * power, khûan; khûan-lêng; khûan-sì; khûan-la̍t; khûan-pèⁿ; lêng-la̍t; sì-la̍t; sì-thâu; tshâi-lêng. to be in his power, tõ i chhiú-ẽ; tõ i chhiú-sim-tói; tõ i kúan-ẽ. powerful, ũ-khûan; ũ-khì-la̍t. powerless, bô-la̍t; bô-khûan; bô-ta-uâ. powerless against any one, bô-ta i-uâ; bô-nãiⁿ i-hô; sì-la̍t put-te̍k.
-* pox, chicken, tsúi-tsu; tsui-ta̍u. small-, tshut-tsu; gâu-a-niêⁿ; sún-tsái; thien-hue. inoculate for, pûn-tsu (by the nostrils). vaccinate for, chèng-tsu; chèng-tāu; chèng-iêⁿ-tāu. scab of, tsu-phí. pock-marked, poiⁿ.
+* pox, chicken, tsúi-tsu; tsúi-tāu. small-, tshut-tsu; gâu-a-niêⁿ; sún-tsái; thien-hue. inoculate for, pûn-tsu (by the nostrils). vaccinate for, chèng-tsu; chèng-tāu; chèng-iêⁿ-tāu. scab of, tsu-phí. pock-marked, poiⁿ.
 * practice, si̍p-liēn; ha̍k-si̍p; liēn-si̍p; kiâⁿ-ûi.
 * praise, o-ló; chheng-tsàn; tsàn-múiⁿ; sõng-múiⁿ.
 * prance, thiàu; pháu; pháu-lâi pháu-khṳ̀.
 * prattle, nôuⁿ-kiáⁿ-ūe; chíⁿ-ūe; bô-keng-le̍h kâi-ūe.
 * prawn, hê. very small, dried, hê-bí.
 * pray, khî-táu; táu-kàu; khî-khiû; khiû; táu-khiû; khî-mōⁿ; táu-tsok; khî-tsok. a written prayer, khî-táu-bûn. repeat prayers, liām-keng. book of prayers, keng-chheh.
-* preach, káng-tãu; káng-tãu-lí; thûan-tãu; lũn-tãu; lũn-káng; káng-sueh; sueh-tsṳ; káng-mêng tõ-llí. the Gospel, suang-thûan hok-im; suang-mêng hok-im-tãu.
+* preach, káng-tãu; káng-tãu-lí; thûan-tãu; lũn-tãu; lũn-káng; káng-sueh; sueh-tsṳ; káng-mêng tõ-lí. the Gospel, suang-thûan hok-im; suang-mêng hok-im-tãu.
 * precarious, m̄-ún-tǹg; m̄-thêng-tǹg; m̄-thó-tàng; m̄-tek-tàng.
 * precaution, ṳ̃-pĩ; ṳ̃-hûang; hûang-lṳ̃; hûang-ṳ̃.
 * precede, soiⁿ; soiⁿ-kiâⁿ; thiàu-thut.
@@ -353,7 +353,7 @@
 * pre-eminent, tshut-chèng; thiàu-khûn; tshut-lūi; tshut-thoh; kùe-nâng.
 * preface, sũ; sũ-thâu; siáu-ín.
 * prefect, ti-hú; hú-thài-iâ; hú-hièn. prefecture, hú.
-* prefer, kèng-hàuⁿ; zú-kèng huaⁿ-hí. I prefer Swatow to Shanghai, ṳ́-khî (or, pí) khiã-khí Siãng-hái uá lêng-tsò (or, lêng-ngũan) khiã-khí Sùaⁿ-thâu. do you prefer living in Swatow or in Shanyhai? lṳ́ sĩ khiã-khí Sùaⁿ-thâu--hó, a-sĩ khiã-khí Siãng-hái--ho?
+* prefer, kèng-hàuⁿ; zú-kèng huaⁿ-hí. I prefer Swatow to Shanghai, ṳ́-khî (or, pí) khiã-khí Siãng-hái uá lêng-tsò (or, lêng-ngũan) khiã-khí Sùaⁿ-thâu. do you prefer living in Swatow or in Shanghai? lṳ́ sĩ khiã-khí Sùaⁿ-thâu--hó, a-sĩ khiã-khí Siãng-hái--hó?
 * pregnant, ũ-sin-hūn; ũ-tho; ũ-ẽng; ũ-a-nôuⁿ; huâi-tho; ũ-la̍k-kah; ũ-hí-sṳ̄.
 * prejudice, ì-kièn phien-sṳ; chip-it; chip-thì. to my prejudice, uá chia̍h-khui; uá siũ-khui.
 * premature, būe-se̍k; sî-hāu būe-kàu; khah-soiⁿ; khah-tsá. birth, chíⁿ-gue̍h seⁿ; būe-tsok-gue̍h seⁿ; pùaⁿ-súaⁿ (abortion).
@@ -370,7 +370,7 @@
 * presentiment, sim-ki; sim-tang ki-tiãu; àm-tiãu.
 * preserve, pó; pó-tshûan; pó-tshûn; tshûn. her virtue, as widow remaining unmarried, pó-siú tshûan-tsat; siú-tsat. preserves, thn̂g-kúeⁿ; bi̍t-chìm; tiâm-ko.
 * preside, over, kúan-lí; keng-kúan. president of board, siēⁿ-tsṳ.
-* press, to, teh; teh-si̍t; kui. to urge, tshui; tshui-pek. matter from a boil, liū-lâng; liū-thûe. a press, kui. book-binder's, chheh-kui. printin, ìn-chheh-kui. pressed by circumstances, khiông-kip. pressing, kín-kín; kín-chhiet; kip-chhiet; pek-chhiet.
+* press, to, teh; teh-si̍t; kui. to urge, tshui; tshui-pek. matter from a boil, liū-lâng; liū-thûe. a press, kui. book-binder's, chheh-kui. printing, ìn-chheh-kui. pressed by circumstances, khiông-kip. pressing, kín-kín; kín-chhiet; kip-chhiet; pek-chhiet.
 * prestige, lién; thí-mīn; sì-mīn. to lose, sit-lién; sàu-lién.
 * presume, káⁿ; tsṳ̃-tsuan. presumptuous, tōa-tsú tōa-ì. I would not presume, m̄-káⁿ; tsò-káⁿ-tng? hô-káⁿ-tng? tsò-káⁿ? khí-káⁿ?
 * pretend, not to know a thing, tho-m̄-tsai; tèⁿ-m̄-tsai; tsuang-hû-thû. to be deaf, tèⁿ-tsò hĩⁿ lâng; tsuang-tsò hĩⁿ lâng; ké-tsò hĩⁿ lâng. pretender, ké-kha ké-chhiú; ngũi-phièn. pretend freindliness while plotting an injury, tshùi tõ-tàⁿ-ūe kha tõ-koih ōu-chéng.
@@ -488,7 +488,7 @@
 * pus, lâng. secreting pus, pũ-lâng; kâm-lâng.
 * push, léng. away, léng-khui. over, léng-tó; léng-pua̍h. in a crowd, sie-chìⁿ; iòng-chìⁿ. a boat in the mud, sat-tsûn; oi-tsûn.
 * pustule, sié-tshng.
-* put, pàng; hẽ; an-tì; an-tùn. away, pàng-khui. away a servant, sî. by, khǹg; khǹg-búa. in mind, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit. in order, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ. into, tshō--lo̍h-khṳ̀; ji̍p. on clothes, chhēng-saⁿ. on a cap, tì-bō. off clothes and cap, thǹg-saⁿ pak-bō. out a fire, phah-kùe-húe; ìm--khí húe. out a lamp, pûn-kùe-teng; lâu-kùe-teng; lâu--khí. the hand on, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh. together, tàu; tàu-bûa; ha̍h-bûa. up with, lún; nãiⁿ. to shame, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
+* put, pàng; hẽ; an-tì; an-tùn. away, pàng-khui. away a servant, sî. by, khǹg; khǹg-bûa. in mind, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit. in order, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ. into, tshō--lo̍h-khṳ̀; ji̍p. on clothes, chhēng-saⁿ. on a cap, tì-bō. off clothes and cap, thǹg-saⁿ pak-bō. out a fire, phah-kùe-húe; ìm--khí húe. out a lamp, pûn-kùe-teng; lâu-kùe-teng; lâu--khí. the hand on, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh. together, tàu; tàu-bûa; ha̍h-bûa. up with, lún; nãiⁿ. to shame, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
 * putchuk, ba̍k-hieⁿ.
 * putrid, hu; hu-hiúⁿ; àu.
 * putty, thâng-iû-hue.

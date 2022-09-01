@@ -36,7 +36,7 @@
 * Tartar, Múaⁿ-chiu; Mông-kóu; that-kiáⁿ. language, chheng-bûn.
 * task, khang-khùe. to finish a, uân-kang.
 * tassel, of cap, âng-eng; che̍k-phau-eng.
-* taste, bī; bī-sòu; khì-bī. to, siêⁿ-bī; chhì-bī. tasteless, bô-bī; bô-bī-sòu; bô-khì-bī; pe̍h-chiáⁿ pe̍h-chiáⁿ; bī pi̍h; bī tãⁿ; chiáⁿ-tãⁿ; tãⁿ-po̍h.
+* taste, bī; bī-sòu; khì-bī. to, siêⁿ-bī; chhì-bī. tasteless, bô-bī; bô-bī-sòu; bô-khì-bī; pe̍h-chiáⁿ pe̍h-chiáⁿ; bī po̍h; bī tãⁿ; chiáⁿ-tãⁿ; tãⁿ-po̍h.
 * tattered, phùa; phùa-tshùi; i-saⁿ lâm-lú; uân-sui-saⁿ pue-lêng-khòu.
 * tattle, tàⁿ-ôiⁿ-ūe; bô-siang-kan-ūe; ūe-bî tsōi.
 * tattoo, chhiah-phûe-hu; phûe-hu chhiah-jī.

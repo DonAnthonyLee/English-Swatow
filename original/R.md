@@ -103,7 +103,7 @@
 * reed, lû-tia̍h; kuaⁿ-mâng.
 * reel, pháng-chhia. to, pháng-se; khuãng-se. to stagger, kiâⁿ kàu kha-phõng-pheng.
 * refer, chí; ín-tsṳ (to a passage).
-* refine, gold, liēn-kim. the heart, liēn-sím. sugar, se̍k-thn̂g; lāu-thn̂g; pak-pe̍h-thn̂g. lacking refinement, tshou-lõu.
+* refine, gold, liēn-kim. the heart, liēn-sim. sugar, se̍k-thn̂g; lāu-thn̂g; pak-pe̍h-thn̂g. lacking refinement, tshou-lõu.
 * reflect, tui-siẽⁿ; chhim-siẽⁿ; sṳ-siẽⁿ. light, húan-chiè.
 * reflections, liãm-thâu; siẽⁿ-thâu.
 * reform, kói-kùe; hûe-thâu; pìⁿ-hó; pièn-hùe; hùe-kói; kói-ak tshông-siẽn.
@@ -127,7 +127,7 @@
 * region, tī-hng. the whole, che̍k-phài tī-hng; pìn-tī-hng.
 * register, to, kì; kì-lo̍k; teng-chiã; lo̍k-chiã. a, phõu; lo̍k-chiã; chheh-chiã. genealogical, tso̍k-phóu; hieⁿ-phóu.
 * regret, huân-ló; iu-būn; siẽⁿ-siú-hùe. to, liên-sieh; thiàⁿ-sieh. matter for, khó-sieh; khó-liên.
-* regular, ũ-tshùn-chhieh; ũ-tshṳ̀-tõiⁿ; ũ-tshôiⁿ-ãu; chiàⁿ. conduct, tuan-chiàⁿ; chiàⁿ-keng; kuaⁿ-chiàⁿ.
+* regular, ũ-tshùn-chhieh; ũ-tshṳ̀-tõiⁿ; ũ-tsôiⁿ-ãu; chiàⁿ. conduct, tuan-chiàⁿ; chiàⁿ-keng; kuaⁿ-chiàⁿ.
 * regulate, a watch, tshâu-chiàⁿ; tshâu-méⁿ-mān.
 * regulations, kui-lī; kui-tiâu; chiang-thiâⁿ; tiâu-kui; huap-tōu; kui-kṳ́; tsún-sîn.
 * rehearse, to one, o̍h pun-i-thiaⁿ.
@@ -152,7 +152,7 @@
 * remarkable, hui-siêⁿ; koh-iēⁿ. remarkably expensive, koh-iēⁿ-kùi.
 * remedy, ui-huap; tî-pēⁿ kâi-huap. no, bô-kiù; bô-pōu; bô-pièn.
 * remember, kì-tit; it-tit; kì-liãm; sṳ-liãm. do not, m̄-it-tit; m̄-kì-tit.
-* remind, me, lṳ́ thói-úa it-tit; lṳ́ kāng-úa sie-hũ it-tit.
+* remind, me, lṳ́ thòi-úa it-tit; lṳ́ kāng-úa sie-hũ it-tit.
 * remiss, tũaⁿ; hân-hẽ; chhìn-tshái; kóu-chhiáⁿ; pàng-làng-sang (as one in authority).
 * remit, sià; sià-mién. taxes, sià-niêⁿ. rent, sià-tsou; kien-tsou; mién-tsou.
 * remonstrate, khǹg-kòi; khǹg-kàn; cheh-lũn.
