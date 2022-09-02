@@ -339,7 +339,7 @@
 * slice, che̍k-phièn; che̍k-liàm. to, tso̍ih-chiâⁿ-phièn.
 * slide, down, liù-lo̍h. see SLIP.
 * slight, khin; po̍h; sòi; chhién. to, thóiⁿ-khin; thóiⁿ-m̄-chiẽⁿ-ma̍k; po̍h-thãi; hut-lia̍k.
-* slime, thôu-nîⁿ; thôu-mûe-chièⁿ; siêⁿ-sûaⁿ. of snails, lô-sûaⁿ. pass slimy matter from the bowels, pàng-sûaⁿ.
+* slime, thôu-nîⁿ; thôu-mûe-chièⁿ; siêⁿ; sûaⁿ. of snails, lô-sûaⁿ. pass slimy matter from the bowels, pàng-sûaⁿ.
 * sling, a, huat-chie̍h kâi-soh. to, the arm, tiàu-chhiú.
 * slip, liù-pua̍h (on an incline); liū-pua̍h (on level slippery surface); liù-kha; sit-kha; sit-tsok; thām-phiù-kha. out of the hand, sit-chhiú; phiù-chhiú. away, thut-tsáu; thau-tsáu. slips, phièn; tek-chhiam (bamboo); tsúa-tiâu (paper). slips of plants, chhiū-tsai; hue-tsai. slip of the tongue, sit-ngân; sit-kháu; kháu-kùe; tàⁿ-tāⁿ.
 * slippers, ôi-thua; ôi-liauh; ìⁿ-búe-ôi (all without heels); piẽn-ôi.

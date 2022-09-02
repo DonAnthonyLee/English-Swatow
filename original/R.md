@@ -264,7 +264,7 @@
 * ricinus, pi-mûaⁿ. oil, pi-mûaⁿ-iû (castor-oil).
 * ride, khiâ-bé. in sedan, tsõ-kiē. in coach, tsõ-chhia.
 * riddle, mĩⁿ. propose a, tsò-mĩⁿ. guess, ieh-mĩⁿ; tshai-mĩⁿ; phah-mĩⁿ.
-* ridge, butween fields, tshân-hūaⁿ. of house, tàng-êⁿ-téng. -pole, tàng-êⁿ.
+* ridge, between fields, tshân-hūaⁿ. of house, tàng-êⁿ-téng. -pole, tàng-êⁿ.
 * ridicule, ki-chhiáu; tshú-chhiè; chhiáu-chhiè; hì-chhiè.
 * ridiculous, hó-chhiè; khó-chhiè; bô-tõ-lí.
 * right, tie̍h; chiàⁿ; sĩ; bô-tshò; a wrong, sin-uan. and wrong, sĩ-hui; tn̂g-tó. do, tshông-chiàⁿ. hit the right method, tie̍h-huap. it is my, sĩ uá hūn-tsôiⁿ só-eng-kai; sĩ úa pńg-téng só-tit. hand, chiàⁿ-chhiú; iũ-chhiú. put to rights, chiáⁿ-lí; siu-chiáⁿ; tshâu-sì-chiàⁿ. how can this be right? khí-ũ tshṳ́-lí?
