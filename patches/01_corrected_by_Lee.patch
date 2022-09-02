@@ -31,6 +31,18 @@ diff -Nur b/M.md c/M.md
  * mountain, suaⁿ; kûiⁿ-suaⁿ; kau-suaⁿ; suaⁿ-nga̍k. top of, suaⁿ-niáⁿ; suaⁿ-téng. chain of, suaⁿ-lêng. mountainous, kan-chẽng sĩ-suaⁿ.
  * mourn, khàu; ai-chhek; ai-khàu; khàu-tshoih. mournful, iu-tshôu; iu-būn; pui-ai.
  * mourning, apparel, hà-saⁿ; hà-ho̍k; sng-ho̍k; sng-hà. to wear, tòa-hà. put off, thut-hà; thut-ho̍k; tṳ̂-mûaⁿ. in, kṳ-sng; ũ-pe̍h-sṳ̄. perform the ceremony of weeping, lêng-tsôiⁿ khàu; tsò-hà; teng-iu.
+diff -Nur b/R.md c/R.md
+--- b/R.md	2022-08-31 17:57:49.412558500 +0800
++++ c/R.md	2022-09-02 11:57:40.614714100 +0800
+@@ -209,7 +209,7 @@
+ * resort, to, uáng-lâi. place of, lāu-jie̍t tī-hng.
+ * resource, thâu-lōu; pōu. no, bô-pōu; bô-pièn; bô-thâu-lōu; chĩn-thâu-lêng. no resource but to, bô-nãiⁿ-hô; bô-ta-ûa; bô-nãiⁿ; bô-khó nãiⁿ-hô.
+ * respect, kèng; kiong-kèng; tsun-kèng; kèng-tõng; kèng-kiong. respectable, ũ-thí-mīn; ũ-miâⁿ-sek; ũ-miâⁿ-siaⁿ. pay respects to, pài-hāu; mn̄g-hāu; mn̄g-uaⁿ; chhiáⁿ-uaⁿ. with respect to, lũn-ki̍p; chì-kàu; lũn-kàu; sueh-kàu; tàⁿ-kàu.
+-* respiration, u-khip; khui-sip; tháu-khùi. violent, tshúan; tshúan-tōa-khùi.
++* respiration, u-khip; khùi-sip; tháu-khùi. violent, tshúan; tshúan-tōa-khùi.
+ * respite, khuan-mān; khuan-khî; khuan-hãn; chhî-mān; chhiáⁿ-khuaⁿ.
+ * resplendent, tāng-tāng-kng.
+ * respond, ìn-tap; ìn-sêng.
 diff -Nur b/W.md c/W.md
 --- b/W.md	2022-08-31 17:57:49.482698100 +0800
 +++ c/W.md	2022-08-31 18:51:34.163547700 +0800
