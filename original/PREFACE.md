@@ -1,4 +1,4 @@
-# ﻿PREFACE.
+# PREFACE.
 
 This vocabulary is based on a manuscript work prepared about thirty years ago by the Rev. R. Lechler of the Basel Mission, Hongkong, who was the first Protestant Missionary resident in this part of China. Mr Lechler’s vocabulary was founded again on one by Dr. S. Wells Williams.
 
@@ -12,7 +12,7 @@ The vocabulary makes no pretension to completeness in any sense. Very many words
 
 When it is stated that the type-setting and printing have been done by two young men who do not know a word of English, and have not even been trained in the art of printing; and further, that the work has sometimes been hampered by scarcity of type, a kind indulgence will be extended to any typographical shortcomings.
 
-Whatever errors may be found to exist in the vocabulary, it is quite certain that their number would have been much greater but for the kind assistance of Miss C. M. Ricketts and the Rev. H. L. Mackenzie in correcting the proof sheets; and the Medical terms owe very mush to their revision by Dr. Alexander Lyall.
+Whatever errors may be found to exist in the vocabulary, it is quite certain that their number would have been much greater but for the kind assistance of Miss C. M. Ricketts and the Rev. H. L. Mackenzie in correcting the proof sheets; and the Medical terms owe very much to their revision by Dr. Alexander Lyall.
 
 While any benefit to be derived from the vocabulary must be credited to its original author, Mr Lechler, enough has been changed and added to remove from him all responsibility for its mistakes and faults.
 
