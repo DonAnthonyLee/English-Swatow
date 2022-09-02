@@ -19,14 +19,14 @@ ai, au, oa, oai, oi, ou, ua, ui. In all these each vowel is pronounced with its 
 
 The consonants are nearly all as in English.
 
-ch is pronounced as in *church*.
-g is always hard as in *go*; never as in *gin*.
-h is always sounded except when final.
-j is pronounced as in *jet*.
-ng, as in *sing*, *ring*,
-s, always as in *so*, *sing*; never as in *lose*.
-z, always as *ds* or *dz*; never as in *zeal*, *zone*.
-k and t as finals are so much alike as to be scarcely distinguishable.
+ch is pronounced as in *church*.<br>
+g is always hard as in *go*; never as in *gin*.<br>
+h is always sounded except when final.<br>
+j is pronounced as in *jet*.<br>
+ng, as in *sing*, *ring*,<br>
+s, always as in *so*, *sing*; never as in *lose*.<br>
+z, always as *ds* or *dz*; never as in *zeal*, *zone*.<br>
+k and t as finals are so much alike as to be scarcely distinguishable.<br>
 m and ng will be found written any vowel (e.g. n̂g, m̃); often also preceded by a consonant (e.g. hm̄, sńg, kng, kñg). “The nature of these syllables without a distinct vowel becomes at once unmistakable in singing, as at such a word all vocal sound at once ceases, and nothing is heard but a dull nasal murmur.
 
 “The ASPIRATED CONSONANTS are a very remakrable feature in all the languages of China, and require very special attention. They are kh, th, ph, and chh. The sounds are the same as those indicated by the same notation in the languages of India, being formed by a real distinct aspiration pronounced after the respective consonants......The sounds are almost the same as those often used by Irishmen when pronouncing with a strong borgue such words as *come*, *pig*, *&c*; they are also often heard in the mouths of the Scottish Highlanders.
@@ -69,48 +69,48 @@ The use of hyphens, though most essential, is yet difficult to regulate by any s
 
 On the next page are a few errors, chiefly misprints, which have been observed. It would be too much to hope that many more will not appear afterwards.
 
-advance,	for	saiⁿ	read	soiⁿ.
-bed,		for	tsṳ	read	tsṳ̂.
-blue, *vitriol, see under* **vitriol**, *more correct*.
-broil,		for	mãuⁿ	read	nãuⁿ.
-calamity,	for	tshou	read	tshôu.
-calibre,	for	chhéng	read	chhèng.
-chair,		for	kiè	read	kiē.
-collision,	for	tiāⁿ	read	tiaⁿ.
-consider,	for	tà	read	tá.
-cornice,	for	chhieⁿ	read	chhiêⁿ.
-cumbersome	for	lūi	read	thūi.
-delicate,	for	pī	read	bī.
-disguise,	for	pān	read	pàn.
-dispute,	for	tshâu	read	tshàu.
-enter,		for	jip-tiâⁿ	read	ji̍p-tiâⁿ
-flesh,		for	 se̍k	read	sek.
-fold *(1st line)*	for	áiⁿ	read	àiⁿ.
-force,		for	khṳ́ *(twice)*	read	khṳ̀.
-giant,		for	hān	read	hàn.
-glare,		for	chie	read	chiè.
-go *(5th line)*	for	tshṳ̀	read	tshù.
-heir,		for	zûi	read	zũi.
-hush,		for	hua	read	hûa.
-insignificant,	for	kàu	read	bô-kàu.
-intelligible,	for	koi *(twice)*	read	kōi.
-joint,		for	ku̍t	read	kut.
-jostle,		for	ói *(twice)*	read	oi.
-likely,		for	siaⁿ	read	siâⁿ.
-magnanimous	for	hêng	read	heng.
-make,		for	*a loss*	read	*up a loss*.
-name,		for	pĩⁿ	read	pĩ.
-new,		for	*your*	read	*year*.
-nipples,	for	nîⁿ	read	niⁿ.
-pronounce,	for	táⁿ	read	tàⁿ.
-revenge, *after* pò-chhiû *insert semi-colon*.
-rust		for	kuah	read	kauh.
-secret,		for	sia	read	sai.
-series, *after* pín-lie̍t *insert semi-colon*.
-tack,		for	hùe	read	kùe.
-taint,		for	ma̍k	read	mak.
-thief,		for	tsa̍t	read	tsha̍t.
-tumult,		for	kã and ka	read	kâ.
-unspeakable,	for	tie̍h-ûan	read	tie̍h ûan.
-with *(5th line)*	for	chhiū	read	chhiú.
+advance,	for	saiⁿ	read	soiⁿ.<br>
+bed,		for	tsṳ	read	tsṳ̂.<br>
+blue, *vitriol, see under* **vitriol**, *more correct*.<br>
+broil,		for	mãuⁿ	read	nãuⁿ.<br>
+calamity,	for	tshou	read	tshôu.<br>
+calibre,	for	chhéng	read	chhèng.<br>
+chair,		for	kiè	read	kiē.<br>
+collision,	for	tiāⁿ	read	tiaⁿ.<br>
+consider,	for	tà	read	tá.<br>
+cornice,	for	chhieⁿ	read	chhiêⁿ.<br>
+cumbersome	for	lūi	read	thūi.<br>
+delicate,	for	pī	read	bī.<br>
+disguise,	for	pān	read	pàn.<br>
+dispute,	for	tshâu	read	tshàu.<br>
+enter,		for	jip-tiâⁿ	read	ji̍p-tiâⁿ.<br>
+flesh,		for	 se̍k	read	sek.<br>
+fold *(1st line)*	for	áiⁿ	read	àiⁿ.<br>
+force,		for	khṳ́ *(twice)*	read	khṳ̀.<br>
+giant,		for	hān	read	hàn.<br>
+glare,		for	chie	read	chiè.<br>
+go *(5th line)*	for	tshṳ̀	read	tshù.<br>
+heir,		for	zûi	read	zũi.<br>
+hush,		for	hua	read	hûa.<br>
+insignificant,	for	kàu	read	bô-kàu.<br>
+intelligible,	for	koi *(twice)*	read	kōi.<br>
+joint,		for	ku̍t	read	kut.<br>
+jostle,		for	ói *(twice)*	read	oi.<br>
+likely,		for	siaⁿ	read	siâⁿ.<br>
+magnanimous	for	hêng	read	heng.<br>
+make,		for	*a loss*	read	*up a loss*.<br>
+name,		for	pĩⁿ	read	pĩ.<br>
+new,		for	*your*	read	*year*.<br>
+nipples,	for	nîⁿ	read	niⁿ.<br>
+pronounce,	for	táⁿ	read	tàⁿ.<br>
+revenge, *after* pò-chhiû *insert semi-colon*.<br>
+rust		for	kuah	read	kauh.<br>
+secret,		for	sia	read	sai.<br>
+series, *after* pín-lie̍t *insert semi-colon*.<br>
+tack,		for	hùe	read	kùe.<br>
+taint,		for	ma̍k	read	mak.<br>
+thief,		for	tsa̍t	read	tsha̍t.<br>
+tumult,		for	kã and ka	read	kâ.<br>
+unspeakable,	for	tie̍h-ûan	read	tie̍h ûan.<br>
+with *(5th line)*	for	chhiū	read	chhiú.<br>
 worse,		for	zû	read	zú.
