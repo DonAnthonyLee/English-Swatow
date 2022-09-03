@@ -23,6 +23,8 @@
 | sang-thám | sang-hám | 两层 | double 等 |
 | iãuⁿ | hiãuⁿ | 掀开、揭开 | lift 等 |
 | kōi | gōi | 容易 | ease 等 |
+| nãⁿ(nâⁿ)-sĩ | â-sĩ | 如果 | if 等 |
+| kàu | à | (动词+)到(+...) | panic 等 |
 
 注：声母送气与否者、n-/l-、b-/m-、g-/ng-、ts-(ch-)/z-(j-) 等区别稍多，上表均不予列出。
 
@@ -30,10 +32,18 @@
 
 ## 韵母不同者
 
-| 词典表达 | 地方表达 | 词义 | 相关词条 |
-|---|---|---|---|
-| kṳ̃n | kĩn | 鸟类砂囊 | gizzard |
-| hit | hiat | 甩动 | oscillate 等 |
+| 词典表达 | 地方表达 | 词义 | 相关词条 | 备注 |
+|---|---|---|---|---|
+| kṳ̃n | kĩn | 鸟类砂囊 | gizzard | |
+| hit | hiat | 甩动 | oscillate 等 | |
+| pha-sa-lin | pha-sua-lin | 侧手翻 | tumble 等 | |
+| huan-kuah | han-kuah | 番薯 | potato | |
+| iā[-sĩ] | â[-sĩ] | 亦 | also 等 | 同时期白话字圣经译本该义可用 nā-sĩ |
+| chhiú-ńg | chhiú-ún（部分） | 衣袖 | tuck |
+| u̍t(gu̍t) | u̍t; n̍gh | 睡觉 | sleep 等 |
+| húiⁿ | húiⁿ（只用于 huang-húiⁿ）; huáiⁿ（其他） | 旋转 | turn 等 |
+
+注：仅于极个别场合使用的地方表达不予列出，比如 “亦” 之类；另外 -om/-op/-am/-ap/-iam/-iap/-im/-ip 这类规律性对应者亦不予列出。
 
 <br>
 
@@ -55,3 +65,8 @@
 | chiàⁿ-tang | chiàⁿ-ta-ng | 正中央 | middle |
 | --chē | --che̍k-ē | 一下 | beg 等 |
 | --chē-kiè | --che̍k-kiò | 一响 | abruptly 等 |
+| pat-tò(kò)-khṳ̀ | pà(pat-kò)-khṳ̀ | 能够 | can 等 |
+| hûan-liáu | háⁿ | 还；且 | still 等 |
+| kúi-ũa(ūa)[-kâi] | kúa[-kâi] | 几[个] | several 等 |
+
+注：仅于极个别场合使用的地方表达不予列出，比如 “几个” 之类。
