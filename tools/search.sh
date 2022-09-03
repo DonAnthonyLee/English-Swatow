@@ -47,13 +47,8 @@ convert_pattern() {
 	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/^tshe/chhe/'`
 	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/^ze/je/'`
 
-	SYLLABLES=`echo "$SYLLABLES" | sed -r 's/([T,t])uaⁿ$/\1oaⁿ/'`
-	SYLLABLES=`echo "$SYLLABLES" | sed -r 's/([T,t])ua$/\1oa/'`
-
-	if [ "x$tone" = "x0" -o "x$tone" = "x1" -o "x$tone" = "x4" ]; then
-		printf "$SYLLABLES"
-		return 0;
-	fi
+	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/oa/ua/'`
+	SYLLABLES=`echo "$SYLLABLES" | sed -e 's/oe/ue/'`
 
 	syllable_len=`echo "$SYLLABLES" | awk -F "" '{print NF}'`
 	SYLLABLES_PREFIX=""
@@ -83,8 +78,11 @@ convert_pattern() {
 
 	prefix_len=`echo "$SYLLABLES_PREFIX" | awk -F "" '{print NF}'`
 	((syllable_len-=${prefix_len}))
-	if [ "x$VOWEL" = "xṳ" -o "x$VOWEL" = "xṲ" ]; then
-		((prefix_len--))
+	bash --version | grep "bash, version 4." > /dev/null 2>&1
+	if [ $? == 0 ]; then # bash 4.x
+		if [ "x$VOWEL" = "xṳ" -o "x$VOWEL" = "xṲ" ]; then
+			((prefix_len--))
+		fi
 	fi
 	SYLLABLE_SUFFIX=${SYLLABLES:${prefix_len}:${syllable_len}}
 
@@ -107,7 +105,18 @@ convert_pattern() {
 			printf "${SYLLABLES_PREFIX}${CHAR_PRE}${TONE_STR}${VOWEL}${SYLLABLE_SUFFIX}"
 			return 0
 		elif [ "x${CHAR_PRE}" = "xu" -o "x${CHAR_PRE}" = "xU" ]; then # ua; ue
-			if [ "x$VOWEL" = "xa" -o "x$VOWEL" = "xA" -o "x$VOWEL" = "xE" -o "x$VOWEL" = "xe" ]; then
+			if [ "x$VOWEL" = "xa" -o "x$VOWEL" = "xA" ]; then
+				SYLLABLES_PREFIX=${SYLLABLES:0:${pos}}
+				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}(${CHAR_PRE}${TONE_STR}${VOWEL}"
+				if [ "x$CHAR_PRE" = "xu" ]; then
+					SYLLABLES_PREFIX="${SYLLABLES_PREFIX}|o${TONE_STR}${VOWEL}"
+				else
+					SYLLABLES_PREFIX="${SYLLABLES_PREFIX}|O${TONE_STR}${VOWEL}"
+				fi
+				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}|${CHAR_PRE}${VOWEL}${TONE_STR})"
+				printf "${SYLLABLES_PREFIX}${SYLLABLE_SUFFIX}"
+				return 0
+			elif [ "x$VOWEL" = "xE" -o "x$VOWEL" = "xe" ]; then
 				SYLLABLES_PREFIX=${SYLLABLES:0:${pos}}
 				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}(${CHAR_PRE}${TONE_STR}${VOWEL}"
 				SYLLABLES_PREFIX="${SYLLABLES_PREFIX}|${CHAR_PRE}${VOWEL}${TONE_STR})"
