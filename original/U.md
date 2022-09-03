@@ -1,5 +1,5 @@
 * ubiquity, bô-só put-tõ; bô-só put-kàu.
-* udder, nīⁿ-phè.
+* udder, nĩⁿ-phè.
 * ugly, iá-iēⁿ; m̄-chiâⁿ-iēⁿ; chhi-gî; m̄-hó-thóiⁿ; iá-hêng; m̄-ngiáⁿ-kuan; tshou-lõu; phí-lõu; chhiú-lõu.
 * ulcer, tshng; phùa-nūaⁿ. ulcerate, seⁿ-tshng; seⁿ-mîⁿ.
 * ultimately, kiáu-búe; kàu-búe; suah-búe; pi̍t-kéng; tsong; khùe-mān (sooner or later).
@@ -22,7 +22,7 @@
 * unbecoming, m̄-ha̍h-sek; m̄-sĩ-sṳ̄; m̄-hó-thóiⁿ; m̄-ha̍h-huap; ua̍t-huap; huãm-sek.
 * unbelief, m̄-sìn; m̄-sìn-tshông.
 * unbend, pàng-lēng; pàng-khuan. a bow, pak-khui keng-hîⁿ. unbending, ngẽ.
-* unbiassed, bô-phien-sim; bô-aṳ-sim; kong-chiàⁿ bô-sṳ.
+* unbiassed, bô-phien-sim; bô-sṳ-sim; kong-chiàⁿ bô-sṳ.
 * unbind, kói; kói-khui; tháu-khui.
 * unblemished, uân-tshûan; bô-tshṳ̂ bô-hiâ; bô-phùa-sieⁿ.
 * unbolt, po̍ih-khui mn̂g-tshùaⁿ. the door, khui-mn̂g.
@@ -41,7 +41,7 @@
 * unconscionable, m̄-kong-tãu; bô-tõ-lí. price, kè-chîⁿ bô-pan-bó.
 * unconscious, put-tsai nâng-sṳ̄; put-séng nâng-sṳ̄; zû-māng zû-tsùi; bô-tsai bô-kak.
 * uncouth, kuài; kuài-hêng; khî-kuài; koh-iēⁿ; kuài-lõu; tshou-pũn.
-* under, ũ; ẽ-pôiⁿ; ẽ-mīn; ẽ-tói. one's control, chhiú-ẽ; kuán-ẽ; hat-ẽ. heaven, thiⁿ-ẽ; thong-thiⁿ kha-ẽ; phóu-thiⁿ kha-ẽ. age, būe-sêng-teng.
+* under, ẽ; ẽ-pôiⁿ; ẽ-mīn; ẽ-tói. one's control, chhiú-ẽ; kuán-ẽ; hat-ẽ. heaven, thiⁿ-ẽ; thong-thiⁿ kha-ẽ; phóu-thiⁿ kha-ẽ. age, būe-sêng-teng.
 * underhand, àm-chẽⁿ; sai-ẽ; sai-khia-ẽ.
 * undermine, liú-tī-hām; liú-khang-khak.
 * understand, hiáu; tsai; pat; mêng-pe̍h; se̍k; thàng. thoroughly, hiáu-khṳ̀-thàng; hiáu-kàu-thiet; tsai-kàu-thàu. I understood him to say (erroneously), sah-tsò i tàⁿ; kau-kiè; thiaⁿ-tsò.
@@ -63,7 +63,7 @@
 * unhappy, bô-hok; chhi-tshám; khóu-miāⁿ.
 * unhealthy, seⁿ-chiàng-khì; lĩ-khì; tsúi-thóu m̄-hó; chhiàng-ta̍k.
 * uniform, che̍k-iēⁿ; sie-tâng; tâng-sek; tsôi-chiáⁿ; tsâu. a soldier's, hō-kùa; hō-i.
-* uninhabited, bô-nâng khiã-khí; bô-nâng só-tõ; bô-nâng-in; bô-búe-tsàu; phau-hng; tñg-nâng-in.
+* uninhabited, bô-nâng khiã-khí; bô-nâng só-tõ; bô-nâng-in; bô-húe-tsàu; phau-hng; tñg-nâng-in.
 * unintentional, bô-ì; bô-kù-ì; bô-siẽⁿ; bô-tshûn-siẽⁿ.
 * uninterrupted, bô-kòiⁿ-tñg; bô-làn-tñg; bô-làn-phāng; m̄-hiah; bô-hiah; sie-sùa; siang-liên; sie-chiap; liên-chiap; liên-thùa.
 * unite, to, hũe-ha̍h; ha̍h-bûa; hũe-bûa; ha̍h tsò-che̍k-ē. in purpose or effort, tâng-sim khòi-ha̍h; tâng-sim hia̍p-la̍t; tâng-sim tâng-la̍t. in marriage, phit-phùe. many in one, ha̍h tsò-che̍k-ē. will not unite, as two surfaces or fluids, m̃-sie-chia̍h. union (concord), hûa-mo̍k; siang-hûa; phêng-hûa.
@@ -73,7 +73,7 @@
 * unjust, put-ngĩ; hui-ngĩ; bô-kong-tãu; bô-tãu; m̄-sũn chiàⁿ-lí; nge̍k-lí; pũe-lí; m̄-chiàⁿ; m̄-kuaⁿ-chiàⁿ; m̄-kong-chiàⁿ. judgement, uáng-tùan.
 * unkind, bô-nâng-chhêng; bô-chhêng; m̄-sĩ-nâng; put-jîn; bô-jîn-ài; bô-tshṳ̂-pui.
 * unlawful, m̄-ha̍h-huap; m̄-ha̍h lí-lu̍t; bô-lí bô-lu̍t; bô-lí bô-huap; lu̍t-huap só-m̄-tsún.
-* unlike, koh-iēⁿ; m̄-chhin-chhiẽⁿ; m̄-sie-tâng. unlikely, kiaⁿ-ùi bô; iak-liãng bô; tsa̍p bô-che̍k; tōa-mĩn sĩ-bô; bô kèng-tōa-mĩn.
+* unlike, koh-iēⁿ; m̄-chhin-chhiẽⁿ; m̄-sie-tâng. unlikely, kiaⁿ-ùi bô; iak-liãng bô; tsa̍p bô-che̍k; tōa-mīn sĩ-bô; bô kèng-tōa-mīn.
 * unlimited, bô-hãn-liãng.
 * unload, a ship, khí-hùe; tshut-hùe.
 * unloose, kói-pàng; sek-pàng; pàng-i-khṳ̀.
