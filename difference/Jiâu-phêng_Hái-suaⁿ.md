@@ -20,11 +20,14 @@
 |---|---|---|---|
 | chie̍h-põu | chio̍h-kõu | 石头 | stone |
 | tāng-tāng-kng | pâng-pâng-kng | 天空放亮 | bright 等 |
+| pi̍t-pô | te̍k-pô | 蝙蝠 | bat |
 | sang-thám | sang-hám | 两层 | double 等 |
 | iãuⁿ | hiãuⁿ | 掀开、揭开 | lift 等 |
 | kōi | gōi | 容易 | ease 等 |
 | nãⁿ(nâⁿ)-sĩ | â-sĩ | 如果 | if 等 |
 | kàu | à | (动词+)到(+...) | panic 等 |
+| bue̍h | gue̍h | 袜 | stockings 等 |
+| pak-le̍k | pak-te̍k | 以非常手段谋求不义之财 | extort |
 
 注：声母送气与否者、n-/l-、b-/m-、g-/ng-、ts-(ch-)/z-(j-) 等区别稍多，上表均不予列出。
 
@@ -42,6 +45,16 @@
 | chhiú-ńg | chhiú-ún（部分） | 衣袖 | tuck |
 | u̍t(gu̍t) | u̍t; n̍gh | 睡觉 | sleep 等 |
 | húiⁿ | húiⁿ（只用于 huang-húiⁿ）; huáiⁿ（其他） | 旋转 | turn 等 |
+| tek-sut | thih-sut | 蟋蟀 | cricket |
+| chip-tshṳ́ | chih-tshṳ́ | 臭鼩 | mouse |
+| chîⁿ-lêng | tsṳ̂-lêng | 壁虎 | lizard |
+| hóuⁿ-m̄ | hó-m̄ | 蛇莓 | raspberry |
+| sien-pa-chiéⁿ | sam-pa-chióⁿ | 仙人掌 | prickly |
+| hoh-sièⁿ | hò-siòⁿ | 照相 | photograph 等 |
+| khṳt | khṳh; khṳ | 给予 | give 等 |
+| kãu-ún | tõu-ún | 蚯蚓 | worm 等 |
+| khiā-khiā | gā-gā | 硬梆梆；（拼接）稳固 | stiff 等 |
+| khià-khià | khè-khè | （骨头）突出貌 | lank |
 
 注：仅于极个别场合使用的地方表达不予列出，比如 “亦” 之类；另外 -om/-op/-am/-ap/-iam/-iap/-im/-ip 这类规律性对应者亦不予列出。
 
