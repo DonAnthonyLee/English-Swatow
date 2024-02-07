@@ -55,6 +55,7 @@
 | kãu-ún | tõu-ún | 蚯蚓 | worm 等 |
 | khiā-khiā | gā-gā | 硬梆梆；（拼接）稳固 | stiff 等 |
 | khià-khià | khè-khè | （骨头）突出貌 | lank |
+| thêⁿ-thâu-huang | thêng-thâu-huang | 逆风 | head |
 
 注：仅于极个别场合使用的地方表达不予列出，比如 “亦” 之类；另外 -om/-op/-am/-ap/-iam/-iap/-im/-ip 这类规律性对应者亦不予列出。
 
