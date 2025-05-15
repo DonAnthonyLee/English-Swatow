@@ -1,3 +1,15 @@
+diff -Nur b/G.md c/G.md
+--- b/G.md	2022-09-03 12:13:32.350220100 +0800
++++ c/G.md	2025-05-15 00:44:12.974206300 +0800
+@@ -149,7 +149,7 @@
+ * grapple, kau-tsũ; kau-tiām; kau-tîⁿ; khím-kín.
+ * grasp, līm-kín; khie̍h-kín; lia̍h-kín; tẽⁿ-kín; phõ-kín. a sword, in the scabbard, to be ready, àn-kiàm siang-huâng. the throat, tẽⁿ-âu (with one hand); liū-âu (with both hands).
+ * grass, tsháu. -plot, tsháu-pou. green, chheⁿ-tsháu. dry, ta-tsháu. to cut, kuah-tsháu. to burn, hiâⁿ-tsháu. to burn on the hills, pàng-húe sie-suaⁿ. to pull, mán-tsháu. bundle of, che̍k-pé-tsháu. tie up in small bundles for the fire, tîⁿ-oiⁿ; tîⁿ-tsháu-oiⁿ.
+-* grasshopper, tsháu-mêⁿ.
++* grasshopper, tsháu-méⁿ.
+ * grate, fire, húe-lôu; lôu-theng.
+ * grate, to, as potatoes, nutmeg, &c, thuah. grater, thiu; thuah.
+ * grating, of window, theng-chí.
 diff -Nur b/I.md c/I.md
 --- b/I.md	2022-08-31 17:57:49.311557200 +0800
 +++ c/I.md	2022-08-31 18:51:34.077571400 +0800
